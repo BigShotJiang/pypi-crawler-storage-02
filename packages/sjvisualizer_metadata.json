@@ -1,0 +1,11 @@
+{
+  "name": "sjvisualizer",
+  "version": "0.0.15",
+  "summary": "Package to animate your data",
+  "author": "Sjoerd Tilmans",
+  "license": null,
+  "home_page": "https://www.sjdataviz.com/",
+  "download_filename": "sjvisualizer-0.0.15-py2.py3-none-any.whl",
+  "download_time": "2025-08-04T10:29:18.901796",
+  "package_url": "https://pypi.org/project/sjvisualizer/"
+}

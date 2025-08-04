@@ -1,0 +1,11 @@
+{
+  "name": "sokobanpy",
+  "version": "1.2.0",
+  "summary": "Sokoban in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sokobanpy-1.2.0.tar.gz",
+  "download_time": "2025-08-04T10:28:43.891359",
+  "package_url": "https://pypi.org/project/sokobanpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nvjpeg",
+  "version": "13.0.0.40",
+  "summary": "NVJPEG native runtime libraries",
+  "author": "Nvidia CUDA Installer Team",
+  "license": "LicenseRef-NVIDIA-Proprietary",
+  "home_page": "https://developer.nvidia.com/cuda-zone",
+  "download_filename": "nvidia_nvjpeg-13.0.0.40-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2025-08-04T10:28:45.959279",
+  "package_url": "https://pypi.org/project/nvidia-nvjpeg/"
+}

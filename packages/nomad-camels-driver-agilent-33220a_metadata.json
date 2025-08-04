@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-agilent-33220a",
+  "version": "0.1.2",
+  "summary": "Device driver for the Agilent 33220a function generator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_agilent_33220a-0.1.2.tar.gz",
+  "download_time": "2025-08-04T10:28:46.476865",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-agilent-33220a/"
+}

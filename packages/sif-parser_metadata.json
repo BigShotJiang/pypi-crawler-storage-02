@@ -1,0 +1,11 @@
+{
+  "name": "sif-parser",
+  "version": "0.3.6",
+  "summary": "Python package to read Andor sif file.",
+  "author": "Keisuke Fujii",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/fujiisoup/sif_parser",
+  "download_filename": "sif_parser-0.3.6.tar.gz",
+  "download_time": "2025-08-04T10:28:53.172912",
+  "package_url": "https://pypi.org/project/sif-parser/"
+}
