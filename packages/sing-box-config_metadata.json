@@ -1,0 +1,11 @@
+{
+  "name": "sing-box-config",
+  "version": "0.4.0",
+  "summary": "The configuration generator for sing-box",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sing_box_config-0.4.0.tar.gz",
+  "download_time": "2025-08-04T15:50:41.873934",
+  "package_url": "https://pypi.org/project/sing-box-config/"
+}

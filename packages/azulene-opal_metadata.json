@@ -1,0 +1,11 @@
+{
+  "name": "azulene-opal",
+  "version": "0.2.0",
+  "summary": "A CLI and Python library to interact with Azulene Opal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azulene_opal-0.2.0.tar.gz",
+  "download_time": "2025-08-04T15:51:17.705796",
+  "package_url": "https://pypi.org/project/azulene-opal/"
+}

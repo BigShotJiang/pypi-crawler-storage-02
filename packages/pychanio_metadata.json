@@ -1,11 +1,11 @@
 {
   "name": "pychanio",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Go-style channels and select blocks for asyncio in Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pychanio-0.1.0.tar.gz",
-  "download_time": "2025-08-04T14:12:56.614374",
+  "download_filename": "pychanio-0.1.3.tar.gz",
+  "download_time": "2025-08-04T15:50:52.848837",
   "package_url": "https://pypi.org/project/pychanio/"
 }

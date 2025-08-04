@@ -1,11 +1,11 @@
 {
   "name": "apolo-app-types",
-  "version": "25.8.3",
+  "version": "25.8.4",
   "summary": "Apolo Platform App Types.",
   "author": "Apolo.us",
   "license": "Apache 2",
   "home_page": null,
-  "download_filename": "apolo_app_types-25.8.3.tar.gz",
-  "download_time": "2025-08-04T14:46:42.233011",
+  "download_filename": "apolo_app_types-25.8.4.tar.gz",
+  "download_time": "2025-08-04T15:51:18.727423",
   "package_url": "https://pypi.org/project/apolo-app-types/"
 }

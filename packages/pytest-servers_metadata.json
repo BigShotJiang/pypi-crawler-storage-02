@@ -1,0 +1,11 @@
+{
+  "name": "pytest-servers",
+  "version": "0.5.12",
+  "summary": "pytest servers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_servers-0.5.12.tar.gz",
+  "download_time": "2025-08-04T15:51:25.039524",
+  "package_url": "https://pypi.org/project/pytest-servers/"
+}

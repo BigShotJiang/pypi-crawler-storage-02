@@ -1,0 +1,11 @@
+{
+  "name": "tensor-stats-helper",
+  "version": "3.2.1",
+  "summary": "Quick tensor statistics utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensor_stats_helper-3.2.1.tar.gz",
+  "download_time": "2025-08-04T15:51:00.360121",
+  "package_url": "https://pypi.org/project/tensor-stats-helper/"
+}

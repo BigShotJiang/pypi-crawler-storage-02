@@ -1,0 +1,11 @@
+{
+  "name": "cloud-auth-tpm",
+  "version": "0.7.1",
+  "summary": "Python TPM based Credentials for Cloud Providers",
+  "author": "Sal Rashid",
+  "license": null,
+  "home_page": "https://github.com/salrashid123/cloud_auth_tpm",
+  "download_filename": "cloud_auth_tpm-0.7.1.tar.gz",
+  "download_time": "2025-08-04T15:50:45.992941",
+  "package_url": "https://pypi.org/project/cloud-auth-tpm/"
+}

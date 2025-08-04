@@ -1,0 +1,11 @@
+{
+  "name": "nepal-sub-divisions",
+  "version": "0.0.9",
+  "summary": "Nepali  municipalities is a python package to get data about Nepali municipalities based on districts",
+  "author": "Dinesh Roy",
+  "license": "\"MIT\"",
+  "home_page": "https://github.com/iDineshRoy/nepal-sub-divisions",
+  "download_filename": "nepal_sub_divisions-0.0.9.tar.gz",
+  "download_time": "2025-08-04T15:51:09.682271",
+  "package_url": "https://pypi.org/project/nepal-sub-divisions/"
+}
