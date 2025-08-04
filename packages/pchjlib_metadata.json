@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "summary": "The pchjlib library is a versatile toolkit...",
   "author": "Joesifer",
   "license": null,
   "home_page": null,
-  "download_filename": "pchjlib-1.1.8.tar.gz",
-  "download_time": "2025-08-04T23:24:50.456928",
+  "download_filename": "pchjlib-1.2.0.tar.gz",
+  "download_time": "2025-08-04T23:45:00.541820",
   "package_url": "https://pypi.org/project/pchjlib/"
 }
