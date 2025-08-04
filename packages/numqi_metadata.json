@@ -1,0 +1,11 @@
+{
+  "name": "numqi",
+  "version": "0.6.0",
+  "summary": "a numpy-based quantum information toolbox",
+  "author": null,
+  "license": "GNU Affero General Public License v3.0",
+  "home_page": null,
+  "download_filename": "numqi-0.6.0.tar.gz",
+  "download_time": "2025-08-04T06:43:06.410076",
+  "package_url": "https://pypi.org/project/numqi/"
+}

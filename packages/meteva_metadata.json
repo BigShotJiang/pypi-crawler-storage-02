@@ -1,0 +1,11 @@
+{
+  "name": "meteva",
+  "version": "1.9.2.6",
+  "summary": "A collections of functions for meteorological verification.",
+  "author": "liucouhua,daikan,wangbaoli,tangbuxing",
+  "license": "GPL3",
+  "home_page": null,
+  "download_filename": "meteva-1.9.2.6.tar.gz",
+  "download_time": "2025-08-04T06:42:55.885366",
+  "package_url": "https://pypi.org/project/meteva/"
+}

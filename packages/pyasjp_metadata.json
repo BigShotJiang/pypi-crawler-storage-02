@@ -1,0 +1,11 @@
+{
+  "name": "pyasjp",
+  "version": "1.4.0",
+  "summary": "programmatic access to ASJP data",
+  "author": "Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dlce-eva/pyasjp",
+  "download_filename": "pyasjp-1.4.0.tar.gz",
+  "download_time": "2025-08-04T06:42:57.965855",
+  "package_url": "https://pypi.org/project/pyasjp/"
+}

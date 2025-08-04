@@ -1,0 +1,11 @@
+{
+  "name": "vector3",
+  "version": "1.0.0",
+  "summary": "A flexible 3D vector math library supporting lower dimensions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vector3-1.0.0.tar.gz",
+  "download_time": "2025-08-04T06:43:13.192205",
+  "package_url": "https://pypi.org/project/vector3/"
+}
