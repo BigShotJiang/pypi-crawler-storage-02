@@ -1,0 +1,11 @@
+{
+  "name": "qastle",
+  "version": "0.19.0",
+  "summary": "Query AST Language Expressions",
+  "author": "Mason Proffitt",
+  "license": null,
+  "home_page": "https://github.com/iris-hep/qastle",
+  "download_filename": "qastle-0.19.0.tar.gz",
+  "download_time": "2025-08-04T11:55:15.448821",
+  "package_url": "https://pypi.org/project/qastle/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "json-handler-caramajau",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Code to make it easier to read and write to a JSON file",
   "author": "Caramajau",
   "license": null,
   "home_page": null,
-  "download_filename": "json_handler_caramajau-0.1.1.tar.gz",
-  "download_time": "2025-08-04T09:47:37.486245",
+  "download_filename": "json_handler_caramajau-0.1.2.tar.gz",
+  "download_time": "2025-08-04T11:55:20.161069",
   "package_url": "https://pypi.org/project/json-handler-caramajau/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "JoyIT-WLGamepad",
+  "version": "1.0.0",
+  "summary": "Library to use the SBC-WLGamepad with the Raspberry Pi",
+  "author": "Joy-IT",
+  "license": null,
+  "home_page": "https://github.com/joy-it/JoyIT_WLGamepad",
+  "download_filename": "joyit_wlgamepad-1.0.0.tar.gz",
+  "download_time": "2025-08-04T11:55:14.929880",
+  "package_url": "https://pypi.org/project/JoyIT-WLGamepad/"
+}

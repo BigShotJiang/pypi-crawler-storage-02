@@ -1,0 +1,11 @@
+{
+  "name": "taskman-sv",
+  "version": "0.8.0",
+  "summary": "A secure task management and note-taking application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskman_sv-0.8.0.tar.gz",
+  "download_time": "2025-08-04T11:55:17.527170",
+  "package_url": "https://pypi.org/project/taskman-sv/"
+}

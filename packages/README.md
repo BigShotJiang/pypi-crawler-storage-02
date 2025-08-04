@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-04T11:44:07.960095
-- **Total Packages**: 85
-- **Total Size**: 62.3 MB
+- **Download Time**: 2025-08-04T11:55:46.880307
+- **Total Packages**: 79
+- **Total Size**: 11.15 MB
 
 ## Packages List
+- astropt
+- cost-katana
+- bugbug
+- unkey.py
+- binlearn
+- aduneoclientfedid
+- django-bulk-hooks
+- field-manager-python-client
+- idiap-devtools
+- nomad-camels-driver-andor-newton
+- logfire-api
+- logfire
+- maturin
+- calita
+- a3
+- xpander-sdk
+- the-chief
+- superlinked-server
+- turbovault4dbt
+- zpimp
+- pyplugs
+- JoyIT-WLGamepad
+- qastle
+- LCPDelta
+- sample_mcp_tests
+- math-tools-mcp
+- taskman-sv
+- sklearn2pmml
+- xlin
+- pyRFtk
+- json-handler-caramajau
+- sportsball
 - qpace
 - funasr-client
 - fastbencode
@@ -13,12 +45,9 @@
 - power-grid-model
 - gdsfactoryplus
 - odoo-addon-l10n-ro-account-bank-statement-import-mt940-bcr
-- binlearn
 - verovio
-- django-bulk-hooks
 - arshai
 - pycldf
-- xpander-sdk
 - oxylabs-mcp
 - lm-eval
 - superlinked
@@ -56,38 +85,3 @@
 - smqpp
 - mayutils
 - pygmdl
-- Stackformer
-- quant-async
-- localstack-core
-- gpsea
-- localcosmos-app-kit
-- grikod
-- syntera-ai-cli
-- mqi-sspd-api
-- matrice
-- Longbow
-- qrpa
-- bigquery-views-manager
-- aik_infra
-- crypto-pandas
-- edaflow
-- e2enetworks
-- pdforensic-authentic-check
-- a3
-- gguf-connector
-- aduneoclientfedid
-- anncsu-sdk
-- synq-db
-- syqlorix
-- vis3
-- appgen
-- tb-nightly
-- emerald-hws
-- RF-Track
-- StripeSankey
-- vechord
-- tree-sitter-solidity
-- concept-sentinel-data-capturer
-- cloe-api
-- dslog
-- drtvam
