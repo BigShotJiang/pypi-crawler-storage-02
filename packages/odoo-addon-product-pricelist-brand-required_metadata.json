@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-pricelist-brand-required",
+  "version": "17.0.2.0.0",
+  "summary": "Check if the product's brand matches any selected brand in the pricelist item.",
+  "author": "Sygel,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-product-attribute",
+  "download_filename": "odoo_addon_product_pricelist_brand_required-17.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-04T07:18:16.290065",
+  "package_url": "https://pypi.org/project/odoo-addon-product-pricelist-brand-required/"
+}

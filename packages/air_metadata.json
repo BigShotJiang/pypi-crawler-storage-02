@@ -1,0 +1,11 @@
+{
+  "name": "air",
+  "version": "0.19.0",
+  "summary": "The new web framework that breathes fresh air into Python web development. Built with FastAPI, Starlette, and Pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "air-0.19.0.tar.gz",
+  "download_time": "2025-08-04T07:18:17.849011",
+  "package_url": "https://pypi.org/project/air/"
+}

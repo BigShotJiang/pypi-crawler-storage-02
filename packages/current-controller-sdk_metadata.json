@@ -1,11 +1,11 @@
 {
   "name": "current-controller-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "电流控制器串口通信SDK",
   "author": "hxp",
   "license": null,
   "home_page": null,
-  "download_filename": "current-controller-sdk-1.0.0.tar.gz",
-  "download_time": "2025-08-04T05:02:11.763543",
+  "download_filename": "current-controller-sdk-1.0.1.tar.gz",
+  "download_time": "2025-08-04T07:17:52.790060",
   "package_url": "https://pypi.org/project/current-controller-sdk/"
 }

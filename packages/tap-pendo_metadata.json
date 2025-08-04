@@ -1,0 +1,11 @@
+{
+  "name": "tap-pendo",
+  "version": "1.2.0",
+  "summary": "Singer.io tap for extracting data",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "https://github.com/singer-io/tap-pendo",
+  "download_filename": "tap_pendo-1.2.0.tar.gz",
+  "download_time": "2025-08-04T07:18:19.925395",
+  "package_url": "https://pypi.org/project/tap-pendo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-tag-pricelist",
+  "version": "17.0.2.0.0",
+  "summary": "Use tags in pricelists",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-product-attribute",
+  "download_filename": "odoo_addon_product_tag_pricelist-17.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-04T07:18:15.770708",
+  "package_url": "https://pypi.org/project/odoo-addon-product-tag-pricelist/"
+}

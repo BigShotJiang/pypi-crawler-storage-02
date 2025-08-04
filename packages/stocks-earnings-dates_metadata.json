@@ -1,0 +1,11 @@
+{
+  "name": "stocks-earnings-dates",
+  "version": "0.1.1",
+  "summary": "Access 10 years of historical earnings dates for S&P 500 and Nasdaq stocks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stocks_earnings_dates-0.1.1.tar.gz",
+  "download_time": "2025-08-04T07:17:54.869365",
+  "package_url": "https://pypi.org/project/stocks-earnings-dates/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "edaflow",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A Python package for exploratory data analysis workflows",
-  "author": "Evan Low",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/evanlow/edaflow",
-  "download_filename": "edaflow-0.4.0.tar.gz",
-  "download_time": "2025-08-04T05:01:57.161772",
+  "home_page": null,
+  "download_filename": "edaflow-0.4.1.tar.gz",
+  "download_time": "2025-08-04T07:18:15.252005",
   "package_url": "https://pypi.org/project/edaflow/"
 }

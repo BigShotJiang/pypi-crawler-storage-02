@@ -1,0 +1,11 @@
+{
+  "name": "popbill",
+  "version": "1.61.0",
+  "summary": "Popbill API SDK Library",
+  "author": "LINKHUB DEV Team",
+  "license": "MIT",
+  "home_page": "https://github.com/linkhub-sdk/Popbill.py",
+  "download_filename": "popbill-1.61.0-py2-none-any.whl",
+  "download_time": "2025-08-04T07:17:53.832251",
+  "package_url": "https://pypi.org/project/popbill/"
+}
