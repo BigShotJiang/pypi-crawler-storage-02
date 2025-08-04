@@ -1,0 +1,11 @@
+{
+  "name": "pymfpatch",
+  "version": "1.0.0",
+  "summary": "Fill missing weather measurements using user-provided ERA5 data and a hybrid GRU + XGBoost approach",
+  "author": "Alexis SAUVAGEON",
+  "license": null,
+  "home_page": "https://gitlab.com/arep-dev/pymfpatch.git",
+  "download_filename": "pymfpatch-1.0.0.tar.gz",
+  "download_time": "2025-08-04T09:02:53.837574",
+  "package_url": "https://pypi.org/project/pymfpatch/"
+}

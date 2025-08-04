@@ -1,11 +1,11 @@
 {
   "name": "streamlit-image-carousel",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Un composant Streamlit moderne pour créer des carrousels d'images interactifs",
-  "author": "Antoine",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/2nzi/Streamlit-Composant",
-  "download_filename": "streamlit_image_carousel-1.0.2-py3-none-any.whl",
-  "download_time": "2025-08-04T08:35:42.880108",
+  "home_page": null,
+  "download_filename": "streamlit_image_carousel-1.0.4.tar.gz",
+  "download_time": "2025-08-04T09:02:50.005815",
   "package_url": "https://pypi.org/project/streamlit-image-carousel/"
 }

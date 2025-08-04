@@ -1,11 +1,11 @@
 {
   "name": "kraken-create",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "Secure anonymous Telegram bot library",
   "author": "Anonymous Developer",
   "license": null,
   "home_page": "https://github.com/NEFORCEO",
-  "download_filename": "kraken_create-0.1.tar.gz",
-  "download_time": "2025-08-04T08:35:26.459300",
+  "download_filename": "kraken_create-0.2-py3-none-any.whl",
+  "download_time": "2025-08-04T09:03:32.626195",
   "package_url": "https://pypi.org/project/kraken-create/"
 }

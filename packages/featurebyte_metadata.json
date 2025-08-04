@@ -1,0 +1,11 @@
+{
+  "name": "featurebyte",
+  "version": "3.2.0",
+  "summary": "Python Library for FeatureOps",
+  "author": "FeatureByte",
+  "license": "Elastic-2.0",
+  "home_page": "https://featurebyte.com",
+  "download_filename": "featurebyte-3.2.0.tar.gz",
+  "download_time": "2025-08-04T09:03:40.599633",
+  "package_url": "https://pypi.org/project/featurebyte/"
+}
