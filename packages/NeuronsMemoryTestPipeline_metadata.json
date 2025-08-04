@@ -1,0 +1,11 @@
+{
+  "name": "NeuronsMemoryTestPipeline",
+  "version": "0.2.5",
+  "summary": "Package provides QA, MRT and FRT metrics calculation for frt and mrt scores.",
+  "author": "Irina White",
+  "license": "MIT",
+  "home_page": "https://github.com/neurons-inc/neurons_metrics_package",
+  "download_filename": "neuronsmemorytestpipeline-0.2.5.tar.gz",
+  "download_time": "2025-08-04T14:46:43.793861",
+  "package_url": "https://pypi.org/project/NeuronsMemoryTestPipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SQLift",
+  "version": "0.2.3",
+  "summary": "Simple CLI migration tool for SQL databases",
+  "author": "SpaceShaman",
+  "license": "MIT",
+  "home_page": "https://github.com/SpaceShaman/SQLift",
+  "download_filename": "sqlift-0.2.3.tar.gz",
+  "download_time": "2025-08-04T14:46:46.877868",
+  "package_url": "https://pypi.org/project/SQLift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydantic_core",
+  "version": "2.37.2",
+  "summary": "Core functionality for Pydantic validation and serialization",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/pydantic/pydantic-core",
+  "download_filename": "pydantic_core-2.37.2.tar.gz",
+  "download_time": "2025-08-04T14:46:22.858131",
+  "package_url": "https://pypi.org/project/pydantic_core/"
+}

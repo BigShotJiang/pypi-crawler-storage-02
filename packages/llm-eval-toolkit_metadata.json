@@ -1,0 +1,11 @@
+{
+  "name": "llm-eval-toolkit",
+  "version": "1.0.4",
+  "summary": "A comprehensive evaluation toolkit for Large Language Models",
+  "author": "Swati Tyagi",
+  "license": "MIT",
+  "home_page": "https://github.com/AnSwati/llm_eval_toolkit",
+  "download_filename": "llm_eval_toolkit-1.0.4.tar.gz",
+  "download_time": "2025-08-04T14:47:00.812073",
+  "package_url": "https://pypi.org/project/llm-eval-toolkit/"
+}

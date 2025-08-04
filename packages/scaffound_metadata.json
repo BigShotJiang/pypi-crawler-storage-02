@@ -1,0 +1,11 @@
+{
+  "name": "scaffound",
+  "version": "0.0.1",
+  "summary": "Python implementation of Dompé's 'Molecular Anatomy'",
+  "author": "Olivier J. M. Béquignon",
+  "license": "\"MIT\"",
+  "home_page": "https://github.com/OlivierBeq/scaffound",
+  "download_filename": "scaffound-0.0.1.tar.gz",
+  "download_time": "2025-08-04T14:46:22.233928",
+  "package_url": "https://pypi.org/project/scaffound/"
+}

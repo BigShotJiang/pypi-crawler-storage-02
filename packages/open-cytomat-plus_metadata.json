@@ -1,11 +1,11 @@
 {
   "name": "open-cytomat-plus",
-  "version": "0.0.92",
+  "version": "0.0.93",
   "summary": "A Demo for a open-cytomat extension with a gui interface and Databse Connetion",
   "author": "Thiago Meyes",
   "license": null,
   "home_page": null,
-  "download_filename": "open_cytomat_plus-0.0.92.tar.gz",
-  "download_time": "2025-08-04T12:54:15.109953",
+  "download_filename": "open_cytomat_plus-0.0.93.tar.gz",
+  "download_time": "2025-08-04T14:46:45.339133",
   "package_url": "https://pypi.org/project/open-cytomat-plus/"
 }

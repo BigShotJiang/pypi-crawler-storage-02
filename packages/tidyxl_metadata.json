@@ -1,0 +1,11 @@
+{
+  "name": "tidyxl",
+  "version": "0.1.8",
+  "summary": "Import Excel files into tidy format with cell-level data extraction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tidyxl-0.1.8.tar.gz",
+  "download_time": "2025-08-04T14:46:47.389709",
+  "package_url": "https://pypi.org/project/tidyxl/"
+}

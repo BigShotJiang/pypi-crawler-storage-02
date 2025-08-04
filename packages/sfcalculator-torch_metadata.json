@@ -1,0 +1,11 @@
+{
+  "name": "sfcalculator-torch",
+  "version": "0.2.5",
+  "summary": "A differentiable pipeline connecting molecule models and crystallpgraphy data",
+  "author": "Minhaun Li",
+  "license": "MIT",
+  "home_page": "https://github.com/Hekstra-Lab/SFcalculator",
+  "download_filename": "sfcalculator_torch-0.2.5.tar.gz",
+  "download_time": "2025-08-04T14:46:34.954680",
+  "package_url": "https://pypi.org/project/sfcalculator-torch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mohamedboualamallah-fiji-ai",
+  "version": "0.1.0",
+  "summary": "A modular application for audio processing and Finch robot control.",
+  "author": "Mohamed Boualamallah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mohamedboualamallah_fiji_ai-0.1.0.tar.gz",
+  "download_time": "2025-08-04T14:46:39.579999",
+  "package_url": "https://pypi.org/project/mohamedboualamallah-fiji-ai/"
+}

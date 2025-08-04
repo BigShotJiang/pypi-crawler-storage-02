@@ -1,0 +1,11 @@
+{
+  "name": "skip-django-GDPR",
+  "version": "0.6.1",
+  "summary": "Library for GDPR implementation",
+  "author": "Druids",
+  "license": "MIT",
+  "home_page": "https://github.com/skip-pay/django-GDPR",
+  "download_filename": "skip_django_gdpr-0.6.1.tar.gz",
+  "download_time": "2025-08-04T14:46:28.101688",
+  "package_url": "https://pypi.org/project/skip-django-GDPR/"
+}
