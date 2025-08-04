@@ -1,11 +1,11 @@
 {
   "name": "marketswimmer",
-  "version": "2.0.22",
+  "version": "2.0.28",
   "summary": "Warren Buffett's Owner Earnings Analysis Tool - Calculate true economic earnings for any stock",
   "author": "Jeremy Evans",
   "license": "MIT",
   "home_page": "https://github.com/jeremevans/MarketSwimmer",
-  "download_filename": "marketswimmer-2.0.22.tar.gz",
-  "download_time": "2025-08-04T03:57:49.148306",
+  "download_filename": "marketswimmer-2.0.28.tar.gz",
+  "download_time": "2025-08-04T05:01:41.903247",
   "package_url": "https://pypi.org/project/marketswimmer/"
 }

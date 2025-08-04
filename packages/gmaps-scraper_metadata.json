@@ -1,11 +1,11 @@
 {
   "name": "gmaps-scraper",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "summary": "Interactive Google Maps scraper with Tkinter confirmation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gmaps_scraper-0.3.4.tar.gz",
-  "download_time": "2025-08-04T01:49:42.966386",
+  "download_filename": "gmaps_scraper-0.4.0.tar.gz",
+  "download_time": "2025-08-04T05:01:49.311787",
   "package_url": "https://pypi.org/project/gmaps-scraper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "in-dbt-core",
+  "version": "1.9.6",
+  "summary": "Release for LinkedIn's changes to dbt-core.",
+  "author": "LinkedIn DBT Team",
+  "license": null,
+  "home_page": "https://github.com/linkedin-managed/in-dbt-core",
+  "download_filename": "in_dbt_core-1.9.6.tar.gz",
+  "download_time": "2025-08-04T05:01:45.645530",
+  "package_url": "https://pypi.org/project/in-dbt-core/"
+}

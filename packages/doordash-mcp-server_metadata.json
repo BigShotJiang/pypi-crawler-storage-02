@@ -1,0 +1,11 @@
+{
+  "name": "doordash-mcp-server",
+  "version": "1.6.0",
+  "summary": "MCP server for DoorDash food ordering functionality",
+  "author": "DoorDash MCP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/doordash-automation/doordash-mcp",
+  "download_filename": "doordash_mcp_server-1.6.0.tar.gz",
+  "download_time": "2025-08-04T05:01:40.313433",
+  "package_url": "https://pypi.org/project/doordash-mcp-server/"
+}

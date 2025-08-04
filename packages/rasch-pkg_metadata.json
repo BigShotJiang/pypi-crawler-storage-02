@@ -1,0 +1,11 @@
+{
+  "name": "rasch-pkg",
+  "version": "1.0.0",
+  "summary": "Rasch modeli asosida o'quvchilarni baholash tizimi - Student assessment system based on Rasch model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rasch_pkg-1.0.0.tar.gz",
+  "download_time": "2025-08-04T05:02:06.036367",
+  "package_url": "https://pypi.org/project/rasch-pkg/"
+}
