@@ -1,0 +1,11 @@
+{
+  "name": "pdf-chunker-for-rag",
+  "version": "2.0.0",
+  "summary": "Production-ready PDF chunking library with intelligent content filtering and strategic header detection",
+  "author": "AI Assistant",
+  "license": null,
+  "home_page": "https://github.com/your-username/chunk_creation",
+  "download_filename": "pdf_chunker_for_rag-2.0.0.tar.gz",
+  "download_time": "2025-08-04T03:57:41.574445",
+  "package_url": "https://pypi.org/project/pdf-chunker-for-rag/"
+}

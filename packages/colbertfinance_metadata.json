@@ -1,0 +1,11 @@
+{
+  "name": "colbertfinance",
+  "version": "0.4.9",
+  "summary": "Librería paso-a-paso para enseñar Markowitz",
+  "author": "Jesús Colbert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colbertfinance-0.4.9.tar.gz",
+  "download_time": "2025-08-04T03:58:08.207086",
+  "package_url": "https://pypi.org/project/colbertfinance/"
+}

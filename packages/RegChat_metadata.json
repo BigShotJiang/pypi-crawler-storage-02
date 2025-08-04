@@ -1,0 +1,11 @@
+{
+  "name": "RegChat",
+  "version": "0.0.2",
+  "summary": "Inferring intercellular and intracellular communications from single cell and spatial multi-omics data using RegChat",
+  "author": "Lihua Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/lhzhanglabtools/RegChat",
+  "download_filename": "RegChat-0.0.2.tar.gz",
+  "download_time": "2025-08-04T03:57:52.058822",
+  "package_url": "https://pypi.org/project/RegChat/"
+}
