@@ -1,0 +1,11 @@
+{
+  "name": "taskpriority-mcp",
+  "version": "1.2.0",
+  "summary": "MCP server for intelligent task prioritization with Claude Desktop",
+  "author": "TaskPriority Team",
+  "license": "MIT",
+  "home_page": "https://github.com/greenblat17/mcp-priority",
+  "download_filename": "taskpriority_mcp-1.2.0.tar.gz",
+  "download_time": "2025-08-04T05:53:12.526000",
+  "package_url": "https://pypi.org/project/taskpriority-mcp/"
+}

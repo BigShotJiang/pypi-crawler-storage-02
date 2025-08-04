@@ -1,0 +1,11 @@
+{
+  "name": "mcbe-binarystream",
+  "version": "2.0.0",
+  "summary": "BinaryStream",
+  "author": "GlacieTeam",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/GlacieTeam/BinaryStream-Python",
+  "download_filename": "mcbe_binarystream-2.0.0.tar.gz",
+  "download_time": "2025-08-04T05:52:52.228191",
+  "package_url": "https://pypi.org/project/mcbe-binarystream/"
+}

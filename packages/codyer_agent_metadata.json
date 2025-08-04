@@ -1,11 +1,11 @@
 {
   "name": "codyer_agent",
-  "version": "0.0.78",
+  "version": "0.0.83",
   "summary": "codyer agent",
   "author": "Chen Li",
   "license": "Apache 2.0",
   "home_page": "https://github.com/bodongyueqian/codyer_agent",
-  "download_filename": "codyer_agent-0.0.78.tar.gz",
-  "download_time": "2025-08-04T05:02:13.322236",
+  "download_filename": "codyer_agent-0.0.83.tar.gz",
+  "download_time": "2025-08-04T05:52:48.632786",
   "package_url": "https://pypi.org/project/codyer_agent/"
 }

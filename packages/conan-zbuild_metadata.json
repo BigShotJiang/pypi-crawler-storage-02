@@ -1,0 +1,11 @@
+{
+  "name": "conan-zbuild",
+  "version": "1.66.3",
+  "summary": "Conan C/C++ package manager",
+  "author": "JFrog LTD",
+  "license": "MIT",
+  "home_page": "https://conan.io",
+  "download_filename": "conan_zbuild-1.66.3.tar.gz",
+  "download_time": "2025-08-04T05:53:06.578323",
+  "package_url": "https://pypi.org/project/conan-zbuild/"
+}
