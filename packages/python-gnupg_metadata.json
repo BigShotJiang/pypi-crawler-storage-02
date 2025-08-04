@@ -1,0 +1,11 @@
+{
+  "name": "python-gnupg",
+  "version": "0.5.5",
+  "summary": "A wrapper for the Gnu Privacy Guard (GPG or GnuPG)",
+  "author": "Vinay Sajip",
+  "license": "BSD",
+  "home_page": "https://github.com/vsajip/python-gnupg",
+  "download_filename": "python-gnupg-0.5.5.tar.gz",
+  "download_time": "2025-08-04T19:32:35.697698",
+  "package_url": "https://pypi.org/project/python-gnupg/"
+}

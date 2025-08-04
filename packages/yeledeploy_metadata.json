@@ -1,0 +1,11 @@
+{
+  "name": "yeledeploy",
+  "version": "1.0.0",
+  "summary": "Automated Django deployment tool for EC2 with PostgreSQL, Nginx, and Gunicorn",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/chrisokoth/ops-toolkit/yeledeploy",
+  "download_filename": "yeledeploy-1.0.0.tar.gz",
+  "download_time": "2025-08-04T19:32:44.325580",
+  "package_url": "https://pypi.org/project/yeledeploy/"
+}

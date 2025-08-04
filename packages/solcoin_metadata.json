@@ -1,0 +1,11 @@
+{
+  "name": "solcoin",
+  "version": "0.2.3",
+  "summary": "A package for Solana transactions token transactions",
+  "author": "bear102",
+  "license": "MIT",
+  "home_page": "https://github.com/bear102/solcoin",
+  "download_filename": "solcoin-0.2.3.tar.gz",
+  "download_time": "2025-08-04T19:32:58.817107",
+  "package_url": "https://pypi.org/project/solcoin/"
+}

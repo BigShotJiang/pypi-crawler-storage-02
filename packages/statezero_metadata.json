@@ -1,0 +1,11 @@
+{
+  "name": "statezero",
+  "version": "0.1.0b5",
+  "summary": "Connect your Python backend to a modern JavaScript SPA frontend with 90% less complexity.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "statezero-0.1.0b5.tar.gz",
+  "download_time": "2025-08-04T19:32:50.238825",
+  "package_url": "https://pypi.org/project/statezero/"
+}

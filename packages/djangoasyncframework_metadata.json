@@ -1,11 +1,11 @@
 {
   "name": "djangoasyncframework",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Providing async views, ORM, and tasks for Django. ",
   "author": "mouhamaddev",
   "license": null,
   "home_page": "https://github.com/mouhamaddev/django-async-framework",
-  "download_filename": "djangoasyncframework-0.3.6.tar.gz",
-  "download_time": "2025-08-04T12:54:14.069814",
+  "download_filename": "djangoasyncframework-0.3.7.tar.gz",
+  "download_time": "2025-08-04T19:32:37.133116",
   "package_url": "https://pypi.org/project/djangoasyncframework/"
 }
