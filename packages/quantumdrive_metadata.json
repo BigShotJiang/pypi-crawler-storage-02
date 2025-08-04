@@ -1,0 +1,11 @@
+{
+  "name": "quantumdrive",
+  "version": "0.1.0",
+  "summary": "QuantumDrive platform for AlphaSix",
+  "author": "Chris Steel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantumdrive-0.1.0.tar.gz",
+  "download_time": "2025-08-04T19:03:15.604001",
+  "package_url": "https://pypi.org/project/quantumdrive/"
+}

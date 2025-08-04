@@ -1,11 +1,11 @@
 {
   "name": "ingestr",
-  "version": "0.13.80",
+  "version": "0.13.81",
   "summary": "ingestr is a command-line application that ingests data from various sources and stores them in any database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ingestr-0.13.80.tar.gz",
-  "download_time": "2025-08-04T17:03:35.647440",
+  "download_filename": "ingestr-0.13.81.tar.gz",
+  "download_time": "2025-08-04T19:03:30.856165",
   "package_url": "https://pypi.org/project/ingestr/"
 }

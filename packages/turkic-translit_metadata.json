@@ -1,0 +1,11 @@
+{
+  "name": "turkic-translit",
+  "version": "0.3.2",
+  "summary": "Deterministic Latin and IPA transliteration for Kazakh, Kyrgyz, plus tokenizer/glue scripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "turkic_translit-0.3.2.tar.gz",
+  "download_time": "2025-08-04T19:03:13.522315",
+  "package_url": "https://pypi.org/project/turkic-translit/"
+}

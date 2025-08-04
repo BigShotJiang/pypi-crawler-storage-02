@@ -1,0 +1,11 @@
+{
+  "name": "textverified",
+  "version": "0.1.0a1",
+  "summary": "Python wrapper for the TextVerified API",
+  "author": "Textverified",
+  "license": "MIT",
+  "home_page": "https://textverified.com",
+  "download_filename": "textverified-0.1.0a1.tar.gz",
+  "download_time": "2025-08-04T19:03:28.744873",
+  "package_url": "https://pypi.org/project/textverified/"
+}
