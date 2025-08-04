@@ -1,0 +1,11 @@
+{
+  "name": "quant-async",
+  "version": "0.2.0",
+  "summary": "Interactive Brokers Async Trading Framework for Python 3.12+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quant_async-0.2.0.tar.gz",
+  "download_time": "2025-08-04T11:22:49.608840",
+  "package_url": "https://pypi.org/project/quant-async/"
+}

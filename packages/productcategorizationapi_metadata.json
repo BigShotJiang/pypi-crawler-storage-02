@@ -1,0 +1,11 @@
+{
+  "name": "productcategorizationapi",
+  "version": "1.1",
+  "summary": "product categorization API",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.productcategorization.com",
+  "download_filename": "productcategorizationapi-1.1.tar.gz",
+  "download_time": "2025-08-04T11:22:06.495333",
+  "package_url": "https://pypi.org/project/productcategorizationapi/"
+}

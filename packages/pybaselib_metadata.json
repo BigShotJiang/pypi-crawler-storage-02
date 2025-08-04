@@ -1,11 +1,11 @@
 {
   "name": "pybaselib",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "summary": "base lib",
   "author": "maoyongfan",
   "license": null,
   "home_page": null,
-  "download_filename": "pybaselib-0.9.4.tar.gz",
-  "download_time": "2025-08-04T07:17:51.725818",
+  "download_filename": "pybaselib-0.9.6.tar.gz",
+  "download_time": "2025-08-04T11:22:31.174120",
   "package_url": "https://pypi.org/project/pybaselib/"
 }

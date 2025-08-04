@@ -1,0 +1,11 @@
+{
+  "name": "syqlorix",
+  "version": "1.1.24",
+  "summary": "A hyper-minimalist Python DSL for generating HTML, CSS, and JS in a single file with live reload and dynamic routing.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "syqlorix-1.1.24.tar.gz",
+  "download_time": "2025-08-04T11:22:11.897874",
+  "package_url": "https://pypi.org/project/syqlorix/"
+}

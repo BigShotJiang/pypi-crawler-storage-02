@@ -1,0 +1,11 @@
+{
+  "name": "eudplib",
+  "version": "0.80.6",
+  "summary": "eudplib is a package which provides scripting for StarCraft Use Map Setting(UMS) to UMS map and tool developers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eudplib-0.80.6.tar.gz",
+  "download_time": "2025-08-04T11:22:30.632788",
+  "package_url": "https://pypi.org/project/eudplib/"
+}

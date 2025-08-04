@@ -1,0 +1,11 @@
+{
+  "name": "dt-utils",
+  "version": "0.0.11",
+  "summary": "Datetime utils",
+  "author": "claydodo and his little friends (xiao huo ban)",
+  "license": null,
+  "home_page": "https://github.com/claydodo/dt_utils",
+  "download_filename": "dt_utils-0.0.11.tar.gz",
+  "download_time": "2025-08-04T11:22:31.695647",
+  "package_url": "https://pypi.org/project/dt-utils/"
+}

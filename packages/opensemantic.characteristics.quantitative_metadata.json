@@ -1,0 +1,11 @@
+{
+  "name": "opensemantic.characteristics.quantitative",
+  "version": "0.2.4.dev0",
+  "summary": "Library with Python models derived from the page package world.opensemantic.characteristics.quantitative",
+  "author": "OpenSemanticWorld",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/OpenSemanticWorld-Packages/opensemantic.characteristics.quantitative-python",
+  "download_filename": "opensemantic_characteristics_quantitative-0.2.4.dev0.tar.gz",
+  "download_time": "2025-08-04T11:22:48.513594",
+  "package_url": "https://pypi.org/project/opensemantic.characteristics.quantitative/"
+}

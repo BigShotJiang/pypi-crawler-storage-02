@@ -1,0 +1,11 @@
+{
+  "name": "extinction",
+  "version": "0.4.8",
+  "summary": "Fast interstellar dust extinction laws",
+  "author": "Kyle Barbary",
+  "license": "MIT",
+  "home_page": "http://github.com/kbarbary/extinction",
+  "download_filename": "extinction-0.4.8.tar.gz",
+  "download_time": "2025-08-04T11:22:50.150601",
+  "package_url": "https://pypi.org/project/extinction/"
+}

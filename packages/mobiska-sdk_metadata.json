@@ -1,0 +1,11 @@
+{
+  "name": "mobiska-sdk",
+  "version": "0.1.0",
+  "summary": "A Django-based SDK for integrating with the Mobiska Payment Gateway",
+  "author": "Stimuluz",
+  "license": null,
+  "home_page": "https://github.com/stimuluz/mobiska-sdk",
+  "download_filename": "mobiska-sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-04T11:22:46.893813",
+  "package_url": "https://pypi.org/project/mobiska-sdk/"
+}

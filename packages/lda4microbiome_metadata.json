@@ -1,0 +1,11 @@
+{
+  "name": "lda4microbiome",
+  "version": "0.1.0",
+  "summary": "A workflow for LDA analysis of microbiome data using MALLET",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/lda4microbiome",
+  "download_filename": "lda4microbiome-0.1.0.tar.gz",
+  "download_time": "2025-08-04T11:22:22.343431",
+  "package_url": "https://pypi.org/project/lda4microbiome/"
+}

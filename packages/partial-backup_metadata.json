@@ -1,0 +1,11 @@
+{
+  "name": "partial-backup",
+  "version": "0.0.1",
+  "summary": "Metadata-Aware Partial Backup Creator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "partial_backup-0.0.1.tar.gz",
+  "download_time": "2025-08-04T11:22:44.602226",
+  "package_url": "https://pypi.org/project/partial-backup/"
+}
