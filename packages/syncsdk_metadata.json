@@ -1,11 +1,11 @@
 {
   "name": "syncsdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syncsdk-0.2.0.tar.gz",
-  "download_time": "2025-08-04T06:43:09.021890",
+  "download_filename": "syncsdk-0.2.1.tar.gz",
+  "download_time": "2025-08-04T07:50:48.162519",
   "package_url": "https://pypi.org/project/syncsdk/"
 }

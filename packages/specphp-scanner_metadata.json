@@ -1,11 +1,11 @@
 {
   "name": "specphp-scanner",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specphp_scanner-0.0.5.tar.gz",
-  "download_time": "2025-08-04T07:18:18.885296",
+  "download_filename": "specphp_scanner-0.0.6.tar.gz",
+  "download_time": "2025-08-04T07:50:42.927012",
   "package_url": "https://pypi.org/project/specphp-scanner/"
 }

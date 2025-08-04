@@ -1,0 +1,11 @@
+{
+  "name": "kernelview",
+  "version": "1.0.0",
+  "summary": "KernelView is a Python-based system information tool that provides detailed insights into your hardware and software, including CPU, memory, storage, OS, network, and installed programming languages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kernelview-1.0.0.tar.gz",
+  "download_time": "2025-08-04T07:50:02.310211",
+  "package_url": "https://pypi.org/project/kernelview/"
+}

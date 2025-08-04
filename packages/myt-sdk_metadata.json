@@ -1,0 +1,11 @@
+{
+  "name": "myt-sdk",
+  "version": "1.1.10",
+  "summary": "MYT SDK - 魔云腾SDK通用包，用于自动下载、管理和启动MYT SDK，支持完整的API客户端功能",
+  "author": "MYT Team",
+  "license": null,
+  "home_page": "https://github.com/kuqitt/myt_sdk",
+  "download_filename": "myt_sdk-1.1.10.tar.gz",
+  "download_time": "2025-08-04T07:50:04.905687",
+  "package_url": "https://pypi.org/project/myt-sdk/"
+}

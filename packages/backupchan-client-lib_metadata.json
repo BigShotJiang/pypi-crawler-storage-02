@@ -1,0 +1,11 @@
+{
+  "name": "backupchan-client-lib",
+  "version": "0.3.2",
+  "summary": "Library for interfacing with Backup-chan.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "backupchan_client_lib-0.3.2.tar.gz",
+  "download_time": "2025-08-04T07:50:32.502018",
+  "package_url": "https://pypi.org/project/backupchan-client-lib/"
+}

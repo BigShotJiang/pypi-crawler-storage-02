@@ -1,0 +1,11 @@
+{
+  "name": "fractal-tokens",
+  "version": "1.4.3",
+  "summary": "Fractal Tokens provides a flexible way to generate and verify JWT tokens for your Python applications.",
+  "author": "Douwe van der Meij",
+  "license": null,
+  "home_page": "https://github.com/douwevandermeij/fractal-tokens",
+  "download_filename": "fractal_tokens-1.4.3.tar.gz",
+  "download_time": "2025-08-04T07:50:30.129160",
+  "package_url": "https://pypi.org/project/fractal-tokens/"
+}

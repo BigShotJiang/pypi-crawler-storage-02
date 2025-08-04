@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-filter-sqlalchemy",
+  "version": "0.0.5",
+  "summary": "FastAPI filter SQLAlchemy",
+  "author": "Sergey V. Elfimov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SergeiVElfimov/fastapi-filter-sqlalchemy",
+  "download_filename": "fastapi_filter_sqlalchemy-0.0.5.tar.gz",
+  "download_time": "2025-08-04T07:50:41.773036",
+  "package_url": "https://pypi.org/project/fastapi-filter-sqlalchemy/"
+}

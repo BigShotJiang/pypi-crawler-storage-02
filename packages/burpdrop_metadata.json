@@ -1,0 +1,11 @@
+{
+  "name": "burpdrop",
+  "version": "1.1.0",
+  "summary": "A cross-platform Burp Suite CA Certificate installer for Android devices",
+  "author": "Gashaw Kidanu",
+  "license": null,
+  "home_page": "https://github.com/Gashaw512/android-traffic-interception-guide",
+  "download_filename": "burpdrop-1.1.0.tar.gz",
+  "download_time": "2025-08-04T07:50:10.963644",
+  "package_url": "https://pypi.org/project/burpdrop/"
+}

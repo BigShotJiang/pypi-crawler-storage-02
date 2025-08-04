@@ -1,0 +1,11 @@
+{
+  "name": "plagdef",
+  "version": "1.5.3",
+  "summary": "A tool which makes life hard for students who try to make theirs simple.",
+  "author": "Yannik Queisler",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/devWhyqueue/plagdef",
+  "download_filename": "plagdef-1.5.3.tar.gz",
+  "download_time": "2025-08-04T07:50:47.077411",
+  "package_url": "https://pypi.org/project/plagdef/"
+}

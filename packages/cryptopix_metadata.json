@@ -1,11 +1,11 @@
 {
   "name": "cryptopix",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "summary": "Revolutionary Post-Quantum Cryptographic Library using Color Lattice Learning with Errors (CLWE)",
   "author": "CryptoPIX Team",
   "license": null,
   "home_page": "https://www.cryptopix.in",
-  "download_filename": "cryptopix-6.0.0.tar.gz",
-  "download_time": "2025-08-04T07:18:13.694768",
+  "download_filename": "cryptopix-7.0.0.tar.gz",
+  "download_time": "2025-08-04T07:50:06.207858",
   "package_url": "https://pypi.org/project/cryptopix/"
 }
