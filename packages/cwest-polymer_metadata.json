@@ -1,0 +1,11 @@
+{
+  "name": "cwest-polymer",
+  "version": "0.0.1a0",
+  "summary": "Functions to determine polymer groups within datasets using kendrick mass defect and mass remainder analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cwest_polymer-0.0.1a0.tar.gz",
+  "download_time": "2025-08-04T20:48:57.914590",
+  "package_url": "https://pypi.org/project/cwest-polymer/"
+}

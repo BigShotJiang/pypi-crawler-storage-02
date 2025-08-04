@@ -1,0 +1,11 @@
+{
+  "name": "py-aioclient",
+  "version": "0.1.7",
+  "summary": "Um cliente HTTP assíncrono e leve para Python, com uma API simplificada para requisições fáceis e concorrentes.",
+  "author": "Abel Salim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_aioclient-0.1.7.tar.gz",
+  "download_time": "2025-08-04T20:48:53.694826",
+  "package_url": "https://pypi.org/project/py-aioclient/"
+}

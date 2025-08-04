@@ -1,0 +1,11 @@
+{
+  "name": "kvmm",
+  "version": "0.1.8",
+  "summary": "Pretrained keras 3 vision models",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "kvmm-0.1.8.tar.gz",
+  "download_time": "2025-08-04T20:49:02.220573",
+  "package_url": "https://pypi.org/project/kvmm/"
+}
