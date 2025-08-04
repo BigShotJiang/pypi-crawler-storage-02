@@ -1,0 +1,11 @@
+{
+  "name": "functiontrace",
+  "version": "0.5.1",
+  "summary": "A profiling tool that traces your application's execution",
+  "author": "Alistair Dobke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "functiontrace-0.5.1.tar.gz",
+  "download_time": "2025-08-04T23:25:07.585263",
+  "package_url": "https://pypi.org/project/functiontrace/"
+}

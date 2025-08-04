@@ -1,0 +1,11 @@
+{
+  "name": "django-encrypted-fields-and-files",
+  "version": "0.1.12",
+  "summary": "Campos e storages criptografados para o Django com suporte a timestamp para evitar cache.",
+  "author": "Denky",
+  "license": "MIT",
+  "home_page": "https://github.com/D3NKYT0/django-encrypted-fields",
+  "download_filename": "django_encrypted_fields_and_files-0.1.12.tar.gz",
+  "download_time": "2025-08-04T23:25:04.930942",
+  "package_url": "https://pypi.org/project/django-encrypted-fields-and-files/"
+}

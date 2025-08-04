@@ -1,0 +1,11 @@
+{
+  "name": "google-sheets-sdk",
+  "version": "0.3.2",
+  "summary": null,
+  "author": "Marco Carmona",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_sheets_sdk-0.3.2.tar.gz",
+  "download_time": "2025-08-04T23:25:13.052379",
+  "package_url": "https://pypi.org/project/google-sheets-sdk/"
+}

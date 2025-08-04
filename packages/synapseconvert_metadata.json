@@ -1,0 +1,11 @@
+{
+  "name": "synapseconvert",
+  "version": "1.0.0",
+  "summary": "Tools for converting Synapse RTP JSON to spreadsheet and back.",
+  "author": "Samuel Baylis",
+  "license": "MIT",
+  "home_page": "https://github.com/BiblicalStory/synapseconvert",
+  "download_filename": "synapseconvert-1.0.0.tar.gz",
+  "download_time": "2025-08-04T23:25:18.971805",
+  "package_url": "https://pypi.org/project/synapseconvert/"
+}

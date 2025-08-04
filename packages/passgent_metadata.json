@@ -1,0 +1,11 @@
+{
+  "name": "passgent",
+  "version": "0.2.0",
+  "summary": "Password generator",
+  "author": "MrSanZz",
+  "license": null,
+  "home_page": "https://github.com/MrSanZz/passgent",
+  "download_filename": "passgent-0.2.0.tar.gz",
+  "download_time": "2025-08-04T23:24:59.645235",
+  "package_url": "https://pypi.org/project/passgent/"
+}
