@@ -1,0 +1,11 @@
+{
+  "name": "fastbencode",
+  "version": "0.3.4",
+  "summary": "Implementation of bencode with optional fast Rust extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastbencode-0.3.4.tar.gz",
+  "download_time": "2025-08-04T11:43:22.813767",
+  "package_url": "https://pypi.org/project/fastbencode/"
+}
