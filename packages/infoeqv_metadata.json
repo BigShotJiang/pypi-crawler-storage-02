@@ -1,0 +1,11 @@
+{
+  "name": "infoeqv",
+  "version": "5.0.2",
+  "summary": "Information Equivalent Designs (Two-Point Reduction)",
+  "author": "Rohit Kumar Behera",
+  "license": "MIT",
+  "home_page": "https://github.com/muinrohit/infoeqv",
+  "download_filename": "infoeqv-5.0.2.tar.gz",
+  "download_time": "2025-08-04T08:35:10.487238",
+  "package_url": "https://pypi.org/project/infoeqv/"
+}

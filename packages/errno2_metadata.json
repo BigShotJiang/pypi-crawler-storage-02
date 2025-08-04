@@ -1,0 +1,11 @@
+{
+  "name": "errno2",
+  "version": "0.0.1",
+  "summary": "Python another errno.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/web-mount-packs/tree/main/python-module/errno2",
+  "download_filename": "errno2-0.0.1.tar.gz",
+  "download_time": "2025-08-04T08:35:35.688052",
+  "package_url": "https://pypi.org/project/errno2/"
+}

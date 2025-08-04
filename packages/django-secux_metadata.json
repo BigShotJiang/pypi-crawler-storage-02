@@ -1,11 +1,11 @@
 {
   "name": "django-secux",
-  "version": "5.8.0",
+  "version": "6.0.0",
   "summary": "All-in-One Django Security & Optimization",
   "author": "XO Aria",
   "license": "MIT",
   "home_page": "https://github.com/xo-aria/django-secux",
-  "download_filename": "django_secux-5.8.0.tar.gz",
-  "download_time": "2025-08-04T07:50:04.242687",
+  "download_filename": "django_secux-6.0.0.tar.gz",
+  "download_time": "2025-08-04T08:35:48.539108",
   "package_url": "https://pypi.org/project/django-secux/"
 }

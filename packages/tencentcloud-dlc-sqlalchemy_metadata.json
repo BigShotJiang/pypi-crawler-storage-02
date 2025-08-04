@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-dlc-sqlalchemy",
+  "version": "1.3.1",
+  "summary": "Tencentcloud DLC SQLAlchemy, using DLC dialect .",
+  "author": "Tencentcloud DLC Team.",
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "tencentcloud_dlc_sqlalchemy-1.3.1.tar.gz",
+  "download_time": "2025-08-04T08:35:25.947953",
+  "package_url": "https://pypi.org/project/tencentcloud-dlc-sqlalchemy/"
+}

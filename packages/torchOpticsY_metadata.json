@@ -1,0 +1,11 @@
+{
+  "name": "torchOpticsY",
+  "version": "0.5",
+  "summary": "PyTorch-based optics caculation",
+  "author": "YuningYe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchopticsy-0.5.tar.gz",
+  "download_time": "2025-08-04T08:35:19.742224",
+  "package_url": "https://pypi.org/project/torchOpticsY/"
+}

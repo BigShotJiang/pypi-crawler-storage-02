@@ -1,0 +1,11 @@
+{
+  "name": "kraken-python",
+  "version": "0.2",
+  "summary": "Secure anonymous Telegram bot library",
+  "author": "Anonymous Developer",
+  "license": null,
+  "home_page": "https://github.com/NEFORCEO",
+  "download_filename": "kraken_python-0.2-py3-none-any.whl",
+  "download_time": "2025-08-04T08:35:41.322464",
+  "package_url": "https://pypi.org/project/kraken-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyfunc-pipeline",
+  "version": "0.2.0",
+  "summary": "Functional programming pipeline for Python with chainable operations, lazy evaluation, and elegant placeholder syntax",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfunc_pipeline-0.2.0.tar.gz",
+  "download_time": "2025-08-04T08:35:25.429348",
+  "package_url": "https://pypi.org/project/pyfunc-pipeline/"
+}

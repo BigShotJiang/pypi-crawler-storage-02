@@ -1,0 +1,11 @@
+{
+  "name": "z3c.celery",
+  "version": "1.9.0",
+  "summary": "Integration of Celery 4 with Zope 3",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "z3c_celery-1.9.0.tar.gz",
+  "download_time": "2025-08-04T08:35:21.791668",
+  "package_url": "https://pypi.org/project/z3c.celery/"
+}

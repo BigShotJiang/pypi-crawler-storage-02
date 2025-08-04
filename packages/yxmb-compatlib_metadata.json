@@ -1,11 +1,11 @@
 {
   "name": "yxmb-compatlib",
-  "version": "2025.8.4.0",
+  "version": "2025.8.4.1",
   "summary": "支持原地升级的宇信慢病兼容库",
   "author": "Maple",
   "license": null,
   "home_page": null,
-  "download_filename": "yxmb_compatlib-2025.8.4.0.tar.gz",
-  "download_time": "2025-08-04T05:52:39.710357",
+  "download_filename": "yxmb_compatlib-2025.8.4.1.tar.gz",
+  "download_time": "2025-08-04T08:35:44.927537",
   "package_url": "https://pypi.org/project/yxmb-compatlib/"
 }

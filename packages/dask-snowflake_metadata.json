@@ -1,0 +1,11 @@
+{
+  "name": "dask-snowflake",
+  "version": "0.3.4",
+  "summary": "Dask + Snowflake intergration",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "dask-snowflake-0.3.4.tar.gz",
+  "download_time": "2025-08-04T08:35:29.527069",
+  "package_url": "https://pypi.org/project/dask-snowflake/"
+}

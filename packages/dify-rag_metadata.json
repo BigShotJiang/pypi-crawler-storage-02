@@ -1,0 +1,11 @@
+{
+  "name": "dify-rag",
+  "version": "0.2.1",
+  "summary": "dify's rag patch module",
+  "author": "yichi",
+  "license": null,
+  "home_page": "https://github.com/hustyichi/dify-rag",
+  "download_filename": "dify_rag-0.2.1.tar.gz",
+  "download_time": "2025-08-04T08:35:49.050376",
+  "package_url": "https://pypi.org/project/dify-rag/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spacy-coref",
+  "version": "0.1.1",
+  "summary": "Lightweight cross-lingual coreference resolution with spaCy using ONNX Runtime inference of transformer models.",
+  "author": "Tal Almagor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spacy_coref-0.1.1.tar.gz",
+  "download_time": "2025-08-04T08:35:37.741416",
+  "package_url": "https://pypi.org/project/spacy-coref/"
+}
