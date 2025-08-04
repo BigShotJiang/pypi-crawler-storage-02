@@ -1,0 +1,11 @@
+{
+  "name": "CBCTCardiacSegmentation",
+  "version": "0.1.1",
+  "summary": "Segment Cardiac structures in CBCT images",
+  "author": "Mark Gardner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbctcardiacsegmentation-0.1.1.tar.gz",
+  "download_time": "2025-08-04T01:49:20.071534",
+  "package_url": "https://pypi.org/project/CBCTCardiacSegmentation/"
+}

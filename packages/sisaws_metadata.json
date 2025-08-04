@@ -1,0 +1,11 @@
+{
+  "name": "sisaws",
+  "version": "2.1.6",
+  "summary": "Librería oficial para interactuar con la API REST del SISA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sisaws-2.1.6.tar.gz",
+  "download_time": "2025-08-04T01:49:35.590632",
+  "package_url": "https://pypi.org/project/sisaws/"
+}

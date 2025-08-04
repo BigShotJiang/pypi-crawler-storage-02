@@ -1,0 +1,11 @@
+{
+  "name": "mmmlabs-common",
+  "version": "1.0.0",
+  "summary": "Cloud-agnostic utilities for MMMLabs services",
+  "author": "MMM Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/mmmlabs/mmmlabs-common",
+  "download_filename": "mmmlabs_common-1.0.0.tar.gz",
+  "download_time": "2025-08-04T01:49:22.757329",
+  "package_url": "https://pypi.org/project/mmmlabs-common/"
+}

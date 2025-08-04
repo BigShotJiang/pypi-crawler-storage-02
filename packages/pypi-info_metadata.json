@@ -1,0 +1,11 @@
+{
+  "name": "pypi-info",
+  "version": "0.56",
+  "summary": "Search and get description of package on pypi.org",
+  "author": "Hadi Cahyadi",
+  "license": "MIT",
+  "home_page": "https://github.com/cumulus13/pipinfo",
+  "download_filename": "pypi_info-0.56.tar.gz",
+  "download_time": "2025-08-04T01:49:41.387587",
+  "package_url": "https://pypi.org/project/pypi-info/"
+}

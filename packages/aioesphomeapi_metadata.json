@@ -1,0 +1,11 @@
+{
+  "name": "aioesphomeapi",
+  "version": "37.2.4",
+  "summary": "Python API for interacting with ESPHome devices.",
+  "author": "Otto Winter",
+  "license": "MIT",
+  "home_page": "https://esphome.io/",
+  "download_filename": "aioesphomeapi-37.2.4.tar.gz",
+  "download_time": "2025-08-04T01:49:52.005649",
+  "package_url": "https://pypi.org/project/aioesphomeapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drtools",
+  "version": "3.4.0",
+  "summary": "Kit of MY useful tools.",
+  "author": "Andrey Malheiros",
+  "license": null,
+  "home_page": "https://github.com/andreylcj/drtools",
+  "download_filename": "drtools-3.4.0.tar.gz",
+  "download_time": "2025-08-04T01:49:56.792912",
+  "package_url": "https://pypi.org/project/drtools/"
+}

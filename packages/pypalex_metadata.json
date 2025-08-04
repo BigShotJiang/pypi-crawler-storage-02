@@ -1,0 +1,11 @@
+{
+  "name": "pypalex",
+  "version": "2.2.2",
+  "summary": "Python Palette Extractor: extracts color palettes from images into json / yaml files.",
+  "author": "Al Timofeyev",
+  "license": "MIT",
+  "home_page": "https://github.com/AlTimofeyev/pypalex",
+  "download_filename": "pypalex-2.2.2.tar.gz",
+  "download_time": "2025-08-04T01:49:32.961500",
+  "package_url": "https://pypi.org/project/pypalex/"
+}

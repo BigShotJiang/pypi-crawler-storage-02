@@ -1,0 +1,11 @@
+{
+  "name": "karddex-scanner",
+  "version": "0.1.1",
+  "summary": "Biblioteca para extrair dados estruturados de cartas Pokémon via OpenAI a partir de JSON de OCR.",
+  "author": "Seu Nome",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "karddex_scanner-0.1.1.tar.gz",
+  "download_time": "2025-08-04T01:49:36.627699",
+  "package_url": "https://pypi.org/project/karddex-scanner/"
+}

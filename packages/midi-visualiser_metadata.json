@@ -1,0 +1,11 @@
+{
+  "name": "midi-visualiser",
+  "version": "0.1.8",
+  "summary": "A real-time MIDI player and visualiser built in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midi_visualiser-0.1.8.tar.gz",
+  "download_time": "2025-08-04T01:49:14.673152",
+  "package_url": "https://pypi.org/project/midi-visualiser/"
+}
