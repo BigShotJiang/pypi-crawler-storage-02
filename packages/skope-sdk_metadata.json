@@ -1,0 +1,11 @@
+{
+  "name": "skope-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for the Skope API",
+  "author": "Skope",
+  "license": "MIT",
+  "home_page": "https://github.com/skope/skope-sdk",
+  "download_filename": "skope_sdk-0.1.1.tar.gz",
+  "download_time": "2025-08-04T17:03:05.715866",
+  "package_url": "https://pypi.org/project/skope-sdk/"
+}

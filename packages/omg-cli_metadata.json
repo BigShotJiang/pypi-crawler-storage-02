@@ -1,0 +1,11 @@
+{
+  "name": "omg-cli",
+  "version": "0.1.0",
+  "summary": "A tool to automate Odoo module creation",
+  "author": "Mohammed Zeeshan Jagirdar",
+  "license": null,
+  "home_page": "https://github.com/heyzeeshan/odoo-module-generator",
+  "download_filename": "omg_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-04T17:03:12.108488",
+  "package_url": "https://pypi.org/project/omg-cli/"
+}

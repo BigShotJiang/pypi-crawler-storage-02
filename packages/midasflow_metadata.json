@@ -1,11 +1,11 @@
 {
   "name": "midasflow",
-  "version": "0.1.4",
+  "version": "0.1.4.post1",
   "summary": "MIDASFlow is the Python package for the Memory-Efficient I/O-Improved Drainage Analysis System (MIDAS).",
   "author": "Huidae Cho",
   "license": "GPLv3+",
   "home_page": "https://github.com/HuidaeCho/midasflow",
-  "download_filename": "midasflow-0.1.4.tar.gz",
-  "download_time": "2025-08-04T15:28:46.030242",
+  "download_filename": "midasflow-0.1.4.post1.tar.gz",
+  "download_time": "2025-08-04T17:03:31.905243",
   "package_url": "https://pypi.org/project/midasflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xcookie",
+  "version": "0.3.1",
+  "summary": "The xcookie cookie-cutter Module",
+  "author": "Jon Crall",
+  "license": "Apache 2",
+  "home_page": "https://github.com/Erotemic/xcookie",
+  "download_filename": "xcookie-0.3.1.tar.gz",
+  "download_time": "2025-08-04T17:03:41.497493",
+  "package_url": "https://pypi.org/project/xcookie/"
+}

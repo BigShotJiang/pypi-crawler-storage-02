@@ -1,11 +1,11 @@
 {
   "name": "pjapp",
-  "version": "0.2.9",
+  "version": "0.3.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjapp-0.2.9.tar.gz",
-  "download_time": "2025-08-04T16:34:12.528744",
+  "download_filename": "pjapp-0.3.1.tar.gz",
+  "download_time": "2025-08-04T17:03:17.489932",
   "package_url": "https://pypi.org/project/pjapp/"
 }

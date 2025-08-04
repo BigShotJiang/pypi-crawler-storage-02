@@ -1,0 +1,11 @@
+{
+  "name": "staplus-client",
+  "version": "0.3.4",
+  "summary": "A client library to facilitate interaction with a STAplus Server",
+  "author": "Andreas Matheus",
+  "license": "LGPL3",
+  "home_page": "https://github.com/securedimensions/STAplus-Python-Client",
+  "download_filename": "staplus_client-0.3.4.tar.gz",
+  "download_time": "2025-08-04T17:03:00.908002",
+  "package_url": "https://pypi.org/project/staplus-client/"
+}

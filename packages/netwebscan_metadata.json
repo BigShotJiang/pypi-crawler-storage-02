@@ -1,0 +1,11 @@
+{
+  "name": "netwebscan",
+  "version": "1.0.0",
+  "summary": "Advanced Network & Subdomain Scanner (CLI)",
+  "author": "Krishnamoorthy G",
+  "license": null,
+  "home_page": "https://github.com/TAMILKINGHACKER/netwebscan",
+  "download_filename": "netwebscan-1.0.0.tar.gz",
+  "download_time": "2025-08-04T17:03:43.640813",
+  "package_url": "https://pypi.org/project/netwebscan/"
+}
