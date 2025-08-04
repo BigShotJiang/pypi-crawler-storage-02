@@ -1,0 +1,11 @@
+{
+  "name": "mcp-jenkins-fork",
+  "version": "0.3.6",
+  "summary": "A fork of lanbaoshen/mcp-jenkins. See original at https://github.com/lanbaoshen/mcp-jenkins.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_jenkins_fork-0.3.6.tar.gz",
+  "download_time": "2025-08-04T20:29:06.108576",
+  "package_url": "https://pypi.org/project/mcp-jenkins-fork/"
+}

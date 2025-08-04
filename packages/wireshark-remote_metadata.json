@@ -1,11 +1,11 @@
 {
   "name": "wireshark-remote",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Initiate wireshark remote capture (SSH or AVM FRITZ!Box)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wireshark_remote-0.1.1.tar.gz",
-  "download_time": "2025-08-04T19:52:42.748962",
+  "download_filename": "wireshark_remote-0.1.2.tar.gz",
+  "download_time": "2025-08-04T20:29:05.057894",
   "package_url": "https://pypi.org/project/wireshark-remote/"
 }

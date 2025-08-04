@@ -1,0 +1,11 @@
+{
+  "name": "mqt.ddsim",
+  "version": "2.0.0",
+  "summary": "A quantum simulator based on decision diagrams written in C++",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqt_ddsim-2.0.0.tar.gz",
+  "download_time": "2025-08-04T20:29:00.355642",
+  "package_url": "https://pypi.org/project/mqt.ddsim/"
+}

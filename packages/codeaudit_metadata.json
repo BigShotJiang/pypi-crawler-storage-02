@@ -1,11 +1,11 @@
 {
   "name": "codeaudit",
-  "version": "0.9.0",
+  "version": "0.9.2",
   "summary": "Simplified static security checks for Python ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeaudit-0.9.0.tar.gz",
-  "download_time": "2025-08-04T13:45:13.792139",
+  "download_filename": "codeaudit-0.9.2.tar.gz",
+  "download_time": "2025-08-04T20:28:37.218948",
   "package_url": "https://pypi.org/project/codeaudit/"
 }
