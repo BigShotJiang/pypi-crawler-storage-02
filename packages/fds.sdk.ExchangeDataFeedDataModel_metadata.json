@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.ExchangeDataFeedDataModel",
+  "version": "0.21.0",
+  "summary": "Exchange DataFeed Data Model client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/ExchangeDataFeedDataModel/v1",
+  "download_filename": "fds_sdk_exchangedatafeeddatamodel-0.21.0.tar.gz",
+  "download_time": "2025-08-04T12:54:06.107712",
+  "package_url": "https://pypi.org/project/fds.sdk.ExchangeDataFeedDataModel/"
+}

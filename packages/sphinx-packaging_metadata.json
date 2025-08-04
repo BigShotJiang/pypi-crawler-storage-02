@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-packaging",
+  "version": "0.3.0.post1",
+  "summary": "A collection of Sphinx utilities related to Python packaging.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/sphinx-toolbox/sphinx-packaging",
+  "download_filename": "sphinx_packaging-0.3.0.post1.tar.gz",
+  "download_time": "2025-08-04T12:54:32.062478",
+  "package_url": "https://pypi.org/project/sphinx-packaging/"
+}

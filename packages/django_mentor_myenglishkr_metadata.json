@@ -1,11 +1,11 @@
 {
   "name": "django_mentor_myenglishkr",
-  "version": "5.1.6",
+  "version": "5.1.8",
   "summary": "Demiansoft template(mentor)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_mentor_myenglishkr-5.1.6.tar.gz",
-  "download_time": "2025-08-04T07:18:25.675747",
+  "download_filename": "django_mentor_myenglishkr-5.1.8.tar.gz",
+  "download_time": "2025-08-04T12:54:41.023249",
   "package_url": "https://pypi.org/project/django_mentor_myenglishkr/"
 }

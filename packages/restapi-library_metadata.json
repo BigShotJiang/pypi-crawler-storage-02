@@ -1,0 +1,11 @@
+{
+  "name": "restapi-library",
+  "version": "0.0.2",
+  "summary": "A comprehensive REST API client library with advanced features",
+  "author": "Taoudi Abdelbasset",
+  "license": null,
+  "home_page": "https://github.com/taoudi-abdelbasset/RestAPILibrary",
+  "download_filename": "restapi_library-0.0.2.tar.gz",
+  "download_time": "2025-08-04T12:54:35.254495",
+  "package_url": "https://pypi.org/project/restapi-library/"
+}

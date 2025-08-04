@@ -1,0 +1,11 @@
+{
+  "name": "dgmrf",
+  "version": "0.2.2",
+  "summary": "Deep Gaussian Markov Random Fields and their extensions",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dgmrf-0.2.2.tar.gz",
+  "download_time": "2025-08-04T12:54:38.376023",
+  "package_url": "https://pypi.org/project/dgmrf/"
+}

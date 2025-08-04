@@ -1,0 +1,11 @@
+{
+  "name": "hacs-models",
+  "version": "0.3.0",
+  "summary": "HACS Healthcare Data Models - Pure Pydantic models for FHIR-compliant healthcare data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hacs_models-0.3.0.tar.gz",
+  "download_time": "2025-08-04T12:54:00.891274",
+  "package_url": "https://pypi.org/project/hacs-models/"
+}

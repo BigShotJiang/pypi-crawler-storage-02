@@ -1,0 +1,11 @@
+{
+  "name": "cmdlm",
+  "version": "0.0.1",
+  "summary": "Simple CLI tool to command and use langauge models from the command line",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmdlm-0.0.1.tar.gz",
+  "download_time": "2025-08-04T12:54:09.221136",
+  "package_url": "https://pypi.org/project/cmdlm/"
+}

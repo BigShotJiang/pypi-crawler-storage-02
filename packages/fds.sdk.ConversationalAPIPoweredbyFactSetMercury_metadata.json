@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.ConversationalAPIPoweredbyFactSetMercury",
+  "version": "1.2.1",
+  "summary": "Conversational API Powered by FactSet Mercury client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/ConversationalAPIPoweredbyFactSetMercury/v1",
+  "download_filename": "fds_sdk_conversationalapipoweredbyfactsetmercury-1.2.1.tar.gz",
+  "download_time": "2025-08-04T12:54:07.146627",
+  "package_url": "https://pypi.org/project/fds.sdk.ConversationalAPIPoweredbyFactSetMercury/"
+}

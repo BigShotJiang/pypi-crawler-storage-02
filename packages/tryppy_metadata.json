@@ -1,0 +1,11 @@
+{
+  "name": "tryppy",
+  "version": "0.1.0",
+  "summary": "Kurze Beschreibung deines Pakets",
+  "author": "Emely Himmstedt",
+  "license": "MIT",
+  "home_page": "https://github.com/himmiE/tryppy",
+  "download_filename": "tryppy-0.1.0.tar.gz",
+  "download_time": "2025-08-04T12:54:02.469484",
+  "package_url": "https://pypi.org/project/tryppy/"
+}
