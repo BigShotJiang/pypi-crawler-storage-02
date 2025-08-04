@@ -1,0 +1,11 @@
+{
+  "name": "pyrisks-grf",
+  "version": "0.0.15",
+  "summary": "This is the first version of GRF package for Panama.",
+  "author": "Gerencia de Riesgos Financieros Corredores Davivienda S.A.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrisks_grf-0.0.15.tar.gz",
+  "download_time": "2025-08-04T21:45:11.083097",
+  "package_url": "https://pypi.org/project/pyrisks-grf/"
+}

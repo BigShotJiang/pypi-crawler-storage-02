@@ -1,0 +1,11 @@
+{
+  "name": "promptlyzer",
+  "version": "1.2.0",
+  "summary": "Python SDK for Promptlyzer - Manage prompts, run multi-provider LLM inference, track costs",
+  "author": "Promptlyzer Team",
+  "license": null,
+  "home_page": "https://promptlyzer.com",
+  "download_filename": "promptlyzer-1.2.0.tar.gz",
+  "download_time": "2025-08-04T21:45:10.445576",
+  "package_url": "https://pypi.org/project/promptlyzer/"
+}

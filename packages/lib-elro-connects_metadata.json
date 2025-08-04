@@ -1,0 +1,11 @@
+{
+  "name": "lib-elro-connects",
+  "version": "0.6.1.0",
+  "summary": "Elro Connects P1 API",
+  "author": "Jan Bouwhuis",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/jbouwh/lib-elro-connects",
+  "download_filename": "lib_elro_connects-0.6.1.0.tar.gz",
+  "download_time": "2025-08-04T21:45:01.719075",
+  "package_url": "https://pypi.org/project/lib-elro-connects/"
+}
