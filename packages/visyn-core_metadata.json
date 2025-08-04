@@ -1,11 +1,11 @@
 {
   "name": "visyn-core",
-  "version": "17.9.0",
+  "version": "17.10.0",
   "summary": "Core repository for datavisyn applications.",
   "author": "datavisyn GmbH",
   "license": "BSD-3-Clause",
   "home_page": "https://www.datavisyn.io",
-  "download_filename": "visyn_core-17.9.0-py3-none-any.whl",
-  "download_time": "2025-08-04T10:53:48.586152",
+  "download_filename": "visyn_core-17.10.0-py3-none-any.whl",
+  "download_time": "2025-08-04T17:42:39.355636",
   "package_url": "https://pypi.org/project/visyn-core/"
 }

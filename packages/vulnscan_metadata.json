@@ -1,11 +1,11 @@
 {
   "name": "vulnscan",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "summary": "A vulnerability scanner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vulnscan-0.0.1.tar.gz",
-  "download_time": "2025-08-04T16:33:58.037904",
+  "download_filename": "vulnscan-1.0.3.tar.gz",
+  "download_time": "2025-08-04T17:42:37.662184",
   "package_url": "https://pypi.org/project/vulnscan/"
 }

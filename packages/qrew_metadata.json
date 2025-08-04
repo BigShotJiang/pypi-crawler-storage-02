@@ -1,0 +1,11 @@
+{
+  "name": "qrew",
+  "version": "1.0.0rc4",
+  "summary": "Automated loudspeaker measurement system using REW API",
+  "author": "Juan Francisco Loya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qrew-1.0.0rc4-py3-none-any.whl",
+  "download_time": "2025-08-04T17:42:24.260486",
+  "package_url": "https://pypi.org/project/qrew/"
+}

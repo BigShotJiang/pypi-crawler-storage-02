@@ -1,11 +1,11 @@
 {
   "name": "grapapy",
-  "version": "0.0.180",
+  "version": "0.0.183",
   "summary": "GrapaPy brings robust, production-ready parallel ETL/data processing to Python. By leveraging Grapa's C++ backend, GrapaPy enables true parallelism for high-throughput data workflows—bypassing Python's GIL and making advanced data processing simple and fast. **Platform Support**: Windows (AMD64), macOS (AMD64/ARM64), Linux (AMD64/ARM64).",
   "author": "Chris Matichuk",
   "license": null,
   "home_page": "https://grapa-dev.github.io/grapa/",
-  "download_filename": "grapapy-0.0.180-cp313-cp313-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-04T16:34:09.110639",
+  "download_filename": "grapapy-0.0.183-cp313-cp313-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-04T17:42:51.902259",
   "package_url": "https://pypi.org/project/grapapy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-fast-update",
+  "version": "0.3.0",
+  "summary": "Faster db updates for Django using UPDATE FROM VALUES sql variants.",
+  "author": "netzkolchose",
+  "license": "MIT",
+  "home_page": "https://github.com/netzkolchose/django-fast-update",
+  "download_filename": "django_fast_update-0.3.0.tar.gz",
+  "download_time": "2025-08-04T17:42:47.847773",
+  "package_url": "https://pypi.org/project/django-fast-update/"
+}
