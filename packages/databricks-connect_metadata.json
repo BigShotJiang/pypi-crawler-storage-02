@@ -1,11 +1,11 @@
 {
   "name": "databricks-connect",
-  "version": "17.0.2",
+  "version": "17.0.3",
   "summary": "Databricks Connect Client",
   "author": "Databricks",
   "license": "Databricks Proprietary License",
   "home_page": null,
-  "download_filename": "databricks_connect-17.0.2-py2.py3-none-any.whl",
-  "download_time": "2025-08-04T14:46:49.965709",
+  "download_filename": "databricks_connect-17.0.3-py2.py3-none-any.whl",
+  "download_time": "2025-08-04T16:34:25.675199",
   "package_url": "https://pypi.org/project/databricks-connect/"
 }

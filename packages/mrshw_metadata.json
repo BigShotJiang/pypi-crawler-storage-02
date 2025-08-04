@@ -1,0 +1,11 @@
+{
+  "name": "mrshw",
+  "version": "0.1.0b3",
+  "summary": "ctypes-based Python bindings for the mrsh CLI tool",
+  "author": "Barnabás Ifkovics",
+  "license": null,
+  "home_page": "https://github.com/w4term3loon/mrsh",
+  "download_filename": "mrshw-0.1.0b3.tar.gz",
+  "download_time": "2025-08-04T16:34:00.957042",
+  "package_url": "https://pypi.org/project/mrshw/"
+}

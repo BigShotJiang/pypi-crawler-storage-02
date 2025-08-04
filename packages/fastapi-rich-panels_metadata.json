@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-rich-panels",
+  "version": "0.1.2",
+  "summary": "Beautiful FastAPI request/response logging middleware with Rich panels",
+  "author": "danish903",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_rich_panels-0.1.2.tar.gz",
+  "download_time": "2025-08-04T16:34:42.805088",
+  "package_url": "https://pypi.org/project/fastapi-rich-panels/"
+}

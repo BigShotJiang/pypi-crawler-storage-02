@@ -1,0 +1,11 @@
+{
+  "name": "mohamedboualamallah",
+  "version": "0.1.1",
+  "summary": "A modular application for audio processing and Finch robot control.",
+  "author": "Mohamed Boualamallah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mohamedboualamallah-0.1.1.tar.gz",
+  "download_time": "2025-08-04T16:34:09.686375",
+  "package_url": "https://pypi.org/project/mohamedboualamallah/"
+}

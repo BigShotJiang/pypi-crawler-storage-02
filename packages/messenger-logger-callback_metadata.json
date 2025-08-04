@@ -1,0 +1,11 @@
+{
+  "name": "messenger-logger-callback",
+  "version": "0.1.2",
+  "summary": "A custom logger and Hugging Face Trainer Callback for sending logs to a remote server with authentication.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "messenger_logger_callback-0.1.2.tar.gz",
+  "download_time": "2025-08-04T16:34:21.659914",
+  "package_url": "https://pypi.org/project/messenger-logger-callback/"
+}

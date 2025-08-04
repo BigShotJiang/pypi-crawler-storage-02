@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.BookBuilder",
+  "version": "1.0.0",
+  "summary": "BookBuilder client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/BookBuilder/v1",
+  "download_filename": "fds_sdk_bookbuilder-1.0.0.tar.gz",
+  "download_time": "2025-08-04T16:34:32.424661",
+  "package_url": "https://pypi.org/project/fds.sdk.BookBuilder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clickplc",
+  "version": "0.14.0",
+  "summary": "Python driver for AutomationDirect (formerly Koyo) Ethernet ClickPLCs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickplc-0.14.0.tar.gz",
+  "download_time": "2025-08-04T16:33:54.523554",
+  "package_url": "https://pypi.org/project/clickplc/"
+}

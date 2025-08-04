@@ -1,11 +1,11 @@
 {
   "name": "sarvam-conv-ai-sdk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A Python SDK for building multilingual, context-aware conversational agents on Sarvam's Samvaad platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sarvam_conv_ai_sdk-1.0.1.tar.gz",
-  "download_time": "2025-08-04T14:12:46.380097",
+  "download_filename": "sarvam_conv_ai_sdk-1.0.3.tar.gz",
+  "download_time": "2025-08-04T16:33:56.176556",
   "package_url": "https://pypi.org/project/sarvam-conv-ai-sdk/"
 }
