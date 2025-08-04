@@ -1,0 +1,11 @@
+{
+  "name": "3DViewer-Flask",
+  "version": "0.0.2",
+  "summary": "View 3D CAD models with the Python web-framework Flask",
+  "author": "Aleksander Sadowski",
+  "license": "MIT",
+  "home_page": "https://github.com/alekssadowski95/3DViewer-Flask",
+  "download_filename": "3dviewer_flask-0.0.2.tar.gz",
+  "download_time": "2025-08-04T19:52:57.835457",
+  "package_url": "https://pypi.org/project/3DViewer-Flask/"
+}

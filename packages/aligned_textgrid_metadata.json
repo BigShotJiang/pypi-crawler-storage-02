@@ -1,0 +1,11 @@
+{
+  "name": "aligned_textgrid",
+  "version": "0.8.1",
+  "summary": "Classes for defining sequential information from TextGrids",
+  "author": "JoFrhwld",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://forced-alignment-and-vowel-extraction.github.io/alignedTextGrid/",
+  "download_filename": "aligned_textgrid-0.8.1.tar.gz",
+  "download_time": "2025-08-04T19:52:50.316601",
+  "package_url": "https://pypi.org/project/aligned_textgrid/"
+}

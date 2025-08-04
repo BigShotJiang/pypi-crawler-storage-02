@@ -1,11 +1,11 @@
 {
   "name": "st-image-carousel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Un composant Streamlit pour afficher un carrousel d'images",
   "author": "Ton Nom",
   "license": null,
   "home_page": "https://github.com/2nzi/st-image-carousel",
-  "download_filename": "st_image_carousel-0.1.1.tar.gz",
-  "download_time": "2025-08-04T18:44:31.436149",
+  "download_filename": "st_image_carousel-0.1.2.tar.gz",
+  "download_time": "2025-08-04T19:52:49.161964",
   "package_url": "https://pypi.org/project/st-image-carousel/"
 }

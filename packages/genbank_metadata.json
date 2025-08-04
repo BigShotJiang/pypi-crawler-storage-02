@@ -1,0 +1,11 @@
+{
+  "name": "genbank",
+  "version": "0.121",
+  "summary": "Code to work with Genbank files",
+  "author": "Katelyn McNair",
+  "license": null,
+  "home_page": "https://github.com/deprekate/genbank",
+  "download_filename": "genbank-0.121.tar.gz",
+  "download_time": "2025-08-04T19:53:05.386651",
+  "package_url": "https://pypi.org/project/genbank/"
+}

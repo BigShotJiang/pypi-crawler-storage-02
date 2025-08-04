@@ -1,0 +1,11 @@
+{
+  "name": "atomman",
+  "version": "1.5.2",
+  "summary": "Atomistic Manipulation Toolkit",
+  "author": "Lucas Hale",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/atomman/",
+  "download_filename": "atomman-1.5.2.tar.gz",
+  "download_time": "2025-08-04T19:52:52.075413",
+  "package_url": "https://pypi.org/project/atomman/"
+}

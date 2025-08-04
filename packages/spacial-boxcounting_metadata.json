@@ -1,0 +1,11 @@
+{
+  "name": "spacial-boxcounting",
+  "version": "0.1.0",
+  "summary": "Convenient package for spatial box counting and fractal analysis across data types with CPU and GPU support",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/spacial-boxcounting-cpu-gpu",
+  "download_filename": "spacial_boxcounting-0.1.0.tar.gz",
+  "download_time": "2025-08-04T19:53:00.772207",
+  "package_url": "https://pypi.org/project/spacial-boxcounting/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "a3",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "summary": "AI-powered project builder that automates modular coding project creation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "a3-0.4.9.tar.gz",
-  "download_time": "2025-08-04T17:03:43.112550",
+  "download_filename": "a3-0.4.10.tar.gz",
+  "download_time": "2025-08-04T19:53:04.233525",
   "package_url": "https://pypi.org/project/a3/"
 }

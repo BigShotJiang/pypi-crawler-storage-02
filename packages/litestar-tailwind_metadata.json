@@ -1,11 +1,11 @@
 {
   "name": "litestar-tailwind",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "litestar_tailwind-0.2.2.tar.gz",
-  "download_time": "2025-08-04T19:32:30.048582",
+  "download_filename": "litestar_tailwind-0.2.3.tar.gz",
+  "download_time": "2025-08-04T19:53:02.505618",
   "package_url": "https://pypi.org/project/litestar-tailwind/"
 }
