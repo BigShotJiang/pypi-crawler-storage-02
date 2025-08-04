@@ -1,11 +1,11 @@
 {
   "name": "turbovault4dbt",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "CLI for Turbovault 4 DBT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbovault4dbt-0.1.0.tar.gz",
-  "download_time": "2025-08-04T11:55:13.373592",
+  "download_filename": "turbovault4dbt-0.2.1.tar.gz",
+  "download_time": "2025-08-04T18:44:19.595705",
   "package_url": "https://pypi.org/project/turbovault4dbt/"
 }

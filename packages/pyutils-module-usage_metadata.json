@@ -1,0 +1,11 @@
+{
+  "name": "pyutils-module-usage",
+  "version": "0.1.0",
+  "summary": "Python package for determining subroutine usage in a Fortran module.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyutils_module_usage-0.1.0.tar.gz",
+  "download_time": "2025-08-04T18:44:09.976268",
+  "package_url": "https://pypi.org/project/pyutils-module-usage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optimas-ai",
+  "version": "0.0.3",
+  "summary": "Optimas is a unified framework for end-to-end optimization of compound AI systems. While traditional optimization methods focus on single configuration types—such as prompts or hyperparameters—modern compound AI systems require coordinated optimization across multiple heterogeneous configuration types that work well together.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optimas_ai-0.0.3.tar.gz",
+  "download_time": "2025-08-04T18:44:15.376463",
+  "package_url": "https://pypi.org/project/optimas-ai/"
+}

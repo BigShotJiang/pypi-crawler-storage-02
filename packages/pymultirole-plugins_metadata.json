@@ -1,0 +1,11 @@
+{
+  "name": "pymultirole-plugins",
+  "version": "0.5.263",
+  "summary": "Sherpa multirole plugins",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pymultirole_plugins-0.5.263.tar.gz",
+  "download_time": "2025-08-04T18:44:09.443793",
+  "package_url": "https://pypi.org/project/pymultirole-plugins/"
+}
