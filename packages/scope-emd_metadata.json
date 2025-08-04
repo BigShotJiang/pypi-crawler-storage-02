@@ -1,0 +1,11 @@
+{
+  "name": "scope-emd",
+  "version": "1.0.0",
+  "summary": "scope is the Python-based package for detecting oscillatory                  signals in observational or experimental time series with the                 EMD technique and assessing their statistical significance vs.                 power-law distributed background noise.",
+  "author": "Dmitrii Kolotkov, Weijie Gu, Sergey Belov, Valery Nakariakov",
+  "license": null,
+  "home_page": "https://github.com/Warwick-Solar/scope",
+  "download_filename": "scope_emd-1.0.0.tar.gz",
+  "download_time": "2025-08-04T21:56:49.836738",
+  "package_url": "https://pypi.org/project/scope-emd/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kubelingo",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "CLI quizzes for kubectl commands and Kubernetes YAML editing",
   "author": null,
   "license": null,
   "home_page": "https://github.com/josephedward/kubelingo",
-  "download_filename": "kubelingo-0.1.9.tar.gz",
-  "download_time": "2025-08-04T21:45:19.981190",
+  "download_filename": "kubelingo-0.1.10.tar.gz",
+  "download_time": "2025-08-04T21:56:35.623281",
   "package_url": "https://pypi.org/project/kubelingo/"
 }

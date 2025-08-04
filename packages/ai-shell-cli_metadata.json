@@ -1,0 +1,11 @@
+{
+  "name": "ai-shell-cli",
+  "version": "0.1.0",
+  "summary": "AI-Powered Interactive Shell - Convert natural language to shell commands",
+  "author": "AI-shell Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ai-shell/ai-shell",
+  "download_filename": "ai_shell_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-04T21:56:41.366752",
+  "package_url": "https://pypi.org/project/ai-shell-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codx-snippet-manager",
+  "version": "1.0.1",
+  "summary": "A powerful, local-first code snippet manager for the command line with interactive TUI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codx_snippet_manager-1.0.1.tar.gz",
+  "download_time": "2025-08-04T21:56:56.684170",
+  "package_url": "https://pypi.org/project/codx-snippet-manager/"
+}
