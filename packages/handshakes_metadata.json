@@ -1,0 +1,11 @@
+{
+  "name": "handshakes",
+  "version": "0.10.2",
+  "summary": "A service that's keen to process your test results",
+  "author": "Rahul",
+  "license": "MIT",
+  "home_page": "https://github.com/RahulARanger/handshake",
+  "download_filename": "handshakes-0.10.2.tar.gz",
+  "download_time": "2025-08-04T21:25:24.620436",
+  "package_url": "https://pypi.org/project/handshakes/"
+}

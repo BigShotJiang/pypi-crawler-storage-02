@@ -1,0 +1,11 @@
+{
+  "name": "py-algorand-sdk",
+  "version": "2.10.0",
+  "summary": "Algorand SDK in Python",
+  "author": "Algorand",
+  "license": "MIT",
+  "home_page": "https://github.com/algorand/py-algorand-sdk",
+  "download_filename": "py_algorand_sdk-2.10.0.tar.gz",
+  "download_time": "2025-08-04T21:25:28.073223",
+  "package_url": "https://pypi.org/project/py-algorand-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qingping",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "Qingping utilities",
-  "author": "pegasko",
+  "author": "bitrate16",
   "license": "GNU Affero General Public License v3",
-  "home_page": "https://git.in.pegasko.art/qingping/qingping",
-  "download_filename": "qingping-0.2.tar.gz",
-  "download_time": "2025-08-04T20:48:39.369572",
+  "home_page": "https://github.com/bitrate16/qingping",
+  "download_filename": "qingping-0.3.tar.gz",
+  "download_time": "2025-08-04T21:25:21.762141",
   "package_url": "https://pypi.org/project/qingping/"
 }

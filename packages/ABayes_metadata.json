@@ -1,0 +1,11 @@
+{
+  "name": "ABayes",
+  "version": "0.0.2",
+  "summary": "High-performance Python library for AB testing analysis with JAX and FastAPI",
+  "author": "ABayes Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abayes-0.0.2.tar.gz",
+  "download_time": "2025-08-04T21:25:22.335514",
+  "package_url": "https://pypi.org/project/ABayes/"
+}

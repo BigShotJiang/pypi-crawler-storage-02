@@ -1,11 +1,11 @@
 {
   "name": "dubhub",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Dubhub CLI",
   "author": null,
   "license": "BSD 2-Clause License",
   "home_page": "https://dubhub.io",
-  "download_filename": "dubhub-0.7.0-py3-none-any.whl",
-  "download_time": "2025-08-04T20:48:38.204570",
+  "download_filename": "dubhub-0.7.1-py3-none-any.whl",
+  "download_time": "2025-08-04T21:25:18.914006",
   "package_url": "https://pypi.org/project/dubhub/"
 }

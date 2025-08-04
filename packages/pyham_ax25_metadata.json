@@ -1,0 +1,11 @@
+{
+  "name": "pyham_ax25",
+  "version": "1.0.3",
+  "summary": "AX.25 Frame Encoding and Decoding & Socket Support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyham_ax25-1.0.3.tar.gz",
+  "download_time": "2025-08-04T21:24:54.966346",
+  "package_url": "https://pypi.org/project/pyham_ax25/"
+}
