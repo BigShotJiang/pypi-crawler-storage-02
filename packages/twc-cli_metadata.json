@@ -1,0 +1,11 @@
+{
+  "name": "twc-cli",
+  "version": "2.13.2",
+  "summary": "Timeweb Cloud Command Line Interface.",
+  "author": "ge",
+  "license": "MIT",
+  "home_page": "https://github.com/timeweb-cloud/twc",
+  "download_filename": "twc_cli-2.13.2.tar.gz",
+  "download_time": "2025-08-04T14:12:35.008160",
+  "package_url": "https://pypi.org/project/twc-cli/"
+}

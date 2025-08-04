@@ -1,0 +1,11 @@
+{
+  "name": "comment-remover-cli",
+  "version": "1.2.1",
+  "summary": "High-accuracy comment removal tool for 20+ programming languages with beautiful CLI",
+  "author": "guider23",
+  "license": null,
+  "home_page": "https://github.com/guider23/Comms",
+  "download_filename": "comment_remover_cli-1.2.1.tar.gz",
+  "download_time": "2025-08-04T14:12:46.924501",
+  "package_url": "https://pypi.org/project/comment-remover-cli/"
+}

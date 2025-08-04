@@ -1,11 +1,11 @@
 {
   "name": "louieai",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "Python client for Louie.ai (Graphistry's AI investigation platform)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "louieai-0.5.5.tar.gz",
-  "download_time": "2025-08-04T05:52:49.783859",
+  "download_filename": "louieai-0.5.6.tar.gz",
+  "download_time": "2025-08-04T14:12:31.777926",
   "package_url": "https://pypi.org/project/louieai/"
 }

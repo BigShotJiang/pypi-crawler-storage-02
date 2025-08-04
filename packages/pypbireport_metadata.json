@@ -1,0 +1,11 @@
+{
+  "name": "pypbireport",
+  "version": "0.2.4",
+  "summary": "Package to manipulate Power BI report and model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypbireport-0.2.4.tar.gz",
+  "download_time": "2025-08-04T14:12:57.771610",
+  "package_url": "https://pypi.org/project/pypbireport/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pcap-anonymize",
+  "version": "0.3.0",
+  "summary": "Anonymize PCAP files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pcap_anonymize-0.3.0.tar.gz",
+  "download_time": "2025-08-04T14:12:52.917500",
+  "package_url": "https://pypi.org/project/pcap-anonymize/"
+}

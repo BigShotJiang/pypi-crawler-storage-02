@@ -1,11 +1,11 @@
 {
   "name": "partest",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "This is a module for the rapid implementation of test cases with coverage tracking. This module contains a call counter for specific endpoints and their methods. As well as the function of determining the types of tests that need to be counted.",
   "author": "dec01",
   "license": null,
   "home_page": "https://github.com/Dec01/partest",
-  "download_filename": "partest-0.2.10.tar.gz",
-  "download_time": "2025-08-04T13:44:59.063971",
+  "download_filename": "partest-0.2.11.tar.gz",
+  "download_time": "2025-08-04T14:12:42.438638",
   "package_url": "https://pypi.org/project/partest/"
 }

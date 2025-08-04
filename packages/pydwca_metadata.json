@@ -1,0 +1,11 @@
+{
+  "name": "pydwca",
+  "version": "0.5.1",
+  "summary": "Python library to read, parse and write Darwin Core Archive files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydwca-0.5.1.tar.gz",
+  "download_time": "2025-08-04T14:12:32.304048",
+  "package_url": "https://pypi.org/project/pydwca/"
+}

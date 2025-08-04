@@ -1,0 +1,11 @@
+{
+  "name": "meg-qc",
+  "version": "0.6.0",
+  "summary": "Tool for automated MEG data quality control",
+  "author": "Evgeniia Gapontseva, Aaron Reer, Erdal Karaca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meg_qc-0.6.0.tar.gz",
+  "download_time": "2025-08-04T14:12:43.000809",
+  "package_url": "https://pypi.org/project/meg-qc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "enough-journal",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A minimal journaling application with Nathaniel Branden sentence completion exercises",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "enough_journal-0.2.1.tar.gz",
-  "download_time": "2025-08-04T13:44:49.653514",
+  "download_filename": "enough_journal-0.2.2.tar.gz",
+  "download_time": "2025-08-04T14:12:37.639438",
   "package_url": "https://pypi.org/project/enough-journal/"
 }

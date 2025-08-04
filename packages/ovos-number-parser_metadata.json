@@ -1,11 +1,11 @@
 {
   "name": "ovos-number-parser",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "OpenVoiceOS's multilingual text parsing and formatting library",
   "author": "Mycroft AI / OVOS",
   "license": "Apache2.0",
   "home_page": "https://github.com/OpenVoiceOS/ovos-number-parser",
-  "download_filename": "ovos-number-parser-0.4.0.tar.gz",
-  "download_time": "2025-08-04T13:45:03.810172",
+  "download_filename": "ovos-number-parser-0.4.2.tar.gz",
+  "download_time": "2025-08-04T14:13:05.206129",
   "package_url": "https://pypi.org/project/ovos-number-parser/"
 }

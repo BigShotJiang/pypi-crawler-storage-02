@@ -1,11 +1,11 @@
 {
   "name": "coder-search-mcp",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Coder Search MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coder_search_mcp-1.0.2.tar.gz",
-  "download_time": "2025-08-04T13:44:36.896446",
+  "download_filename": "coder_search_mcp-1.0.4.tar.gz",
+  "download_time": "2025-08-04T14:12:39.799362",
   "package_url": "https://pypi.org/project/coder-search-mcp/"
 }
