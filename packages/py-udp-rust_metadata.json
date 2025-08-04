@@ -1,0 +1,11 @@
+{
+  "name": "py-udp-rust",
+  "version": "0.2.0",
+  "summary": "High-performance UDP networking library for Python with Rust backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_udp_rust-0.2.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-08-04T09:47:08.405184",
+  "package_url": "https://pypi.org/project/py-udp-rust/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hdwallet",
+  "version": "3.6.1",
+  "summary": "Python-based library implementing a Hierarchical Deterministic (HD) Wallet generator for 200+ cryptocurrencies.",
+  "author": "Meheret Tesfaye Batu",
+  "license": "MIT",
+  "home_page": "https://hdwallet.io",
+  "download_filename": "hdwallet-3.6.1.tar.gz",
+  "download_time": "2025-08-04T09:47:50.900519",
+  "package_url": "https://pypi.org/project/hdwallet/"
+}

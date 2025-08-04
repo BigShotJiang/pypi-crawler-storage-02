@@ -1,0 +1,11 @@
+{
+  "name": "odman",
+  "version": "0.3.0a0",
+  "summary": "OneDrive Manager (odman) - A professional CLI tool for OneDrive file operations via app-only authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odman-0.3.0a0.tar.gz",
+  "download_time": "2025-08-04T09:47:23.635703",
+  "package_url": "https://pypi.org/project/odman/"
+}

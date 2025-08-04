@@ -1,0 +1,11 @@
+{
+  "name": "ols-client",
+  "version": "0.2.1",
+  "summary": "A client to the EBI Ontology Lookup Service",
+  "author": "Charles Tapley Hoyt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ols_client-0.2.1.tar.gz",
+  "download_time": "2025-08-04T09:47:38.638952",
+  "package_url": "https://pypi.org/project/ols-client/"
+}
