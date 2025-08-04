@@ -1,11 +1,11 @@
 {
   "name": "ormlambda",
-  "version": "3.34.7",
+  "version": "3.34.8",
   "summary": "ORM designed to interact with the database (currently with MySQL) using lambda functions and nested functions",
   "author": "p-hzamora",
   "license": null,
   "home_page": null,
-  "download_filename": "ormlambda-3.34.7.tar.gz",
-  "download_time": "2025-08-04T11:22:42.452818",
+  "download_filename": "ormlambda-3.34.8.tar.gz",
+  "download_time": "2025-08-04T15:28:26.608468",
   "package_url": "https://pypi.org/project/ormlambda/"
 }

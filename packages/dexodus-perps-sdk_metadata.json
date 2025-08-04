@@ -1,0 +1,11 @@
+{
+  "name": "dexodus-perps-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for Dexodus perpetual futures trading platform on Base (v1.1.0 - Simplified Configuration)",
+  "author": "Dexodus Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dexodus/perps-sdk-python",
+  "download_filename": "dexodus_perps_sdk-1.1.0.tar.gz",
+  "download_time": "2025-08-04T15:28:33.923460",
+  "package_url": "https://pypi.org/project/dexodus-perps-sdk/"
+}
