@@ -1,0 +1,11 @@
+{
+  "name": "terminatex",
+  "version": "1.2.0",
+  "summary": "Displays clear, colorful LaTeX expressions directly in the terminal.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminatex-1.2.0.tar.gz",
+  "download_time": "2025-08-04T13:45:15.349281",
+  "package_url": "https://pypi.org/project/terminatex/"
+}

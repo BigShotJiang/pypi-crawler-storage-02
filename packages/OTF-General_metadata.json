@@ -1,0 +1,11 @@
+{
+  "name": "OTF-General",
+  "version": "0.1.0",
+  "summary": "Alchemical binding free‐energy workflow",
+  "author": "S. Benjamin Koby and Maria G. Kurnikova",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "otf_general-0.1.0.tar.gz",
+  "download_time": "2025-08-04T13:45:02.763697",
+  "package_url": "https://pypi.org/project/OTF-General/"
+}

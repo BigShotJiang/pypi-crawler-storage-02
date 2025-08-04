@@ -1,0 +1,11 @@
+{
+  "name": "SideScanSonarEditor",
+  "version": "0.3.0",
+  "summary": "A Python package for editing side-scan sonar data.",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "sidescansonareditor-0.3.0.tar.gz",
+  "download_time": "2025-08-04T13:44:39.526289",
+  "package_url": "https://pypi.org/project/SideScanSonarEditor/"
+}

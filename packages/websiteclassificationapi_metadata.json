@@ -1,0 +1,11 @@
+{
+  "name": "websiteclassificationapi",
+  "version": "2.10",
+  "summary": "Website classification API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/websitecategorization/websiteclassificationnapi",
+  "download_filename": "websiteclassificationapi-2.10.tar.gz",
+  "download_time": "2025-08-04T13:44:55.912733",
+  "package_url": "https://pypi.org/project/websiteclassificationapi/"
+}

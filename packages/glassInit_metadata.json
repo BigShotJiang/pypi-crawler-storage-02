@@ -1,0 +1,11 @@
+{
+  "name": "glassInit",
+  "version": "0.0.4",
+  "summary": "glassInit is a way to initialize the parameters of a neural network layer @pytorch. It is suitable for shortcut connections where tensor sizes need to be adjusted. The flow of information between forward and backward propagation is maximized while adjusting the tensor size. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glassinit-0.0.4.tar.gz",
+  "download_time": "2025-08-04T13:44:37.415280",
+  "package_url": "https://pypi.org/project/glassInit/"
+}
