@@ -1,0 +1,11 @@
+{
+  "name": "pykostal",
+  "version": "0.0.3",
+  "summary": "package to communicate with Kostal Piko inverters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykostal-0.0.3.tar.gz",
+  "download_time": "2025-08-04T22:50:10.910656",
+  "package_url": "https://pypi.org/project/pykostal/"
+}

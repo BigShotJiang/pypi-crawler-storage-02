@@ -1,0 +1,11 @@
+{
+  "name": "opensteuerauszug",
+  "version": "0.0.0",
+  "summary": "Generate Swiss tax statements from financial data (placeholder).",
+  "author": "Open Steuerauszug Team",
+  "license": "MIT",
+  "home_page": "https://github.com/vroonhof/opensteuerauszug",
+  "download_filename": "opensteuerauszug-0.0.0.tar.gz",
+  "download_time": "2025-08-04T22:50:03.918973",
+  "package_url": "https://pypi.org/project/opensteuerauszug/"
+}

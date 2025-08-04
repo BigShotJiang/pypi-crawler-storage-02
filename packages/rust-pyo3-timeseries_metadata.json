@@ -1,11 +1,11 @@
 {
   "name": "rust-pyo3-timeseries",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Rust-implemented time-series econometric utilities exposed to Python via PyO3.",
   "author": "Dor Fuchs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rust_pyo3_timeseries-0.1.8.tar.gz",
-  "download_time": "2025-08-04T21:24:51.481234",
+  "download_filename": "rust_pyo3_timeseries-0.1.9.tar.gz",
+  "download_time": "2025-08-04T22:50:16.290390",
   "package_url": "https://pypi.org/project/rust-pyo3-timeseries/"
 }

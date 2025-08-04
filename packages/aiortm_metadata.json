@@ -1,0 +1,11 @@
+{
+  "name": "aiortm",
+  "version": "0.11.0",
+  "summary": "Use the Remember the Milk API with aiohttp.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aiortm-0.11.0.tar.gz",
+  "download_time": "2025-08-04T22:49:54.750192",
+  "package_url": "https://pypi.org/project/aiortm/"
+}

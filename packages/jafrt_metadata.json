@@ -1,11 +1,11 @@
 {
   "name": "jafrt",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "کتابخانه که توسط hetx زده شده",
   "author": "نام شما",
   "license": null,
   "home_page": "https://github.com/ندارم/jafrt",
-  "download_filename": "jafrt-0.1.1.tar.gz",
-  "download_time": "2025-08-04T21:56:30.909738",
+  "download_filename": "jafrt-0.1.3.tar.gz",
+  "download_time": "2025-08-04T22:50:07.927784",
   "package_url": "https://pypi.org/project/jafrt/"
 }

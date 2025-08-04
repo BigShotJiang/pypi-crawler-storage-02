@@ -1,11 +1,11 @@
 {
   "name": "pynotiq-client",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python client library for adding messages to PyNotiQ queue with local and remote support",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/downlevel/pynotiq_client",
-  "download_filename": "pynotiq_client-0.3.0.tar.gz",
-  "download_time": "2025-08-04T22:27:23.222719",
+  "download_filename": "pynotiq_client-0.4.0.tar.gz",
+  "download_time": "2025-08-04T22:49:57.895108",
   "package_url": "https://pypi.org/project/pynotiq-client/"
 }

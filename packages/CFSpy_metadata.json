@@ -1,0 +1,11 @@
+{
+  "name": "CFSpy",
+  "version": "1.2.1",
+  "summary": "Chen-Fliess series computation",
+  "author": "Ivan Perez Avellaneda",
+  "license": "MIT",
+  "home_page": "https://github.com/iperezav/CFSpy/",
+  "download_filename": "cfspy-1.2.1.tar.gz",
+  "download_time": "2025-08-04T22:50:24.244729",
+  "package_url": "https://pypi.org/project/CFSpy/"
+}

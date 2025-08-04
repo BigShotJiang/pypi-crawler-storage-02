@@ -1,0 +1,11 @@
+{
+  "name": "pyfortran",
+  "version": "0.1.1",
+  "summary": "Python package for Fortran-based utilities, including a program to determine subroutine usage in a Fortran module.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyfortran-0.1.1.tar.gz",
+  "download_time": "2025-08-04T22:50:05.661038",
+  "package_url": "https://pypi.org/project/pyfortran/"
+}

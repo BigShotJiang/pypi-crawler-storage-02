@@ -1,0 +1,11 @@
+{
+  "name": "pyagentai",
+  "version": "0.1.2",
+  "summary": "A Python library for seamless integration with Agent.ai APIs",
+  "author": "MeepoLabs",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/meepolabs/pyagentai",
+  "download_filename": "pyagentai-0.1.2.tar.gz",
+  "download_time": "2025-08-04T22:50:16.873482",
+  "package_url": "https://pypi.org/project/pyagentai/"
+}

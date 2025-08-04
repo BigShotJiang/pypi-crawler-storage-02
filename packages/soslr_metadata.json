@@ -1,0 +1,11 @@
+{
+  "name": "soslr",
+  "version": "0.1.2",
+  "summary": "A semi-supervised learning library using iterative pseudo-labeling.",
+  "author": "Soroush Oskouei",
+  "license": null,
+  "home_page": "https://github.com/SoroushOskouei/Semi-Supervised-sos",
+  "download_filename": "soslr-0.1.2.tar.gz",
+  "download_time": "2025-08-04T22:50:22.433674",
+  "package_url": "https://pypi.org/project/soslr/"
+}
