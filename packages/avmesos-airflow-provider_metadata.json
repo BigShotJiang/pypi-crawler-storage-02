@@ -1,0 +1,11 @@
+{
+  "name": "avmesos-airflow-provider",
+  "version": "0.3.0",
+  "summary": "Apache Mesos Provider",
+  "author": "Andreas Peters",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.aventer.biz/",
+  "download_filename": "avmesos_airflow_provider-0.3.0.tar.gz",
+  "download_time": "2025-08-04T17:57:39.887771",
+  "package_url": "https://pypi.org/project/avmesos-airflow-provider/"
+}

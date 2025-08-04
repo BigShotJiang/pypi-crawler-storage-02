@@ -1,0 +1,11 @@
+{
+  "name": "requests-async",
+  "version": "0.2.3",
+  "summary": "Simple async HTTP client with requests-like interface, powered by httpx",
+  "author": "requests-async contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "requests_async-0.2.3.tar.gz",
+  "download_time": "2025-08-04T17:57:52.967569",
+  "package_url": "https://pypi.org/project/requests-async/"
+}

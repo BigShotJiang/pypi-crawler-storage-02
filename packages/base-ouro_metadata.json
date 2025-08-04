@@ -1,0 +1,11 @@
+{
+  "name": "base-ouro",
+  "version": "12.0",
+  "summary": "Conversor utilizado para a geração da Base Ouro",
+  "author": "Gabriel Ernesto Barboza Pereira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "base_ouro-12.0.tar.gz",
+  "download_time": "2025-08-04T17:57:47.808553",
+  "package_url": "https://pypi.org/project/base-ouro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "configaroo",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Bouncy handling of configuration files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "configaroo-0.2.3.tar.gz",
-  "download_time": "2025-08-04T14:47:01.323048",
+  "download_filename": "configaroo-0.2.4.tar.gz",
+  "download_time": "2025-08-04T17:57:45.302736",
   "package_url": "https://pypi.org/project/configaroo/"
 }
