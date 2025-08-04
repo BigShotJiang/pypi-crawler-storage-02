@@ -1,0 +1,11 @@
+{
+  "name": "openapi-to-fastapi",
+  "version": "0.19.0",
+  "summary": "Create FastAPI routes from OpenAPI spec",
+  "author": "IOXIO Ltd",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ioxiocom/openapi-to-fastapi",
+  "download_filename": "openapi_to_fastapi-0.19.0.tar.gz",
+  "download_time": "2025-08-04T10:53:55.553615",
+  "package_url": "https://pypi.org/project/openapi-to-fastapi/"
+}

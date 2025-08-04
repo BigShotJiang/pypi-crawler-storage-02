@@ -1,0 +1,11 @@
+{
+  "name": "vlaholo",
+  "version": "0.0.19",
+  "summary": "VLA training framework.",
+  "author": "Lucas Jin",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/",
+  "download_filename": "vlaholo-0.0.19.tar.gz",
+  "download_time": "2025-08-04T10:53:53.409566",
+  "package_url": "https://pypi.org/project/vlaholo/"
+}

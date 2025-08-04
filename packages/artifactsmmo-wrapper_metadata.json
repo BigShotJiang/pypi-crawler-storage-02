@@ -1,11 +1,11 @@
 {
   "name": "artifactsmmo-wrapper",
-  "version": "3200.0.1",
+  "version": "3200.0.2",
   "summary": "A Python API Wrapper for ArtifactsMMO",
   "author": null,
   "license": "GNU Affero General Public License v3",
   "home_page": null,
-  "download_filename": "artifactsmmo_wrapper-3200.0.1.tar.gz",
-  "download_time": "2025-08-04T09:47:12.454617",
+  "download_filename": "artifactsmmo_wrapper-3200.0.2.tar.gz",
+  "download_time": "2025-08-04T10:53:57.154730",
   "package_url": "https://pypi.org/project/artifactsmmo-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cyjax-misp-input-module",
+  "version": "1.2.0",
+  "summary": "cyjax-misp-input-module provides an input module for MISP for incident reports and indicators of compromise.",
+  "author": "Cyjax Ltd.",
+  "license": "MIT",
+  "home_page": "https://www.cyjax.com",
+  "download_filename": "cyjax-misp-input-module-1.2.0.tar.gz",
+  "download_time": "2025-08-04T10:53:50.189242",
+  "package_url": "https://pypi.org/project/cyjax-misp-input-module/"
+}

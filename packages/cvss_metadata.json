@@ -1,0 +1,11 @@
+{
+  "name": "cvss",
+  "version": "3.6",
+  "summary": "CVSS2/3/4 library with interactive calculator for Python 2 and Python 3",
+  "author": "Stanislav Kontar, Red Hat Product Security",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/RedHatProductSecurity/cvss",
+  "download_filename": "cvss-3.6.tar.gz",
+  "download_time": "2025-08-04T10:53:35.659551",
+  "package_url": "https://pypi.org/project/cvss/"
+}

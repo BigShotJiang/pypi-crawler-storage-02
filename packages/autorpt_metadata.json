@@ -1,0 +1,11 @@
+{
+  "name": "autorpt",
+  "version": "0.1.2",
+  "summary": "Automated budget report generator for grant management with Excel input and Word output",
+  "author": "Vance Russell",
+  "license": "MIT license",
+  "home_page": "https://github.com/VRConservation/autorpt",
+  "download_filename": "autorpt-0.1.2.tar.gz",
+  "download_time": "2025-08-04T10:54:01.988123",
+  "package_url": "https://pypi.org/project/autorpt/"
+}

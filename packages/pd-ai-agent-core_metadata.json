@@ -1,0 +1,11 @@
+{
+  "name": "pd-ai-agent-core",
+  "version": "0.1.17",
+  "summary": "A core library for AI agent functionality",
+  "author": "Parallels",
+  "license": null,
+  "home_page": "https://github.com/Parallels/pd-ai-agent-core",
+  "download_filename": "pd_ai_agent_core-0.1.17.tar.gz",
+  "download_time": "2025-08-04T10:53:44.329621",
+  "package_url": "https://pypi.org/project/pd-ai-agent-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vpype",
+  "version": "1.15.0",
+  "summary": "The Swiss Army knife of vector graphics for pen plotters",
+  "author": "Antoine Beyeler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vpype-1.15.0.tar.gz",
+  "download_time": "2025-08-04T10:53:58.769323",
+  "package_url": "https://pypi.org/project/vpype/"
+}
