@@ -1,0 +1,11 @@
+{
+  "name": "tensorizer",
+  "version": "2.11.0",
+  "summary": "A tool for fast PyTorch module, model, and tensor serialization + deserialization.",
+  "author": "CoreWeave",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tensorizer-2.11.0.tar.gz",
+  "download_time": "2025-08-04T23:56:40.747971",
+  "package_url": "https://pypi.org/project/tensorizer/"
+}

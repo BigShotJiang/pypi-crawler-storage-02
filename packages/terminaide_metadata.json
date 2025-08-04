@@ -1,11 +1,11 @@
 {
   "name": "terminaide",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Serve Python CLI applications in the browser using ttyd",
   "author": "Alex Basile",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terminaide-1.1.2.tar.gz",
-  "download_time": "2025-08-04T15:51:20.380304",
+  "download_filename": "terminaide-1.2.0.tar.gz",
+  "download_time": "2025-08-04T23:56:48.499580",
   "package_url": "https://pypi.org/project/terminaide/"
 }

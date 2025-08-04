@@ -1,11 +1,11 @@
 {
   "name": "FernetKeyVault",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A simple Python SQLite3-based key-value storage vault",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fernetkeyvault-1.0.5.tar.gz",
-  "download_time": "2025-08-04T22:50:09.103376",
+  "download_filename": "fernetkeyvault-1.0.6.tar.gz",
+  "download_time": "2025-08-04T23:56:37.156602",
   "package_url": "https://pypi.org/project/FernetKeyVault/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nd-prover",
+  "version": "0.1.0",
+  "summary": "An interactive Fitch-style proof checker",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nd_prover-0.1.0.tar.gz",
+  "download_time": "2025-08-04T23:56:28.430706",
+  "package_url": "https://pypi.org/project/nd-prover/"
+}
