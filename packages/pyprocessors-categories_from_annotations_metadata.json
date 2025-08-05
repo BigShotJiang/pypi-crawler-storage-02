@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-categories_from_annotations",
-  "version": "0.5.31",
+  "version": "0.5.33",
   "summary": "Sherpa transform annotations to categories processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_categories_from_annotations/",
-  "download_filename": "pyprocessors_categories_from_annotations-0.5.31.tar.gz",
-  "download_time": "2025-08-05T11:46:12.478126",
+  "download_filename": "pyprocessors_categories_from_annotations-0.5.33.tar.gz",
+  "download_time": "2025-08-05T16:49:33.457567",
   "package_url": "https://pypi.org/project/pyprocessors-categories_from_annotations/"
 }

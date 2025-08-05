@@ -1,11 +1,11 @@
 {
   "name": "grantt",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Making Gantt charts in matplotlib",
   "author": "Maximilian Ramgraber, Daniel Sharp",
   "license": null,
   "home_page": null,
-  "download_filename": "grantt-0.1.3.tar.gz",
-  "download_time": "2025-08-05T16:27:36.221105",
+  "download_filename": "grantt-0.1.5.tar.gz",
+  "download_time": "2025-08-05T16:49:23.403214",
   "package_url": "https://pypi.org/project/grantt/"
 }

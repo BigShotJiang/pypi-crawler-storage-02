@@ -1,0 +1,11 @@
+{
+  "name": "bowser-insar",
+  "version": "0.3.0",
+  "summary": "Web UI for browsing InSAR time series",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bowser_insar-0.3.0.tar.gz",
+  "download_time": "2025-08-05T16:49:34.625568",
+  "package_url": "https://pypi.org/project/bowser-insar/"
+}

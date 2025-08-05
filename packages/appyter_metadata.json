@@ -1,0 +1,11 @@
+{
+  "name": "appyter",
+  "version": "0.21.4",
+  "summary": "This module enables you to turn your jupyter notebook into a jinja2 template-driven web application.",
+  "author": "Daniel Clarke",
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": null,
+  "download_filename": "appyter-0.21.4.tar.gz",
+  "download_time": "2025-08-05T16:49:32.314943",
+  "package_url": "https://pypi.org/project/appyter/"
+}
