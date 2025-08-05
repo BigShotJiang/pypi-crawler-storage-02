@@ -1,0 +1,11 @@
+{
+  "name": "ultrasync",
+  "version": "1.0.2",
+  "summary": "Wrapper to XGen/XGen8/ComNav/Hills/Interlogix NX-595E/UltraSync ZeroWire",
+  "author": "Chris Caron",
+  "license": "MIT",
+  "home_page": "https://github.com/caronc/ultrasync",
+  "download_filename": "ultrasync-1.0.2.tar.gz",
+  "download_time": "2025-08-05T20:47:11.947965",
+  "package_url": "https://pypi.org/project/ultrasync/"
+}

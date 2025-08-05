@@ -1,0 +1,11 @@
+{
+  "name": "decksmith",
+  "version": "0.1.11",
+  "summary": "A command-line application to dynamically generate decks of cards from a JSON specification and a CSV data file, inspired by nandeck.",
+  "author": "Julio Cabria",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/Julynx/decksmith",
+  "download_filename": "decksmith-0.1.11.tar.gz",
+  "download_time": "2025-08-05T20:47:42.116362",
+  "package_url": "https://pypi.org/project/decksmith/"
+}

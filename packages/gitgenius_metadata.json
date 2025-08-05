@@ -1,0 +1,11 @@
+{
+  "name": "gitgenius",
+  "version": "0.1.1",
+  "summary": "GitGenius CLI - Understand Git errors in plain English",
+  "author": "Selva Neyas U",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitgenius-0.1.1.tar.gz",
+  "download_time": "2025-08-05T20:47:41.569777",
+  "package_url": "https://pypi.org/project/gitgenius/"
+}
