@@ -1,0 +1,11 @@
+{
+  "name": "jxb-mobilenetv3",
+  "version": "1.0.0",
+  "summary": "A MobileNetV3-based classifier",
+  "author": "Xiaobo Jia",
+  "license": "MIT",
+  "home_page": "https://github.com/Starsjxb6/jxb-mobilenetv3",
+  "download_filename": "jxb-mobilenetv3-1.0.0.tar.gz",
+  "download_time": "2025-08-05T04:53:49.043726",
+  "package_url": "https://pypi.org/project/jxb-mobilenetv3/"
+}

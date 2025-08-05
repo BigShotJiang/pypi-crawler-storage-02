@@ -1,11 +1,11 @@
 {
   "name": "hooks-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server that exposes project-specific development tools (tests, linters, etc.) via YAML configuration",
   "author": "Steve Cosman",
   "license": null,
   "home_page": null,
-  "download_filename": "hooks_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-05T03:57:30.722152",
+  "download_filename": "hooks_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-05T04:53:56.888327",
   "package_url": "https://pypi.org/project/hooks-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "phic",
+  "version": "2.1.1",
+  "summary": "Polymer dynamics simulation from Hi-C data",
+  "author": "Soya SHINKAI and Soya HAGIWARA",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/soyashinkai/PHi-C2",
+  "download_filename": "phic-2.1.1.tar.gz",
+  "download_time": "2025-08-05T04:53:38.531278",
+  "package_url": "https://pypi.org/project/phic/"
+}

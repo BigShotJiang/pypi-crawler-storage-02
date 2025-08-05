@@ -1,0 +1,11 @@
+{
+  "name": "quez",
+  "version": "1.0.0",
+  "summary": "Pluggable, compressed in-memory queues for both sync and asyncio applications.",
+  "author": "Chaiwat Suttipongsakul",
+  "license": "MIT",
+  "home_page": "https://sr.ht/~cwt/quez/",
+  "download_filename": "quez-1.0.0.tar.gz",
+  "download_time": "2025-08-05T04:53:35.410705",
+  "package_url": "https://pypi.org/project/quez/"
+}

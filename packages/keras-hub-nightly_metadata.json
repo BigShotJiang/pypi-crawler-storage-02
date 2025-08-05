@@ -1,11 +1,11 @@
 {
   "name": "keras-hub-nightly",
-  "version": "0.22.0.dev202508040434",
+  "version": "0.22.0.dev202508050427",
   "summary": "Pretrained models for Keras.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keras_hub_nightly-0.22.0.dev202508040434.tar.gz",
-  "download_time": "2025-08-04T05:02:04.481245",
+  "download_filename": "keras_hub_nightly-0.22.0.dev202508050427.tar.gz",
+  "download_time": "2025-08-05T04:53:43.795045",
   "package_url": "https://pypi.org/project/keras-hub-nightly/"
 }
