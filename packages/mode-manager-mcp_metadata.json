@@ -1,0 +1,11 @@
+{
+  "name": "mode-manager-mcp",
+  "version": "0.1.15",
+  "summary": "Mode Manager MCP: Server for managing VS Code .chatmode.md and .instructions.md files (GitHub Copilot prompts)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mode_manager_mcp-0.1.15.tar.gz",
+  "download_time": "2025-08-05T22:27:04.286120",
+  "package_url": "https://pypi.org/project/mode-manager-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "FAIRLinked",
-  "version": "0.3.0.10",
+  "version": "0.3.0.13",
   "summary": "Transform research data into FAIR-compliant RDF using the RDF Data Cube Vocabulary. Align your datasets with MDS-Onto and convert them into Linked Data, enhancing interoperability and reusability for seamless data integration. See the README or vignette for more information. This tool is used by the SDLE Research Center at Case Western Reserve University.",
   "author": "Ritika Lamba, Van Tran, Balashanmuga Priyan Rajamohan, Kai Zheng, Benjamin Pierce, Erika I. Barcelos, Roger H. French",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "fairlinked-0.3.0.10.tar.gz",
-  "download_time": "2025-08-05T21:25:05.553591",
+  "download_filename": "fairlinked-0.3.0.13.tar.gz",
+  "download_time": "2025-08-05T22:27:10.174527",
   "package_url": "https://pypi.org/project/FAIRLinked/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "safir-logging",
+  "version": "11.3.1",
+  "summary": "Logging for the Rubin Observatory SQuaRE framework, Safir.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safir_logging-11.3.1.tar.gz",
+  "download_time": "2025-08-05T22:26:45.010771",
+  "package_url": "https://pypi.org/project/safir-logging/"
+}

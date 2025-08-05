@@ -1,0 +1,11 @@
+{
+  "name": "syhep",
+  "version": "0.0.1",
+  "summary": "Symbolic calculations for High Energy Particle physics using python and SymPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syhep-0.0.1.tar.gz",
+  "download_time": "2025-08-05T22:26:59.066064",
+  "package_url": "https://pypi.org/project/syhep/"
+}

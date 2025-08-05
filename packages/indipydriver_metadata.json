@@ -1,11 +1,11 @@
 {
   "name": "indipydriver",
-  "version": "2.4.2",
+  "version": "2.4.4",
   "summary": "Provides classes enabling remote instrument control.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "indipydriver-2.4.2.tar.gz",
-  "download_time": "2025-08-04T09:47:42.687282",
+  "download_filename": "indipydriver-2.4.4.tar.gz",
+  "download_time": "2025-08-05T22:27:15.590810",
   "package_url": "https://pypi.org/project/indipydriver/"
 }
