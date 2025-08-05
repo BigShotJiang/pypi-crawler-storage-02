@@ -1,0 +1,11 @@
+{
+  "name": "statelydb",
+  "version": "0.27.2",
+  "summary": "Python client for StatelyDB API",
+  "author": "Stately Cloud",
+  "license": "Apache-2.0",
+  "home_page": "https://stately.cloud",
+  "download_filename": "statelydb-0.27.2.tar.gz",
+  "download_time": "2025-08-05T21:56:18.480462",
+  "package_url": "https://pypi.org/project/statelydb/"
+}

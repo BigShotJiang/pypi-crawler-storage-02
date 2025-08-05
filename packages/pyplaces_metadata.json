@@ -1,0 +1,11 @@
+{
+  "name": "pyplaces",
+  "version": "0.4.2",
+  "summary": "pyplaces is a Python package meant to streamline the usage of large places datasets, notably Overture Maps and Foursquare Open Places. All of the datasets and past releases can be downloaded to a specific address, place or bounding box. Conventionally, users download the data themselves or use a tool such as DuckDB to download what they need, whereas pyplaces is more integrated, faster, and more precise.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyplaces-0.4.2.tar.gz",
+  "download_time": "2025-08-05T21:56:28.881856",
+  "package_url": "https://pypi.org/project/pyplaces/"
+}

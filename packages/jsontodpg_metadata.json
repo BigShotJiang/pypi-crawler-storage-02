@@ -1,0 +1,11 @@
+{
+  "name": "jsontodpg",
+  "version": "0.96",
+  "summary": "Build DearPyGui user interface with json/python dictionaies",
+  "author": "init-helpful",
+  "license": null,
+  "home_page": "https://github.com/init-helpful/JsonToDpg",
+  "download_filename": "jsontodpg-0.96.tar.gz",
+  "download_time": "2025-08-05T21:56:29.905168",
+  "package_url": "https://pypi.org/project/jsontodpg/"
+}
