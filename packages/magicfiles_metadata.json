@@ -1,0 +1,11 @@
+{
+  "name": "magicfiles",
+  "version": "1.0.0",
+  "summary": "A simple powerfull module for files handling",
+  "author": "0xF55",
+  "license": null,
+  "home_page": "https://github.com/0xF55/magicfiles",
+  "download_filename": "magicfiles-1.0.0.tar.gz",
+  "download_time": "2025-08-05T19:54:37.665070",
+  "package_url": "https://pypi.org/project/magicfiles/"
+}

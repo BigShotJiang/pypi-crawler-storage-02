@@ -1,0 +1,11 @@
+{
+  "name": "jrdev",
+  "version": "0.1.10a0",
+  "summary": "JrDev terminal interface for LLM interactions",
+  "author": "presstab",
+  "license": "MIT",
+  "home_page": "https://github.com/presstab/jrdev",
+  "download_filename": "jrdev-0.1.10a0.tar.gz",
+  "download_time": "2025-08-05T19:54:35.289372",
+  "package_url": "https://pypi.org/project/jrdev/"
+}

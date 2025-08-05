@@ -1,0 +1,11 @@
+{
+  "name": "zurcolor",
+  "version": "0.1.1",
+  "summary": "A tiny library for terminal text customisation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zurcolor-0.1.1.tar.gz",
+  "download_time": "2025-08-05T19:54:10.528934",
+  "package_url": "https://pypi.org/project/zurcolor/"
+}

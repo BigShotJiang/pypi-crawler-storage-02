@@ -1,0 +1,11 @@
+{
+  "name": "marsh64",
+  "version": "1.0.0",
+  "summary": "Lightweight Python code encoder and runner using marshal and base64",
+  "author": "Ali-jafari",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marsh64-1.0.0.tar.gz",
+  "download_time": "2025-08-05T19:54:37.090511",
+  "package_url": "https://pypi.org/project/marsh64/"
+}
