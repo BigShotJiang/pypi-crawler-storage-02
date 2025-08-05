@@ -1,0 +1,11 @@
+{
+  "name": "meta-ads-mcp-local",
+  "version": "0.4.5",
+  "summary": "Model Calling Protocol (MCP) plugin for interacting with Meta Ads API (Fork with HTTPS support)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meta_ads_mcp_local-0.4.5.tar.gz",
+  "download_time": "2025-08-05T23:45:11.180942",
+  "package_url": "https://pypi.org/project/meta-ads-mcp-local/"
+}

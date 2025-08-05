@@ -1,0 +1,11 @@
+{
+  "name": "mdbt",
+  "version": "0.4.33",
+  "summary": "A CLI tool to manage dbt builds with state handling and manifest management",
+  "author": "Craig Lathrop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdbt-0.4.33.tar.gz",
+  "download_time": "2025-08-05T23:45:09.556904",
+  "package_url": "https://pypi.org/project/mdbt/"
+}
