@@ -1,0 +1,11 @@
+{
+  "name": "decombinator",
+  "version": "5.0.1",
+  "summary": "A fast and efficient tool for the analysis of T-cell receptor repertoire sequences produced by deep sequencing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decombinator-5.0.1.tar.gz",
+  "download_time": "2025-08-05T19:03:44.512116",
+  "package_url": "https://pypi.org/project/decombinator/"
+}
