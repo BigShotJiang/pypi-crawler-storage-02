@@ -1,11 +1,11 @@
 {
   "name": "python-easy-llm",
-  "version": "0.1.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "A lightweight LLM wrapper that unifies prompt, RAG and multi-provider calls",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "python_easy_llm-0.1.1.tar.gz",
-  "download_time": "2025-08-04T05:53:00.413232",
+  "download_filename": "python_easy_llm-0.1.2.tar.gz",
+  "download_time": "2025-08-05T10:35:19.207292",
   "package_url": "https://pypi.org/project/python-easy-llm/"
 }

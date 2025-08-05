@@ -1,0 +1,11 @@
+{
+  "name": "qinglan-bot",
+  "version": "0.1.7",
+  "summary": "基于NoneBot2与鹊桥的Minecraft Server消息互通机器人",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qinglan_bot-0.1.7.tar.gz",
+  "download_time": "2025-08-05T10:35:19.754209",
+  "package_url": "https://pypi.org/project/qinglan-bot/"
+}

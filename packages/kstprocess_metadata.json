@@ -1,0 +1,11 @@
+{
+  "name": "kstprocess",
+  "version": "0.3.13",
+  "summary": "dataprocess for dialog robot",
+  "author": "kevin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kstprocess-0.3.13.tar.gz",
+  "download_time": "2025-08-05T10:35:10.895851",
+  "package_url": "https://pypi.org/project/kstprocess/"
+}

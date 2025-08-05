@@ -1,0 +1,11 @@
+{
+  "name": "virtual-ecosystem",
+  "version": "0.1.1a12",
+  "summary": "An holistic ecosystem simulation model.",
+  "author": "Rob Ewers",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "virtual_ecosystem-0.1.1a12.tar.gz",
+  "download_time": "2025-08-05T10:34:52.653356",
+  "package_url": "https://pypi.org/project/virtual-ecosystem/"
+}

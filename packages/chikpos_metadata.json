@@ -1,0 +1,11 @@
+{
+  "name": "chikpos",
+  "version": "2.0.11",
+  "summary": "Chik proof of space plotting, proving, and verifying (wraps C++)",
+  "author": "Mariano Sorgente",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Chik-Network/chikpos",
+  "download_filename": "chikpos-2.0.11.tar.gz",
+  "download_time": "2025-08-05T10:35:17.334412",
+  "package_url": "https://pypi.org/project/chikpos/"
+}

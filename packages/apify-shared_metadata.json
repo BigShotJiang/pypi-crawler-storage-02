@@ -1,0 +1,11 @@
+{
+  "name": "apify-shared",
+  "version": "1.4.2",
+  "summary": "Tools and constants shared across Apify projects.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "apify_shared-1.4.2.tar.gz",
+  "download_time": "2025-08-05T10:35:11.947800",
+  "package_url": "https://pypi.org/project/apify-shared/"
+}

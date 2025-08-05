@@ -1,0 +1,11 @@
+{
+  "name": "intellistream",
+  "version": "1.0.0",
+  "summary": "IntelliStream Platform - Next-Generation Stream Processing Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intellistream-1.0.0.tar.gz",
+  "download_time": "2025-08-05T10:35:01.437369",
+  "package_url": "https://pypi.org/project/intellistream/"
+}

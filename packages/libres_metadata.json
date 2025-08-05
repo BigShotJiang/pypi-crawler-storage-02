@@ -1,0 +1,11 @@
+{
+  "name": "libres",
+  "version": "0.9.1",
+  "summary": "A library to reserve things",
+  "author": "Denis Krienbühl",
+  "license": "BSD",
+  "home_page": "http://github.com/seantis/libres/",
+  "download_filename": "libres-0.9.1.tar.gz",
+  "download_time": "2025-08-05T10:35:06.788650",
+  "package_url": "https://pypi.org/project/libres/"
+}

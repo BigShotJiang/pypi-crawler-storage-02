@@ -1,0 +1,11 @@
+{
+  "name": "numpyro",
+  "version": "0.19.0",
+  "summary": "Pyro PPL on NumPy",
+  "author": "Uber AI Labs",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pyro-ppl/numpyro",
+  "download_filename": "numpyro-0.19.0.tar.gz",
+  "download_time": "2025-08-05T10:34:59.236609",
+  "package_url": "https://pypi.org/project/numpyro/"
+}
