@@ -1,0 +1,11 @@
+{
+  "name": "bandwidth-sdk",
+  "version": "20.0.0",
+  "summary": "Bandwidth",
+  "author": "Bandwidth",
+  "license": null,
+  "home_page": "https://dev.bandwidth.com/sdks/python",
+  "download_filename": "bandwidth_sdk-20.0.0.tar.gz",
+  "download_time": "2025-08-05T20:26:09.941188",
+  "package_url": "https://pypi.org/project/bandwidth-sdk/"
+}

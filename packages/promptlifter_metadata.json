@@ -1,0 +1,11 @@
+{
+  "name": "promptlifter",
+  "version": "0.1.0a1",
+  "summary": "LLM-powered contextual expansion using LangGraph",
+  "author": "PromptLifter Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/promptlifter",
+  "download_filename": "promptlifter-0.1.0a1.tar.gz",
+  "download_time": "2025-08-05T20:26:08.185134",
+  "package_url": "https://pypi.org/project/promptlifter/"
+}
