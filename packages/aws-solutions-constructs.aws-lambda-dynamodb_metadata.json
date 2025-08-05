@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-lambda-dynamodb",
-  "version": "2.90.3",
+  "version": "2.90.4",
   "summary": "CDK Constructs for AWS Lambda to AWS DynamoDB integration.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_lambda_dynamodb-2.90.3.tar.gz",
-  "download_time": "2025-08-04T22:27:49.399570",
+  "download_filename": "aws_solutions_constructs_aws_lambda_dynamodb-2.90.4.tar.gz",
+  "download_time": "2025-08-05T21:45:15.281595",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-lambda-dynamodb/"
 }

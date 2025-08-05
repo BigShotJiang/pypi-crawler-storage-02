@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-wafwebacl-cloudfront",
-  "version": "2.90.3",
+  "version": "2.90.4",
   "summary": "CDK constructs for defining an AWS web WAF connected to Amazon CloudFront.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_wafwebacl_cloudfront-2.90.3.tar.gz",
-  "download_time": "2025-08-04T22:27:31.522532",
+  "download_filename": "aws_solutions_constructs_aws_wafwebacl_cloudfront-2.90.4.tar.gz",
+  "download_time": "2025-08-05T21:44:59.011473",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-wafwebacl-cloudfront/"
 }

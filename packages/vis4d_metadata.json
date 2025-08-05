@@ -1,0 +1,11 @@
+{
+  "name": "vis4d",
+  "version": "0.1.4",
+  "summary": "Vis4D Python package for Visual 4D scene understanding",
+  "author": "Vis4D Team",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "vis4d-0.1.4.tar.gz",
+  "download_time": "2025-08-05T21:44:51.687347",
+  "package_url": "https://pypi.org/project/vis4d/"
+}
