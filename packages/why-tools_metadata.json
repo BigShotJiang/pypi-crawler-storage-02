@@ -1,11 +1,11 @@
 {
   "name": "why-tools",
-  "version": "0.0.45",
+  "version": "0.0.48",
   "summary": "为什么还要使用别的工具呢？",
   "author": "yintian",
   "license": "MIT",
   "home_page": "https://github.com/yintian710/whytools",
-  "download_filename": "why_tools-0.0.45.tar.gz",
-  "download_time": "2025-08-05T02:22:47.809529",
+  "download_filename": "why_tools-0.0.48.tar.gz",
+  "download_time": "2025-08-05T06:49:36.122619",
   "package_url": "https://pypi.org/project/why-tools/"
 }

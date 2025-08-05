@@ -1,0 +1,11 @@
+{
+  "name": "arbok-driver",
+  "version": "2.0.0",
+  "summary": "QCoDeS compatible driver for the OPX+ from Quantum Machines",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "arbok_driver-2.0.0.tar.gz",
+  "download_time": "2025-08-05T06:50:10.653746",
+  "package_url": "https://pypi.org/project/arbok-driver/"
+}

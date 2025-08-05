@@ -1,11 +1,11 @@
 {
   "name": "pytidb",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A Python library for TiDB.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytidb-0.0.10.tar.gz",
-  "download_time": "2025-08-04T07:50:19.517621",
+  "download_filename": "pytidb-0.0.11.tar.gz",
+  "download_time": "2025-08-05T06:49:52.487378",
   "package_url": "https://pypi.org/project/pytidb/"
 }

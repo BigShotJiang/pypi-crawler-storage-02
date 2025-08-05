@@ -1,0 +1,11 @@
+{
+  "name": "kivy-reloader",
+  "version": "0.6.5",
+  "summary": "Hot reload your Kivy app on multiple Android phones and computer in real-time.",
+  "author": "filipemarch",
+  "license": null,
+  "home_page": "https://kivyschool.com/kivy-reloader/",
+  "download_filename": "kivy_reloader-0.6.5.tar.gz",
+  "download_time": "2025-08-05T06:49:53.649627",
+  "package_url": "https://pypi.org/project/kivy-reloader/"
+}

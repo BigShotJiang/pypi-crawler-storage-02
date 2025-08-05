@@ -1,11 +1,11 @@
 {
   "name": "aduneoclientfedid",
-  "version": "2.0.11.1",
+  "version": "2.0.12",
   "summary": "Identity Federation Test Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aduneoclientfedid-2.0.11.1.tar.gz",
-  "download_time": "2025-08-04T11:55:06.061708",
+  "download_filename": "aduneoclientfedid-2.0.12.tar.gz",
+  "download_time": "2025-08-05T06:50:09.112933",
   "package_url": "https://pypi.org/project/aduneoclientfedid/"
 }

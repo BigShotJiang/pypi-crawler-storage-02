@@ -1,0 +1,11 @@
+{
+  "name": "ip-stack-api",
+  "version": "1.0.0",
+  "summary": "IP Stack SDK is used to retrieve geolocation and network information from IP addresses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ip_stack_api-1.0.0.tar.gz",
+  "download_time": "2025-08-05T06:49:34.381289",
+  "package_url": "https://pypi.org/project/ip-stack-api/"
+}

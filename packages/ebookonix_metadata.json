@@ -1,0 +1,11 @@
+{
+  "name": "ebookonix",
+  "version": "0.4",
+  "summary": "ONIX XML for zero-cost e-books",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "ebookonix-0.4.tar.gz",
+  "download_time": "2025-08-05T06:49:44.096803",
+  "package_url": "https://pypi.org/project/ebookonix/"
+}

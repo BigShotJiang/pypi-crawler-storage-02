@@ -1,0 +1,11 @@
+{
+  "name": "openspeleo-core",
+  "version": "0.0.1",
+  "summary": "A Rust backend library aiming to provide high performance implementations for OpenSpeleo project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openspeleo_core-0.0.1-cp313-abi3-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-08-05T06:49:39.997050",
+  "package_url": "https://pypi.org/project/openspeleo-core/"
+}

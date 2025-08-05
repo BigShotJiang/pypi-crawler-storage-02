@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-session-pay-invoice",
+  "version": "16.0.1.0.1",
+  "summary": "Pay and receive invoices from PoS Session",
+  "author": "Creu Blanca, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_session_pay_invoice-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-05T06:49:45.122590",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-session-pay-invoice/"
+}
