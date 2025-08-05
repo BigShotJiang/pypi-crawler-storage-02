@@ -1,11 +1,11 @@
 {
   "name": "bg4h",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "bg table definitions for humans",
   "author": "ct.galega",
   "license": null,
   "home_page": null,
-  "download_filename": "bg4h-1.0.19.tar.gz",
-  "download_time": "2025-08-04T16:33:55.640486",
+  "download_filename": "bg4h-1.0.20.tar.gz",
+  "download_time": "2025-08-05T09:43:52.697284",
   "package_url": "https://pypi.org/project/bg4h/"
 }

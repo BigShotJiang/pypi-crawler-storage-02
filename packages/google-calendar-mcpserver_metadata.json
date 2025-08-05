@@ -1,0 +1,11 @@
+{
+  "name": "google-calendar-mcpserver",
+  "version": "0.1.1",
+  "summary": "AThis is an MCP (Model Context Protocol) server specifically built to collect and serve ratings and reviews for other MCP servers deployed on the NetMind platform.",
+  "author": "yanrujing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_calendar_mcpserver-0.1.1.tar.gz",
+  "download_time": "2025-08-05T09:43:48.885005",
+  "package_url": "https://pypi.org/project/google-calendar-mcpserver/"
+}
