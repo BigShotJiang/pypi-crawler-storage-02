@@ -1,11 +1,11 @@
 {
   "name": "attoworld",
-  "version": "2025.0.35",
+  "version": "2025.0.36",
   "summary": "Tools from the Attosecond science group at the Max Planck Institute of Quantum Optics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attoworld-2025.0.35.tar.gz",
-  "download_time": "2025-08-04T15:51:11.456354",
+  "download_filename": "attoworld-2025.0.36.tar.gz",
+  "download_time": "2025-08-05T13:02:50.120917",
   "package_url": "https://pypi.org/project/attoworld/"
 }

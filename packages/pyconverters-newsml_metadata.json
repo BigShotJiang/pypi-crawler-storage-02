@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-newsml",
-  "version": "0.5.239",
+  "version": "0.5.241",
   "summary": "NewsML converter (AFP news)",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_newsml/",
-  "download_filename": "pyconverters_newsml-0.5.239.tar.gz",
-  "download_time": "2025-08-05T11:45:58.235437",
+  "download_filename": "pyconverters_newsml-0.5.241.tar.gz",
+  "download_time": "2025-08-05T13:02:39.976566",
   "package_url": "https://pypi.org/project/pyconverters-newsml/"
 }

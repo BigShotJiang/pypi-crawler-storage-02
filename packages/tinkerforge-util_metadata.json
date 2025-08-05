@@ -1,0 +1,11 @@
+{
+  "name": "tinkerforge-util",
+  "version": "1.3.0",
+  "summary": "Python utilities for internal Tinkerforge usage",
+  "author": "Tinkerforge GmbH",
+  "license": "LGPLv2+",
+  "home_page": "https://www.tinkerforge.com",
+  "download_filename": "tinkerforge_util-1.3.0.tar.gz",
+  "download_time": "2025-08-05T13:03:07.787200",
+  "package_url": "https://pypi.org/project/tinkerforge-util/"
+}

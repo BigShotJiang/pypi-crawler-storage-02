@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-isako",
-  "version": "0.5.8",
+  "version": "0.5.10",
   "summary": "Convert PDF to structured text using Isako",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_isako/",
-  "download_filename": "pyconverters_isako-0.5.8.tar.gz",
-  "download_time": "2025-08-05T11:45:54.238256",
+  "download_filename": "pyconverters_isako-0.5.10.tar.gz",
+  "download_time": "2025-08-05T13:02:58.983637",
   "package_url": "https://pypi.org/project/pyconverters-isako/"
 }

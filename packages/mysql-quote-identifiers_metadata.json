@@ -1,0 +1,11 @@
+{
+  "name": "mysql-quote-identifiers",
+  "version": "0.0.2",
+  "summary": "The python mysql connector has no way to safely quote identifiers like table names or database names. This library implements basic functions to do that.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysql_quote_identifiers-0.0.2.tar.gz",
+  "download_time": "2025-08-05T13:02:36.019405",
+  "package_url": "https://pypi.org/project/mysql-quote-identifiers/"
+}

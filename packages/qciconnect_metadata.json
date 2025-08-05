@@ -1,0 +1,11 @@
+{
+  "name": "qciconnect",
+  "version": "0.4.2",
+  "summary": "An API client to work with the DLR QCI Connect quantum computing platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qciconnect-0.4.2.tar.gz",
+  "download_time": "2025-08-05T13:02:49.009700",
+  "package_url": "https://pypi.org/project/qciconnect/"
+}

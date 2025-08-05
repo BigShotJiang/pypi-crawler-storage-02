@@ -1,0 +1,11 @@
+{
+  "name": "power-bi-analyzer",
+  "version": "1.1.0",
+  "summary": "A package to analyze Power BI reports.",
+  "author": "Nokod Security",
+  "license": null,
+  "home_page": "https://github.com/Nokod/PBAnalyzer",
+  "download_filename": "power_bi_analyzer-1.1.0.tar.gz",
+  "download_time": "2025-08-05T13:03:20.534226",
+  "package_url": "https://pypi.org/project/power-bi-analyzer/"
+}

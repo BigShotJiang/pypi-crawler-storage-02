@@ -1,0 +1,11 @@
+{
+  "name": "sqlmap",
+  "version": "1.9.8",
+  "summary": "Automatic SQL injection and database takeover tool",
+  "author": "Bernardo Damele Assumpcao Guimaraes, Miroslav Stampar",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://sqlmap.org",
+  "download_filename": "sqlmap-1.9.8-py2-none-any.whl",
+  "download_time": "2025-08-05T13:02:41.280365",
+  "package_url": "https://pypi.org/project/sqlmap/"
+}

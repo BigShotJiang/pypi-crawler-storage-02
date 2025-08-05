@@ -1,0 +1,11 @@
+{
+  "name": "octutilsprod",
+  "version": "0.3.4",
+  "summary": "Extracting the metadata & source lineage items used in the Semantic Models in Microsoft Fabric",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octutilsprod-0.3.4-py3-none-any.whl",
+  "download_time": "2025-08-05T13:03:22.114392",
+  "package_url": "https://pypi.org/project/octutilsprod/"
+}

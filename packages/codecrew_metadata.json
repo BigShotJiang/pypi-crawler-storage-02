@@ -1,11 +1,11 @@
 {
   "name": "codecrew",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "CodeCrew Multi-Agent Development System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codecrew-1.1.0.tar.gz",
-  "download_time": "2025-08-05T04:54:04.799752",
+  "download_filename": "codecrew-1.1.1.tar.gz",
+  "download_time": "2025-08-05T13:03:23.190508",
   "package_url": "https://pypi.org/project/codecrew/"
 }
