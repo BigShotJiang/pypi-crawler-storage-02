@@ -1,0 +1,11 @@
+{
+  "name": "maxsmart",
+  "version": "2.0.5",
+  "summary": "A comprehensive Python library for controlling Revogi-based Max Hauri MaxSmart PowerStrips and Smart Plugs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maxsmart-2.0.5.tar.gz",
+  "download_time": "2025-08-05T23:56:57.442007",
+  "package_url": "https://pypi.org/project/maxsmart/"
+}

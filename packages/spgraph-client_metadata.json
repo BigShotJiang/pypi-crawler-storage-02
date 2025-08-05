@@ -1,0 +1,11 @@
+{
+  "name": "spgraph-client",
+  "version": "0.1.0",
+  "summary": "A Python client for performing SharePoint actions via Microsoft Graph API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spgraph_client-0.1.0.tar.gz",
+  "download_time": "2025-08-05T23:57:02.135268",
+  "package_url": "https://pypi.org/project/spgraph-client/"
+}
