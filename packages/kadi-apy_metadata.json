@@ -1,0 +1,11 @@
+{
+  "name": "kadi-apy",
+  "version": "0.48.1",
+  "summary": "API wrapper library for Kadi4Mat",
+  "author": "Karlsruhe Institute of Technology",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kadi_apy-0.48.1-py3-none-any.whl",
+  "download_time": "2025-08-05T14:29:16.378590",
+  "package_url": "https://pypi.org/project/kadi-apy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autowriter",
+  "version": "1.0.0",
+  "summary": "A human-like auto typer with GUI and dark mode.",
+  "author": "Mysra Ahmed",
+  "license": null,
+  "home_page": "https://github.com/Mysra-Ahmed/Python-auto-typer",
+  "download_filename": "autowriter-1.0.0.tar.gz",
+  "download_time": "2025-08-05T14:28:41.630311",
+  "package_url": "https://pypi.org/project/autowriter/"
+}

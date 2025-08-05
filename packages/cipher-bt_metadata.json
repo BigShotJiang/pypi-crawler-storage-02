@@ -1,11 +1,11 @@
 {
   "name": "cipher-bt",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Cipher, a backtesting framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cipher_bt-0.6.0.tar.gz",
-  "download_time": "2025-08-05T13:54:32.370016",
+  "download_filename": "cipher_bt-0.6.2.tar.gz",
+  "download_time": "2025-08-05T14:29:15.331590",
   "package_url": "https://pypi.org/project/cipher-bt/"
 }

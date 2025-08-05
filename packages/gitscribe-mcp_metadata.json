@@ -1,11 +1,11 @@
 {
   "name": "gitscribe-mcp",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "GitScribe: Web Scraping RAG MCP Server for Git-based Documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitscribe_mcp-1.1.0.tar.gz",
-  "download_time": "2025-08-05T13:02:48.467438",
+  "download_filename": "gitscribe_mcp-1.1.2.tar.gz",
+  "download_time": "2025-08-05T14:28:57.661189",
   "package_url": "https://pypi.org/project/gitscribe-mcp/"
 }

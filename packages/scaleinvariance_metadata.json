@@ -1,0 +1,11 @@
+{
+  "name": "scaleinvariance",
+  "version": "0.2.0",
+  "summary": "Simulation and analysis of multifractal fields",
+  "author": "Thomas DeWitt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scaleinvariance-0.2.0.tar.gz",
+  "download_time": "2025-08-05T14:29:08.807491",
+  "package_url": "https://pypi.org/project/scaleinvariance/"
+}

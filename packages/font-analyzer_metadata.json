@@ -1,11 +1,11 @@
 {
   "name": "font-analyzer",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A tool for detecting and analyzing font metadata from websites and files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "font_analyzer-0.0.4.tar.gz",
-  "download_time": "2025-08-04T08:35:20.254009",
+  "download_filename": "font_analyzer-0.0.6.tar.gz",
+  "download_time": "2025-08-05T14:29:14.800604",
   "package_url": "https://pypi.org/project/font-analyzer/"
 }

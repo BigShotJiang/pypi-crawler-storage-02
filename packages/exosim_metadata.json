@@ -1,0 +1,11 @@
+{
+  "name": "exosim",
+  "version": "2.1.1",
+  "summary": "ExoSim 2 is the next generation of the Exoplanet Observation Simulator (ExoSim) tailored for spectro-photometric observations of transiting exoplanets from space, ground, and sub-orbital platforms. This software is a complete rewrite implemented in Python 3, embracing object-oriented design principles.",
+  "author": "L. V. Mugnai",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/arielmission-space/ExoSim2-public",
+  "download_filename": "exosim-2.1.1.tar.gz",
+  "download_time": "2025-08-05T14:29:00.323665",
+  "package_url": "https://pypi.org/project/exosim/"
+}
