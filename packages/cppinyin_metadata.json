@@ -1,0 +1,11 @@
+{
+  "name": "cppinyin",
+  "version": "0.7",
+  "summary": "A simple and fast pinyin encoder and decoder.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cppinyin-0.7.tar.gz",
+  "download_time": "2025-08-05T09:58:58.697897",
+  "package_url": "https://pypi.org/project/cppinyin/"
+}

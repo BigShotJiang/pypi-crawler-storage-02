@@ -1,11 +1,11 @@
 {
   "name": "leo-first-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": "David Lee",
   "license": null,
   "home_page": null,
-  "download_filename": "leo_first_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-08-05T09:03:46.985638",
+  "download_filename": "leo_first_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-08-05T09:59:07.456680",
   "package_url": "https://pypi.org/project/leo-first-mcp-server/"
 }
