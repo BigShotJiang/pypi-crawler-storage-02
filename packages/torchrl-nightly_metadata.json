@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchrl_nightly-2025.8.5-cp310-cp310-manylinux1_x86_64.whl",
-  "download_time": "2025-08-05T15:29:05.881548",
+  "download_filename": "torchrl_nightly-2025.8.5-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-08-05T15:49:29.836164",
   "package_url": "https://pypi.org/project/torchrl-nightly/"
 }

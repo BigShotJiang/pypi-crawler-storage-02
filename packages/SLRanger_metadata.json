@@ -1,0 +1,11 @@
+{
+  "name": "SLRanger",
+  "version": "0.0.1.8",
+  "summary": "An integrated approach for spliced leader detection and operon prediction in eukaryotes using long RNA reads",
+  "author": "GUO Zhihao",
+  "license": null,
+  "home_page": "https://github.com/lrslab/SLRanger",
+  "download_filename": "slranger-0.0.1.8.tar.gz",
+  "download_time": "2025-08-05T15:49:22.409271",
+  "package_url": "https://pypi.org/project/SLRanger/"
+}

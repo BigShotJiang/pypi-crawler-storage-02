@@ -1,0 +1,11 @@
+{
+  "name": "spars",
+  "version": "0.1.2",
+  "summary": "Lightweight sparse matrix library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spars-0.1.2.tar.gz",
+  "download_time": "2025-08-05T15:49:05.904186",
+  "package_url": "https://pypi.org/project/spars/"
+}

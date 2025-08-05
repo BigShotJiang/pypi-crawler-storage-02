@@ -1,11 +1,11 @@
 {
   "name": "aidesk",
-  "version": "0.2.0",
-  "summary": "A simple web service with file operations and authentication",
-  "author": "Your Name",
+  "version": "0.3.0",
+  "summary": "A simple web service with file operations and instance management",
+  "author": "levin",
   "license": null,
-  "home_page": "https://github.com/yourusername/aidesk",
-  "download_filename": "aidesk-0.2.0.tar.gz",
-  "download_time": "2025-08-04T16:34:40.425623",
+  "home_page": "https://github.com/levindemo/aidesk",
+  "download_filename": "aidesk-0.3.0.tar.gz",
+  "download_time": "2025-08-05T15:49:11.809791",
   "package_url": "https://pypi.org/project/aidesk/"
 }

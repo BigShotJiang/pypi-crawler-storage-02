@@ -1,0 +1,11 @@
+{
+  "name": "cf-ipm",
+  "version": "1.2.4",
+  "summary": "Package manager for Open Source ASIC IPs",
+  "author": "ChipFoundry",
+  "license": "Apache-2.0",
+  "home_page": "https://chipfoundry.io",
+  "download_filename": "cf_ipm-1.2.4.tar.gz",
+  "download_time": "2025-08-05T15:48:46.557994",
+  "package_url": "https://pypi.org/project/cf-ipm/"
+}
