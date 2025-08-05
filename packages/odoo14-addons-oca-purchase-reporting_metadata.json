@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addons-oca-purchase-reporting",
+  "version": "14.0.20250804.0",
+  "summary": "Meta package for oca-purchase-reporting Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo14_addons_oca_purchase_reporting-14.0.20250804.0-py3-none-any.whl",
+  "download_time": "2025-08-05T03:57:21.793154",
+  "package_url": "https://pypi.org/project/odoo14-addons-oca-purchase-reporting/"
+}

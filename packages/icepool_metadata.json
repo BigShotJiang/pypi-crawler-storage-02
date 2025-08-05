@@ -1,0 +1,11 @@
+{
+  "name": "icepool",
+  "version": "2.1.1",
+  "summary": "Dice probability package.",
+  "author": "Albert Julius Liu",
+  "license": null,
+  "home_page": "https://github.com/HighDiceRoller/icepool",
+  "download_filename": "icepool-2.1.1.tar.gz",
+  "download_time": "2025-08-05T03:57:07.992129",
+  "package_url": "https://pypi.org/project/icepool/"
+}

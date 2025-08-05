@@ -1,0 +1,11 @@
+{
+  "name": "render9",
+  "version": "0.0.110",
+  "summary": "Render9 OTP is a lightweight and easy-to-use Python package for sending OTP messages via the Render9 OTP API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "render9-0.0.110.tar.gz",
+  "download_time": "2025-08-05T03:57:02.070027",
+  "package_url": "https://pypi.org/project/render9/"
+}

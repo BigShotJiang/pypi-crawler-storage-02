@@ -1,0 +1,11 @@
+{
+  "name": "lionsmapper",
+  "version": "6.0",
+  "summary": "Read Maps Image Files by RGB and get x,y points in pixels values return",
+  "author": "#asytrick",
+  "license": null,
+  "home_page": "https://github.com/ssmool/LIONSMAPPERAI",
+  "download_filename": "lionsmapper-6.0.tar.gz",
+  "download_time": "2025-08-05T03:56:55.449471",
+  "package_url": "https://pypi.org/project/lionsmapper/"
+}

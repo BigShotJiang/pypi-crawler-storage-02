@@ -1,0 +1,11 @@
+{
+  "name": "linaix",
+  "version": "0.1.0",
+  "summary": "A Linux terminal interface with natural language processing capabilities",
+  "author": "Adir Ali Yerima",
+  "license": "MIT",
+  "home_page": "https://github.com/AdirAli/linaix",
+  "download_filename": "linaix-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-05T03:56:56.038527",
+  "package_url": "https://pypi.org/project/linaix/"
+}

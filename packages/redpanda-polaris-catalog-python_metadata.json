@@ -1,0 +1,11 @@
+{
+  "name": "redpanda-polaris-catalog-python",
+  "version": "1.0.0.post3",
+  "summary": "Apache Polaris",
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "redpanda_polaris_catalog_python-1.0.0.post3.tar.gz",
+  "download_time": "2025-08-05T03:57:15.825250",
+  "package_url": "https://pypi.org/project/redpanda-polaris-catalog-python/"
+}

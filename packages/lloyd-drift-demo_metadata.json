@@ -1,0 +1,11 @@
+{
+  "name": "lloyd-drift-demo",
+  "version": "0.1.0",
+  "summary": "Detect and analyze tone and symbolic drift in text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lloyd_drift_demo-0.1.0.tar.gz",
+  "download_time": "2025-08-05T03:57:16.412148",
+  "package_url": "https://pypi.org/project/lloyd-drift-demo/"
+}
