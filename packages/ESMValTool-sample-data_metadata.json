@@ -1,0 +1,11 @@
+{
+  "name": "ESMValTool-sample-data",
+  "version": "0.0.4",
+  "summary": "ESMValTool sample data",
+  "author": "Stef Smeets, Bouwe Andela",
+  "license": "Apache 2.0; CC BY-SA 4.0",
+  "home_page": "https://github.com/ESMValGroup/ESMValTool_sample_data",
+  "download_filename": "esmvaltool_sample_data-0.0.4.tar.gz",
+  "download_time": "2025-08-05T12:03:05.275163",
+  "package_url": "https://pypi.org/project/ESMValTool-sample-data/"
+}

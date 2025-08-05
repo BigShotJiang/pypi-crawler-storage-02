@@ -1,0 +1,11 @@
+{
+  "name": "edc-visit-schedule-app",
+  "version": "0.1.1",
+  "summary": "Test app for clinicedc/edc projects",
+  "author": "Erik van Widenfelt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edc_visit_schedule_app-0.1.1.tar.gz",
+  "download_time": "2025-08-05T12:02:56.094412",
+  "package_url": "https://pypi.org/project/edc-visit-schedule-app/"
+}
