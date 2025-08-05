@@ -1,11 +1,11 @@
 {
   "name": "ben-memre",
-  "version": "0.1.3",
-  "summary": "A special library by Emre with a few functions.",
+  "version": "0.1.4",
+  "summary": "A special library by Emre with a few functions for AI projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ben_memre-0.1.3.tar.gz",
-  "download_time": "2025-08-05T09:59:04.046536",
+  "download_filename": "ben_memre-0.1.4.tar.gz",
+  "download_time": "2025-08-05T10:59:23.502078",
   "package_url": "https://pypi.org/project/ben-memre/"
 }

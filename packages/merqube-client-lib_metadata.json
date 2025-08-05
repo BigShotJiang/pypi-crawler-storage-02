@@ -1,0 +1,11 @@
+{
+  "name": "merqube-client-lib",
+  "version": "0.23.2",
+  "summary": "MerQube IndexAPI + SecAPI client library",
+  "author": "Merqube",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/merqube/merqube-client-lib",
+  "download_filename": "merqube_client_lib-0.23.2.tar.gz",
+  "download_time": "2025-08-05T10:59:33.127057",
+  "package_url": "https://pypi.org/project/merqube-client-lib/"
+}

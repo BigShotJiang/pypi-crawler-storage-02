@@ -1,11 +1,11 @@
 {
   "name": "hippo-db",
-  "version": "0.3.34",
+  "version": "0.3.35",
   "summary": "Hit Interaction Profiling and Procurement Optimisation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hippo_db-0.3.34.tar.gz",
-  "download_time": "2025-08-04T19:52:56.114119",
+  "download_filename": "hippo_db-0.3.35.tar.gz",
+  "download_time": "2025-08-05T10:59:32.030179",
   "package_url": "https://pypi.org/project/hippo-db/"
 }

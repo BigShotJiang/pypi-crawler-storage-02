@@ -1,11 +1,11 @@
 {
   "name": "just-focus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Vector electromagnetic field calculations in the focus of high NA microscope objectives.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "just_focus-0.2.0.tar.gz",
-  "download_time": "2025-08-05T09:44:06.563353",
+  "download_filename": "just_focus-0.2.1.tar.gz",
+  "download_time": "2025-08-05T10:59:07.244113",
   "package_url": "https://pypi.org/project/just-focus/"
 }

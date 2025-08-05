@@ -1,0 +1,11 @@
+{
+  "name": "pelican-gemini-capsule",
+  "version": "0.4.0",
+  "summary": "Pelican plugin to generate Gemini capsules",
+  "author": "Fabien LOISON",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pelican_gemini_capsule-0.4.0.tar.gz",
+  "download_time": "2025-08-05T10:58:52.226483",
+  "package_url": "https://pypi.org/project/pelican-gemini-capsule/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ormax",
+  "version": "1.2.1",
+  "summary": "High-performance async ORM for all major databases",
+  "author": "Shayan Heidari",
+  "license": "MIT",
+  "home_page": "https://github.com/shayanheidari01/ormax",
+  "download_filename": "ormax-1.2.1.tar.gz",
+  "download_time": "2025-08-05T10:59:11.878106",
+  "package_url": "https://pypi.org/project/ormax/"
+}

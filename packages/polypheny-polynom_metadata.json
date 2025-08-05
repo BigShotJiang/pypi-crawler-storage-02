@@ -1,11 +1,11 @@
 {
   "name": "polypheny-polynom",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Object Mapper for Polypheny",
   "author": "The Polypheny Project",
   "license": "Apache License, Version 2.0",
   "home_page": "https://polypheny.com/",
-  "download_filename": "polypheny_polynom-0.2.0.tar.gz",
-  "download_time": "2025-08-04T07:50:18.221387",
+  "download_filename": "polypheny_polynom-0.3.0.tar.gz",
+  "download_time": "2025-08-05T10:59:15.921315",
   "package_url": "https://pypi.org/project/polypheny-polynom/"
 }

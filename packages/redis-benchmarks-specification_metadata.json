@@ -1,11 +1,11 @@
 {
   "name": "redis-benchmarks-specification",
-  "version": "0.1.299",
+  "version": "0.1.300",
   "summary": "The Redis benchmarks specification describes the cross-language/tools requirements and expectations to foster performance and observability standards around redis related technologies. Members from both industry and academia, including organizations and individuals are encouraged to contribute.",
   "author": "filipecosta90",
   "license": null,
   "home_page": null,
-  "download_filename": "redis_benchmarks_specification-0.1.299.tar.gz",
-  "download_time": "2025-08-05T10:34:52.111128",
+  "download_filename": "redis_benchmarks_specification-0.1.300.tar.gz",
+  "download_time": "2025-08-05T10:59:10.724779",
   "package_url": "https://pypi.org/project/redis-benchmarks-specification/"
 }
