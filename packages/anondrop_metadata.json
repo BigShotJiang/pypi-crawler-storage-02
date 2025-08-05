@@ -1,0 +1,11 @@
+{
+  "name": "anondrop",
+  "version": "0.2.3",
+  "summary": "A package for uploading and deleting files using AnonDrop API",
+  "author": "BubblePlayz",
+  "license": "MIT",
+  "home_page": "https://github.com/BubblePlayzTHEREAL/AnonDrop",
+  "download_filename": "anondrop-0.2.3.tar.gz",
+  "download_time": "2025-08-05T02:22:57.309236",
+  "package_url": "https://pypi.org/project/anondrop/"
+}

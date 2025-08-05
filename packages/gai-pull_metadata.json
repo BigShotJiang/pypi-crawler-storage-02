@@ -1,0 +1,11 @@
+{
+  "name": "gai-pull",
+  "version": "0.1.22",
+  "summary": "gai-pull is a command-line tool to download GAI-supported models from huggingface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gai_pull-0.1.22.tar.gz",
+  "download_time": "2025-08-05T02:22:56.789153",
+  "package_url": "https://pypi.org/project/gai-pull/"
+}

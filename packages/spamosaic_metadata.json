@@ -1,0 +1,11 @@
+{
+  "name": "spamosaic",
+  "version": "1.0.0",
+  "summary": "SpaMosaic: mosaic integration of spatial multi-omics with GNN and contrastive learning",
+  "author": "Jinmiao Lab",
+  "license": null,
+  "home_page": "https://github.com/JinmiaoChenLab/SpaMosaic",
+  "download_filename": "spamosaic-1.0.0.tar.gz",
+  "download_time": "2025-08-05T02:22:54.700964",
+  "package_url": "https://pypi.org/project/spamosaic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aaclient",
+  "version": "0.0.5",
+  "summary": "Tools to query Archiver Appliance and export data",
+  "author": "Michael Davidsaver",
+  "license": "BSD",
+  "home_page": "https://github.com/mdavidsaver/aaclient",
+  "download_filename": "aaclient-0.0.5.tar.gz",
+  "download_time": "2025-08-05T02:23:00.985349",
+  "package_url": "https://pypi.org/project/aaclient/"
+}

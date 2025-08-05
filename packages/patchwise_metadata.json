@@ -1,0 +1,11 @@
+{
+  "name": "patchwise",
+  "version": "0.2.1",
+  "summary": "A tool for reviewing kernel patches",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "patchwise-0.2.1.tar.gz",
+  "download_time": "2025-08-05T02:22:58.353741",
+  "package_url": "https://pypi.org/project/patchwise/"
+}

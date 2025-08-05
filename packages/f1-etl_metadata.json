@@ -1,0 +1,11 @@
+{
+  "name": "f1-etl",
+  "version": "0.7.0",
+  "summary": "This package contains an ETL pipeline for extracting, transforming, and preparing Formula 1 telemetry data for time series classification tasks, specifically designed for safety car prediction and other F1 data science applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "f1_etl-0.7.0.tar.gz",
+  "download_time": "2025-08-05T02:23:18.348864",
+  "package_url": "https://pypi.org/project/f1-etl/"
+}
