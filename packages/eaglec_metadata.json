@@ -1,0 +1,11 @@
+{
+  "name": "eaglec",
+  "version": "2.1",
+  "summary": "Comprehensive detection of multiscale and non-canonical structural variations from Hi-C data",
+  "author": "XiaoTao Wang",
+  "license": null,
+  "home_page": "https://github.com/XiaoTaoWang/EagleC2",
+  "download_filename": "eaglec-2.1.tar.gz",
+  "download_time": "2025-08-05T15:29:40.408668",
+  "package_url": "https://pypi.org/project/eaglec/"
+}

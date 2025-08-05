@@ -1,0 +1,11 @@
+{
+  "name": "sn2md",
+  "version": "2.5.0",
+  "summary": "Convert Supernote .note, .spd, PDF, or image files to text/images",
+  "author": "Dane Summers",
+  "license": null,
+  "home_page": "https://github.com/dsummersl/sn2md",
+  "download_filename": "sn2md-2.5.0.tar.gz",
+  "download_time": "2025-08-05T15:29:43.624177",
+  "package_url": "https://pypi.org/project/sn2md/"
+}

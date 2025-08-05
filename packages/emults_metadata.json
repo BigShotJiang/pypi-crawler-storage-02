@@ -1,0 +1,11 @@
+{
+  "name": "emults",
+  "version": "0.0.2",
+  "summary": "Elastic multiple scattering solver using Karp Farfield Expansion artificial boundary conditions (MKFE-ABC).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emults-0.0.2.tar.gz",
+  "download_time": "2025-08-05T15:29:17.626536",
+  "package_url": "https://pypi.org/project/emults/"
+}

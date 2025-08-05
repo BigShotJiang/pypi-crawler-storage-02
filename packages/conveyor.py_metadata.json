@@ -1,11 +1,11 @@
 {
   "name": "conveyor.py",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Conveyor CI Python Client",
   "author": "Beingana Jim Junior",
   "license": "MIT",
   "home_page": "https://github.com/open-ug/conveyor.py",
-  "download_filename": "conveyor_py-0.0.2.tar.gz",
-  "download_time": "2025-08-05T08:35:09.019810",
+  "download_filename": "conveyor_py-0.0.3.tar.gz",
+  "download_time": "2025-08-05T15:29:14.237577",
   "package_url": "https://pypi.org/project/conveyor.py/"
 }

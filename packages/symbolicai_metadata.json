@@ -1,11 +1,11 @@
 {
   "name": "symbolicai",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "A Neurosymbolic Perspective on Large Language Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symbolicai-0.16.0.tar.gz",
-  "download_time": "2025-08-05T14:54:35.788848",
+  "download_filename": "symbolicai-0.16.1.tar.gz",
+  "download_time": "2025-08-05T15:29:50.330969",
   "package_url": "https://pypi.org/project/symbolicai/"
 }

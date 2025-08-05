@@ -1,0 +1,11 @@
+{
+  "name": "recent-state-summarizer",
+  "version": "0.0.2",
+  "summary": "Summarize a list of entry titles using LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recent_state_summarizer-0.0.2.tar.gz",
+  "download_time": "2025-08-05T15:29:02.091555",
+  "package_url": "https://pypi.org/project/recent-state-summarizer/"
+}

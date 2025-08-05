@@ -1,0 +1,11 @@
+{
+  "name": "backupchan-server-lib",
+  "version": "0.1.0",
+  "summary": "Utilities and structures shared between the server-side parts of Backup-chan.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "backupchan_server_lib-0.1.0.tar.gz",
+  "download_time": "2025-08-05T15:29:35.884697",
+  "package_url": "https://pypi.org/project/backupchan-server-lib/"
+}

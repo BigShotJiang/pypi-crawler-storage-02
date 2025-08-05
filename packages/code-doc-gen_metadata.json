@@ -1,0 +1,11 @@
+{
+  "name": "code-doc-gen",
+  "version": "1.1.6",
+  "summary": "Intelligent automatic documentation generation for Python and C++ codebases using AST analysis and NLTK",
+  "author": "Mohit Mishra",
+  "license": null,
+  "home_page": "https://github.com/mohitmishra786/CodeDocGen",
+  "download_filename": "code_doc_gen-1.1.6.tar.gz",
+  "download_time": "2025-08-05T15:29:06.521203",
+  "package_url": "https://pypi.org/project/code-doc-gen/"
+}

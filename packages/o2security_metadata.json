@@ -1,0 +1,11 @@
+{
+  "name": "o2security",
+  "version": "0.1.1",
+  "summary": "A simple library for securely managing tokens and secrets.",
+  "author": "sina",
+  "license": null,
+  "home_page": "https://github.com/unknownmsv/o2security",
+  "download_filename": "o2security-0.1.1.tar.gz",
+  "download_time": "2025-08-05T15:29:55.792541",
+  "package_url": "https://pypi.org/project/o2security/"
+}

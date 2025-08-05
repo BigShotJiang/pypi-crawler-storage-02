@@ -1,0 +1,11 @@
+{
+  "name": "nirfsg",
+  "version": "1.0.0",
+  "summary": "NI-RFSG Python API",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/nimi-python",
+  "download_filename": "nirfsg-1.0.0.tar.gz",
+  "download_time": "2025-08-05T15:29:23.548359",
+  "package_url": "https://pypi.org/project/nirfsg/"
+}
