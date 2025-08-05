@@ -1,0 +1,11 @@
+{
+  "name": "yalexs",
+  "version": "8.11.1",
+  "summary": "Python API for Yale Access (formerly August) Smart Lock and Doorbell",
+  "author": "J. Nick Koston",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yalexs-8.11.1.tar.gz",
+  "download_time": "2025-08-05T21:24:39.173389",
+  "package_url": "https://pypi.org/project/yalexs/"
+}

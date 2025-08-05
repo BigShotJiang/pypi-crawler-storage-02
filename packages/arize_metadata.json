@@ -1,0 +1,11 @@
+{
+  "name": "arize",
+  "version": "7.48.3",
+  "summary": "A helper library to interact with Arize AI APIs",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "arize-7.48.3.tar.gz",
+  "download_time": "2025-08-05T21:25:12.356479",
+  "package_url": "https://pypi.org/project/arize/"
+}

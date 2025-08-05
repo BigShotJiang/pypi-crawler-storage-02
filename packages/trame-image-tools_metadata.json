@@ -1,0 +1,11 @@
+{
+  "name": "trame-image-tools",
+  "version": "1.0.2",
+  "summary": "A trame package to display, manipulate, and select regions in images.",
+  "author": "Alessandro Genova",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "trame_image_tools-1.0.2.tar.gz",
+  "download_time": "2025-08-05T21:24:38.651002",
+  "package_url": "https://pypi.org/project/trame-image-tools/"
+}
