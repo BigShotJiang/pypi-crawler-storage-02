@@ -1,0 +1,11 @@
+{
+  "name": "Exscript",
+  "version": "2.6.31",
+  "summary": "Automating Telnet and SSH",
+  "author": "Samuel Abels",
+  "license": "MIT",
+  "home_page": "https://github.com/knipknap/exscript/",
+  "download_filename": "exscript-2.6.31.tar.gz",
+  "download_time": "2025-08-05T14:55:06.147805",
+  "package_url": "https://pypi.org/project/Exscript/"
+}

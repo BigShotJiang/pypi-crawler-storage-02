@@ -1,0 +1,11 @@
+{
+  "name": "django-jwt-allauth",
+  "version": "1.0.3",
+  "summary": "Powerful JWT-allauth authentication for Django REST Framework that keeps the device session alive by renewing and whitelisting the refresh token.",
+  "author": "Fernando Castellanos",
+  "license": null,
+  "home_page": "http://github.com/castellanos-dev/django-jwt-allauth",
+  "download_filename": "django-jwt-allauth-1.0.3.tar.gz",
+  "download_time": "2025-08-05T14:55:06.663256",
+  "package_url": "https://pypi.org/project/django-jwt-allauth/"
+}

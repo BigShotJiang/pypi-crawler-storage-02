@@ -1,11 +1,11 @@
 {
   "name": "rsstui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "RSS reader TUI application built with Textual",
-  "author": null,
+  "author": "yehorscode",
   "license": null,
   "home_page": null,
-  "download_filename": "rsstui-0.1.0.tar.gz",
-  "download_time": "2025-08-04T14:12:53.970052",
+  "download_filename": "rsstui-0.2.0.tar.gz",
+  "download_time": "2025-08-05T14:54:46.114102",
   "package_url": "https://pypi.org/project/rsstui/"
 }

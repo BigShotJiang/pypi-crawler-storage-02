@@ -1,0 +1,11 @@
+{
+  "name": "cosmoGW",
+  "version": "0.0.28",
+  "summary": "code for cosmological gravitational wave backgrounds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosmogw-0.0.28.tar.gz",
+  "download_time": "2025-08-05T14:54:41.487593",
+  "package_url": "https://pypi.org/project/cosmoGW/"
+}

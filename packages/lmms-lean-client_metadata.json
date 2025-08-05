@@ -1,11 +1,11 @@
 {
   "name": "lmms-lean-client",
-  "version": "0.0.1.dev1",
+  "version": "0.0.1.dev2",
   "summary": "A Python client for the Lean Theorem Prover Server API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lmms_lean_client-0.0.1.dev1.tar.gz",
-  "download_time": "2025-08-05T06:50:00.726347",
+  "download_filename": "lmms_lean_client-0.0.1.dev2.tar.gz",
+  "download_time": "2025-08-05T14:54:56.917996",
   "package_url": "https://pypi.org/project/lmms-lean-client/"
 }

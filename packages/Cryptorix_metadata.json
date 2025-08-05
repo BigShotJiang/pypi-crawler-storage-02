@@ -1,11 +1,11 @@
 {
   "name": "Cryptorix",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A Python package that provides robust encryption and decryption mechanisms, utilizing AES, FERNET, JWE, Hybrid Encryption, AWS KMS, and AWS Secrets Manager.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cryptorix-1.0.7.tar.gz",
-  "download_time": "2025-08-05T14:28:34.633962",
+  "download_filename": "cryptorix-1.0.8.tar.gz",
+  "download_time": "2025-08-05T14:54:39.926018",
   "package_url": "https://pypi.org/project/Cryptorix/"
 }

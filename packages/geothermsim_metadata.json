@@ -1,0 +1,11 @@
+{
+  "name": "geothermsim",
+  "version": "0.3.0",
+  "summary": "Scalable semi-analytical heat transfer simulation of geothermal borehole fields",
+  "author": "Massimo Cimmino",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/MassimoCimmino/geothermsim",
+  "download_filename": "geothermsim-0.3.0.tar.gz",
+  "download_time": "2025-08-05T14:54:43.545192",
+  "package_url": "https://pypi.org/project/geothermsim/"
+}
