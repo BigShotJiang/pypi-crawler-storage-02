@@ -1,0 +1,11 @@
+{
+  "name": "phantom-os",
+  "version": "1.0",
+  "summary": "Build your own virtual drivers for DATAGLOVES to manage PC Visual Systems",
+  "author": "#asytrick",
+  "license": null,
+  "home_page": "https://github.com/ssmool/phantom_os",
+  "download_filename": "phantom_os-1.0.tar.gz",
+  "download_time": "2025-08-05T09:03:46.474695",
+  "package_url": "https://pypi.org/project/phantom-os/"
+}

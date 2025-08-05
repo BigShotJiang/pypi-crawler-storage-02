@@ -1,0 +1,11 @@
+{
+  "name": "atom-monitor",
+  "version": "1.0.0",
+  "summary": "Atom - A comprehensive system health monitoring tool by Times Internet",
+  "author": "Soham Biswas",
+  "license": "Proprietary",
+  "home_page": "https://github.com/TimesInternet/atom-monitor",
+  "download_filename": "atom_monitor-1.0.0.tar.gz",
+  "download_time": "2025-08-05T09:03:29.927331",
+  "package_url": "https://pypi.org/project/atom-monitor/"
+}

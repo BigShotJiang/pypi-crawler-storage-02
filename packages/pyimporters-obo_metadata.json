@@ -1,0 +1,11 @@
+{
+  "name": "pyimporters-obo",
+  "version": "0.4.163",
+  "summary": "Sherpa knowledge import plugins",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyimporters_obo-0.4.163.tar.gz",
+  "download_time": "2025-08-05T09:03:40.953837",
+  "package_url": "https://pypi.org/project/pyimporters-obo/"
+}

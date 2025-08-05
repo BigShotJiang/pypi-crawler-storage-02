@@ -1,11 +1,11 @@
 {
   "name": "flask-wiki",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Simple file-based wiki for Flask",
-  "author": null,
+  "author": "RERO+",
   "license": null,
   "home_page": null,
-  "download_filename": "flask_wiki-1.0.2.tar.gz",
-  "download_time": "2025-08-04T05:53:02.792856",
+  "download_filename": "flask_wiki-1.0.3.tar.gz",
+  "download_time": "2025-08-05T09:03:41.536482",
   "package_url": "https://pypi.org/project/flask-wiki/"
 }

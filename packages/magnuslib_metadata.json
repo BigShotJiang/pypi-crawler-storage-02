@@ -1,11 +1,11 @@
 {
   "name": "magnuslib",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "My_library",
   "author": "sergey_k",
   "license": null,
   "home_page": "https://github.com/magnusred1986",
-  "download_filename": "magnuslib-0.0.8.tar.gz",
-  "download_time": "2025-08-04T22:27:20.913296",
+  "download_filename": "magnuslib-0.0.9.tar.gz",
+  "download_time": "2025-08-05T09:03:28.198393",
   "package_url": "https://pypi.org/project/magnuslib/"
 }

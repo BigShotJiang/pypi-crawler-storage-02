@@ -1,11 +1,11 @@
 {
   "name": "pyimporters-plugins",
-  "version": "0.4.323",
+  "version": "0.4.325",
   "summary": "Sherpa knowledge import plugins",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyimporters_plugins-0.4.323.tar.gz",
-  "download_time": "2025-08-05T08:34:44.440586",
+  "download_filename": "pyimporters_plugins-0.4.325.tar.gz",
+  "download_time": "2025-08-05T09:03:31.084927",
   "package_url": "https://pypi.org/project/pyimporters-plugins/"
 }

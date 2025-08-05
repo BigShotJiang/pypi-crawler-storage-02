@@ -1,0 +1,11 @@
+{
+  "name": "terminal-note",
+  "version": "0.9.0",
+  "summary": "Простая консольная утилита для управления файлами заметок.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminal_note-0.9.0.tar.gz",
+  "download_time": "2025-08-05T09:03:15.806740",
+  "package_url": "https://pypi.org/project/terminal-note/"
+}

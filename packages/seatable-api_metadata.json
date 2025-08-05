@@ -1,0 +1,11 @@
+{
+  "name": "seatable-api",
+  "version": "3.1.1",
+  "summary": "Python client for SeaTable web api",
+  "author": "seatable",
+  "license": "Apache Licence",
+  "home_page": "https://github.com/seatable/seatable-api-python",
+  "download_filename": "seatable-api-3.1.1.tar.gz",
+  "download_time": "2025-08-05T09:03:59.181919",
+  "package_url": "https://pypi.org/project/seatable-api/"
+}

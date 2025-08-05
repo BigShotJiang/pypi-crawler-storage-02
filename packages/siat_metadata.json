@@ -1,0 +1,11 @@
+{
+  "name": "siat",
+  "version": "3.31.6",
+  "summary": "Securities Investment Analysis Tools (siat)",
+  "author": "Prof. WANG Dehong, International Business School, Beijing Foreign Studies University",
+  "license": "Copyright (C) WANG Dehong, 2025. For educational purpose only!",
+  "home_page": "https://pypi.org/project/siat/",
+  "download_filename": "siat-3.31.6-py3-none-any.whl",
+  "download_time": "2025-08-05T09:03:57.647446",
+  "package_url": "https://pypi.org/project/siat/"
+}

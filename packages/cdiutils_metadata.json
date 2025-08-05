@@ -1,0 +1,11 @@
+{
+  "name": "cdiutils",
+  "version": "0.2.0",
+  "summary": "A Python package for (Bragg) Coherent X-ray Diffraction Imaging processing, analysis and visualisation workflows.",
+  "author": "Corentin Chatelier, David Simonne, Matthieu Deschamps, Kyle Olson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdiutils-0.2.0.tar.gz",
+  "download_time": "2025-08-05T09:03:44.427201",
+  "package_url": "https://pypi.org/project/cdiutils/"
+}

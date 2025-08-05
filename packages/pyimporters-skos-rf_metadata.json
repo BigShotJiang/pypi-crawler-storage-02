@@ -1,0 +1,11 @@
+{
+  "name": "pyimporters-skos-rf",
+  "version": "0.4.179",
+  "summary": "Sherpa knowledge import plugins",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyimporters_skos_rf-0.4.179.tar.gz",
+  "download_time": "2025-08-05T09:03:42.115135",
+  "package_url": "https://pypi.org/project/pyimporters-skos-rf/"
+}

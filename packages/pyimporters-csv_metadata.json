@@ -1,0 +1,11 @@
+{
+  "name": "pyimporters-csv",
+  "version": "0.4.415",
+  "summary": "Sherpa knowledge import plugins",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyimporters_csv-0.4.415.tar.gz",
+  "download_time": "2025-08-05T09:03:39.807848",
+  "package_url": "https://pypi.org/project/pyimporters-csv/"
+}
