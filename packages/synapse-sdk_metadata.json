@@ -1,11 +1,11 @@
 {
   "name": "synapse-sdk",
-  "version": "1.0.0b4",
+  "version": "1.0.0b5",
   "summary": "synapse sdk",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synapse_sdk-1.0.0b4-py3-none-any.whl",
-  "download_time": "2025-08-05T05:33:11.874406",
+  "download_filename": "synapse_sdk-1.0.0b5-py3-none-any.whl",
+  "download_time": "2025-08-05T07:30:00.873168",
   "package_url": "https://pypi.org/project/synapse-sdk/"
 }

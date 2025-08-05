@@ -1,0 +1,11 @@
+{
+  "name": "lambdapic",
+  "version": "0.6.3",
+  "summary": "A Particle-in-Cell framework with dynamic behavior modification through callbacks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lambdapic-0.6.3.tar.gz",
+  "download_time": "2025-08-05T07:29:42.351354",
+  "package_url": "https://pypi.org/project/lambdapic/"
+}

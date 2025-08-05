@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-contrib-clipboard",
+  "version": "0.1.5",
+  "summary": "A Streamlit component to copy text to clipboard, even in iframed apps.",
+  "author": "Omkar Pramod Hankare",
+  "license": "MIT",
+  "home_page": "https://github.com/om-pramod/streamlit-contrib-clipboard",
+  "download_filename": "streamlit_contrib_clipboard-0.1.5.tar.gz",
+  "download_time": "2025-08-05T07:30:09.138591",
+  "package_url": "https://pypi.org/project/streamlit-contrib-clipboard/"
+}
