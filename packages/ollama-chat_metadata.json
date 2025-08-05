@@ -1,11 +1,11 @@
 {
   "name": "ollama-chat",
-  "version": "0.9.69",
+  "version": "0.9.70",
   "summary": "An Ollama chat web application",
   "author": "Craig A. Hobbs",
   "license": "MIT",
   "home_page": "https://github.com/craigahobbs/ollama-chat",
-  "download_filename": "ollama_chat-0.9.69.tar.gz",
-  "download_time": "2025-08-04T18:44:34.006233",
+  "download_filename": "ollama_chat-0.9.70.tar.gz",
+  "download_time": "2025-08-05T22:58:09.964346",
   "package_url": "https://pypi.org/project/ollama-chat/"
 }

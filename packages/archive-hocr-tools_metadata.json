@@ -1,0 +1,11 @@
+{
+  "name": "archive-hocr-tools",
+  "version": "1.1.67",
+  "summary": "hOCR (streaming) parsers and writers",
+  "author": "Merlijn Boris Wolf Wajer",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/internetarchive/archive-hocr-tools",
+  "download_filename": "archive_hocr_tools-1.1.67.tar.gz",
+  "download_time": "2025-08-05T22:58:19.880250",
+  "package_url": "https://pypi.org/project/archive-hocr-tools/"
+}

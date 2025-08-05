@@ -1,0 +1,11 @@
+{
+  "name": "tallyfy",
+  "version": "1.0.5",
+  "summary": "A comprehensive Python SDK for interacting with the Tallyfy API",
+  "author": "Tallyfy",
+  "license": "MIT",
+  "home_page": "https://github.com/tallyfy/tallyfy-sdk",
+  "download_filename": "tallyfy-1.0.5.tar.gz",
+  "download_time": "2025-08-05T22:58:11.602655",
+  "package_url": "https://pypi.org/project/tallyfy/"
+}
