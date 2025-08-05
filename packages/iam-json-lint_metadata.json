@@ -1,11 +1,11 @@
 {
   "name": "iam-json-lint",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A tool for linting and validating AWS IAM policies using Parliament",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iam_json_lint-0.1.1.tar.gz",
-  "download_time": "2025-08-05T16:27:32.448268",
+  "download_filename": "iam_json_lint-0.2.0.tar.gz",
+  "download_time": "2025-08-05T17:23:57.790602",
   "package_url": "https://pypi.org/project/iam-json-lint/"
 }

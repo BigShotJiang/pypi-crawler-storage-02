@@ -1,0 +1,11 @@
+{
+  "name": "trackinglog",
+  "version": "0.2.0.2",
+  "summary": "A logging package for tracing function calls with error handling and email notification",
+  "author": "Yinghao Li",
+  "license": null,
+  "home_page": "https://github.com/shiyi-yinghao/trackinglog",
+  "download_filename": "trackinglog-0.2.0.2.tar.gz",
+  "download_time": "2025-08-05T17:23:30.881183",
+  "package_url": "https://pypi.org/project/trackinglog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rstypes",
+  "version": "0.1.0",
+  "summary": "Thread-safe async-aware types for Python written in Rust",
+  "author": "Brian Goo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rstypes-0.1.0.tar.gz",
+  "download_time": "2025-08-05T17:23:56.245699",
+  "package_url": "https://pypi.org/project/rstypes/"
+}

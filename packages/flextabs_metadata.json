@@ -1,0 +1,11 @@
+{
+  "name": "flextabs",
+  "version": "0.1.1",
+  "summary": "A flexible and extensible tab manager widget for tkinter applications built on top of ttk.Notebook",
+  "author": "MS-32154",
+  "license": null,
+  "home_page": "https://github.com/MS-32154/flextabs",
+  "download_filename": "flextabs-0.1.1.tar.gz",
+  "download_time": "2025-08-05T17:23:51.569959",
+  "package_url": "https://pypi.org/project/flextabs/"
+}

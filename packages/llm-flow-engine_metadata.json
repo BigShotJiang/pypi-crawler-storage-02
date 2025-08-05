@@ -1,0 +1,11 @@
+{
+  "name": "llm-flow-engine",
+  "version": "0.7.2",
+  "summary": "A DSL-based LLM workflow engine that supports multi-model collaboration, dependency management, and result aggregation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_flow_engine-0.7.2.tar.gz",
+  "download_time": "2025-08-05T17:24:10.376377",
+  "package_url": "https://pypi.org/project/llm-flow-engine/"
+}

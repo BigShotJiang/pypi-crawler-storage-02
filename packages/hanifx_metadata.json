@@ -1,0 +1,11 @@
+{
+  "name": "hanifx",
+  "version": "17.0.0",
+  "summary": "Custom encryption and decryption module using unique HanifX alphabet",
+  "author": "Hanif",
+  "license": null,
+  "home_page": "https://pypi.org/project/hanifx/",
+  "download_filename": "hanifx-17.0.0.tar.gz",
+  "download_time": "2025-08-05T17:23:32.428090",
+  "package_url": "https://pypi.org/project/hanifx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nkululeko",
-  "version": "0.96.8",
+  "version": "0.97.2",
   "summary": "Machine learning audio prediction experiments based on templates",
   "author": "Felix Burkhardt",
   "license": "MIT",
   "home_page": "https://github.com/felixbur/nkululeko",
-  "download_filename": "nkululeko-0.96.8-py3-none-any.whl",
-  "download_time": "2025-08-04T10:53:35.059634",
+  "download_filename": "nkululeko-0.97.2-py3-none-any.whl",
+  "download_time": "2025-08-05T17:24:13.024174",
   "package_url": "https://pypi.org/project/nkululeko/"
 }

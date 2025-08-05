@@ -1,0 +1,11 @@
+{
+  "name": "weighted-fair-allocation",
+  "version": "1.0.0",
+  "summary": "A realization of the weighted fair allocation problem, with implementations of common allocation algorithms. Created for experimentation purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weighted_fair_allocation-1.0.0.tar.gz",
+  "download_time": "2025-08-05T17:23:29.855175",
+  "package_url": "https://pypi.org/project/weighted-fair-allocation/"
+}
