@@ -1,11 +1,11 @@
 {
   "name": "webis-llm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "HTML内容提取工具，使用AI自动识别网页上的有价值信息",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "webis_llm-1.0.4.tar.gz",
-  "download_time": "2025-08-04T15:51:25.628082",
+  "download_filename": "webis_llm-1.0.5.tar.gz",
+  "download_time": "2025-08-05T05:32:39.851946",
   "package_url": "https://pypi.org/project/webis-llm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rmsdynautomationtool",
+  "version": "0.0.1.dev1",
+  "summary": "This package is useful for PSS®E power system assessment.",
+  "author": "Varchas Solutions Pty Ltd",
+  "license": "Proprietary",
+  "home_page": "https://",
+  "download_filename": "rmsdynautomationtool-0.0.1.dev1.tar.gz",
+  "download_time": "2025-08-05T05:32:48.655437",
+  "package_url": "https://pypi.org/project/rmsdynautomationtool/"
+}

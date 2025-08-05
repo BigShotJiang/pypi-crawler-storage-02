@@ -1,11 +1,11 @@
 {
   "name": "tvmux",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "terminal multiplexer recorder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tvmux-0.5.1.tar.gz",
-  "download_time": "2025-08-04T09:03:41.818078",
+  "download_filename": "tvmux-0.5.2.tar.gz",
+  "download_time": "2025-08-05T05:32:30.865493",
   "package_url": "https://pypi.org/project/tvmux/"
 }

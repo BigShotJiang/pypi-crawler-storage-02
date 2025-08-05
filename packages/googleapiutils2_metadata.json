@@ -1,0 +1,11 @@
+{
+  "name": "googleapiutils2",
+  "version": "0.19.0",
+  "summary": "Wrapper for Google's Python API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "googleapiutils2-0.19.0.tar.gz",
+  "download_time": "2025-08-05T05:32:36.288164",
+  "package_url": "https://pypi.org/project/googleapiutils2/"
+}

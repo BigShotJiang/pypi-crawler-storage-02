@@ -1,0 +1,11 @@
+{
+  "name": "Labelize",
+  "version": "1.4",
+  "summary": "Gui utility to generate oragnizer labels",
+  "author": "Nathan Shaffer",
+  "license": null,
+  "home_page": "https://github.com/nathanjshaffer/labelize",
+  "download_filename": "Labelize-1.4.tar.gz",
+  "download_time": "2025-08-05T05:32:53.970922",
+  "package_url": "https://pypi.org/project/Labelize/"
+}

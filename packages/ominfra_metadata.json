@@ -1,11 +1,11 @@
 {
   "name": "ominfra",
-  "version": "0.0.0.dev379",
+  "version": "0.0.0.dev381",
   "summary": "ominfra",
   "author": "wrmsr",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "ominfra-0.0.0.dev379.tar.gz",
-  "download_time": "2025-08-04T19:32:53.595315",
+  "download_filename": "ominfra-0.0.0.dev381.tar.gz",
+  "download_time": "2025-08-05T05:33:08.361089",
   "package_url": "https://pypi.org/project/ominfra/"
 }

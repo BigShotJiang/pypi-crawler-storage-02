@@ -1,0 +1,11 @@
+{
+  "name": "Orbaplaw",
+  "version": "2.0.2",
+  "summary": "Orbital alignment analysis for plane wave basis sets",
+  "author": "FreemanTheMaverick",
+  "license": null,
+  "home_page": "https://github.com/FreemanTheMaverick/Orbaplaw.git",
+  "download_filename": "orbaplaw-2.0.2.tar.gz",
+  "download_time": "2025-08-05T05:32:46.308153",
+  "package_url": "https://pypi.org/project/Orbaplaw/"
+}
