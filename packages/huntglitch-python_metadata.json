@@ -1,0 +1,11 @@
+{
+  "name": "huntglitch-python",
+  "version": "1.2.0",
+  "summary": "Send Python exceptions and logs to HuntGlitch",
+  "author": "HuntGlitch",
+  "license": "MIT",
+  "home_page": "https://github.com/huntglitch-npm/huntglitch-python",
+  "download_filename": "huntglitch_python-1.2.0.tar.gz",
+  "download_time": "2025-08-05T05:58:50.382582",
+  "package_url": "https://pypi.org/project/huntglitch-python/"
+}

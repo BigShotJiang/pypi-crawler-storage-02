@@ -1,16 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-05T05:33:20.542247
-- **Total Packages**: 84
-- **Total Size**: 14.97 MB
+- **Download Time**: 2025-08-05T05:59:19.238071
+- **Total Packages**: 73
+- **Total Size**: 17.86 MB
 
 ## Packages List
+- sustechRAWR
+- pyimporters-plugins
+- pymultirole-plugins
+- mcp-selenium-grid
+- partial-backup
+- abs-nosql-charts-core
+- ey-commerce-lib
+- dbt-mcp-lightdash
+- agentik-framework
+- printcolumn
+- scrypt
+- heaven-tree-repl
+- gatenet
+- nebula-client
+- fdc-shared-kernel
+- printpop
+- suvi
+- zarr-any-numcodecs
+- huntglitch-python
+- generative-content-pipeline-scraping
+- zmp-authentication-provider
+- robotframework-schemathesislibrary
+- sthg-ontology-base
+- augint-library
+- select-ai
+- octutils
+- semantic-copycat-binarysniffer
+- winytils
+- stx-pysdk
+- jijmodeling
+- datahub_binary
+- dependamerge
+- power-attention
+- todo-mcp-server
+- consenrich
+- deeplotx
+- uber-central-rest-client
+- cmlibs.widgets
+- sunagent-app
+- atlan-mcp-server
+- netbox-cvexplorer
+- sparkden
 - tvmux
 - HelpingAI
 - tidipy
 - slack-mcp-server
-- scrypt
 - aleatorik-pycommon
 - spl-core
 - qtshim
@@ -24,12 +65,9 @@
 - webis-llm
 - sample-mcp
 - mercury-co-nz-api
-- nebula-client
-- todo-mcp-server
 - containment-chamber
 - tespy
 - uiautomation
-- generative-content-pipeline-scraping
 - Maniverse
 - superb-ai-onprem
 - Orbaplaw
@@ -41,52 +79,3 @@
 - zylib-test
 - massgen
 - Devious-WinRM
-- slurmster
-- circuit-synth
-- devstack-cli
-- slush
-- Labelize
-- xsnap
-- sensortower-mcp
-- publicmodel
-- phic
-- lambapi
-- phono3py
-- mcbe-binarystream
-- zohencel-ai
-- PyTCP
-- symclosestwannier
-- diffct
-- make-pretty
-- pymultirole-plugins
-- ktoolbox
-- ktoolbox-pure-py
-- bimkit
-- dbt-databricks
-- pytd
-- krsite-dl
-- omserv
-- ommlds
-- omlish
-- ominfra
-- omdev
-- omdev-cli
-- omdev-cext
-- vrin
-- jupyter-remote-runner
-- synapse-sdk
-- airfoileditor
-- pyinterp
-- StoryForge
-- pchjlib
-- chia-wallet-sdk
-- odoo-addon-maintenance-equipment-usage
-- unifyai
-- greenstream-config
-- mlfastopt
-- mat3ra-made
-- mrx-runway
-- quez
-- pyimporters-plugins
-- odoo-addon-maintenance-request-repair
-- antsibull-build

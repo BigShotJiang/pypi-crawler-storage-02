@@ -1,0 +1,11 @@
+{
+  "name": "dependamerge",
+  "version": "0.1.0",
+  "summary": "Automatically merge pull requests created by automation tools across GitHub organizations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependamerge-0.1.0.tar.gz",
+  "download_time": "2025-08-05T05:58:57.676891",
+  "package_url": "https://pypi.org/project/dependamerge/"
+}

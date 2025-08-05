@@ -1,11 +1,11 @@
 {
   "name": "abs-nosql-charts-core",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A dashboard core library that provide all dashboard related base classes and utilities",
   "author": "divy551",
   "license": null,
   "home_page": null,
-  "download_filename": "abs_nosql_charts_core-0.1.7.tar.gz",
-  "download_time": "2025-08-04T10:29:09.053890",
+  "download_filename": "abs_nosql_charts_core-0.1.9.tar.gz",
+  "download_time": "2025-08-05T05:58:42.544827",
   "package_url": "https://pypi.org/project/abs-nosql-charts-core/"
 }
