@@ -1,0 +1,11 @@
+{
+  "name": "functional-sampling-tool",
+  "version": "0.0.10",
+  "summary": "A tool for enhancing sampling in MD-simulations",
+  "author": "Santeri Paajanen, Shreyas Kaptan",
+  "license": "MIT",
+  "home_page": "https://github.com/molecularmachinist/functional_sampling_tool",
+  "download_filename": "functional_sampling_tool-0.0.10.tar.gz",
+  "download_time": "2025-08-05T11:27:28.250608",
+  "package_url": "https://pypi.org/project/functional-sampling-tool/"
+}

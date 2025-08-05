@@ -1,0 +1,11 @@
+{
+  "name": "galaxyxml",
+  "version": "0.5.5",
+  "summary": "Galaxy XML generation library",
+  "author": "Helena Rasche",
+  "license": null,
+  "home_page": null,
+  "download_filename": "galaxyxml-0.5.5.tar.gz",
+  "download_time": "2025-08-05T11:27:53.805027",
+  "package_url": "https://pypi.org/project/galaxyxml/"
+}

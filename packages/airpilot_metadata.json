@@ -1,11 +1,11 @@
 {
   "name": "airpilot",
-  "version": "0.8.9",
+  "version": "0.9.0",
   "summary": "Universal Intelligence Control",
   "author": "Shane Holloman",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airpilot-0.8.9.tar.gz",
-  "download_time": "2025-08-05T10:58:55.058873",
+  "download_filename": "airpilot-0.9.0.tar.gz",
+  "download_time": "2025-08-05T11:28:00.780691",
   "package_url": "https://pypi.org/project/airpilot/"
 }

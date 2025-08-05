@@ -1,0 +1,11 @@
+{
+  "name": "intsage-middleware",
+  "version": "1.0.0",
+  "summary": "SAGE Framework - 中间件组件 (包含 LLM 中间件服务)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intsage_middleware-1.0.0.tar.gz",
+  "download_time": "2025-08-05T11:27:39.772410",
+  "package_url": "https://pypi.org/project/intsage-middleware/"
+}

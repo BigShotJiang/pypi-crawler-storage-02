@@ -1,0 +1,11 @@
+{
+  "name": "yhgit",
+  "version": "3.5.0",
+  "summary": "yh branch git manager util",
+  "author": "yonghuifan21",
+  "license": "MIT",
+  "home_page": "http://gitlab.yonghui.cn/operation-xm-qdjg/yhgit.git",
+  "download_filename": "yhgit-3.5.0.tar.gz",
+  "download_time": "2025-08-05T11:28:12.443884",
+  "package_url": "https://pypi.org/project/yhgit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "playwrightauthor",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Your personal, authenticated browser for Playwright, ready in one line of code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "playwrightauthor-1.0.8.tar.gz",
-  "download_time": "2025-08-04T23:56:47.987807",
+  "download_filename": "playwrightauthor-1.0.9.tar.gz",
+  "download_time": "2025-08-05T11:27:33.479475",
   "package_url": "https://pypi.org/project/playwrightauthor/"
 }

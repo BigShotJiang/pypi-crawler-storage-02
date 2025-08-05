@@ -1,0 +1,11 @@
+{
+  "name": "intsage-userspace",
+  "version": "1.0.0",
+  "summary": "SAGE Framework - 用户空间组件 (合并 sage-lib, sage-plugins 和 sage-examples)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intsage_userspace-1.0.0.tar.gz",
+  "download_time": "2025-08-05T11:27:38.478977",
+  "package_url": "https://pypi.org/project/intsage-userspace/"
+}

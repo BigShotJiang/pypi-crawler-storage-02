@@ -1,11 +1,11 @@
 {
   "name": "student-tools",
-  "version": "0.1.7.1",
-  "summary": "A collection of English, Math, and Utility tools, made for students.",
+  "version": "0.3.3",
+  "summary": "[Python 3.12 Recommended] A collection of English, Math, and Utility tools, made for students.",
   "author": "Error Dev",
-  "license": null,
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "student_tools-0.1.7.1.tar.gz",
-  "download_time": "2025-08-04T05:52:55.813405",
+  "download_filename": "student_tools-0.3.3.tar.gz",
+  "download_time": "2025-08-05T11:27:24.030150",
   "package_url": "https://pypi.org/project/student-tools/"
 }
