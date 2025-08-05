@@ -1,0 +1,11 @@
+{
+  "name": "dcstatus",
+  "version": "1.4.0",
+  "summary": "Bot to get Delta Chat releases status information",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcstatus-1.4.0-py3-none-any.whl",
+  "download_time": "2025-08-05T13:54:11.664492",
+  "package_url": "https://pypi.org/project/dcstatus/"
+}

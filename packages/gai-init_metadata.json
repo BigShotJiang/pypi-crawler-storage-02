@@ -1,11 +1,11 @@
 {
   "name": "gai-init",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "summary": "This is a bootstrap package for GAI SDK.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gai_init-0.1.27.tar.gz",
-  "download_time": "2025-08-05T03:57:05.643392",
+  "download_filename": "gai_init-0.1.28.tar.gz",
+  "download_time": "2025-08-05T13:54:38.061799",
   "package_url": "https://pypi.org/project/gai-init/"
 }

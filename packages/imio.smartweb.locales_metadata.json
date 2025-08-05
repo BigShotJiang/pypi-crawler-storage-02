@@ -1,0 +1,11 @@
+{
+  "name": "imio.smartweb.locales",
+  "version": "1.1.33",
+  "summary": "Locales for iMio smartweb packages",
+  "author": "iMio",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/imio/imio.smartweb.locales",
+  "download_filename": "imio_smartweb_locales-1.1.33.tar.gz",
+  "download_time": "2025-08-05T13:54:17.914908",
+  "package_url": "https://pypi.org/project/imio.smartweb.locales/"
+}

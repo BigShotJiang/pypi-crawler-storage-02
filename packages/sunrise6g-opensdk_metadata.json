@@ -1,0 +1,11 @@
+{
+  "name": "sunrise6g-opensdk",
+  "version": "1.0.6",
+  "summary": "Open source SDK to abstract CAMARA/GSMA Transformation Functions (TFs) for Edge Cloud platforms, 5G network cores and Open RAN solutions.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sunrise6g_opensdk-1.0.6.tar.gz",
+  "download_time": "2025-08-05T13:54:54.152720",
+  "package_url": "https://pypi.org/project/sunrise6g-opensdk/"
+}

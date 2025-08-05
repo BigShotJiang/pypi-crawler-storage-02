@@ -1,0 +1,11 @@
+{
+  "name": "django-htpy",
+  "version": "25.1",
+  "summary": "django-htpy: Django specific add-ons for the htpy library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_htpy-25.1.tar.gz",
+  "download_time": "2025-08-05T13:54:21.016054",
+  "package_url": "https://pypi.org/project/django-htpy/"
+}

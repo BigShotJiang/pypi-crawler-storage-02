@@ -1,0 +1,11 @@
+{
+  "name": "behave-bo",
+  "version": "0.0.12",
+  "summary": "Electronic Document Management",
+  "author": "Stepan Lushchiy",
+  "license": null,
+  "home_page": "http://docs.budg.bars.group/behave_bo/",
+  "download_filename": "behave_bo-0.0.12.tar.gz",
+  "download_time": "2025-08-05T13:54:17.399951",
+  "package_url": "https://pypi.org/project/behave-bo/"
+}
