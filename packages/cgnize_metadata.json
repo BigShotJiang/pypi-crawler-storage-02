@@ -1,0 +1,11 @@
+{
+  "name": "cgnize",
+  "version": "0.2.9",
+  "summary": "A Python toolkit for parsing, reading, and organizing cgns data files into analysis-ready format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cgnize-0.2.9.tar.gz",
+  "download_time": "2025-08-05T23:24:57.492625",
+  "package_url": "https://pypi.org/project/cgnize/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "starkbank",
-  "version": "2.30.0",
+  "version": "2.30.1",
   "summary": "SDK to facilitate Python integrations with Stark Bank",
   "author": "Stark Bank",
   "license": "MIT License",
   "home_page": "https://github.com/starkbank/sdk-python",
-  "download_filename": "starkbank-2.30.0.tar.gz",
-  "download_time": "2025-08-05T22:57:39.978043",
+  "download_filename": "starkbank-2.30.1.tar.gz",
+  "download_time": "2025-08-05T23:25:25.609034",
   "package_url": "https://pypi.org/project/starkbank/"
 }

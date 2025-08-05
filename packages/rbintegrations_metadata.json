@@ -1,0 +1,11 @@
+{
+  "name": "rbintegrations",
+  "version": "4.0.2",
+  "summary": "A set of third-party service integrations for Review Board 5.0+.",
+  "author": "Beanbag, Inc.",
+  "license": null,
+  "home_page": "https://www.reviewboard.org/",
+  "download_filename": "rbintegrations-4.0.2.tar.gz",
+  "download_time": "2025-08-05T23:25:05.270442",
+  "package_url": "https://pypi.org/project/rbintegrations/"
+}

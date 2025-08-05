@@ -1,0 +1,11 @@
+{
+  "name": "realized-library",
+  "version": "0.1.2",
+  "summary": "A Python package for high-frequency econometrics estimators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "realized_library-0.1.2.tar.gz",
+  "download_time": "2025-08-05T23:25:22.529769",
+  "package_url": "https://pypi.org/project/realized-library/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "singleton-decorator1",
+  "version": "0.5.5",
+  "summary": "Singleton decorator which is: thread-safe, copy safe, mypy compliant, not wrapped class",
+  "author": "Doug Sojourner",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://codeberg.org/Sojournings/singleton-decorator.git",
+  "download_filename": "singleton_decorator1-0.5.5.tar.gz",
+  "download_time": "2025-08-05T23:25:03.723027",
+  "package_url": "https://pypi.org/project/singleton-decorator1/"
+}
