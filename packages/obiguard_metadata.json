@@ -1,11 +1,11 @@
 {
   "name": "obiguard",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "Python SDK for Obiguard",
   "author": "obiguard.com",
   "license": null,
   "home_page": "https://github.com/Obiguard-AI/obiguard-python-sdk",
-  "download_filename": "obiguard-1.0.12.tar.gz",
-  "download_time": "2025-08-05T15:49:06.450133",
+  "download_filename": "obiguard-1.0.13.tar.gz",
+  "download_time": "2025-08-05T16:27:35.151864",
   "package_url": "https://pypi.org/project/obiguard/"
 }

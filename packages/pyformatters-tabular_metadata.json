@@ -1,11 +1,11 @@
 {
   "name": "pyformatters-tabular",
-  "version": "0.5.186",
+  "version": "0.5.188",
   "summary": "Sherpa Tabular formatter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyformatters_tabular-0.5.186.tar.gz",
-  "download_time": "2025-08-05T11:45:51.595884",
+  "download_filename": "pyformatters_tabular-0.5.188.tar.gz",
+  "download_time": "2025-08-05T16:27:38.344135",
   "package_url": "https://pypi.org/project/pyformatters-tabular/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "QuickMediaDL",
+  "version": "0.2.0",
+  "summary": "An advanced library for downloading video and audio from online sources",
+  "author": "Amirhossein bahrami",
+  "license": null,
+  "home_page": "https://github.com/Amirprx3/QuickMediaDL",
+  "download_filename": "quickmediadl-0.2.0.tar.gz",
+  "download_time": "2025-08-05T16:27:02.898235",
+  "package_url": "https://pypi.org/project/QuickMediaDL/"
+}

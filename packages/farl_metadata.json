@@ -1,0 +1,11 @@
+{
+  "name": "farl",
+  "version": "0.0.1",
+  "summary": "A FastAPI rate limiting library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "farl-0.0.1.tar.gz",
+  "download_time": "2025-08-05T16:27:02.364775",
+  "package_url": "https://pypi.org/project/farl/"
+}

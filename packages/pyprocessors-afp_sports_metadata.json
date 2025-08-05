@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-afp_sports",
+  "version": "0.5.78",
+  "summary": "Sherpa Consolidation processor",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyprocessors_afp_sports/",
+  "download_filename": "pyprocessors_afp_sports-0.5.78.tar.gz",
+  "download_time": "2025-08-05T16:27:06.657162",
+  "package_url": "https://pypi.org/project/pyprocessors-afp_sports/"
+}
