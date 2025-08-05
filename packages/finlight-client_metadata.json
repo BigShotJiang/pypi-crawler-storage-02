@@ -1,0 +1,11 @@
+{
+  "name": "finlight-client",
+  "version": "1.2.0",
+  "summary": "Python client for the Finlight API",
+  "author": "Ali Büyükkakac",
+  "license": null,
+  "home_page": "https://github.com/jubeiargh/finlight-client-py",
+  "download_filename": "finlight_client-1.2.0.tar.gz",
+  "download_time": "2025-08-05T08:34:50.993907",
+  "package_url": "https://pypi.org/project/finlight-client/"
+}

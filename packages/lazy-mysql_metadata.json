@@ -1,11 +1,11 @@
 {
   "name": "lazy-mysql",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A lazy MySQL client for Python.",
   "author": "tinycen",
   "license": null,
   "home_page": "https://github.com/tinycen/lazy_mysql",
-  "download_filename": "lazy_mysql-0.1.7.tar.gz",
-  "download_time": "2025-08-04T10:29:23.014716",
+  "download_filename": "lazy_mysql-0.1.8.tar.gz",
+  "download_time": "2025-08-05T08:34:38.356719",
   "package_url": "https://pypi.org/project/lazy-mysql/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "st-circular-kpi",
+  "version": "0.1.0",
+  "summary": "Un composant Streamlit pour afficher des KPI circulaires",
+  "author": "Antoine",
+  "license": null,
+  "home_page": "https://github.com/2nzi/",
+  "download_filename": "st_circular_kpi-0.1.0.tar.gz",
+  "download_time": "2025-08-05T08:34:44.968310",
+  "package_url": "https://pypi.org/project/st-circular-kpi/"
+}

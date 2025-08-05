@@ -1,11 +1,11 @@
 {
   "name": "heaven-tree-repl",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "Hierarchical Embodied Autonomously Validating Evolution Network Tree REPL",
   "author": "HEAVEN Development Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/heaven-tree-repl",
-  "download_filename": "heaven_tree_repl-0.1.13.tar.gz",
-  "download_time": "2025-08-05T07:50:05.694323",
+  "download_filename": "heaven_tree_repl-0.1.15.tar.gz",
+  "download_time": "2025-08-05T08:35:10.096097",
   "package_url": "https://pypi.org/project/heaven-tree-repl/"
 }

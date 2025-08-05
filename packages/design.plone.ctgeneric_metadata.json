@@ -1,0 +1,11 @@
+{
+  "name": "design.plone.ctgeneric",
+  "version": "1.0.6",
+  "summary": "Add-on that implements AGID v2 content types rules",
+  "author": "RedTurtle Technology",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/design.plone.ctgeneric",
+  "download_filename": "design_plone_ctgeneric-1.0.6.tar.gz",
+  "download_time": "2025-08-05T08:35:20.759170",
+  "package_url": "https://pypi.org/project/design.plone.ctgeneric/"
+}

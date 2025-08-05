@@ -1,0 +1,11 @@
+{
+  "name": "interpolator-for-wrfchem",
+  "version": "1.5.0",
+  "summary": "Interpolates global chemistry fields for use with WRF-CHEM",
+  "author": "Thanasis Georgiou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interpolator_for_wrfchem-1.5.0.tar.gz",
+  "download_time": "2025-08-05T08:35:16.455529",
+  "package_url": "https://pypi.org/project/interpolator-for-wrfchem/"
+}

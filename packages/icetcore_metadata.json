@@ -1,0 +1,11 @@
+{
+  "name": "icetcore",
+  "version": "6.6.75",
+  "summary": "icetcore python api",
+  "author": "zxlee",
+  "license": null,
+  "home_page": "https://www.algostars.com.cn/",
+  "download_filename": "icetcore-6.6.75-py3-none-any.whl",
+  "download_time": "2025-08-05T08:34:36.716575",
+  "package_url": "https://pypi.org/project/icetcore/"
+}

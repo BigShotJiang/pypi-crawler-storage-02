@@ -1,11 +1,11 @@
 {
   "name": "msqeditor",
-  "version": "1.0",
+  "version": "1.2",
   "summary": "This editor helps you manage databases on your VPS",
   "author": "Mentor Misini",
   "license": null,
   "home_page": "https://github.com/mentormisini/dbeditor.git",
-  "download_filename": "msqeditor-1.0.tar.gz",
-  "download_time": "2025-08-05T07:50:27.116143",
+  "download_filename": "msqeditor-1.2.tar.gz",
+  "download_time": "2025-08-05T08:34:37.812120",
   "package_url": "https://pypi.org/project/msqeditor/"
 }

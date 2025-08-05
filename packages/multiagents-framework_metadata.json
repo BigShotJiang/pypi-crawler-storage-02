@@ -1,11 +1,11 @@
 {
   "name": "multiagents-framework",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hybrid Event-Driven Orchestration Framework",
   "author": "MultiAgents Team",
   "license": "MIT",
   "home_page": "https://github.com/xavierau/multiagents",
-  "download_filename": "multiagents_framework-0.1.1.tar.gz",
-  "download_time": "2025-08-04T19:03:19.758419",
+  "download_filename": "multiagents_framework-0.1.2.tar.gz",
+  "download_time": "2025-08-05T08:34:43.910497",
   "package_url": "https://pypi.org/project/multiagents-framework/"
 }
