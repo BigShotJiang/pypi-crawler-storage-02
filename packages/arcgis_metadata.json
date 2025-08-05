@@ -1,0 +1,11 @@
+{
+  "name": "arcgis",
+  "version": "2.4.1.2",
+  "summary": "ArcGIS API for Python",
+  "author": "Esri",
+  "license": "Esri Master License Agreement (MLA) - http://www.esri.com/LEGAL/pdfs/mla_e204_e300/english.pdf",
+  "home_page": "https://developers.arcgis.com/python/",
+  "download_filename": "arcgis-2.4.1.2-py3-none-any.whl",
+  "download_time": "2025-08-05T19:33:51.815939",
+  "package_url": "https://pypi.org/project/arcgis/"
+}

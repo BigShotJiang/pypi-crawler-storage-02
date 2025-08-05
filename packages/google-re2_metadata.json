@@ -1,0 +1,11 @@
+{
+  "name": "google-re2",
+  "version": "1.1.20250805",
+  "summary": "RE2 Python bindings",
+  "author": "The RE2 Authors",
+  "license": null,
+  "home_page": "https://github.com/google/re2",
+  "download_filename": "google_re2-1.1.20250805.tar.gz",
+  "download_time": "2025-08-05T19:33:48.650012",
+  "package_url": "https://pypi.org/project/google-re2/"
+}

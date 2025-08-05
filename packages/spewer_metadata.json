@@ -1,0 +1,11 @@
+{
+  "name": "spewer",
+  "version": "0.1.2",
+  "summary": "A Python debugging library for detailed code execution tracing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spewer-0.1.2.tar.gz",
+  "download_time": "2025-08-05T19:33:55.517018",
+  "package_url": "https://pypi.org/project/spewer/"
+}

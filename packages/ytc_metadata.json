@@ -1,0 +1,11 @@
+{
+  "name": "ytc",
+  "version": "2025.8.5",
+  "summary": "fetch youtube cookies from remote api to use with yt_dlp .",
+  "author": "GoldenX",
+  "license": null,
+  "home_page": "https://t.me/goldenxpris",
+  "download_filename": "ytc-2025.8.5.tar.gz",
+  "download_time": "2025-08-05T19:34:14.399129",
+  "package_url": "https://pypi.org/project/ytc/"
+}

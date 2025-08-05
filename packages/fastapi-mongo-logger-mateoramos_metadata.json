@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-mongo-logger-mateoramos",
+  "version": "1.0.2",
+  "summary": "FastAPI MongoDB logging package for endpoints and general logging",
+  "author": "Mateo Ramos",
+  "license": null,
+  "home_page": "https://github.com/mateoramos97/fastapi-mongo-logs",
+  "download_filename": "fastapi_mongo_logger_mateoramos-1.0.2.tar.gz",
+  "download_time": "2025-08-05T19:34:16.488628",
+  "package_url": "https://pypi.org/project/fastapi-mongo-logger-mateoramos/"
+}

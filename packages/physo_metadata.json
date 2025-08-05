@@ -1,0 +1,11 @@
+{
+  "name": "physo",
+  "version": "1.1.8",
+  "summary": "Physical Symbolic Optimization",
+  "author": "Wassim Tenachi",
+  "license": "MIT",
+  "home_page": "https://github.com/WassimTenachi/PhySO",
+  "download_filename": "physo-1.1.8.tar.gz",
+  "download_time": "2025-08-05T19:34:03.905878",
+  "package_url": "https://pypi.org/project/physo/"
+}

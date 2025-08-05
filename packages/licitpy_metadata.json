@@ -1,0 +1,11 @@
+{
+  "name": "licitpy",
+  "version": "1.4.0",
+  "summary": "LicitPy: A Python toolbox designed for downloading, parsing, and analyzing public tenders from Chile's Mercado Público.",
+  "author": "Nelson Guamán",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nguaman/licitpy",
+  "download_filename": "licitpy-1.4.0.tar.gz",
+  "download_time": "2025-08-05T19:33:46.527258",
+  "package_url": "https://pypi.org/project/licitpy/"
+}

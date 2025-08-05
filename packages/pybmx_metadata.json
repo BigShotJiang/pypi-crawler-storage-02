@@ -1,11 +1,11 @@
 {
   "name": "pybmx",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Bosch sensor BMP and BME library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybmx-0.2.1.tar.gz",
-  "download_time": "2025-08-05T18:38:44.043623",
+  "download_filename": "pybmx-0.2.2.tar.gz",
+  "download_time": "2025-08-05T19:34:21.712782",
   "package_url": "https://pypi.org/project/pybmx/"
 }

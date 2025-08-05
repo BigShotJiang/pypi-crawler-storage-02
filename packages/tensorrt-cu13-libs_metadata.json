@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt-cu13-libs",
+  "version": "10.13.2.6",
+  "summary": "TensorRT Libraries",
+  "author": "NVIDIA Corporation",
+  "license": "Proprietary",
+  "home_page": "https://github.com/nvidia/tensorrt",
+  "download_filename": "tensorrt_cu13_libs-10.13.2.6.tar.gz",
+  "download_time": "2025-08-05T19:34:00.219131",
+  "package_url": "https://pypi.org/project/tensorrt-cu13-libs/"
+}
