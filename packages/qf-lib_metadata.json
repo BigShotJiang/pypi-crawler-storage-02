@@ -1,0 +1,11 @@
+{
+  "name": "qf-lib",
+  "version": "4.0.3",
+  "summary": "Quantitative Finance Library",
+  "author": "Jacek Witkowski, Marcin Borratynski, Thomas Ruxton, Dominik Picheta, Olga Kalinowska, Karolina Cynk, Jakub Czerski, Bartlomiej Czajewski, Zeynep Gültuğ Aydemir, Octavian-Mihai Matei, Eirik Thorp Eythorsson, Marek Bais",
+  "license": "Apache License 2.0",
+  "home_page": "https://quarkfin.github.io/qf-lib-info",
+  "download_filename": "qf_lib-4.0.3-py3-none-any.whl",
+  "download_time": "2025-08-05T07:50:11.387490",
+  "package_url": "https://pypi.org/project/qf-lib/"
+}

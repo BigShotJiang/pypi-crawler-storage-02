@@ -1,11 +1,11 @@
 {
   "name": "langchain_sandbox_zp",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "LangChain Sandbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_sandbox_zp-0.0.7.tar.gz",
-  "download_time": "2025-08-05T07:29:51.090735",
+  "download_filename": "langchain_sandbox_zp-0.0.8.tar.gz",
+  "download_time": "2025-08-05T07:50:26.094793",
   "package_url": "https://pypi.org/project/langchain_sandbox_zp/"
 }

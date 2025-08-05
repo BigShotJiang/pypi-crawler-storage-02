@@ -1,0 +1,11 @@
+{
+  "name": "ctfsolver",
+  "version": "0.0.8",
+  "summary": "An all in one library for solving CTF challenges",
+  "author": "Nikolas Filippatos",
+  "license": "MIT",
+  "home_page": "https://github.com/nikolasfil/CTFSolverScript",
+  "download_filename": "ctfsolver-0.0.8.tar.gz",
+  "download_time": "2025-08-05T07:50:09.849023",
+  "package_url": "https://pypi.org/project/ctfsolver/"
+}
