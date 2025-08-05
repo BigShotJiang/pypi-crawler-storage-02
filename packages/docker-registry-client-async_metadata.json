@@ -1,0 +1,11 @@
+{
+  "name": "docker-registry-client-async",
+  "version": "1.0.3",
+  "summary": "An AIOHTTP based Python REST client for the Docker Registry.",
+  "author": "Richard Davis",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/crashvb/docker-registry-client-async",
+  "download_filename": "docker_registry_client_async-1.0.3.tar.gz",
+  "download_time": "2025-08-05T11:46:13.184439",
+  "package_url": "https://pypi.org/project/docker-registry-client-async/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-segment_renseignor",
+  "version": "0.5.25",
+  "summary": "Sherpa Consolidation processor",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyprocessors_segment_renseignor/",
+  "download_filename": "pyprocessors_segment_renseignor-0.5.25.tar.gz",
+  "download_time": "2025-08-05T11:46:03.652923",
+  "package_url": "https://pypi.org/project/pyprocessors-segment_renseignor/"
+}

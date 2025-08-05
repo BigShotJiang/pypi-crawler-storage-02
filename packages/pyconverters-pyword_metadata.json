@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-pyword",
+  "version": "0.5.15",
+  "summary": "Convert DOCX to Markdown using [mammoth](https://github.com/mwilliamson/python-mammoth)",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyconverters_pyword/",
+  "download_filename": "pyconverters_pyword-0.5.15.tar.gz",
+  "download_time": "2025-08-05T11:45:54.887327",
+  "package_url": "https://pypi.org/project/pyconverters-pyword/"
+}

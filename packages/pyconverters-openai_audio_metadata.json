@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-openai_audio",
+  "version": "0.5.34",
+  "summary": "OpenAIAudio converter",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyconverters_openai_audio-0.5.34.tar.gz",
+  "download_time": "2025-08-05T11:45:50.950580",
+  "package_url": "https://pypi.org/project/pyconverters-openai_audio/"
+}

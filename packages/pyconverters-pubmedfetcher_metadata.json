@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-pubmedfetcher",
+  "version": "0.5.147",
+  "summary": "Pubmed converter.",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyconverters_pubmedfetcher/",
+  "download_filename": "pyconverters_pubmedfetcher-0.5.147.tar.gz",
+  "download_time": "2025-08-05T11:46:31.685493",
+  "package_url": "https://pypi.org/project/pyconverters-pubmedfetcher/"
+}

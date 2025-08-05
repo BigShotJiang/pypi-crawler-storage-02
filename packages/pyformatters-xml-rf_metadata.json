@@ -1,0 +1,11 @@
+{
+  "name": "pyformatters-xml-rf",
+  "version": "0.5.229",
+  "summary": "Sherpa XML RF formatter",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyformatters_xml_rf-0.5.229.tar.gz",
+  "download_time": "2025-08-05T11:45:56.944334",
+  "package_url": "https://pypi.org/project/pyformatters-xml-rf/"
+}

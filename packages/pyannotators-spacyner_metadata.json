@@ -1,0 +1,11 @@
+{
+  "name": "pyannotators-spacyner",
+  "version": "0.5.234",
+  "summary": "Annotator based on Spacy NER",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyannotators_spacyner/",
+  "download_filename": "pyannotators_spacyner-0.5.234.tar.gz",
+  "download_time": "2025-08-05T11:46:31.035992",
+  "package_url": "https://pypi.org/project/pyannotators-spacyner/"
+}

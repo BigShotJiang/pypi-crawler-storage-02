@@ -1,11 +1,11 @@
 {
   "name": "edge-tts",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "summary": "Microsoft Edge's TTS",
   "author": "rany",
   "license": null,
   "home_page": "https://github.com/rany2/edge-tts",
-  "download_filename": "edge_tts-7.1.0.tar.gz",
-  "download_time": "2025-08-05T11:27:53.158857",
+  "download_filename": "edge_tts-7.2.0.tar.gz",
+  "download_time": "2025-08-05T11:46:17.697480",
   "package_url": "https://pypi.org/project/edge-tts/"
 }

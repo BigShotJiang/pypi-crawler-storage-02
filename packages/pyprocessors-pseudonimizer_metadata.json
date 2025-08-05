@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-pseudonimizer",
+  "version": "0.5.83",
+  "summary": "Processor based on Presidio anonymizer",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyprocessors_pseudonimizer-0.5.83.tar.gz",
+  "download_time": "2025-08-05T11:46:00.964764",
+  "package_url": "https://pypi.org/project/pyprocessors-pseudonimizer/"
+}

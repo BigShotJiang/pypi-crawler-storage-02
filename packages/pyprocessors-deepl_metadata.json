@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-deepl",
+  "version": "0.5.93",
+  "summary": "DeepL processor",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyprocessors_deepl-0.5.93.tar.gz",
+  "download_time": "2025-08-05T11:46:32.320732",
+  "package_url": "https://pypi.org/project/pyprocessors-deepl/"
+}
