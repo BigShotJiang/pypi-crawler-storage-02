@@ -1,0 +1,11 @@
+{
+  "name": "limits",
+  "version": "5.5.0",
+  "summary": "Rate limiting utilities",
+  "author": "Ali-Akber Saifee",
+  "license": "MIT",
+  "home_page": "https://limits.readthedocs.org",
+  "download_filename": "limits-5.5.0.tar.gz",
+  "download_time": "2025-08-05T18:39:10.544377",
+  "package_url": "https://pypi.org/project/limits/"
+}

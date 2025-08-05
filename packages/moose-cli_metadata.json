@@ -1,11 +1,11 @@
 {
   "name": "moose-cli",
-  "version": "0.4.336",
+  "version": "0.4.338",
   "summary": "Build tool for moose apps",
   "author": "Fiveonefour Labs Inc. <support@fiveonefour.com>",
   "license": "MIT",
   "home_page": "https://www.fiveonefour.com/moose",
-  "download_filename": "moose_cli-0.4.336-py3-none-macosx_14_0_arm64.whl",
-  "download_time": "2025-08-04T23:24:58.014585",
+  "download_filename": "moose_cli-0.4.338-py3-none-macosx_14_0_arm64.whl",
+  "download_time": "2025-08-05T18:39:23.409688",
   "package_url": "https://pypi.org/project/moose-cli/"
 }

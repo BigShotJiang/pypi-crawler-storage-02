@@ -1,0 +1,11 @@
+{
+  "name": "pypwsqc",
+  "version": "0.2.1",
+  "summary": "Quality control for PWS data",
+  "author": "Christian Chwala",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pypwsqc-0.2.1.tar.gz",
+  "download_time": "2025-08-05T18:39:30.754960",
+  "package_url": "https://pypi.org/project/pypwsqc/"
+}

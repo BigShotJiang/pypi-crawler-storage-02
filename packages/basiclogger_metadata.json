@@ -1,0 +1,11 @@
+{
+  "name": "basiclogger",
+  "version": "0.1.0",
+  "summary": "A simple colorful logger package with custom levels and timing decorator",
+  "author": "vincentdeneuf",
+  "license": "MIT",
+  "home_page": "https://github.com/vincentdeneuf/basiclogger",
+  "download_filename": "basiclogger-0.1.0.tar.gz",
+  "download_time": "2025-08-05T18:39:14.799582",
+  "package_url": "https://pypi.org/project/basiclogger/"
+}

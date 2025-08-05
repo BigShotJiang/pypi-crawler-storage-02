@@ -1,0 +1,11 @@
+{
+  "name": "langchain-arangodb",
+  "version": "1.1.0",
+  "summary": "An integration package connecting ArangoDB and LangChain",
+  "author": "ArangoDB",
+  "license": "MIT",
+  "home_page": "https://github.com/arangoml/langchain-arangodb",
+  "download_filename": "langchain_arangodb-1.1.0.tar.gz",
+  "download_time": "2025-08-05T18:39:25.521974",
+  "package_url": "https://pypi.org/project/langchain-arangodb/"
+}

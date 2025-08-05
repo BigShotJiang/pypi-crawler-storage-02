@@ -1,0 +1,11 @@
+{
+  "name": "hyperspell",
+  "version": "0.21.0",
+  "summary": "The official Python library for the hyperspell API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperspell-0.21.0.tar.gz",
+  "download_time": "2025-08-05T18:39:27.085703",
+  "package_url": "https://pypi.org/project/hyperspell/"
+}

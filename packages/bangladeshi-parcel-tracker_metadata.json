@@ -1,0 +1,11 @@
+{
+  "name": "bangladeshi-parcel-tracker",
+  "version": "1.3.0",
+  "summary": "A Python package for tracking parcels from Bangladeshi courier services",
+  "author": "Minhaz",
+  "license": null,
+  "home_page": "https://github.com/mdminhazulhaque/bangladeshi-parcel-tracker",
+  "download_filename": "bangladeshi_parcel_tracker-1.3.0.tar.gz",
+  "download_time": "2025-08-05T18:39:22.795600",
+  "package_url": "https://pypi.org/project/bangladeshi-parcel-tracker/"
+}
