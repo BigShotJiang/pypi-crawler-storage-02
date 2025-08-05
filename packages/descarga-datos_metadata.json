@@ -1,0 +1,11 @@
+{
+  "name": "descarga-datos",
+  "version": "0.4.5",
+  "summary": "A local Python module",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/descarga_datos",
+  "download_filename": "descarga_datos-0.4.5.tar.gz",
+  "download_time": "2025-08-05T18:04:17.436299",
+  "package_url": "https://pypi.org/project/descarga-datos/"
+}

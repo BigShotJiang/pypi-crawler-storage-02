@@ -1,11 +1,11 @@
 {
   "name": "privacyschema",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "Pluggable framework for personal data compliance (LGPD/GDPR)",
-  "author": "Júlio César de Amorim",
+  "author": "Julio Amorim",
   "license": "MIT",
   "home_page": "https://github.com/julioamorimdev/PrivacySchema",
-  "download_filename": "privacyschema-0.1.1.tar.gz",
-  "download_time": "2025-08-05T17:24:14.578121",
+  "download_filename": "privacyschema-0.3.0.tar.gz",
+  "download_time": "2025-08-05T18:04:30.994488",
   "package_url": "https://pypi.org/project/privacyschema/"
 }

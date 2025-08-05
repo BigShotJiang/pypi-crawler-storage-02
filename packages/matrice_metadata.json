@@ -1,11 +1,11 @@
 {
   "name": "matrice",
-  "version": "1.0.99200",
+  "version": "1.0.99204",
   "summary": "SDK for connecting to matrice.ai services",
   "author": "Matrice.ai",
   "license": null,
   "home_page": "https://github.com/matrice-ai/python-sdk",
-  "download_filename": "matrice-1.0.99200.tar.gz",
-  "download_time": "2025-08-05T13:03:15.958036",
+  "download_filename": "matrice-1.0.99204.tar.gz",
+  "download_time": "2025-08-05T18:04:23.926062",
   "package_url": "https://pypi.org/project/matrice/"
 }

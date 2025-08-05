@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-ionq",
+  "version": "0.6.0",
+  "summary": "Qiskit provider for IonQ backends",
+  "author": "IonQ",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/qiskit-partners/qiskit-ionq",
+  "download_filename": "qiskit_ionq-0.6.0.tar.gz",
+  "download_time": "2025-08-05T18:04:32.976523",
+  "package_url": "https://pypi.org/project/qiskit-ionq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "esgcet",
+  "version": "5.3.2",
+  "summary": "ESGCET publication package",
+  "author": "Sasha Ames",
+  "license": null,
+  "home_page": "http://esgf.github.io",
+  "download_filename": "esgcet-5.3.2.tar.gz",
+  "download_time": "2025-08-05T18:04:26.111760",
+  "package_url": "https://pypi.org/project/esgcet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "collectWithCamera",
+  "version": "0.1.0",
+  "summary": "A camera live module to collect data for image predictions.",
+  "author": "Shashwat dev Hans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "collectwithcamera-0.1.0.tar.gz",
+  "download_time": "2025-08-05T18:04:17.946247",
+  "package_url": "https://pypi.org/project/collectWithCamera/"
+}

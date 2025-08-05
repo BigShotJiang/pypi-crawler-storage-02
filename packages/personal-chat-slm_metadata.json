@@ -1,0 +1,11 @@
+{
+  "name": "personal-chat-slm",
+  "version": "0.1.1",
+  "summary": "A nano-LLM trained from scratch on personal chat data to mimic a conversational style.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "personal_chat_slm-0.1.1.tar.gz",
+  "download_time": "2025-08-05T18:04:11.684667",
+  "package_url": "https://pypi.org/project/personal-chat-slm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ssb-sgis",
+  "version": "1.2.12",
+  "summary": "GIS functions used at Statistics Norway.",
+  "author": "Morten Letnes",
+  "license": "MIT",
+  "home_page": "https://github.com/statisticsnorway/ssb-sgis",
+  "download_filename": "ssb_sgis-1.2.12.tar.gz",
+  "download_time": "2025-08-05T18:04:53.455828",
+  "package_url": "https://pypi.org/project/ssb-sgis/"
+}

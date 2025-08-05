@@ -1,0 +1,11 @@
+{
+  "name": "torch-custom-datasets",
+  "version": "0.0.3",
+  "summary": "A suite of custom PyTorch dataset loaders for vision tasks like classification and segmentation.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "torch_custom_datasets-0.0.3.tar.gz",
+  "download_time": "2025-08-05T18:04:07.306313",
+  "package_url": "https://pypi.org/project/torch-custom-datasets/"
+}
