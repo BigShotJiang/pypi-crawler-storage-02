@@ -1,0 +1,11 @@
+{
+  "name": "sb3-extra-buffers",
+  "version": "0.4.2",
+  "summary": "Extra buffer classes for Stable-Baselines3, reduce memory usage with minimal overhead.",
+  "author": "Hugo (Jin Huang)",
+  "license": "MIT",
+  "home_page": "https://github.com/Trenza1ore/sb3-extra-buffers",
+  "download_filename": "sb3_extra_buffers-0.4.2.tar.gz",
+  "download_time": "2025-08-06T22:26:19.745381",
+  "package_url": "https://pypi.org/project/sb3-extra-buffers/"
+}

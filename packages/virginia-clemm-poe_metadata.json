@@ -1,11 +1,11 @@
 {
   "name": "virginia-clemm-poe",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "summary": "A Python package providing programmatic access to Poe.com model data with pricing information",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "virginia_clemm_poe-1.0.22.tar.gz",
-  "download_time": "2025-08-06T18:37:35.794165",
+  "download_filename": "virginia_clemm_poe-1.0.23.tar.gz",
+  "download_time": "2025-08-06T22:26:15.574537",
   "package_url": "https://pypi.org/project/virginia-clemm-poe/"
 }

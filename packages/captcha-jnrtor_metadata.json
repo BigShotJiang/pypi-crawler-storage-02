@@ -1,0 +1,11 @@
+{
+  "name": "captcha-jnrtor",
+  "version": "2.0.0",
+  "summary": "This is a python-package meant to create automatic captcha",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "captcha_jnrtor-2.0.0.tar.gz",
+  "download_time": "2025-08-06T22:26:07.242225",
+  "package_url": "https://pypi.org/project/captcha-jnrtor/"
+}

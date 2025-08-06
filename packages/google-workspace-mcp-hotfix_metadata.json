@@ -1,11 +1,11 @@
 {
   "name": "google-workspace-mcp-hotfix",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "MCP server for Google Workspace integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "google_workspace_mcp_hotfix-1.5.1.tar.gz",
-  "download_time": "2025-08-06T21:56:46.110819",
+  "download_filename": "google_workspace_mcp_hotfix-1.5.2.tar.gz",
+  "download_time": "2025-08-06T22:26:33.429830",
   "package_url": "https://pypi.org/project/google-workspace-mcp-hotfix/"
 }

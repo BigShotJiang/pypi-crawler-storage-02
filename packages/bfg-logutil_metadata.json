@@ -1,0 +1,11 @@
+{
+  "name": "bfg-logutil",
+  "version": "0.2.2",
+  "summary": "A python logging library that writes to console, local file and datadog",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bfg_logutil-0.2.2.tar.gz",
+  "download_time": "2025-08-06T22:26:23.403451",
+  "package_url": "https://pypi.org/project/bfg-logutil/"
+}

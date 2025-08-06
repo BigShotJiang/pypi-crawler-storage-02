@@ -1,0 +1,11 @@
+{
+  "name": "lncur",
+  "version": "1.1.0",
+  "summary": "CLI tool to automate symlinking files when porting Windows cursors to Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lncur-1.1.0.tar.gz",
+  "download_time": "2025-08-06T22:26:09.337552",
+  "package_url": "https://pypi.org/project/lncur/"
+}

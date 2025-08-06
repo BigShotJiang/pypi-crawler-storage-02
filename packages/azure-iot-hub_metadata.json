@@ -1,0 +1,11 @@
+{
+  "name": "azure-iot-hub",
+  "version": "2.7.0",
+  "summary": "Microsoft Azure IoTHub Service Library",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-iot-hub-python/",
+  "download_filename": "azure_iot_hub-2.7.0.tar.gz",
+  "download_time": "2025-08-06T22:26:10.896442",
+  "package_url": "https://pypi.org/project/azure-iot-hub/"
+}

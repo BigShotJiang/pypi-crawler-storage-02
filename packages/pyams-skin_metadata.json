@@ -1,0 +1,11 @@
+{
+  "name": "pyams-skin",
+  "version": "2.4.1",
+  "summary": "PyAMS base skin management features",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_skin-2.4.1.tar.gz",
+  "download_time": "2025-08-06T22:26:25.585484",
+  "package_url": "https://pypi.org/project/pyams-skin/"
+}

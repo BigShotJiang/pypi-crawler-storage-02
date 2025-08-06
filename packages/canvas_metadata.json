@@ -1,11 +1,11 @@
 {
   "name": "canvas",
-  "version": "0.51.0",
+  "version": "0.52.0",
   "summary": "SDK to customize event-driven actions in your Canvas instance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "canvas-0.51.0.tar.gz",
-  "download_time": "2025-08-05T18:04:51.798964",
+  "download_filename": "canvas-0.52.0.tar.gz",
+  "download_time": "2025-08-06T22:26:01.844615",
   "package_url": "https://pypi.org/project/canvas/"
 }

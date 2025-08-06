@@ -1,11 +1,11 @@
 {
   "name": "WebGrid",
-  "version": "0.20250806.1",
+  "version": "0.20250806.2",
   "summary": "A library for rendering HTML tables and Excel files from SQLAlchemy models.",
   "author": null,
   "license": "Copyright (c) 2014 by Randy Syring and contributors.\n        \n        Some rights reserved.\n        \n        Redistribution and use in source and binary forms of the software as well\n        as documentation, with or without modification, are permitted provided\n        that the following conditions are met:\n        \n        * Redistributions of source code must retain the above copyright\n          notice, this list of conditions and the following disclaimer.\n        \n        * Redistributions in binary form must reproduce the above\n          copyright notice, this list of conditions and the following\n          disclaimer in the documentation and/or other materials provided\n          with the distribution.\n        \n        * The names of the contributors may not be used to endorse or\n          promote products derived from this software without specific\n          prior written permission.\n        \n        THIS SOFTWARE AND DOCUMENTATION IS PROVIDED BY THE COPYRIGHT HOLDERS AND\n        CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT\n        NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\n        A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER\n        OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,\n        EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\n        PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\n        PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\n        LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\n        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\n        SOFTWARE AND DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH\n        DAMAGE.",
   "home_page": null,
-  "download_filename": "webgrid-0.20250806.1.tar.gz",
-  "download_time": "2025-08-06T21:44:22.964489",
+  "download_filename": "webgrid-0.20250806.2.tar.gz",
+  "download_time": "2025-08-06T22:26:17.673511",
   "package_url": "https://pypi.org/project/WebGrid/"
 }
