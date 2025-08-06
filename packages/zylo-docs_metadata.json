@@ -1,11 +1,11 @@
 {
   "name": "zylo-docs",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "summary": null,
   "author": "lee gyu yeol-mac",
   "license": null,
   "home_page": null,
-  "download_filename": "zylo_docs-1.0.2.tar.gz",
-  "download_time": "2025-08-04T09:47:20.181172",
+  "download_filename": "zylo_docs-1.1.1.tar.gz",
+  "download_time": "2025-08-06T09:59:59.807228",
   "package_url": "https://pypi.org/project/zylo-docs/"
 }

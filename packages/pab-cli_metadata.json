@@ -1,11 +1,11 @@
 {
   "name": "pab-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A command-line tool for deploying Scrapy spiders to APCloudy",
   "author": "Fawad Ali",
   "license": "MIT",
   "home_page": "https://github.com/fawadss1/pab-cli",
-  "download_filename": "pab_cli-0.2.0.tar.gz",
-  "download_time": "2025-08-06T08:35:23.873820",
+  "download_filename": "pab_cli-0.2.1.tar.gz",
+  "download_time": "2025-08-06T10:00:02.336923",
   "package_url": "https://pypi.org/project/pab-cli/"
 }

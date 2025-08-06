@@ -1,11 +1,11 @@
 {
   "name": "seam",
-  "version": "1.122.0",
+  "version": "1.124.0",
   "summary": "SDK for the Seam API written in Python.",
   "author": "Seam Labs, Inc.",
   "license": "MIT",
   "home_page": "https://github.com/seamapi/python",
-  "download_filename": "seam-1.122.0.tar.gz",
-  "download_time": "2025-08-04T12:54:39.972166",
+  "download_filename": "seam-1.124.0.tar.gz",
+  "download_time": "2025-08-06T09:59:59.244833",
   "package_url": "https://pypi.org/project/seam/"
 }

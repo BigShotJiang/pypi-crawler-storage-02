@@ -1,11 +1,11 @@
 {
   "name": "finbourne-access-sdk",
-  "version": "2.1.307",
+  "version": "2.1.308",
   "summary": "FINBOURNE Access Management API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": "https://github.com/finbourne/finbourne-access-sdk-python",
-  "download_filename": "finbourne_access_sdk-2.1.307.tar.gz",
-  "download_time": "2025-08-05T14:29:17.995324",
+  "download_filename": "finbourne_access_sdk-2.1.308.tar.gz",
+  "download_time": "2025-08-06T09:59:56.518224",
   "package_url": "https://pypi.org/project/finbourne-access-sdk/"
 }

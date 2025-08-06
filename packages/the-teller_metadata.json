@@ -1,0 +1,11 @@
+{
+  "name": "the-teller",
+  "version": "0.11.0",
+  "summary": "teller, explainable machine learning",
+  "author": "T. Moudiki",
+  "license": "BSD",
+  "home_page": "https://github.com/thierrymoudiki/teller",
+  "download_filename": "the_teller-0.11.0.tar.gz",
+  "download_time": "2025-08-06T10:00:07.414142",
+  "package_url": "https://pypi.org/project/the-teller/"
+}

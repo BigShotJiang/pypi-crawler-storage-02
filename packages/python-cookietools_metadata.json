@@ -1,11 +1,11 @@
 {
   "name": "python-cookietools",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Python cookietools.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-cookietools",
-  "download_filename": "python_cookietools-0.0.6.tar.gz",
-  "download_time": "2025-08-06T07:29:54.018466",
+  "download_filename": "python_cookietools-0.0.7.tar.gz",
+  "download_time": "2025-08-06T10:00:06.845024",
   "package_url": "https://pypi.org/project/python-cookietools/"
 }
