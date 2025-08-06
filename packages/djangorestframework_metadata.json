@@ -1,0 +1,11 @@
+{
+  "name": "djangorestframework",
+  "version": "3.16.1",
+  "summary": "Web APIs for Django, made easy.",
+  "author": "Tom Christie",
+  "license": "BSD",
+  "home_page": "https://www.django-rest-framework.org/",
+  "download_filename": "djangorestframework-3.16.1.tar.gz",
+  "download_time": "2025-08-06T17:57:39.953872",
+  "package_url": "https://pypi.org/project/djangorestframework/"
+}

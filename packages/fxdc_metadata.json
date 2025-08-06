@@ -1,11 +1,11 @@
 {
   "name": "fxdc",
-  "version": "4.0",
+  "version": "4.1",
   "summary": "This Package Parses FxDC file and returns the object",
   "author": "FedxD",
   "license": "MIT",
   "home_page": "https://github.com/KazimFedxD/FedxD-Data-Container",
-  "download_filename": "fxdc-4.0.tar.gz",
-  "download_time": "2025-08-05T13:03:17.597456",
+  "download_filename": "fxdc-4.1.tar.gz",
+  "download_time": "2025-08-06T17:57:25.963406",
   "package_url": "https://pypi.org/project/fxdc/"
 }

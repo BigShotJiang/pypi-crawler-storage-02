@@ -1,11 +1,11 @@
 {
   "name": "ITHmapper",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A pipeline for mapping scRNA-seq query cells to reference cell states using Hotspot, meta-modules, and consensus profiles.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ithmapper-0.1.5.tar.gz",
-  "download_time": "2025-08-06T14:28:54.825283",
+  "download_filename": "ithmapper-0.1.6.tar.gz",
+  "download_time": "2025-08-06T17:57:38.265464",
   "package_url": "https://pypi.org/project/ITHmapper/"
 }

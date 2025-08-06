@@ -1,11 +1,11 @@
 {
   "name": "lintok",
-  "version": "0.0.0a3",
+  "version": "0.0.0a4",
   "summary": "Linter of file sizes in tokens, for smaller files and faster agent edits.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lintok-0.0.0a3.tar.gz",
-  "download_time": "2025-08-06T17:41:20.166105",
+  "download_filename": "lintok-0.0.0a4.tar.gz",
+  "download_time": "2025-08-06T17:57:49.162139",
   "package_url": "https://pypi.org/project/lintok/"
 }

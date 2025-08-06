@@ -1,0 +1,11 @@
+{
+  "name": "pyams-zfiles",
+  "version": "2.5.3",
+  "summary": "PyAMS files storage manager",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_zfiles-2.5.3.tar.gz",
+  "download_time": "2025-08-06T17:57:37.039024",
+  "package_url": "https://pypi.org/project/pyams-zfiles/"
+}

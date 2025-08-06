@@ -1,11 +1,11 @@
 {
   "name": "devDocs",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": "AI-powered CLI tool that builds professional '*.md' documentation files of a project for internal teams using the Google Gemini API.",
   "author": "Gantavya Bansal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "devdocs-2.0.6.tar.gz",
-  "download_time": "2025-08-06T17:41:03.926668",
+  "download_filename": "devdocs-2.0.7.tar.gz",
+  "download_time": "2025-08-06T17:57:33.291046",
   "package_url": "https://pypi.org/project/devDocs/"
 }

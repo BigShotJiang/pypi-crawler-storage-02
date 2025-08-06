@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-astropy",
+  "version": "1.10",
+  "summary": "Sphinx extensions and configuration specific to the Astropy project",
+  "author": "The Astropy Developers",
+  "license": "BSD",
+  "home_page": "https://github.com/astropy/sphinx-astropy",
+  "download_filename": "sphinx_astropy-1.10.tar.gz",
+  "download_time": "2025-08-06T17:57:26.602128",
+  "package_url": "https://pypi.org/project/sphinx-astropy/"
+}
