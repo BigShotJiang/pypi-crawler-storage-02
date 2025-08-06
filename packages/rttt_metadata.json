@@ -1,0 +1,11 @@
+{
+  "name": "rttt",
+  "version": "1.3.3",
+  "summary": "HARDWARIO Real Time Transfer Terminal Console",
+  "author": "Karel Blavka",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rttt-1.3.3.tar.gz",
+  "download_time": "2025-08-06T09:03:42.545408",
+  "package_url": "https://pypi.org/project/rttt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atsdk",
+  "version": "0.2.46",
+  "summary": "Python SDK for atPlatform",
+  "author": "Umang Shah",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "atsdk-0.2.46.tar.gz",
+  "download_time": "2025-08-06T09:03:47.476414",
+  "package_url": "https://pypi.org/project/atsdk/"
+}

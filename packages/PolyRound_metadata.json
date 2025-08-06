@@ -1,0 +1,11 @@
+{
+  "name": "PolyRound",
+  "version": "0.3.1",
+  "summary": "A python package for rounding polytopes.",
+  "author": "Axel Theorell",
+  "license": "GPL-3.0",
+  "home_page": "https://gitlab.com/csb.ethz/PolyRound",
+  "download_filename": "polyround-0.3.1.tar.gz",
+  "download_time": "2025-08-06T09:03:58.004132",
+  "package_url": "https://pypi.org/project/PolyRound/"
+}

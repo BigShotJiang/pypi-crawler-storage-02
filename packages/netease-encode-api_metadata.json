@@ -1,0 +1,11 @@
+{
+  "name": "netease-encode-api",
+  "version": "1.2.0",
+  "summary": "网易云weapi解码和封装。",
+  "author": "CooooldWind_",
+  "license": null,
+  "home_page": "https://github.com/CooooldWind/netease_encode_api",
+  "download_filename": "netease_encode_api-1.2.0.tar.gz",
+  "download_time": "2025-08-06T09:03:46.843254",
+  "package_url": "https://pypi.org/project/netease-encode-api/"
+}

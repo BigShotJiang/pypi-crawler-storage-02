@@ -1,0 +1,11 @@
+{
+  "name": "autohpsearch",
+  "version": "1.0.1",
+  "summary": "A package for hyperparameter tuning of models for cross-sectional data.",
+  "author": "rudyvdbrink",
+  "license": "MIT",
+  "home_page": "https://github.com/rudyvdbrink/autohpsearch",
+  "download_filename": "autohpsearch-1.0.1.tar.gz",
+  "download_time": "2025-08-06T09:03:16.362176",
+  "package_url": "https://pypi.org/project/autohpsearch/"
+}
