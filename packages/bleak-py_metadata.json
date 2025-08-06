@@ -1,11 +1,11 @@
 {
   "name": "bleak-py",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "A cross-platform BLE library based on btleplug.",
   "author": "Jesse Smith",
   "license": "MIT",
   "home_page": "https://github.com/jesses2025smith/bleak-rs",
-  "download_filename": "bleak_py-0.1.12.tar.gz",
-  "download_time": "2025-08-04T07:50:34.815383",
+  "download_filename": "bleak_py-0.1.13.tar.gz",
+  "download_time": "2025-08-06T10:59:11.637338",
   "package_url": "https://pypi.org/project/bleak-py/"
 }

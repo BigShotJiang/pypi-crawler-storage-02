@@ -1,0 +1,11 @@
+{
+  "name": "vedro-spec-validator",
+  "version": "0.1.14",
+  "summary": "Vedro Spec Validator plugin",
+  "author": "Sam Roz",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Maestoz/vedro-spec-validator",
+  "download_filename": "vedro_spec_validator-0.1.14.tar.gz",
+  "download_time": "2025-08-06T10:59:22.940029",
+  "package_url": "https://pypi.org/project/vedro-spec-validator/"
+}

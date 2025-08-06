@@ -1,0 +1,11 @@
+{
+  "name": "simaticai",
+  "version": "2.5.0",
+  "summary": "AI Software Development Kit",
+  "author": "Siemens AG",
+  "license": "MIT",
+  "home_page": "https://github.com/industrial-edge/ai-sdk",
+  "download_filename": "simaticai-2.5.0-py3-none-any.whl",
+  "download_time": "2025-08-06T10:59:15.234561",
+  "package_url": "https://pypi.org/project/simaticai/"
+}

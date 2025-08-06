@@ -1,0 +1,11 @@
+{
+  "name": "KubeDiagrams",
+  "version": "0.5.0",
+  "summary": "Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state",
+  "author": "Philippe Merle",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/philippemerle/KubeDiagrams",
+  "download_filename": "kubediagrams-0.5.0.tar.gz",
+  "download_time": "2025-08-06T10:59:14.202281",
+  "package_url": "https://pypi.org/project/KubeDiagrams/"
+}

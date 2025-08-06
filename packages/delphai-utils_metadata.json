@@ -1,0 +1,11 @@
+{
+  "name": "delphai-utils",
+  "version": "6.6.3",
+  "summary": "delphai backend utilities",
+  "author": "Barath Kumar",
+  "license": null,
+  "home_page": "https://github.com/delphai/delphai-utils",
+  "download_filename": "delphai_utils-6.6.3.tar.gz",
+  "download_time": "2025-08-06T10:59:22.429598",
+  "package_url": "https://pypi.org/project/delphai-utils/"
+}

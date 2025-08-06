@@ -1,0 +1,11 @@
+{
+  "name": "lhcb-rex",
+  "version": "0.1.3",
+  "summary": "Generalised graph neural network based fast simulation tool for LHCb.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lhcb_rex-0.1.3.tar.gz",
+  "download_time": "2025-08-06T10:59:26.547549",
+  "package_url": "https://pypi.org/project/lhcb-rex/"
+}
