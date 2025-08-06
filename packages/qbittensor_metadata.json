@@ -1,0 +1,11 @@
+{
+  "name": "qbittensor",
+  "version": "9.9.4",
+  "summary": "Bittensor CLI",
+  "author": "bittensor.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbittensor-9.9.4.tar.gz",
+  "download_time": "2025-08-06T03:54:51.942430",
+  "package_url": "https://pypi.org/project/qbittensor/"
+}

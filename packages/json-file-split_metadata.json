@@ -1,11 +1,11 @@
 {
   "name": "json-file-split",
-  "version": "0.0.234",
+  "version": "0.0.235",
   "summary": "Split a json or jsonl file into equal chunks.",
   "author": "Michael Mohamed",
   "license": "MIT",
   "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
-  "download_filename": "json_file_split-0.0.234.tar.gz",
-  "download_time": "2025-08-06T02:20:52.534605",
+  "download_filename": "json_file_split-0.0.235.tar.gz",
+  "download_time": "2025-08-06T03:54:30.384606",
   "package_url": "https://pypi.org/project/json-file-split/"
 }

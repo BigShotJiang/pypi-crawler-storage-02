@@ -1,0 +1,11 @@
+{
+  "name": "mipx",
+  "version": "0.6.1",
+  "summary": "Python (Mixed-Integer Linear Programming Constraint Programming) Optimization Tools",
+  "author": "ly",
+  "license": null,
+  "home_page": "https://github.com/bme6/mipx",
+  "download_filename": "mipx-0.6.1.tar.gz",
+  "download_time": "2025-08-06T03:54:30.914104",
+  "package_url": "https://pypi.org/project/mipx/"
+}

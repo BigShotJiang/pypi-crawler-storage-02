@@ -1,0 +1,11 @@
+{
+  "name": "contraction-fix",
+  "version": "0.2.2",
+  "summary": "A fast and efficient library for fixing contractions in text with reverse functionality and batch processing support",
+  "author": "Sean Gao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contraction_fix-0.2.2.tar.gz",
+  "download_time": "2025-08-06T03:54:40.979238",
+  "package_url": "https://pypi.org/project/contraction-fix/"
+}
