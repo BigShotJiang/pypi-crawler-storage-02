@@ -1,0 +1,11 @@
+{
+  "name": "poi",
+  "version": "1.2.0",
+  "summary": "Write Excel XLSX declaratively.",
+  "author": "Ryan Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "poi-1.2.0.tar.gz",
+  "download_time": "2025-08-06T11:57:59.255805",
+  "package_url": "https://pypi.org/project/poi/"
+}

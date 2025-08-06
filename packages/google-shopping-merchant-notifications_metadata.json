@@ -1,0 +1,11 @@
+{
+  "name": "google-shopping-merchant-notifications",
+  "version": "0.1.9",
+  "summary": "Google Shopping Merchant Notifications API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-shopping-merchant-notifications",
+  "download_filename": "google_shopping_merchant_notifications-0.1.9.tar.gz",
+  "download_time": "2025-08-06T11:57:36.668901",
+  "package_url": "https://pypi.org/project/google-shopping-merchant-notifications/"
+}

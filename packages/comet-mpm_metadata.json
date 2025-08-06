@@ -1,11 +1,11 @@
 {
   "name": "comet-mpm",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Comet MPM SDK",
   "author": "Comet ML Inc.",
   "license": "Proprietary",
   "home_page": "https://www.comet.ml",
-  "download_filename": "comet_mpm-1.4.0.tar.gz",
-  "download_time": "2025-08-04T18:44:13.192868",
+  "download_filename": "comet_mpm-1.4.1.tar.gz",
+  "download_time": "2025-08-06T11:58:06.542823",
   "package_url": "https://pypi.org/project/comet-mpm/"
 }

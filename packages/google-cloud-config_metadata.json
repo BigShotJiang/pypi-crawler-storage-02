@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-config",
+  "version": "0.1.20",
+  "summary": "Google Cloud Config API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-config",
+  "download_filename": "google_cloud_config-0.1.20.tar.gz",
+  "download_time": "2025-08-06T11:57:44.871029",
+  "package_url": "https://pypi.org/project/google-cloud-config/"
+}

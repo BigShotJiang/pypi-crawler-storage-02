@@ -1,0 +1,11 @@
+{
+  "name": "uneff",
+  "version": "1.0.1",
+  "summary": "Remove BOM and problematic Unicode characters from text files",
+  "author": "Mark",
+  "license": "MIT",
+  "home_page": "https://github.com/mkiiim/uneff",
+  "download_filename": "uneff-1.0.1.tar.gz",
+  "download_time": "2025-08-06T11:57:25.120914",
+  "package_url": "https://pypi.org/project/uneff/"
+}

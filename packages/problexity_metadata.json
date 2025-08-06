@@ -1,0 +1,11 @@
+{
+  "name": "problexity",
+  "version": "0.5.11",
+  "summary": "The problexity module is an open-source python library containing the implementation of measures describing the complexity of the classification problem.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://w4k2.github.io/problexity/",
+  "download_filename": "problexity-0.5.11.tar.gz",
+  "download_time": "2025-08-06T11:58:00.541032",
+  "package_url": "https://pypi.org/project/problexity/"
+}

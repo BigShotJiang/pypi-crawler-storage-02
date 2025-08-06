@@ -1,0 +1,11 @@
+{
+  "name": "bboxpy",
+  "version": "1.3.8",
+  "summary": "Fetch data from bouygues bbox",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "bboxpy-1.3.8.tar.gz",
+  "download_time": "2025-08-06T11:58:04.096328",
+  "package_url": "https://pypi.org/project/bboxpy/"
+}

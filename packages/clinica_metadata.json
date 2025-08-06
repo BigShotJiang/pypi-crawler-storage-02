@@ -1,0 +1,11 @@
+{
+  "name": "clinica",
+  "version": "0.10.1",
+  "summary": "Software platform for clinical neuroimaging studies",
+  "author": "ARAMIS Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clinica-0.10.1.tar.gz",
+  "download_time": "2025-08-06T11:57:50.408209",
+  "package_url": "https://pypi.org/project/clinica/"
+}
