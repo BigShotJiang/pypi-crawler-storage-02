@@ -1,0 +1,11 @@
+{
+  "name": "pynoise",
+  "version": "3.0.0",
+  "summary": "An implementation of libnoise in python. Allows the creation of verious noise maps using a series of interconnected noise modules.",
+  "author": "Tim Butram",
+  "license": null,
+  "home_page": "https://gitlab.com/atrus6/pynoise",
+  "download_filename": "pynoise-3.0.0.tar.gz",
+  "download_time": "2025-08-06T18:37:45.762775",
+  "package_url": "https://pypi.org/project/pynoise/"
+}

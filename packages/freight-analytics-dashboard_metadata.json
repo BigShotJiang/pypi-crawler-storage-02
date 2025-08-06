@@ -1,0 +1,11 @@
+{
+  "name": "freight-analytics-dashboard",
+  "version": "1.0.0",
+  "summary": "Advanced US Freight Analytics Dashboard with Interactive Visualizations",
+  "author": "Megh KC",
+  "license": "MIT",
+  "home_page": "https://github.com/meghkc/DashBoard",
+  "download_filename": "freight_analytics_dashboard-1.0.0.tar.gz",
+  "download_time": "2025-08-06T18:37:13.710447",
+  "package_url": "https://pypi.org/project/freight-analytics-dashboard/"
+}

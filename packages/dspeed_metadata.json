@@ -1,0 +1,11 @@
+{
+  "name": "dspeed",
+  "version": "1.8.1",
+  "summary": "Fast Digital Signal Processing for particle detectors in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dspeed-1.8.1.tar.gz",
+  "download_time": "2025-08-06T18:37:43.691078",
+  "package_url": "https://pypi.org/project/dspeed/"
+}

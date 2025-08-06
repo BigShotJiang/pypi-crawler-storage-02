@@ -1,11 +1,11 @@
 {
   "name": "dayhoff-tools",
-  "version": "1.5.7",
+  "version": "1.6.0",
   "summary": "Common tools for all the repos at Dayhoff Labs",
   "author": "Daniel Martin-Alarcon",
   "license": null,
   "home_page": null,
-  "download_filename": "dayhoff_tools-1.5.7.tar.gz",
-  "download_time": "2025-08-04T19:32:40.429718",
+  "download_filename": "dayhoff_tools-1.6.0.tar.gz",
+  "download_time": "2025-08-06T18:37:22.147838",
   "package_url": "https://pypi.org/project/dayhoff-tools/"
 }

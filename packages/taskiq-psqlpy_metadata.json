@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-psqlpy",
+  "version": "0.1.7",
+  "summary": "PSQLPy and PostgreSQL integration for taskiq",
+  "author": "taskiq-team",
+  "license": null,
+  "home_page": "https://github.com/taskiq-python/taskiq-psqlpy",
+  "download_filename": "taskiq_psqlpy-0.1.7.tar.gz",
+  "download_time": "2025-08-06T18:37:11.094809",
+  "package_url": "https://pypi.org/project/taskiq-psqlpy/"
+}

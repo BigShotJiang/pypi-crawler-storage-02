@@ -1,11 +1,11 @@
 {
   "name": "licensing",
-  "version": "0.52",
+  "version": "0.53",
   "summary": null,
   "author": "Cryptolens AB",
   "license": "MIT",
   "home_page": "https://cryptolens.io",
-  "download_filename": "licensing-0.52.tar.gz",
-  "download_time": "2025-08-05T13:54:40.129813",
+  "download_filename": "licensing-0.53.tar.gz",
+  "download_time": "2025-08-06T18:37:38.944552",
   "package_url": "https://pypi.org/project/licensing/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "runez",
+  "version": "5.3.1",
+  "summary": "Friendly misc/utils/convenience library",
+  "author": "Zoran Simic",
+  "license": "MIT",
+  "home_page": "https://github.com/codrsquad/runez",
+  "download_filename": "runez-5.3.1.tar.gz",
+  "download_time": "2025-08-06T18:37:35.261910",
+  "package_url": "https://pypi.org/project/runez/"
+}
