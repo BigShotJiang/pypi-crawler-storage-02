@@ -1,11 +1,11 @@
 {
   "name": "pyimporters-mesh",
-  "version": "0.4.190",
+  "version": "0.4.202",
   "summary": "Sherpa knowledge import plugins",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyimporters_mesh-0.4.190.tar.gz",
-  "download_time": "2025-08-05T09:44:20.155686",
+  "download_filename": "pyimporters_mesh-0.4.202.tar.gz",
+  "download_time": "2025-08-06T05:34:35.970256",
   "package_url": "https://pypi.org/project/pyimporters-mesh/"
 }

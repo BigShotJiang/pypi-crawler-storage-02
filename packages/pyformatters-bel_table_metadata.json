@@ -1,11 +1,11 @@
 {
   "name": "pyformatters-bel_table",
-  "version": "0.5.84",
+  "version": "0.5.87",
   "summary": "Sherpa BELTable formatter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyformatters_bel_table-0.5.84.tar.gz",
-  "download_time": "2025-08-05T16:27:46.297724",
+  "download_filename": "pyformatters_bel_table-0.5.87.tar.gz",
+  "download_time": "2025-08-06T05:33:49.877208",
   "package_url": "https://pypi.org/project/pyformatters-bel_table/"
 }

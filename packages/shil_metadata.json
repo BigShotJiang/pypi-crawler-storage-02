@@ -1,0 +1,11 @@
+{
+  "name": "shil",
+  "version": "2025.8.6.5.22",
+  "summary": "Shell helper utilities for python",
+  "author": "elo",
+  "license": "MIT",
+  "home_page": "https://github.com/elo-enterprises/shil/",
+  "download_filename": "shil-2025.8.6.5.22.tar.gz",
+  "download_time": "2025-08-06T05:34:30.106895",
+  "package_url": "https://pypi.org/project/shil/"
+}

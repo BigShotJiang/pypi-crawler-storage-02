@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-grobid",
-  "version": "0.5.207",
+  "version": "0.5.212",
   "summary": "Convert PDF to structured text using Grobid",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_grobid/",
-  "download_filename": "pyconverters_grobid-0.5.207.tar.gz",
-  "download_time": "2025-08-05T13:03:03.835662",
+  "download_filename": "pyconverters_grobid-0.5.212.tar.gz",
+  "download_time": "2025-08-06T05:34:22.103356",
   "package_url": "https://pypi.org/project/pyconverters-grobid/"
 }

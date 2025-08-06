@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-standoff2inline",
-  "version": "0.5.19",
+  "version": "0.5.22",
   "summary": "Sherpa transform annotations to categories processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_standoff2inline/",
-  "download_filename": "pyprocessors_standoff2inline-0.5.19.tar.gz",
-  "download_time": "2025-08-05T17:24:13.552901",
+  "download_filename": "pyprocessors_standoff2inline-0.5.22.tar.gz",
+  "download_time": "2025-08-06T05:34:06.294817",
   "package_url": "https://pypi.org/project/pyprocessors-standoff2inline/"
 }

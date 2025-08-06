@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-xcago",
-  "version": "0.5.30",
+  "version": "0.5.35",
   "summary": "X-CAGO converter.",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_xcago/",
-  "download_filename": "pyconverters_xcago-0.5.30.tar.gz",
-  "download_time": "2025-08-05T11:45:49.643473",
+  "download_filename": "pyconverters_xcago-0.5.35.tar.gz",
+  "download_time": "2025-08-06T05:33:59.705429",
   "package_url": "https://pypi.org/project/pyconverters-xcago/"
 }

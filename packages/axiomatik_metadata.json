@@ -1,11 +1,11 @@
 {
   "name": "axiomatik",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Axiomatik is a comprehensive runtime verification system that brings formal verification concepts to practical Python programming.",
   "author": "SaxonRah",
   "license": null,
   "home_page": "https://github.com/SaxonRah/axiomatik",
-  "download_filename": "axiomatik-0.2.1.tar.gz",
-  "download_time": "2025-08-06T04:50:38.764084",
+  "download_filename": "axiomatik-0.2.2.tar.gz",
+  "download_time": "2025-08-06T05:34:33.627688",
   "package_url": "https://pypi.org/project/axiomatik/"
 }

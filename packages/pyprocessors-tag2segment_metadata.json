@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-tag2segment",
-  "version": "0.5.56",
+  "version": "0.5.59",
   "summary": "Sherpa Consolidation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_tag2segment/",
-  "download_filename": "pyprocessors_tag2segment-0.5.56.tar.gz",
-  "download_time": "2025-08-05T17:24:09.864100",
+  "download_filename": "pyprocessors_tag2segment-0.5.59.tar.gz",
+  "download_time": "2025-08-06T05:34:08.262803",
   "package_url": "https://pypi.org/project/pyprocessors-tag2segment/"
 }

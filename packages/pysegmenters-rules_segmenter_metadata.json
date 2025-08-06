@@ -1,11 +1,11 @@
 {
   "name": "pysegmenters-rules_segmenter",
-  "version": "0.5.232",
+  "version": "0.5.235",
   "summary": "Rule-based segmenter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pysegmenters_rules_segmenter/",
-  "download_filename": "pysegmenters_rules_segmenter-0.5.232.tar.gz",
-  "download_time": "2025-08-05T17:23:59.951082",
+  "download_filename": "pysegmenters_rules_segmenter-0.5.235.tar.gz",
+  "download_time": "2025-08-06T05:34:24.645395",
   "package_url": "https://pypi.org/project/pysegmenters-rules_segmenter/"
 }
