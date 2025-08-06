@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-document_fingerprint",
-  "version": "0.5.59",
+  "version": "0.5.64",
   "summary": "Sherpa Consolidation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_document_fingerprint/",
-  "download_filename": "pyprocessors_document_fingerprint-0.5.59.tar.gz",
-  "download_time": "2025-08-05T16:49:22.832187",
+  "download_filename": "pyprocessors_document_fingerprint-0.5.64.tar.gz",
+  "download_time": "2025-08-06T06:00:01.159955",
   "package_url": "https://pypi.org/project/pyprocessors-document_fingerprint/"
 }

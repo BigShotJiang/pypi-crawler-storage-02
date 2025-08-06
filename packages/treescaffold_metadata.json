@@ -1,0 +1,11 @@
+{
+  "name": "treescaffold",
+  "version": "1.4.1",
+  "summary": "Generate folder structures from various input formats (tree, YAML, simple indentation)",
+  "author": "Sreeprad",
+  "license": "MIT",
+  "home_page": "https://github.com/sree-sphere/foldertree",
+  "download_filename": "treescaffold-1.4.1.tar.gz",
+  "download_time": "2025-08-06T06:00:39.411373",
+  "package_url": "https://pypi.org/project/treescaffold/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-xcago_reconciliation",
-  "version": "0.5.42",
+  "version": "0.5.44",
   "summary": "Sherpa xcago_reconciliation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_xcago_reconciliation/",
-  "download_filename": "pyprocessors_xcago_reconciliation-0.5.42.tar.gz",
-  "download_time": "2025-08-06T05:34:14.113775",
+  "download_filename": "pyprocessors_xcago_reconciliation-0.5.44.tar.gz",
+  "download_time": "2025-08-06T05:59:53.812491",
   "package_url": "https://pypi.org/project/pyprocessors-xcago_reconciliation/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyformatters-afp_quality",
-  "version": "0.6.155",
+  "version": "0.6.160",
   "summary": "Sherpa AFP Quality formatter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyformatters_afp_quality-0.6.155.tar.gz",
-  "download_time": "2025-08-05T16:27:47.906994",
+  "download_filename": "pyformatters_afp_quality-0.6.160.tar.gz",
+  "download_time": "2025-08-06T05:59:57.046708",
   "package_url": "https://pypi.org/project/pyformatters-afp_quality/"
 }

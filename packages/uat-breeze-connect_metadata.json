@@ -1,0 +1,11 @@
+{
+  "name": "uat-breeze-connect",
+  "version": "1.0.14rc58",
+  "summary": "UAT Breeze Connect",
+  "author": "UAT Breeze Connect",
+  "license": null,
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "uat_breeze_connect-1.0.14rc58.tar.gz",
+  "download_time": "2025-08-06T06:00:36.808930",
+  "package_url": "https://pypi.org/project/uat-breeze-connect/"
+}

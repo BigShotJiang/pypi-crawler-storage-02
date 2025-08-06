@@ -1,0 +1,11 @@
+{
+  "name": "pypevol",
+  "version": "0.2.1",
+  "summary": "A package to analyze PyPI package API evolution and lifecycle",
+  "author": "pypevol Team",
+  "license": null,
+  "home_page": "https://github.com/likaixin2000/py-package-evol",
+  "download_filename": "pypevol-0.2.1.tar.gz",
+  "download_time": "2025-08-06T06:00:20.228656",
+  "package_url": "https://pypi.org/project/pypevol/"
+}

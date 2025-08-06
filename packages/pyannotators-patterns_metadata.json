@@ -1,0 +1,11 @@
+{
+  "name": "pyannotators-patterns",
+  "version": "0.5.119",
+  "summary": "Annotator based on Presidio pattern recognizer",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyannotators_patterns/",
+  "download_filename": "pyannotators_patterns-0.5.119.tar.gz",
+  "download_time": "2025-08-06T06:00:41.968600",
+  "package_url": "https://pypi.org/project/pyannotators-patterns/"
+}

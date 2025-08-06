@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-rf_consolidate",
-  "version": "0.5.52",
+  "version": "0.5.54",
   "summary": "RF Consolidation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_rf_consolidate/",
-  "download_filename": "pyprocessors_rf_consolidate-0.5.52.tar.gz",
-  "download_time": "2025-08-06T05:34:05.714789",
+  "download_filename": "pyprocessors_rf_consolidate-0.5.54.tar.gz",
+  "download_time": "2025-08-06T06:00:21.763883",
   "package_url": "https://pypi.org/project/pyprocessors-rf_consolidate/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-capitalizer",
-  "version": "0.5.38",
+  "version": "0.5.40",
   "summary": "Replace document text with capitalized annotations",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_capitalizer/",
-  "download_filename": "pyprocessors_capitalizer-0.5.38.tar.gz",
-  "download_time": "2025-08-06T05:34:00.789997",
+  "download_filename": "pyprocessors_capitalizer-0.5.40.tar.gz",
+  "download_time": "2025-08-06T06:00:22.275206",
   "package_url": "https://pypi.org/project/pyprocessors-capitalizer/"
 }

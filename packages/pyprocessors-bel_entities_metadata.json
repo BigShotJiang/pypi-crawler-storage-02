@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-bel_entities",
-  "version": "0.5.106",
+  "version": "0.5.108",
   "summary": "Sherpa Consolidation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_bel_entities/",
-  "download_filename": "pyprocessors_bel_entities-0.5.106.tar.gz",
-  "download_time": "2025-08-06T05:34:01.372125",
+  "download_filename": "pyprocessors_bel_entities-0.5.108.tar.gz",
+  "download_time": "2025-08-06T06:00:09.399928",
   "package_url": "https://pypi.org/project/pyprocessors-bel_entities/"
 }

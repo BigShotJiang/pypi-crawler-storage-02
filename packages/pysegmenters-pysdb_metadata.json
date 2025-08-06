@@ -1,11 +1,11 @@
 {
   "name": "pysegmenters-pysdb",
-  "version": "0.5.111",
+  "version": "0.5.113",
   "summary": "Rule-based segmenter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pysegmenters_pysdb/",
-  "download_filename": "pysegmenters_pysdb-0.5.111.tar.gz",
-  "download_time": "2025-08-06T05:34:10.597240",
+  "download_filename": "pysegmenters_pysdb-0.5.113.tar.gz",
+  "download_time": "2025-08-06T06:00:14.566030",
   "package_url": "https://pypi.org/project/pysegmenters-pysdb/"
 }

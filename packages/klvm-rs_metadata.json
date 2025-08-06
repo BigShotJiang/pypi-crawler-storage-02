@@ -1,0 +1,11 @@
+{
+  "name": "klvm-rs",
+  "version": "0.15.0",
+  "summary": "Implementation of `klvm` for Chik Network's cryptocurrency",
+  "author": "Richard Kiss <him@richardkiss.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Chik-Network/klvm_rs/",
+  "download_filename": "klvm_rs-0.15.0-cp38-abi3-macosx_13_0_arm64.whl",
+  "download_time": "2025-08-06T06:00:25.871263",
+  "package_url": "https://pypi.org/project/klvm-rs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-whisperx",
-  "version": "0.5.25",
+  "version": "0.5.32",
   "summary": "WhisperX converter.",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_whisperx/",
-  "download_filename": "pyconverters_whisperx-0.5.25.tar.gz",
-  "download_time": "2025-08-05T11:46:24.948841",
+  "download_filename": "pyconverters_whisperx-0.5.32.tar.gz",
+  "download_time": "2025-08-06T05:59:55.507791",
   "package_url": "https://pypi.org/project/pyconverters-whisperx/"
 }
