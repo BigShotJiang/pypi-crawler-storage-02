@@ -1,0 +1,11 @@
+{
+  "name": "studentcodes",
+  "version": "0.1.0",
+  "summary": "A collection of beginner-friendly Python WAPs for copy-paste use",
+  "author": "Student Code Team",
+  "license": null,
+  "home_page": "https://example.com/studentcodes",
+  "download_filename": "studentcodes-0.1.0.tar.gz",
+  "download_time": "2025-08-06T15:49:53.111117",
+  "package_url": "https://pypi.org/project/studentcodes/"
+}

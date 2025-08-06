@@ -1,11 +1,11 @@
 {
   "name": "DuckyPass",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A Python module for generating passwords using the DuckyPass API.",
   "author": "Rhys Wills",
   "license": "gpl3",
   "home_page": "https://github.com/maxrhys/PythonDuckyPassAPI",
-  "download_filename": "duckypass-1.0.2.tar.gz",
-  "download_time": "2025-08-06T15:29:18.913444",
+  "download_filename": "duckypass-1.0.4.tar.gz",
+  "download_time": "2025-08-06T15:50:00.644363",
   "package_url": "https://pypi.org/project/DuckyPass/"
 }

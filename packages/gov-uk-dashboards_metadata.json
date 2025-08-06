@@ -1,11 +1,11 @@
 {
   "name": "gov-uk-dashboards",
-  "version": "25.4.2",
+  "version": "25.4.3",
   "summary": "Provides access to functionality common to creating a data dashboard.",
   "author": "Department for Levelling Up, Housing and Communities",
   "license": null,
   "home_page": null,
-  "download_filename": "gov_uk_dashboards-25.4.2.tar.gz",
-  "download_time": "2025-08-06T14:55:01.894048",
+  "download_filename": "gov_uk_dashboards-25.4.3.tar.gz",
+  "download_time": "2025-08-06T15:50:10.302323",
   "package_url": "https://pypi.org/project/gov-uk-dashboards/"
 }

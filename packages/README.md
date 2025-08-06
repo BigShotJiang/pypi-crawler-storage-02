@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-06T15:29:45.457249
-- **Total Packages**: 89
-- **Total Size**: 53.67 MB
+- **Download Time**: 2025-08-06T15:50:37.859102
+- **Total Packages**: 87
+- **Total Size**: 40.28 MB
 
 ## Packages List
+- sports2d
+- datacontract-cli
+- alita-sdk
+- sidetool
+- trodes-to-nwb
+- flute-alc
+- hello-world-bvarade
+- astroid
+- tft-cli
+- omnigenome
+- omnigenbench
+- studentcodes
+- phylogenie
+- idvpackage
+- dg-mol-track
+- riv-hex-table
+- cyto-studio
+- yieldplotlib
+- kryptoon
+- blaxel
+- kalshi-py
+- methodwebscan
+- nominal-api-protos
+- nominal-api
+- DuckyPass
+- kard-x
+- test-kernel-0ab602a9
+- gamma-desk
+- legit-api-client
+- cert-issuer
+- nv-ppcie-verifier
+- nv-attestation-sdk
+- 2024-can-data-explorer
+- nv-local-gpu-verifier
+- passive_equipment
+- maxx
+- streamdaq
+- polymind
+- sqlalchemy-helper-tool
+- metacoder
+- gov-uk-dashboards
+- fabricatio
+- fabricatio-tool
+- fabricatio-core
 - localstack-core
 - zenml
 - shotstars
@@ -20,20 +64,17 @@
 - c3sign
 - ugrc-palletjack
 - invoicing-excel2pdf-tool
-- 2024-can-data-explorer
 - jira-test-reporting
 - wt-blk-pybindings
 - rust-packer
 - torchrl-nightly
 - caioh-nvml-gpu-control
-- sidetool
 - workbench
 - chainlit-chandru20
 - energy-scan-step
 - robin-logistics-env
 - reana-jupyterlab
 - commonmeta-py
-- polymind
 - outerbounds
 - ltamp
 - codeet
@@ -47,51 +88,8 @@
 - autofree
 - soai-setup
 - opentargets-otter
-- DuckyPass
 - b10-tcache
 - fastchat-mcp
 - carbon-txt
 - scalable-pypeline
 - qnexus
-- rowan-python
-- workspace-mcp
-- ob-metaflow-extensions
-- ecom-statics
-- demeuk
-- pyramid-kvs2
-- mdtocf
-- AstroView
-- monopoly-core
-- exasol-script-languages-container-ci-setup
-- airweave-sdk
-- h5rdmtoolbox
-- h2ssscam
-- Surfactant
-- pkbrokers
-- ppplca
-- thds.mops
-- thds.adls
-- thds.atacama
-- thds.core
-- thds.humenc
-- urdfeus
-- type-lens
-- fastapi-rest-utils
-- Clothoids
-- rdsa-utils
-- sensory-data-client
-- google-genai-haystack
-- l10n-uy-api
-- sarn
-- kraph
-- android-device-manager
-- huum
-- cybrid-api-bank-python
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- mcp-server-gaokao
-- dir2prompt
-- legit-api-client
-- csc-cia-stne
-- maven-proxy
-- vital

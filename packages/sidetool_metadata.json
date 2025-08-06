@@ -1,11 +1,11 @@
 {
   "name": "sidetool",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Python Automation tool for building PySide6 UI and PyInstaller EXE.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sidetool-0.0.6.tar.gz",
-  "download_time": "2025-08-06T15:29:05.599771",
+  "download_filename": "sidetool-0.0.7.tar.gz",
+  "download_time": "2025-08-06T15:49:48.427556",
   "package_url": "https://pypi.org/project/sidetool/"
 }
