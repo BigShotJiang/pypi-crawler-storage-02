@@ -1,0 +1,11 @@
+{
+  "name": "easy-mlp",
+  "version": "0.0.1",
+  "summary": "Providing all the boilerplate code you need for building, training and evaluating custom perceptron models, so that you don't have to!",
+  "author": "Bheki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_mlp-0.0.1.tar.gz",
+  "download_time": "2025-08-06T19:05:28.104306",
+  "package_url": "https://pypi.org/project/easy-mlp/"
+}

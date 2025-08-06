@@ -1,11 +1,11 @@
 {
   "name": "PhenGO",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "PhenoGO: A tool to build WEKA-ready ARFF files from model organism phenotype and Gene Ontology (GO) annotations.",
   "author": "Nicholas Dimonaco",
   "license": null,
   "home_page": "https://github.com/NickJD/PhenoGO",
-  "download_filename": "phengo-0.1.1-py3-none-any.whl",
-  "download_time": "2025-08-06T18:37:25.306579",
+  "download_filename": "phengo-0.1.2.tar.gz",
+  "download_time": "2025-08-06T19:05:42.822198",
   "package_url": "https://pypi.org/project/PhenGO/"
 }

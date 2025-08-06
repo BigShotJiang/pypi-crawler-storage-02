@@ -1,11 +1,11 @@
 {
   "name": "connecty",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Discord.py bot to connect channels across servers",
   "author": "Znunu",
   "license": null,
   "home_page": "https://discord.gg/fcZBB2v",
-  "download_filename": "connecty-2.0.3.tar.gz",
-  "download_time": "2025-08-06T18:37:09.534681",
+  "download_filename": "connecty-2.0.4.tar.gz",
+  "download_time": "2025-08-06T19:05:32.232445",
   "package_url": "https://pypi.org/project/connecty/"
 }

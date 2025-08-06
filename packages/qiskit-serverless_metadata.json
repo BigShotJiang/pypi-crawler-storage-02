@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-serverless",
+  "version": "0.25.4",
+  "summary": "An open-source SDK for resource management in quantum computing workflows.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qiskit_serverless-0.25.4-py3-none-any.whl",
+  "download_time": "2025-08-06T19:05:43.974799",
+  "package_url": "https://pypi.org/project/qiskit-serverless/"
+}

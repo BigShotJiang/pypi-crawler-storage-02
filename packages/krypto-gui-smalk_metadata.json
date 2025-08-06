@@ -1,11 +1,11 @@
 {
   "name": "krypto-gui-smalk",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "gui for smalk krypto testing .",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krypto_gui_smalk-0.0.1.tar.gz",
-  "download_time": "2025-08-06T16:33:38.297743",
+  "download_filename": "krypto_gui_smalk-0.1.0.tar.gz",
+  "download_time": "2025-08-06T19:05:41.577160",
   "package_url": "https://pypi.org/project/krypto-gui-smalk/"
 }

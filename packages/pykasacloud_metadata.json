@@ -1,11 +1,11 @@
 {
   "name": "pykasacloud",
-  "version": "2025.7.11",
+  "version": "2025.7.12",
   "summary": "Wrapper for python-kasa to connect with cloud devices.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pykasacloud-2025.7.11.tar.gz",
-  "download_time": "2025-08-06T18:37:43.170653",
+  "download_filename": "pykasacloud-2025.7.12.tar.gz",
+  "download_time": "2025-08-06T19:05:04.975224",
   "package_url": "https://pypi.org/project/pykasacloud/"
 }

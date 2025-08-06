@@ -1,0 +1,11 @@
+{
+  "name": "sicoob-sdk",
+  "version": "0.1.19",
+  "summary": "A Python SDK for Sicoob API",
+  "author": "Fábio Thomaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sicoob_sdk-0.1.19.tar.gz",
+  "download_time": "2025-08-06T19:05:35.183767",
+  "package_url": "https://pypi.org/project/sicoob-sdk/"
+}
