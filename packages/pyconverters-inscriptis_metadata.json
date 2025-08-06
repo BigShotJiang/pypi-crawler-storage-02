@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-inscriptis",
-  "version": "0.5.189",
+  "version": "0.5.198",
   "summary": "Sherpa HTML inscriptis converter",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://kairntech.com/",
-  "download_filename": "pyconverters_inscriptis-0.5.189.tar.gz",
-  "download_time": "2025-08-05T13:03:04.924351",
+  "download_filename": "pyconverters_inscriptis-0.5.198.tar.gz",
+  "download_time": "2025-08-06T08:35:24.904511",
   "package_url": "https://pypi.org/project/pyconverters-inscriptis/"
 }

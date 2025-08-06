@@ -1,0 +1,11 @@
+{
+  "name": "noteparser",
+  "version": "1.0.0",
+  "summary": "A comprehensive document parser for converting academic materials to Markdown and LaTeX",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/noteparser",
+  "download_filename": "noteparser-1.0.0.tar.gz",
+  "download_time": "2025-08-06T08:35:11.288642",
+  "package_url": "https://pypi.org/project/noteparser/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyannotators-spacymatcher",
-  "version": "0.5.79",
+  "version": "0.5.83",
   "summary": "SpacyMatcher annotator using the spacy rule-matching engine",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyannotators_spacymatcher/",
-  "download_filename": "pyannotators_spacymatcher-0.5.79.tar.gz",
-  "download_time": "2025-08-06T06:00:41.457221",
+  "download_filename": "pyannotators_spacymatcher-0.5.83.tar.gz",
+  "download_time": "2025-08-06T08:35:31.197386",
   "package_url": "https://pypi.org/project/pyannotators-spacymatcher/"
 }

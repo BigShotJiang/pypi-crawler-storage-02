@@ -1,0 +1,11 @@
+{
+  "name": "hetu-pycli",
+  "version": "0.1.2",
+  "summary": "A command-line interface for Hetu Chain interactions",
+  "author": "Hetu Protocol",
+  "license": null,
+  "home_page": "https://github.com/hetu-project/hetu-pycli",
+  "download_filename": "hetu_pycli-0.1.2.tar.gz",
+  "download_time": "2025-08-06T08:35:06.578075",
+  "package_url": "https://pypi.org/project/hetu-pycli/"
+}

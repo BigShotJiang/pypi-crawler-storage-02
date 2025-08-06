@@ -1,11 +1,11 @@
 {
   "name": "sarvamai",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sarvamai-0.1.16.tar.gz",
-  "download_time": "2025-08-05T09:44:14.114839",
+  "download_filename": "sarvamai-0.1.17.tar.gz",
+  "download_time": "2025-08-06T08:35:16.009700",
   "package_url": "https://pypi.org/project/sarvamai/"
 }

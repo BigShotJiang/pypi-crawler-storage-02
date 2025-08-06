@@ -1,11 +1,11 @@
 {
   "name": "pysegmenters-blingfire",
-  "version": "0.5.173",
+  "version": "0.5.175",
   "summary": "Segmenter based on Spacy",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pysegmenters_blingfire/",
-  "download_filename": "pysegmenters_blingfire-0.5.173.tar.gz",
-  "download_time": "2025-08-06T06:00:09.911796",
+  "download_filename": "pysegmenters_blingfire-0.5.175.tar.gz",
+  "download_time": "2025-08-06T08:35:33.257785",
   "package_url": "https://pypi.org/project/pysegmenters-blingfire/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fitdecode",
+  "version": "0.11.0",
+  "summary": "FIT file parser and decoder",
+  "author": "Jean-Charles Lefebvre",
+  "license": "MIT",
+  "home_page": "https://github.com/polyvertex/fitdecode",
+  "download_filename": "fitdecode-0.11.0.tar.gz",
+  "download_time": "2025-08-06T08:35:33.787109",
+  "package_url": "https://pypi.org/project/fitdecode/"
+}

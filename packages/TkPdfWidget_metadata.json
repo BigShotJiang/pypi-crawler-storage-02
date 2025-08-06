@@ -1,0 +1,11 @@
+{
+  "name": "TkPdfWidget",
+  "version": "1.0",
+  "summary": "A Pdf file reader in a tkinter's Frame, behaving like a widget",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tkpdfwidget-1.0.tar.gz",
+  "download_time": "2025-08-06T08:34:55.013899",
+  "package_url": "https://pypi.org/project/TkPdfWidget/"
+}

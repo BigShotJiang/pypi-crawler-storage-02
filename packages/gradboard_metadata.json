@@ -1,11 +1,11 @@
 {
   "name": "gradboard",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Easily snowboard down gnarly loss gradients",
   "author": "Nicholas Bailey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gradboard-0.1.8.tar.gz",
-  "download_time": "2025-08-06T07:30:05.538782",
+  "download_filename": "gradboard-0.1.10.tar.gz",
+  "download_time": "2025-08-06T08:34:51.817712",
   "package_url": "https://pypi.org/project/gradboard/"
 }

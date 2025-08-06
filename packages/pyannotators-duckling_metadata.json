@@ -1,11 +1,11 @@
 {
   "name": "pyannotators-duckling",
-  "version": "0.5.245",
+  "version": "0.5.247",
   "summary": "Annotator based on Facebook Duckling",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyannotators_duckling/",
-  "download_filename": "pyannotators_duckling-0.5.245.tar.gz",
-  "download_time": "2025-08-06T06:00:17.154694",
+  "download_filename": "pyannotators_duckling-0.5.247.tar.gz",
+  "download_time": "2025-08-06T08:35:28.073536",
   "package_url": "https://pypi.org/project/pyannotators-duckling/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "futurist",
+  "version": "3.2.0",
+  "summary": "Useful additions to futures, from the future.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/futurist/latest/",
+  "download_filename": "futurist-3.2.0.tar.gz",
+  "download_time": "2025-08-06T08:34:58.239211",
+  "package_url": "https://pypi.org/project/futurist/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mwsdk",
+  "version": "0.3.3",
+  "summary": "maxwin 框架的sdk",
+  "author": "cxhjet",
+  "license": null,
+  "home_page": "https://bitbucket.org/maxwin-inc/mwsdk/src",
+  "download_filename": "mwsdk-0.3.3.tar.gz",
+  "download_time": "2025-08-06T08:35:14.949000",
+  "package_url": "https://pypi.org/project/mwsdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-consolidate",
-  "version": "0.5.192",
+  "version": "0.5.194",
   "summary": "Sherpa Consolidation processor",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyprocessors_consolidate/",
-  "download_filename": "pyprocessors_consolidate-0.5.192.tar.gz",
-  "download_time": "2025-08-06T06:00:19.199019",
+  "download_filename": "pyprocessors_consolidate-0.5.194.tar.gz",
+  "download_time": "2025-08-06T08:35:30.155387",
   "package_url": "https://pypi.org/project/pyprocessors-consolidate/"
 }

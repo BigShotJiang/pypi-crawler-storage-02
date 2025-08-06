@@ -1,0 +1,11 @@
+{
+  "name": "onconlp",
+  "version": "0.1.0",
+  "summary": "Natural Language Processing Toolkit for Oncology",
+  "author": "OncoNLP Team",
+  "license": null,
+  "home_page": "https://github.com/onconlp/onconlp",
+  "download_filename": "onconlp-0.1.0.tar.gz",
+  "download_time": "2025-08-06T08:34:52.906521",
+  "package_url": "https://pypi.org/project/onconlp/"
+}

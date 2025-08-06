@@ -1,0 +1,11 @@
+{
+  "name": "premise-gwp",
+  "version": "0.9.8",
+  "summary": "Import IPCC's GWP100a method, with biogenic CO2 CFs, into Brightway2",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "premise_gwp-0.9.8.tar.gz",
+  "download_time": "2025-08-06T08:35:32.746309",
+  "package_url": "https://pypi.org/project/premise-gwp/"
+}
