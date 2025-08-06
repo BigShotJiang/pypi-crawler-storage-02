@@ -1,11 +1,11 @@
 {
   "name": "chainlit-chandru20",
-  "version": "2.6.8",
+  "version": "2.7.1",
   "summary": "Build Conversational AI. (Fork with custom fixes)",
   "author": "Willy Douhard",
   "license": "Apache-2.0",
   "home_page": "https://chainlit.io/",
-  "download_filename": "chainlit_chandru20-2.6.8.tar.gz",
-  "download_time": "2025-08-06T15:29:07.277841",
+  "download_filename": "chainlit_chandru20-2.7.1.tar.gz",
+  "download_time": "2025-08-06T21:22:55.033523",
   "package_url": "https://pypi.org/project/chainlit-chandru20/"
 }

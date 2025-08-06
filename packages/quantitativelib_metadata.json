@@ -1,0 +1,11 @@
+{
+  "name": "quantitativelib",
+  "version": "0.1.1",
+  "summary": "A stock analysis tool for quants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantitativelib-0.1.1.tar.gz",
+  "download_time": "2025-08-06T21:22:33.398478",
+  "package_url": "https://pypi.org/project/quantitativelib/"
+}

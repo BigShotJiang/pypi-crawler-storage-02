@@ -1,11 +1,11 @@
 {
   "name": "niamoto",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": null,
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "niamoto-0.7.1.tar.gz",
-  "download_time": "2025-08-05T18:04:45.021249",
+  "download_filename": "niamoto-0.7.2.tar.gz",
+  "download_time": "2025-08-06T21:22:49.074914",
   "package_url": "https://pypi.org/project/niamoto/"
 }

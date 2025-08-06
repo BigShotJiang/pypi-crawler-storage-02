@@ -1,0 +1,11 @@
+{
+  "name": "sec-financial-data",
+  "version": "0.1.3",
+  "summary": "A Python package to retrieve financial data from SEC EDGAR.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sec_financial_data-0.1.3.tar.gz",
+  "download_time": "2025-08-06T21:22:32.819244",
+  "package_url": "https://pypi.org/project/sec-financial-data/"
+}

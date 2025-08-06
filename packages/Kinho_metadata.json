@@ -1,11 +1,11 @@
 {
   "name": "Kinho",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "A library to classify images with deep learning.",
   "author": "Kinhosz",
   "license": "MIT",
   "home_page": "https://github.com/kinhosz/Neural",
-  "download_filename": "kinho-1.3.0.tar.gz",
-  "download_time": "2025-08-05T22:27:02.496342",
+  "download_filename": "kinho-1.3.1.tar.gz",
+  "download_time": "2025-08-06T21:22:26.410549",
   "package_url": "https://pypi.org/project/Kinho/"
 }
