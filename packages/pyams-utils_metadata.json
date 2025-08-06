@@ -1,0 +1,11 @@
+{
+  "name": "pyams-utils",
+  "version": "2.7.7",
+  "summary": "PyAMS generic modules",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_utils-2.7.7.tar.gz",
+  "download_time": "2025-08-06T21:56:24.070551",
+  "package_url": "https://pypi.org/project/pyams-utils/"
+}

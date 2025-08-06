@@ -1,0 +1,11 @@
+{
+  "name": "tunestudio",
+  "version": "0.0.11",
+  "summary": "An all in one platform for finetuning your LLM models using your Google Colab, Kaggle or Local resources.",
+  "author": "Minerva AI",
+  "license": null,
+  "home_page": "https://github.com/ankitdutta428/tunestudio",
+  "download_filename": "tunestudio-0.0.11.tar.gz",
+  "download_time": "2025-08-06T21:56:14.035841",
+  "package_url": "https://pypi.org/project/tunestudio/"
+}

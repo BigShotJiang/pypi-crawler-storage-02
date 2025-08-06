@@ -1,11 +1,11 @@
 {
   "name": "unique_sdk",
-  "version": "0.10.4",
+  "version": "0.10.6",
   "summary": null,
   "author": "Martin Fadler",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unique_sdk-0.10.4.tar.gz",
-  "download_time": "2025-08-05T12:03:28.388382",
+  "download_filename": "unique_sdk-0.10.6.tar.gz",
+  "download_time": "2025-08-06T21:56:22.023713",
   "package_url": "https://pypi.org/project/unique_sdk/"
 }
