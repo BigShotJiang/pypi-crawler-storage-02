@@ -1,0 +1,11 @@
+{
+  "name": "soga-tts",
+  "version": "0.1.5",
+  "summary": "fix duration TTS tool - combines intelligent TTS with LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soga_tts-0.1.5.tar.gz",
+  "download_time": "2025-08-06T13:00:21.588953",
+  "package_url": "https://pypi.org/project/soga-tts/"
+}

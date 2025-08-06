@@ -1,0 +1,11 @@
+{
+  "name": "kfst-rs",
+  "version": "0.2.4",
+  "summary": "The accelerated companion library to kfst",
+  "author": "Théo Salmenkivi-Friberg <theo.friberg@helsinki.fi>, Iikka Hauhio <iikka.hauhio@helsinki.fi>",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "kfst_rs-0.2.4-cp311-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-06T12:59:59.931652",
+  "package_url": "https://pypi.org/project/kfst-rs/"
+}

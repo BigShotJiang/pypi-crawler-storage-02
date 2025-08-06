@@ -1,11 +1,11 @@
 {
   "name": "adestis-netbox-applications",
-  "version": "1.0.14",
+  "version": "1.0.18",
   "summary": "ADESTIS Application Management",
   "author": "ADESTIS GmbH",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/an-adestis/netbox_applications",
-  "download_filename": "adestis_netbox_applications-1.0.14.tar.gz",
-  "download_time": "2025-08-06T09:59:50.934519",
+  "download_filename": "adestis_netbox_applications-1.0.18.tar.gz",
+  "download_time": "2025-08-06T12:59:44.280516",
   "package_url": "https://pypi.org/project/adestis-netbox-applications/"
 }

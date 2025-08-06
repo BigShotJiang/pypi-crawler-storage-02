@@ -1,0 +1,11 @@
+{
+  "name": "tailwind_colors",
+  "version": "1.4.1",
+  "summary": "Use the default color palette from TailwindCSS (https://tailwindcss.com/docs/customizing-colors) in your python code for plotting, image generation, etc.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tailwind_colors-1.4.1.tar.gz",
+  "download_time": "2025-08-06T13:00:16.245671",
+  "package_url": "https://pypi.org/project/tailwind_colors/"
+}

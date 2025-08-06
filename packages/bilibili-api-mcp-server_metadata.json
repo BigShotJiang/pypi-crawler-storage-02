@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-api-mcp-server",
+  "version": "0.1.0",
+  "summary": "用于哔哩哔哩 API 的 MCP（模型上下文协议）服务器，支持多种操作",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bilibili_api_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-08-06T12:59:43.761764",
+  "package_url": "https://pypi.org/project/bilibili-api-mcp-server/"
+}

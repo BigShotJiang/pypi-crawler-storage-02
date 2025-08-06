@@ -1,11 +1,11 @@
 {
   "name": "plumed-bench-pp",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A simpe package to rapidly postprocessing the output of plumed benchmarks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plumed_bench_pp-0.0.7.tar.gz",
-  "download_time": "2025-08-04T15:51:10.252344",
+  "download_filename": "plumed_bench_pp-0.0.8.tar.gz",
+  "download_time": "2025-08-06T13:00:20.540833",
   "package_url": "https://pypi.org/project/plumed-bench-pp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-user-tasks",
+  "version": "3.4.3",
+  "summary": "Management of user-triggered asynchronous tasks in Django projects",
+  "author": "edX",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/openedx/django-user-tasks",
+  "download_filename": "django_user_tasks-3.4.3.tar.gz",
+  "download_time": "2025-08-06T13:00:13.133275",
+  "package_url": "https://pypi.org/project/django-user-tasks/"
+}

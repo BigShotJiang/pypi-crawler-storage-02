@@ -1,0 +1,11 @@
+{
+  "name": "cogency",
+  "version": "1.0.0",
+  "summary": "Smart AI agents that think as hard as they need to.",
+  "author": "Tyson Chan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/iteebz/cogency",
+  "download_filename": "cogency-1.0.0.tar.gz",
+  "download_time": "2025-08-06T12:59:50.046247",
+  "package_url": "https://pypi.org/project/cogency/"
+}

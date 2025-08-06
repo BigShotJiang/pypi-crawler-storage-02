@@ -1,0 +1,11 @@
+{
+  "name": "binance-us-client",
+  "version": "0.0.8.3",
+  "summary": "tool pkg.",
+  "author": "yromeMfOtuO",
+  "license": "GPLv3",
+  "home_page": "https://github.com/yromeMfOtuO/binance-us-client",
+  "download_filename": "binance-us-client-0.0.8.3.tar.gz",
+  "download_time": "2025-08-06T13:00:03.163958",
+  "package_url": "https://pypi.org/project/binance-us-client/"
+}
