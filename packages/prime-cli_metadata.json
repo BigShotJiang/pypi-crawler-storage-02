@@ -1,11 +1,11 @@
 {
   "name": "prime-cli",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Prime Intellect CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prime_cli-0.3.4.tar.gz",
-  "download_time": "2025-08-05T10:59:18.895241",
+  "download_filename": "prime_cli-0.3.5.tar.gz",
+  "download_time": "2025-08-06T21:44:32.965918",
   "package_url": "https://pypi.org/project/prime-cli/"
 }

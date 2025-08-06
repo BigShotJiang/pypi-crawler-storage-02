@@ -1,0 +1,11 @@
+{
+  "name": "odam-sdk",
+  "version": "2.0.0",
+  "summary": "Офіційний Python SDK для інтеграції з ODAM V4 - системою штучного інтелекту з людською пам'яттю",
+  "author": "ODAM Technologies",
+  "license": "MIT",
+  "home_page": "https://api.odam.dev",
+  "download_filename": "odam_sdk-2.0.0.tar.gz",
+  "download_time": "2025-08-06T21:44:17.011519",
+  "package_url": "https://pypi.org/project/odam-sdk/"
+}
