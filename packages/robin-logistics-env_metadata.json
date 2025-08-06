@@ -1,11 +1,11 @@
 {
   "name": "robin-logistics-env",
-  "version": "1.0.4",
+  "version": "1.1.5",
   "summary": "Multi-depot vehicle routing problem simulation environment",
   "author": "Robin Hackathon Team",
   "license": null,
   "home_page": "https://github.com/robin/hackathon-2025",
-  "download_filename": "robin_logistics_env-1.0.4.tar.gz",
-  "download_time": "2025-08-05T18:04:31.637929",
+  "download_filename": "robin_logistics_env-1.1.5.tar.gz",
+  "download_time": "2025-08-06T15:29:08.398670",
   "package_url": "https://pypi.org/project/robin-logistics-env/"
 }

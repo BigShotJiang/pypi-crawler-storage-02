@@ -1,0 +1,11 @@
+{
+  "name": "soai-setup",
+  "version": "0.1.0",
+  "summary": "SoAI 2025 internship tech stack installer CLI tool",
+  "author": "Akshayy06",
+  "license": null,
+  "home_page": "https://code.swecha.org/Akshay06/soai-2025.techstack-setup.git",
+  "download_filename": "soai_setup-0.1.0.tar.gz",
+  "download_time": "2025-08-06T15:29:17.814326",
+  "package_url": "https://pypi.org/project/soai-setup/"
+}

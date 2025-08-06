@@ -1,11 +1,11 @@
 {
   "name": "rdsa-utils",
-  "version": "0.13.3",
+  "version": "0.14.0",
   "summary": "A suite of PySpark, Pandas, and general pipeline utils for Reproducible Data Science and Analysis (RDSA) projects.",
   "author": "Reproducible Data Science & Analysis, ONS",
   "license": null,
   "home_page": "https://github.com/ONSdigital/rdsa-utils",
-  "download_filename": "rdsa_utils-0.13.3.tar.gz",
-  "download_time": "2025-08-04T12:54:37.843608",
+  "download_filename": "rdsa_utils-0.14.0.tar.gz",
+  "download_time": "2025-08-06T15:29:36.375435",
   "package_url": "https://pypi.org/project/rdsa-utils/"
 }

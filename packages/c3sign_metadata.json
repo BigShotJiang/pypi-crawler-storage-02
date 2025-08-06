@@ -1,11 +1,11 @@
 {
   "name": "c3sign",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Compact Crypto Certs (C3) is a mini-PKI signer/verifier with full chain functionality and compact binary and friendly text cert formats",
   "author": "Beau Butler",
   "license": "MIT",
   "home_page": "https://github.com/oddy/c3",
-  "download_filename": "c3sign-1.1.4-py2.py3-none-any.whl",
-  "download_time": "2025-08-06T03:54:26.209549",
+  "download_filename": "c3sign-1.1.5-py2.py3-none-any.whl",
+  "download_time": "2025-08-06T15:29:00.337496",
   "package_url": "https://pypi.org/project/c3sign/"
 }

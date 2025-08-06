@@ -1,0 +1,11 @@
+{
+  "name": "demeuk",
+  "version": "4.6.2",
+  "summary": "CLI tool to remove invalid chars from a corpus.",
+  "author": "Netherlands Forensic Institute",
+  "license": null,
+  "home_page": "https://github.com/NetherlandsForensicInstitute/demeuk",
+  "download_filename": "demeuk-4.6.2.tar.gz",
+  "download_time": "2025-08-06T15:29:24.767829",
+  "package_url": "https://pypi.org/project/demeuk/"
+}
