@@ -1,11 +1,11 @@
 {
   "name": "qwen3-coder-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A terminal-based agent for interacting with Qwen3-Coder models",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/qwen3-coder-agent",
-  "download_filename": "qwen3_coder_agent-0.1.0.tar.gz",
-  "download_time": "2025-08-06T22:26:01.307296",
+  "download_filename": "qwen3_coder_agent-0.1.1.tar.gz",
+  "download_time": "2025-08-06T23:45:23.545539",
   "package_url": "https://pypi.org/project/qwen3-coder-agent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cardnacki",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "summary": "A playing cards package",
   "author": "Bernacki",
   "license": null,
   "home_page": "https://github.com/bernackimark/cardnacki",
-  "download_filename": "cardnacki-0.1.5.tar.gz",
-  "download_time": "2025-08-04T01:49:22.219077",
+  "download_filename": "cardnacki-0.3.0.tar.gz",
+  "download_time": "2025-08-06T23:45:21.963783",
   "package_url": "https://pypi.org/project/cardnacki/"
 }

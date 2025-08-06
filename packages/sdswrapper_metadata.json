@@ -1,0 +1,11 @@
+{
+  "name": "sdswrapper",
+  "version": "0.2.11",
+  "summary": "A Python package for spatial data science workflows.",
+  "author": "Anderson Aires Eduardo",
+  "license": null,
+  "home_page": "https://github.com/AndersonEduardo/sdswrapper",
+  "download_filename": "sdswrapper-0.2.11.tar.gz",
+  "download_time": "2025-08-06T23:45:36.396616",
+  "package_url": "https://pypi.org/project/sdswrapper/"
+}

@@ -1,16 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-06T23:25:53.078098
-- **Total Packages**: 74
-- **Total Size**: 23.28 MB
+- **Download Time**: 2025-08-06T23:45:56.807950
+- **Total Packages**: 77
+- **Total Size**: 18.18 MB
 
 ## Packages List
+- fund-insight-engine
+- langchain-yugabytedb
+- powerpoint-template-system
+- solveig
+- supahost
+- opensearch-mcp-server-py
+- highdicom
+- boot-code
+- financial-dataset-preprocessor
+- docsray-mcp
+- iinfer
+- yt-dlp
+- cardnacki
+- pybibx
+- py-xh-custapp-xethhung12
+- qwen3-coder-agent
+- griptape-nodes
+- nv-ingest-client
+- pmtarray
+- cmdbox
+- foundry-sdk
+- filter-optical-character-recognition
+- octodns
+- crossplane-function-sdk-python
+- pytest-autoprofile
+- syllable-sdk
+- together
+- rechunkit
+- google-genai
+- fal
+- filter-crop
+- zpaste
+- pycarlo
+- unrealircd-rpc-py
+- semantic-copycat-binarysniffer
+- inkbird-ble
+- botocraft
+- pymodo
+- sdswrapper
+- test-pioneer-dev
+- galmorph
 - wmill-pg
 - pymathutils
 - wmill
 - windmill-api
-- pybibx
 - lackey-mcp
 - ddd-cli
 - hatch-rs
@@ -23,15 +63,12 @@
 - prodify-sql-mcp
 - roboto
 - no-seu-tempo
-- semantic-copycat-binarysniffer
 - qoro-divi
 - InsideForest
 - django-includecontents
 - sera-2
 - rest-tester
-- foundry-sdk
 - emerge
-- powerpoint-template-system
 - tigramite
 - torchio
 - markthat
@@ -40,43 +77,9 @@
 - maze-dataset
 - cdk-factory
 - kibernikto
-- fal
 - flwr-nightly
 - ai-subtitle-translator
 - pubmed-downloader
 - pytest-report-extras
 - cert-issuer
 - letta-client
-- botocraft
-- pyinit-cli
-- boot-code
-- lucidicai
-- autobuild
-- sift-stream-bindings
-- kghub-downloader
-- django-container-manager
-- pysaebm
-- cybrid-api-bank-python
-- asgi-tus
-- ai-parrot
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- winhello-crypto
-- newbringer-network-client
-- river-route
-- solveig
-- esmerald
-- agent-eval
-- tcod
-- tombi
-- fireworks-ai
-- openaivec
-- moose-lib
-- sb3-extra-buffers
-- quantax
-- singleton-decorator1
-- flyteplugins-spark
-- docsray-mcp
-- flyteplugins-ray
-- brain-sdk
-- couchbase-analytics
