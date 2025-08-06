@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-bigtable",
+  "version": "2.32.0",
+  "summary": "Google Cloud Bigtable API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-bigtable",
+  "download_filename": "google_cloud_bigtable-2.32.0.tar.gz",
+  "download_time": "2025-08-06T17:41:21.736004",
+  "package_url": "https://pypi.org/project/google-cloud-bigtable/"
+}

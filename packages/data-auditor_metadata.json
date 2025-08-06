@@ -1,0 +1,11 @@
+{
+  "name": "data-auditor",
+  "version": "0.1.1",
+  "summary": "A modular profiling and preprocessing library for tabular ML datasets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_auditor-0.1.1.tar.gz",
+  "download_time": "2025-08-06T17:41:07.062213",
+  "package_url": "https://pypi.org/project/data-auditor/"
+}

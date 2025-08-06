@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-eipanycast20200309",
+  "version": "1.2.0",
+  "summary": "Alibaba Cloud Eipanycast (20200309) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_eipanycast20200309-1.2.0.tar.gz",
+  "download_time": "2025-08-06T17:41:27.503811",
+  "package_url": "https://pypi.org/project/alibabacloud-eipanycast20200309/"
+}

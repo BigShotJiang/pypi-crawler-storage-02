@@ -1,0 +1,11 @@
+{
+  "name": "tptt",
+  "version": "0.11.4",
+  "summary": "TPTT : Transforming Pretrained Transformers into Titans",
+  "author": "fabienfrfr",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tptt-0.11.4.tar.gz",
+  "download_time": "2025-08-06T17:41:20.687370",
+  "package_url": "https://pypi.org/project/tptt/"
+}

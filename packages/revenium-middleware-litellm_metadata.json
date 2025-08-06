@@ -1,11 +1,11 @@
 {
   "name": "revenium-middleware-litellm",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "A Python library that meters LiteLLM usage to Revenium.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "revenium_middleware_litellm-0.1.26.tar.gz",
-  "download_time": "2025-08-05T22:58:03.243357",
+  "download_filename": "revenium_middleware_litellm-0.1.27.tar.gz",
+  "download_time": "2025-08-06T17:41:25.932589",
   "package_url": "https://pypi.org/project/revenium-middleware-litellm/"
 }

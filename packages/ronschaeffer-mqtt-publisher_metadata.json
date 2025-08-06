@@ -1,11 +1,11 @@
 {
   "name": "ronschaeffer-mqtt-publisher",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "An MQTT publisher package",
   "author": "ronschaeffer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ronschaeffer_mqtt_publisher-0.1.2.tar.gz",
-  "download_time": "2025-08-05T13:54:22.553006",
+  "download_filename": "ronschaeffer_mqtt_publisher-0.1.4.tar.gz",
+  "download_time": "2025-08-06T17:41:28.023839",
   "package_url": "https://pypi.org/project/ronschaeffer-mqtt-publisher/"
 }

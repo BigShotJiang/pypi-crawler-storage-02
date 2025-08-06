@@ -1,11 +1,11 @@
 {
   "name": "atk-common",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "summary": "ATK common methods",
   "author": "Roger",
   "license": null,
   "home_page": "https://github.com/pypa/atk_common",
-  "download_filename": "atk_common-3.5.0.tar.gz",
-  "download_time": "2025-08-06T10:59:16.256307",
+  "download_filename": "atk_common-3.6.0.tar.gz",
+  "download_time": "2025-08-06T17:41:31.764704",
   "package_url": "https://pypi.org/project/atk-common/"
 }
