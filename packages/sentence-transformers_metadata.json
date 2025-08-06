@@ -1,0 +1,11 @@
+{
+  "name": "sentence-transformers",
+  "version": "5.1.0",
+  "summary": "Embeddings, Retrieval, and Reranking",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "sentence_transformers-5.1.0.tar.gz",
+  "download_time": "2025-08-06T13:50:01.257035",
+  "package_url": "https://pypi.org/project/sentence-transformers/"
+}

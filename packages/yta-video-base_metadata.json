@@ -1,11 +1,11 @@
 {
   "name": "yta-video-base",
-  "version": "0.0.18",
+  "version": "0.0.21",
   "summary": "Youtube Autonomous Video Base Module.",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_video_base-0.0.18.tar.gz",
-  "download_time": "2025-08-06T11:27:50.393737",
+  "download_filename": "yta_video_base-0.0.21.tar.gz",
+  "download_time": "2025-08-06T13:50:12.591331",
   "package_url": "https://pypi.org/project/yta-video-base/"
 }

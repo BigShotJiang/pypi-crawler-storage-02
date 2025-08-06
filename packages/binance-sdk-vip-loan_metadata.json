@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-vip-loan",
+  "version": "1.1.0",
+  "summary": "Official Binance Vip Loan SDK - A lightweight library that provides a convenient interface to Binance's VipLoan REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_vip_loan-1.1.0.tar.gz",
+  "download_time": "2025-08-06T13:50:27.594397",
+  "package_url": "https://pypi.org/project/binance-sdk-vip-loan/"
+}

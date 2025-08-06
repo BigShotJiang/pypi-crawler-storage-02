@@ -1,0 +1,11 @@
+{
+  "name": "docx-image-extractor-mcp",
+  "version": "1.2.1",
+  "summary": "A powerful DOC/DOCX image extractor with MCP protocol support for Claude Desktop integration",
+  "author": "DOCX Image Extractor Team",
+  "license": null,
+  "home_page": "https://github.com/docx-image-extractor/docx-image-extractor-mcp",
+  "download_filename": "docx_image_extractor_mcp-1.2.1.tar.gz",
+  "download_time": "2025-08-06T13:50:18.819342",
+  "package_url": "https://pypi.org/project/docx-image-extractor-mcp/"
+}

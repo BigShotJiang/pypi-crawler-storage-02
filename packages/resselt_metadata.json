@@ -1,11 +1,11 @@
 {
   "name": "resselt",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Image Super-Resolution PyTorch architectures loader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "resselt-1.2.0.tar.gz",
-  "download_time": "2025-08-04T10:54:00.385524",
+  "download_filename": "resselt-1.2.1.tar.gz",
+  "download_time": "2025-08-06T13:50:32.754961",
   "package_url": "https://pypi.org/project/resselt/"
 }

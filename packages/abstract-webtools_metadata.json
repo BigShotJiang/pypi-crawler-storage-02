@@ -1,11 +1,11 @@
 {
   "name": "abstract-webtools",
-  "version": "0.1.6.128",
+  "version": "0.1.6.132",
   "summary": "Abstract Web Tools is a Python package that provides various utility functions for web scraping tasks. It is built on top of popular libraries such as `requests`, `BeautifulSoup`, and `urllib3` to simplify the process of fetching and parsing web content.",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_essentials/tree/main/abstract_webtools",
-  "download_filename": "abstract_webtools-0.1.6.128.tar.gz",
-  "download_time": "2025-08-06T13:00:03.691945",
+  "download_filename": "abstract_webtools-0.1.6.132.tar.gz",
+  "download_time": "2025-08-06T13:50:15.745996",
   "package_url": "https://pypi.org/project/abstract-webtools/"
 }

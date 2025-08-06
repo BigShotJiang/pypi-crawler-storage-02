@@ -1,0 +1,11 @@
+{
+  "name": "notes-service-sdk",
+  "version": "0.1.0",
+  "summary": "A simple SDK for the Notes Service API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notes_service_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-06T13:50:32.243711",
+  "package_url": "https://pypi.org/project/notes-service-sdk/"
+}
