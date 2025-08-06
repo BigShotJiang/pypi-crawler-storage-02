@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-flow",
+  "version": "1.0.8",
+  "summary": "A framework for building ETL, ELT and ETLT data pipelines dynamically using plugins.",
+  "author": "Jakub Pulaczewski",
+  "license": "BSD-3-Clause",
+  "home_page": "http://pipeline-flow.readthedocs.io/",
+  "download_filename": "pipeline_flow-1.0.8.tar.gz",
+  "download_time": "2025-08-06T09:44:39.990830",
+  "package_url": "https://pypi.org/project/pipeline-flow/"
+}

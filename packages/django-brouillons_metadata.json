@@ -1,0 +1,11 @@
+{
+  "name": "django-brouillons",
+  "version": "0.2.0",
+  "summary": "Handle django models drafts and published states",
+  "author": "Kapt dev team",
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "django_brouillons-0.2.0.tar.gz",
+  "download_time": "2025-08-06T09:44:53.238679",
+  "package_url": "https://pypi.org/project/django-brouillons/"
+}

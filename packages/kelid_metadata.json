@@ -1,11 +1,11 @@
 {
   "name": "kelid",
-  "version": "2.4.1",
+  "version": "2.7.4",
   "summary": "Kelid is a Python code locker using marshal and base64.",
   "author": "Ali-Jafari",
   "license": null,
   "home_page": "https://github.com/iTs-GoJo/kelid",
-  "download_filename": "kelid-2.4.1.tar.gz",
-  "download_time": "2025-08-06T09:03:17.652575",
+  "download_filename": "kelid-2.7.4.tar.gz",
+  "download_time": "2025-08-06T09:44:56.794797",
   "package_url": "https://pypi.org/project/kelid/"
 }

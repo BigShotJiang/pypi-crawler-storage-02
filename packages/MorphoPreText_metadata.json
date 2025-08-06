@@ -1,0 +1,11 @@
+{
+  "name": "MorphoPreText",
+  "version": "0.2.0",
+  "summary": "A bilingual text preprocessing toolkit for English and Persian.",
+  "author": "Ghazal Askari",
+  "license": null,
+  "home_page": "https://github.com/ghaskari/MorphoPreText",
+  "download_filename": "morphopretext-0.2.0.tar.gz",
+  "download_time": "2025-08-06T09:44:19.153093",
+  "package_url": "https://pypi.org/project/MorphoPreText/"
+}

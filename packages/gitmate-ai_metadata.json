@@ -1,11 +1,11 @@
 {
   "name": "gitmate-ai",
-  "version": "0.1.1",
+  "version": "1.0.3",
   "summary": "GitMate - AI Git Assistant for Terminal",
   "author": "Tejas Raundal",
   "license": null,
   "home_page": null,
-  "download_filename": "gitmate_ai-0.1.1.tar.gz",
-  "download_time": "2025-08-06T09:03:15.732246",
+  "download_filename": "gitmate_ai-1.0.3.tar.gz",
+  "download_time": "2025-08-06T09:44:48.358951",
   "package_url": "https://pypi.org/project/gitmate-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "scholarsort",
+  "version": "0.1.0a1",
+  "summary": "A Python library for scholarly research with impact factor analysis",
+  "author": "ScholarSort Team",
+  "license": null,
+  "home_page": "https://github.com/scholarsort-team/scholarsort",
+  "download_filename": "scholarsort-0.1.0a1.tar.gz",
+  "download_time": "2025-08-06T09:44:27.341475",
+  "package_url": "https://pypi.org/project/scholarsort/"
+}

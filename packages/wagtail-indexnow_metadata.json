@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-indexnow",
+  "version": "0.2.0",
+  "summary": "A Wagtail package to automatically submit published pages for search engine indexing",
+  "author": "Jake Howard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_indexnow-0.2.0.tar.gz",
+  "download_time": "2025-08-06T09:44:36.094771",
+  "package_url": "https://pypi.org/project/wagtail-indexnow/"
+}
