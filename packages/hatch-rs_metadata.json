@@ -1,11 +1,11 @@
 {
   "name": "hatch-rs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hatch plugin for Rust builds",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hatch_rs-0.1.1.tar.gz",
-  "download_time": "2025-08-06T21:56:30.495149",
+  "download_filename": "hatch_rs-0.1.2.tar.gz",
+  "download_time": "2025-08-06T23:25:16.696052",
   "package_url": "https://pypi.org/project/hatch-rs/"
 }

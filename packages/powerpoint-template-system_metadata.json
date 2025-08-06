@@ -1,11 +1,11 @@
 {
   "name": "powerpoint-template-system",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "A comprehensive template system for creating professional business presentations with modern styling, cards, and badges",
   "author": "PowerPoint Template System Team",
   "license": null,
   "home_page": "https://github.com/cpro/powerpoint-template-system",
-  "download_filename": "powerpoint-template-system-1.0.0.tar.gz",
-  "download_time": "2025-08-06T22:49:44.615485",
+  "download_filename": "powerpoint-template-system-1.0.4.tar.gz",
+  "download_time": "2025-08-06T23:25:26.238203",
   "package_url": "https://pypi.org/project/powerpoint-template-system/"
 }

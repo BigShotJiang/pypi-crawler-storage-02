@@ -1,0 +1,11 @@
+{
+  "name": "torchio",
+  "version": "0.20.20",
+  "summary": "Tools for medical image processing with PyTorch",
+  "author": "TorchIO contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchio-0.20.20.tar.gz",
+  "download_time": "2025-08-06T23:25:27.286775",
+  "package_url": "https://pypi.org/project/torchio/"
+}

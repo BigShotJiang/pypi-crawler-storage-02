@@ -1,11 +1,11 @@
 {
   "name": "winhello-crypto",
-  "version": "2.1.7",
-  "summary": "Enterprise-Grade AWS Credential Security with Windows Hello Biometric Authentication",
+  "version": "2.1.9",
+  "summary": "Secure AWS credential storage and file encryption using Windows Hello biometric authentication",
   "author": "Serge Dubovsky",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SergeDubovsky/WinHello-Crypto",
-  "download_filename": "winhello_crypto-2.1.7.tar.gz",
-  "download_time": "2025-08-06T22:26:26.623390",
+  "download_filename": "winhello_crypto-2.1.9.tar.gz",
+  "download_time": "2025-08-06T23:25:42.676612",
   "package_url": "https://pypi.org/project/winhello-crypto/"
 }

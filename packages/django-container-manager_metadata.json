@@ -1,11 +1,11 @@
 {
   "name": "django-container-manager",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "Django app for container orchestration with multi-executor support (Docker, Google Cloud Run, AWS Fargate)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_container_manager-1.0.0.tar.gz",
-  "download_time": "2025-08-06T22:26:13.479411",
+  "download_filename": "django_container_manager-1.0.5.tar.gz",
+  "download_time": "2025-08-06T23:25:38.820094",
   "package_url": "https://pypi.org/project/django-container-manager/"
 }

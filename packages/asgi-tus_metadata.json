@@ -1,0 +1,11 @@
+{
+  "name": "asgi-tus",
+  "version": "0.1.0",
+  "summary": "A Python ASGI implementation of the tus resumable upload protocol with FastAPI and Starlette integrations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asgi_tus-0.1.0.tar.gz",
+  "download_time": "2025-08-06T23:25:40.469647",
+  "package_url": "https://pypi.org/project/asgi-tus/"
+}
