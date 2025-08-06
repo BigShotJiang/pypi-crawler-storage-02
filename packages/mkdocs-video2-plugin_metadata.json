@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-video2-plugin",
+  "version": "0.0.1",
+  "summary": "Embedding of videos in generated mkdocs files.",
+  "author": "Mihai Galos",
+  "license": "MIT",
+  "home_page": "https://github.com/mihaigalos/mkdocs-video2-plugin",
+  "download_filename": "mkdocs_video2_plugin-0.0.1.tar.gz",
+  "download_time": "2025-08-06T20:49:50.716000",
+  "package_url": "https://pypi.org/project/mkdocs-video2-plugin/"
+}

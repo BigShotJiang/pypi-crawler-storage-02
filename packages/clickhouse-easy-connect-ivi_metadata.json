@@ -1,11 +1,11 @@
 {
   "name": "clickhouse-easy-connect-ivi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Упрощенная библиотека для работы с ClickHouse",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/your-company/clickhouse-easy-connect-ivi",
-  "download_filename": "clickhouse_easy_connect_ivi-1.0.0.tar.gz",
-  "download_time": "2025-08-06T20:28:54.190145",
+  "download_filename": "clickhouse_easy_connect_ivi-1.0.2.tar.gz",
+  "download_time": "2025-08-06T20:49:30.301094",
   "package_url": "https://pypi.org/project/clickhouse-easy-connect-ivi/"
 }

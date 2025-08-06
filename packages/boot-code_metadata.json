@@ -1,11 +1,11 @@
 {
   "name": "boot-code",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Spec-driven, build passing code.",
   "author": "Bordumb",
   "license": null,
   "home_page": null,
-  "download_filename": "boot_code-0.1.0.tar.gz",
-  "download_time": "2025-08-05T22:26:49.129443",
+  "download_filename": "boot_code-0.1.2.tar.gz",
+  "download_time": "2025-08-06T20:49:46.346879",
   "package_url": "https://pypi.org/project/boot-code/"
 }

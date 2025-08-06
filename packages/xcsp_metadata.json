@@ -1,0 +1,11 @@
+{
+  "name": "xcsp",
+  "version": "0.6.0",
+  "summary": "A unified launcher for XCSP solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xcsp-0.6.0.tar.gz",
+  "download_time": "2025-08-06T20:49:37.373202",
+  "package_url": "https://pypi.org/project/xcsp/"
+}

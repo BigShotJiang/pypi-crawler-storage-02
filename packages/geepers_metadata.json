@@ -1,11 +1,11 @@
 {
   "name": "geepers",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Download GPS data and compare to InSAR",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geepers-0.2.0.tar.gz",
-  "download_time": "2025-08-06T20:28:30.578510",
+  "download_filename": "geepers-0.2.2-py3-none-any.whl",
+  "download_time": "2025-08-06T20:49:29.744859",
   "package_url": "https://pypi.org/project/geepers/"
 }

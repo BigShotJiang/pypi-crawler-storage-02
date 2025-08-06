@@ -1,11 +1,11 @@
 {
   "name": "harness-ccm-external-data",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Tools to help manage external data for Harness CCM",
   "author": "Riley Snyder",
   "license": null,
   "home_page": null,
-  "download_filename": "harness_ccm_external_data-0.1.4.tar.gz",
-  "download_time": "2025-08-06T20:28:47.916138",
+  "download_filename": "harness_ccm_external_data-0.1.5.tar.gz",
+  "download_time": "2025-08-06T20:49:55.627272",
   "package_url": "https://pypi.org/project/harness-ccm-external-data/"
 }

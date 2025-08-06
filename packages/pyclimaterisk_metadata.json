@@ -1,11 +1,11 @@
 {
   "name": "pyclimaterisk",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "This package provides climate risk data derived from newspapers data",
   "author": "Muhsin Ciftci",
-  "license": null,
-  "home_page": null,
-  "download_filename": "pyclimaterisk-1.0.0-py3-none-any.whl",
-  "download_time": "2025-08-06T14:28:53.221721",
+  "license": "MIT",
+  "home_page": "https://github.com/muhsinciftci/pyclimaterisk",
+  "download_filename": "pyclimaterisk-1.1.1.tar.gz",
+  "download_time": "2025-08-06T20:49:28.065706",
   "package_url": "https://pypi.org/project/pyclimaterisk/"
 }

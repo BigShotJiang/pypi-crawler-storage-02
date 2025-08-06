@@ -1,0 +1,11 @@
+{
+  "name": "kessel-sdk",
+  "version": "1.1.0",
+  "summary": "Client SDK for Kessel.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kessel_sdk-1.1.0.tar.gz",
+  "download_time": "2025-08-06T20:49:52.901389",
+  "package_url": "https://pypi.org/project/kessel-sdk/"
+}

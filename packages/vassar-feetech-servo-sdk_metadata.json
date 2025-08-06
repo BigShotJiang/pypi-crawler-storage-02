@@ -1,11 +1,11 @@
 {
   "name": "vassar-feetech-servo-sdk",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "Vassar Robotics' Python SDK for Feetech servo control and position reading",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vassar_feetech_servo_sdk-0.2.3.tar.gz",
-  "download_time": "2025-08-06T19:05:41.002826",
+  "download_filename": "vassar_feetech_servo_sdk-0.3.0.tar.gz",
+  "download_time": "2025-08-06T20:49:36.827530",
   "package_url": "https://pypi.org/project/vassar-feetech-servo-sdk/"
 }

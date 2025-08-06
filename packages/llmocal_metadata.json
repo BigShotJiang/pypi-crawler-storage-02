@@ -1,0 +1,11 @@
+{
+  "name": "llmocal",
+  "version": "1.0.4",
+  "summary": "Professional open source client for running large language models locally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmocal-1.0.4.tar.gz",
+  "download_time": "2025-08-06T20:49:27.507597",
+  "package_url": "https://pypi.org/project/llmocal/"
+}
