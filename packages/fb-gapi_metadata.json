@@ -1,0 +1,11 @@
+{
+  "name": "fb-gapi",
+  "version": "0.1.26",
+  "summary": "A lightweight Python Sync / Async SDK for sending messages via Facebook Messenger",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fb_gapi-0.1.26.tar.gz",
+  "download_time": "2025-08-06T11:45:36.433882",
+  "package_url": "https://pypi.org/project/fb-gapi/"
+}

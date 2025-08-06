@@ -1,0 +1,11 @@
+{
+  "name": "shacl-path-query-generator",
+  "version": "0.1.3",
+  "summary": "Translate SHACL complex paths into SPARQL CONSTRUCT queries with intermediate variable expansion.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shacl_path_query_generator-0.1.3.tar.gz",
+  "download_time": "2025-08-06T11:45:31.880322",
+  "package_url": "https://pypi.org/project/shacl-path-query-generator/"
+}
