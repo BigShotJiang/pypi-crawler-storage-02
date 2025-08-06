@@ -1,11 +1,11 @@
 {
   "name": "brightcove-async",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "An asynchronous client for the Brightcove API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brightcove_async-0.1.6.tar.gz",
-  "download_time": "2025-08-06T10:59:32.197856",
+  "download_filename": "brightcove_async-0.1.7.tar.gz",
+  "download_time": "2025-08-06T14:28:57.449046",
   "package_url": "https://pypi.org/project/brightcove-async/"
 }

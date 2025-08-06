@@ -1,0 +1,11 @@
+{
+  "name": "fpsl",
+  "version": "0.2.0",
+  "summary": "Fokker-Planck Score Learning: Efficient free-energy estimation under periodic boundary conditions",
+  "author": "braniii",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fpsl-0.2.0.tar.gz",
+  "download_time": "2025-08-06T14:29:07.948252",
+  "package_url": "https://pypi.org/project/fpsl/"
+}

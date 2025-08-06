@@ -1,0 +1,11 @@
+{
+  "name": "nvdlib",
+  "version": "0.8.2",
+  "summary": "National Vulnerability Database CPE/CVE API Library for Python",
+  "author": "Vehemont",
+  "license": "MIT",
+  "home_page": "https://github.com/Vehemont/nvdlib/",
+  "download_filename": "nvdlib-0.8.2-py3-none-any.whl",
+  "download_time": "2025-08-06T14:29:11.073801",
+  "package_url": "https://pypi.org/project/nvdlib/"
+}

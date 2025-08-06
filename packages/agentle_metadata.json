@@ -1,11 +1,11 @@
 {
   "name": "agentle",
-  "version": "0.7.22",
+  "version": "0.7.24",
   "summary": "...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentle-0.7.22.tar.gz",
-  "download_time": "2025-08-06T13:00:17.945580",
+  "download_filename": "agentle-0.7.24.tar.gz",
+  "download_time": "2025-08-06T14:28:47.478343",
   "package_url": "https://pypi.org/project/agentle/"
 }

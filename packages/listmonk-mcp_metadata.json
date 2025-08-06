@@ -1,0 +1,11 @@
+{
+  "name": "listmonk-mcp",
+  "version": "0.0.1",
+  "summary": "MCP server for Listmonk newsletter management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "listmonk_mcp-0.0.1.tar.gz",
+  "download_time": "2025-08-06T14:29:05.864084",
+  "package_url": "https://pypi.org/project/listmonk-mcp/"
+}

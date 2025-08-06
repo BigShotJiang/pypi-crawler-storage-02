@@ -1,0 +1,11 @@
+{
+  "name": "marmite",
+  "version": "0.2.6",
+  "summary": "Marmite is the easiest static site generator.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://marmite.blog",
+  "download_filename": "marmite-0.2.6-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-06T14:29:04.278934",
+  "package_url": "https://pypi.org/project/marmite/"
+}
