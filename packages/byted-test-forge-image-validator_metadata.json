@@ -1,0 +1,11 @@
+{
+  "name": "byted-test-forge-image-validator",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_test_forge_image_validator",
+  "download_filename": "byted_test_forge_image_validator-0.0.1.tar.gz",
+  "download_time": "2025-08-06T02:21:16.787743",
+  "package_url": "https://pypi.org/project/byted-test-forge-image-validator/"
+}

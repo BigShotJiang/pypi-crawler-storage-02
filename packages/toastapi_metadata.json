@@ -1,11 +1,11 @@
 {
   "name": "toastapi",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Toast API",
   "author": "Toast developer support",
   "license": null,
   "home_page": "https://github.com/growth-operations/toast",
-  "download_filename": "toastapi-1.0.5.tar.gz",
-  "download_time": "2025-08-05T19:03:58.006361",
+  "download_filename": "toastapi-1.0.7.tar.gz",
+  "download_time": "2025-08-06T02:21:20.231051",
   "package_url": "https://pypi.org/project/toastapi/"
 }

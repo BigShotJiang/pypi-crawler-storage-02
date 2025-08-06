@@ -1,0 +1,11 @@
+{
+  "name": "complexint",
+  "version": "0.0.1",
+  "summary": "A complexint class, for using large complex numbers which exceed the precision offered by the builtin complex which uses doubles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "complexint-0.0.1.tar.gz",
+  "download_time": "2025-08-06T02:20:56.014567",
+  "package_url": "https://pypi.org/project/complexint/"
+}

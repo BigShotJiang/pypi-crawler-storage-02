@@ -1,0 +1,11 @@
+{
+  "name": "CareSurveyor",
+  "version": "0.1.1",
+  "summary": "Survey Automation Pipeline for Clinical Studies",
+  "author": "CareSurveyor Team",
+  "license": "MIT",
+  "home_page": "https://github.com/caresurveyor/caresurveyor",
+  "download_filename": "caresurveyor-0.1.1.tar.gz",
+  "download_time": "2025-08-06T02:21:03.851937",
+  "package_url": "https://pypi.org/project/CareSurveyor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-background-job",
+  "version": "0.1.2",
+  "summary": "MCP server for executing long-running shell commands asynchronously",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_background_job-0.1.2.tar.gz",
+  "download_time": "2025-08-06T02:20:49.597495",
+  "package_url": "https://pypi.org/project/mcp-background-job/"
+}

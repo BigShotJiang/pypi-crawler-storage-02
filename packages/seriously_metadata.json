@@ -1,0 +1,11 @@
+{
+  "name": "seriously",
+  "version": "2.1.31",
+  "summary": "A Python-based golfing language",
+  "author": "Mego",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seriously-2.1.31.tar.gz",
+  "download_time": "2025-08-06T02:21:13.875981",
+  "package_url": "https://pypi.org/project/seriously/"
+}
