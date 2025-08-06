@@ -1,0 +1,11 @@
+{
+  "name": "code2flow-visualizer",
+  "version": "0.8.1",
+  "summary": "Real-Time Code Execution Visualizer for Python",
+  "author": "Aryan Mishra",
+  "license": null,
+  "home_page": "https://github.com/Aryan0854/code2flow-visualizer",
+  "download_filename": "code2flow_visualizer-0.8.1.tar.gz",
+  "download_time": "2025-08-06T19:33:00.539330",
+  "package_url": "https://pypi.org/project/code2flow-visualizer/"
+}

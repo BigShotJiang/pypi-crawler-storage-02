@@ -1,11 +1,11 @@
 {
   "name": "mrms-time-series",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Time Series Downloader for MRMS Products",
   "author": "Gonzalo Forero Buitrago",
   "license": null,
   "home_page": null,
-  "download_filename": "mrms_time_series-0.1.0.tar.gz",
-  "download_time": "2025-08-05T22:57:56.818337",
+  "download_filename": "mrms_time_series-0.1.1.tar.gz",
+  "download_time": "2025-08-06T19:33:06.463606",
   "package_url": "https://pypi.org/project/mrms-time-series/"
 }

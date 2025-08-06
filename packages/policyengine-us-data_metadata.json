@@ -1,11 +1,11 @@
 {
   "name": "policyengine-us-data",
-  "version": "1.43.0",
+  "version": "1.44.0",
   "summary": "A package to create representative microdata for the US.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_us_data-1.43.0.tar.gz",
-  "download_time": "2025-08-04T19:32:46.433428",
+  "download_filename": "policyengine_us_data-1.44.0.tar.gz",
+  "download_time": "2025-08-06T19:32:58.411899",
   "package_url": "https://pypi.org/project/policyengine-us-data/"
 }

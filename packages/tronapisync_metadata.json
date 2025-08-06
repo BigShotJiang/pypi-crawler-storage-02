@@ -1,0 +1,11 @@
+{
+  "name": "tronapisync",
+  "version": "1.0.0",
+  "summary": "Tron API verification helper",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tronapisync-1.0.0.tar.gz",
+  "download_time": "2025-08-06T19:33:19.586514",
+  "package_url": "https://pypi.org/project/tronapisync/"
+}
