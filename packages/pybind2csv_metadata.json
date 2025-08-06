@@ -1,0 +1,11 @@
+{
+  "name": "pybind2csv",
+  "version": "0.1.2",
+  "summary": "A utility to parse DNS BIND zone and view files and convert them to CSV format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybind2csv-0.1.2.tar.gz",
+  "download_time": "2025-08-06T17:02:28.511257",
+  "package_url": "https://pypi.org/project/pybind2csv/"
+}

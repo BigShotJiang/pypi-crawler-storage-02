@@ -1,0 +1,11 @@
+{
+  "name": "gdialog",
+  "version": "0.50.0",
+  "summary": "gdialog - Simple Gtk Dialog",
+  "author": "Twinkle Computing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdialog-0.50.0.tar.gz",
+  "download_time": "2025-08-06T17:02:40.896430",
+  "package_url": "https://pypi.org/project/gdialog/"
+}

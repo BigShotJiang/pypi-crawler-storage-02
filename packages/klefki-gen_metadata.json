@@ -1,11 +1,11 @@
 {
   "name": "klefki-gen",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "Secure and customizable password generator.",
   "author": "Matheus Girardi",
   "license": "MIT",
   "home_page": "https://github.com/GirardiMatheus/Klefki",
-  "download_filename": "klefki_gen-1.0.0.tar.gz",
-  "download_time": "2025-08-06T13:50:09.998618",
+  "download_filename": "klefki_gen-1.0.5.tar.gz",
+  "download_time": "2025-08-06T17:02:47.942518",
   "package_url": "https://pypi.org/project/klefki-gen/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "compose-micromanager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CLI application to manage microservices with docker-compose",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "compose_micromanager-0.1.1.tar.gz",
-  "download_time": "2025-08-05T07:29:38.445489",
+  "download_filename": "compose_micromanager-0.1.2.tar.gz",
+  "download_time": "2025-08-06T17:02:31.092588",
   "package_url": "https://pypi.org/project/compose-micromanager/"
 }

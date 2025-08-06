@@ -1,0 +1,11 @@
+{
+  "name": "sourcepp",
+  "version": "2025.8.5",
+  "summary": "Several modern C++20 libraries for sanely parsing Valve formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sourcepp-2025.8.5.tar.gz",
+  "download_time": "2025-08-06T17:02:20.811349",
+  "package_url": "https://pypi.org/project/sourcepp/"
+}
