@@ -1,0 +1,11 @@
+{
+  "name": "dramatiq-crontab",
+  "version": "1.0.12",
+  "summary": "Cron style scheduler for asynchronous Dramatiq tasks in Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dramatiq_crontab-1.0.12.tar.gz",
+  "download_time": "2025-08-06T16:33:35.695476",
+  "package_url": "https://pypi.org/project/dramatiq-crontab/"
+}

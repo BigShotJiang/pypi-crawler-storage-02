@@ -1,11 +1,11 @@
 {
   "name": "clicycle",
-  "version": "2.2.3",
+  "version": "3.1.0",
   "summary": "A Python CLI framework built on Click, with self-spacing components and Rich theming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clicycle-2.2.3.tar.gz",
-  "download_time": "2025-08-06T14:28:49.048670",
+  "download_filename": "clicycle-3.1.0.tar.gz",
+  "download_time": "2025-08-06T16:32:59.368270",
   "package_url": "https://pypi.org/project/clicycle/"
 }

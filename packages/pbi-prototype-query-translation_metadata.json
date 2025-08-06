@@ -1,0 +1,11 @@
+{
+  "name": "pbi-prototype-query-translation",
+  "version": "1.0.4",
+  "summary": "Converts PowerBI frontend Prototype Queries to DAX queries that can be understood by the SSAS backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbi_prototype_query_translation-1.0.4.tar.gz",
+  "download_time": "2025-08-06T16:33:29.956691",
+  "package_url": "https://pypi.org/project/pbi-prototype-query-translation/"
+}

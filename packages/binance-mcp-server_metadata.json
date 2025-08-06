@@ -1,0 +1,11 @@
+{
+  "name": "binance-mcp-server",
+  "version": "1.2.5",
+  "summary": "Binance's Model Context Protocol (MCP). Designed to support developers building crypto trading AI Agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binance_mcp_server-1.2.5.tar.gz",
+  "download_time": "2025-08-06T16:33:21.042269",
+  "package_url": "https://pypi.org/project/binance-mcp-server/"
+}
