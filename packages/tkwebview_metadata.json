@@ -1,11 +1,11 @@
 {
   "name": "tkwebview",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "tkinter的webview视图",
   "author": "Smart-Space",
   "license": "MIT",
   "home_page": "https://github.com/Smart-Space/tkwebview",
-  "download_filename": "tkwebview-0.1.1.tar.gz",
-  "download_time": "2025-08-06T07:29:57.933414",
+  "download_filename": "tkwebview-0.2.0.tar.gz",
+  "download_time": "2025-08-06T14:55:15.434434",
   "package_url": "https://pypi.org/project/tkwebview/"
 }

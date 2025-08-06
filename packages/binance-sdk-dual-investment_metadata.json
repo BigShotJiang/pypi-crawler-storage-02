@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-dual-investment",
+  "version": "1.1.0",
+  "summary": "Official Binance Dual Investment SDK - A lightweight library that provides a convenient interface to Binance's DualInvestment REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_dual_investment-1.1.0.tar.gz",
+  "download_time": "2025-08-06T14:55:12.923385",
+  "package_url": "https://pypi.org/project/binance-sdk-dual-investment/"
+}
