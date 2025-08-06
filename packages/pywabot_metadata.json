@@ -1,11 +1,11 @@
 {
   "name": "pywabot",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An asynchronous Python wrapper for the Baileys WhatsApp API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywabot-0.3.0.tar.gz",
-  "download_time": "2025-08-06T19:33:26.565176",
+  "download_filename": "pywabot-0.3.1.tar.gz",
+  "download_time": "2025-08-06T19:53:26.019538",
   "package_url": "https://pypi.org/project/pywabot/"
 }

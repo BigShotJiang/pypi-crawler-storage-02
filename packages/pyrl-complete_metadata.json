@@ -1,0 +1,11 @@
+{
+  "name": "pyrl-complete",
+  "version": "0.1.1",
+  "summary": "manage readline autocomplete for bespoke cli",
+  "author": "codimoc",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3",
+  "home_page": "https://github.com/codimoc/pyrl-complete",
+  "download_filename": "pyrl_complete-0.1.1.tar.gz",
+  "download_time": "2025-08-06T19:53:34.768495",
+  "package_url": "https://pypi.org/project/pyrl-complete/"
+}

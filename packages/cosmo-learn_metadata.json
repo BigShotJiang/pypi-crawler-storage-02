@@ -1,0 +1,11 @@
+{
+  "name": "cosmo-learn",
+  "version": "0.0.0",
+  "summary": "Cosmological simulations in one place",
+  "author": "Reginald Christian Bernardo",
+  "license": "MIT",
+  "home_page": "https://github.com/reggiebernardo/cosmo_learn",
+  "download_filename": "cosmo_learn-0.0.0.tar.gz",
+  "download_time": "2025-08-06T19:53:38.964171",
+  "package_url": "https://pypi.org/project/cosmo-learn/"
+}

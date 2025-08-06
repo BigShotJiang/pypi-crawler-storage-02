@@ -1,11 +1,11 @@
 {
   "name": "meeseeql",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A FastMCP server for exploring SQL databases",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meeseeql-1.0.0.tar.gz",
-  "download_time": "2025-08-05T19:34:22.233817",
+  "download_filename": "meeseeql-1.1.0.tar.gz",
+  "download_time": "2025-08-06T19:52:54.789853",
   "package_url": "https://pypi.org/project/meeseeql/"
 }
