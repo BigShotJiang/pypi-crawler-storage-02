@@ -1,11 +1,11 @@
 {
   "name": "pythagix",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "A mathy Python package with utilities like LCM, triangle numbers, etc.",
   "author": "UltraQuantumScriptor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythagix-0.2.16.tar.gz",
-  "download_time": "2025-08-05T17:23:54.190914",
+  "download_filename": "pythagix-0.2.17.tar.gz",
+  "download_time": "2025-08-06T07:30:07.720649",
   "package_url": "https://pypi.org/project/pythagix/"
 }

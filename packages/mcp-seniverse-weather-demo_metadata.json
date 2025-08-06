@@ -1,0 +1,11 @@
+{
+  "name": "mcp-seniverse-weather-demo",
+  "version": "0.0.99",
+  "summary": "使用Seniverse API到天气预报MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_seniverse_weather_demo-0.0.99.tar.gz",
+  "download_time": "2025-08-06T07:29:59.001959",
+  "package_url": "https://pypi.org/project/mcp-seniverse-weather-demo/"
+}
