@@ -1,0 +1,11 @@
+{
+  "name": "mcp-seniverse-weather-sunw",
+  "version": "0.0.9",
+  "summary": "使用Seniverse API到天气预报MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_seniverse_weather_sunw-0.0.9.tar.gz",
+  "download_time": "2025-08-06T07:50:25.539894",
+  "package_url": "https://pypi.org/project/mcp-seniverse-weather-sunw/"
+}
