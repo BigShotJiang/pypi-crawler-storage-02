@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-06T22:26:45.930404
-- **Total Packages**: 81
-- **Total Size**: 40.45 MB
+- **Download Time**: 2025-08-06T22:50:28.727407
+- **Total Packages**: 76
+- **Total Size**: 18.11 MB
 
 ## Packages List
+- prodify-sql-mcp
+- openaivec
+- newbringer-network-client
+- moose-lib
+- sb3-extra-buffers
+- quantax
+- foundry-sdk
+- singleton-decorator1
+- flyteplugins-spark
+- docsray-mcp
+- flyteplugins-ray
+- powerpoint-template-system
+- brain-sdk
+- couchbase-analytics
+- prstools
+- langgraph-api
+- solveig
+- rest-tester
+- nci-cidc-api-modules
+- aviary-models
+- stytch
+- liverun
+- agrigee-lite
+- mat3ra-esse
+- robin-logistics-env
+- emerge
+- pyfortran
+- bank-scrapers
+- pyams-content-es
+- tobiko-cloud-pydantic
+- helicone_helpers
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- ivoryos-client
+- richprint
+- botocraft
+- nvidia-nvtiff-tegra-cu13
+- virginia-clemm-poe
+- indexify
+- gocam
+- FLiESANN
+- hatchet-sdk
+- pz-rail-base
+- localstack-core
+- sqlmesh
+- kalib
 - bench-af-components
 - geostatspy
 - kain
@@ -13,7 +59,6 @@
 - qwen3-coder-agent
 - canvas
 - bench-af
-- docsray-mcp
 - vlmrun
 - nvidia-nvjpeg2k-tegra-cu13
 - pyams-content
@@ -25,7 +70,6 @@
 - pubmed-downloader
 - databricks-labs-dqx
 - lncur
-- prodify-sql-mcp
 - regula-documentreader-webclient
 - azure-iot-hub
 - sagemaker-core
@@ -34,56 +78,7 @@
 - tensorlake
 - dlnpyutils
 - dna-ibp
-- virginia-clemm-poe
 - dayhoff-tools
 - mongo-charms-single-kernel
 - cac-core
 - WebGrid
-- napari-isolate-cell
-- agent-eval
-- sb3-extra-buffers
-- veri-agents-knowledgebase
-- veri-agents-external
-- veri-agents-api
-- pympebm
-- keeper-pam-webrtc-rs
-- bfg-logutil
-- coiled
-- adafruit-python-shell
-- scc-firewall-manager-sdk
-- pyams-skin
-- cute-cats-terminal
-- winhello-crypto
-- fennec-asr
-- rara-meta-extractor
-- rf-mcp
-- veri-agents-common
-- veri-agents-aiware
-- vortex-data
-- crackers
-- foundry-sdk
-- vidavis
-- vassar-feetech-servo-sdk
-- mocap-settings
-- google-workspace-mcp-hotfix
-- wdnas-client
-- behavex
-- mocap-mdc-tracking
-- lamindb
-- make87
-- RepoAuditor
-- kalib
-- trulens
-- trulens-eval
-- trulens-providers-openai
-- trulens-providers-litellm
-- trulens-providers-langchain
-- trulens-providers-huggingface
-- trulens-providers-cortex
-- trulens-providers-bedrock
-- trulens-otel-semconv
-- trulens-hotspots
-- trulens-feedback
-- trulens-dashboard
-- trulens-core
-- trulens-connectors-snowflake

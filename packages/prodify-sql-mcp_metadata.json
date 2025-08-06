@@ -1,11 +1,11 @@
 {
   "name": "prodify-sql-mcp",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A MCP server that helps access and query data in various popular databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prodify_sql_mcp-0.1.5.tar.gz",
-  "download_time": "2025-08-06T22:26:09.859590",
+  "download_filename": "prodify_sql_mcp-0.1.7.tar.gz",
+  "download_time": "2025-08-06T22:49:37.752647",
   "package_url": "https://pypi.org/project/prodify-sql-mcp/"
 }
