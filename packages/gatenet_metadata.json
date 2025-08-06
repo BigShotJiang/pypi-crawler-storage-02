@@ -1,11 +1,11 @@
 {
   "name": "gatenet",
-  "version": "0.11.3",
+  "version": "0.12.0",
   "summary": "Python library for gateways, networks, and devices.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gatenet-0.11.3.tar.gz",
-  "download_time": "2025-08-05T05:58:47.247267",
+  "download_filename": "gatenet-0.12.0.tar.gz",
+  "download_time": "2025-08-06T20:28:48.436915",
   "package_url": "https://pypi.org/project/gatenet/"
 }

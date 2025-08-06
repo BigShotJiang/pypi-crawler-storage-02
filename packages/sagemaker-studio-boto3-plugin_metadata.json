@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-studio-boto3-plugin",
+  "version": "0.0.1",
+  "summary": "SageMaker Studio Boto3 Plugin",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker_studio_boto3_plugin-0.0.1.tar.gz",
+  "download_time": "2025-08-06T20:28:35.840535",
+  "package_url": "https://pypi.org/project/sagemaker-studio-boto3-plugin/"
+}

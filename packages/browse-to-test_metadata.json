@@ -1,11 +1,11 @@
 {
   "name": "browse-to-test",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "summary": "AI-powered browser automation to test script converter",
   "author": "Browse-to-Test Contributors",
   "license": null,
   "home_page": "https://github.com/yourusername/browse-to-test",
-  "download_filename": "browse_to_test-0.2.18.tar.gz",
-  "download_time": "2025-08-06T17:41:43.936034",
+  "download_filename": "browse_to_test-0.2.19.tar.gz",
+  "download_time": "2025-08-06T20:28:24.807557",
   "package_url": "https://pypi.org/project/browse-to-test/"
 }

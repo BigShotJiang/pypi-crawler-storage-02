@@ -1,0 +1,11 @@
+{
+  "name": "gamest",
+  "version": "4.1.8",
+  "summary": "Tracks game play time.",
+  "author": "Tracy Poff",
+  "license": null,
+  "home_page": "https://github.com/sopoforic/gamest",
+  "download_filename": "gamest-4.1.8.tar.gz",
+  "download_time": "2025-08-06T20:28:18.444709",
+  "package_url": "https://pypi.org/project/gamest/"
+}
