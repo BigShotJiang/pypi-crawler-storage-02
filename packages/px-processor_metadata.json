@@ -1,0 +1,11 @@
+{
+  "name": "px-processor",
+  "version": "0.2.1",
+  "summary": "Process and validate JSON and CSV data with ease.",
+  "author": "pratheesh-prakash",
+  "license": null,
+  "home_page": null,
+  "download_filename": "px_processor-0.2.1.tar.gz",
+  "download_time": "2025-08-06T04:50:46.694714",
+  "package_url": "https://pypi.org/project/px-processor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nextbillionai",
+  "version": "0.5.1",
+  "summary": "The official Python library for the nextbillion-sdk API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nextbillionai-0.5.1.tar.gz",
+  "download_time": "2025-08-06T04:51:00.120352",
+  "package_url": "https://pypi.org/project/nextbillionai/"
+}

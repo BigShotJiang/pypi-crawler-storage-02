@@ -1,11 +1,11 @@
 {
   "name": "fsai-vision-utils",
-  "version": "0.0.235",
+  "version": "0.0.237",
   "summary": "Helper functions for vision processing.",
   "author": "Michael Mohamed",
   "license": "MIT",
   "home_page": "https://github.com/fsai-dev/fsai-vision-utils",
-  "download_filename": "fsai_vision_utils-0.0.235.tar.gz",
-  "download_time": "2025-08-06T03:54:29.339827",
+  "download_filename": "fsai_vision_utils-0.0.237.tar.gz",
+  "download_time": "2025-08-06T04:51:10.740605",
   "package_url": "https://pypi.org/project/fsai-vision-utils/"
 }

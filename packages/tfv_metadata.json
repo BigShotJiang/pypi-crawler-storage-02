@@ -1,0 +1,11 @@
+{
+  "name": "tfv",
+  "version": "1.0.12",
+  "summary": "Post processing tools for TUFLOW FV results",
+  "author": "TUFLOW Support",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/TUFLOW/tfv",
+  "download_filename": "tfv-1.0.12.tar.gz",
+  "download_time": "2025-08-06T04:50:46.183079",
+  "package_url": "https://pypi.org/project/tfv/"
+}

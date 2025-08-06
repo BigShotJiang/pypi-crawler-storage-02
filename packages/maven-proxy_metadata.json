@@ -1,11 +1,11 @@
 {
   "name": "maven-proxy",
-  "version": "1.0.92.10",
+  "version": "1.0.92.19",
   "summary": "Maven Repository Proxy with caching and authentication",
   "author": "qicongsheng",
   "license": null,
   "home_page": "https://github.com/qicongsheng/maven-proxy",
-  "download_filename": "maven_proxy-1.0.92.10.tar.gz",
-  "download_time": "2025-08-06T03:54:23.067180",
+  "download_filename": "maven_proxy-1.0.92.19.tar.gz",
+  "download_time": "2025-08-06T04:50:43.323716",
   "package_url": "https://pypi.org/project/maven-proxy/"
 }

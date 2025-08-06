@@ -1,0 +1,11 @@
+{
+  "name": "qos-api",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for QOS Market Data API.",
+  "author": "QOS",
+  "license": null,
+  "home_page": "https://github.com/qos-max/qos-quote-api-python-sdk",
+  "download_filename": "qos_api-0.2.0.tar.gz",
+  "download_time": "2025-08-06T04:50:34.650247",
+  "package_url": "https://pypi.org/project/qos-api/"
+}
