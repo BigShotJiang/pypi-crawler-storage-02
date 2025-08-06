@@ -1,0 +1,11 @@
+{
+  "name": "ptwrapper",
+  "version": "2.6.9",
+  "summary": "A Pointing Tool OSVE wrapper",
+  "author": "Marc Costa",
+  "license": "European Space Agency Public License (ESA-PL) Permissive (Type 3) – v2.4",
+  "home_page": null,
+  "download_filename": "ptwrapper-2.6.9-py3-none-any.whl",
+  "download_time": "2025-08-06T11:27:43.635137",
+  "package_url": "https://pypi.org/project/ptwrapper/"
+}

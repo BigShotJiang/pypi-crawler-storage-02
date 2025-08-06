@@ -1,0 +1,11 @@
+{
+  "name": "strawberry-input-extensions",
+  "version": "0.0.1",
+  "summary": "Strawberry GraphQL input validation/transformation extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strawberry_input_extensions-0.0.1.tar.gz",
+  "download_time": "2025-08-06T11:27:46.788459",
+  "package_url": "https://pypi.org/project/strawberry-input-extensions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "access-cli-sealuzh",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Verify ACCESS courses locally",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "access_cli_sealuzh-0.1.6-py3-none-any.whl",
-  "download_time": "2025-08-06T10:59:24.978544",
+  "download_filename": "access_cli_sealuzh-0.1.7-py3-none-any.whl",
+  "download_time": "2025-08-06T11:28:03.763735",
   "package_url": "https://pypi.org/project/access-cli-sealuzh/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py3-tts-wrapper",
-  "version": "0.10.20",
+  "version": "0.10.21",
   "summary": "TTS-Wrapper makes it easier to use text-to-speech APIs by providing a unified and easy-to-use interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py3_tts_wrapper-0.10.20.tar.gz",
-  "download_time": "2025-08-04T12:54:13.033267",
+  "download_filename": "py3_tts_wrapper-0.10.21.tar.gz",
+  "download_time": "2025-08-06T11:27:40.012515",
   "package_url": "https://pypi.org/project/py3-tts-wrapper/"
 }

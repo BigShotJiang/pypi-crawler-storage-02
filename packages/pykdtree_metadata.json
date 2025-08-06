@@ -1,0 +1,11 @@
+{
+  "name": "pykdtree",
+  "version": "1.4.3",
+  "summary": "Fast kd-tree implementation with OpenMP-enabled queries",
+  "author": "Esben S. Nielsen",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/storpipfugl/pykdtree",
+  "download_filename": "pykdtree-1.4.3.tar.gz",
+  "download_time": "2025-08-06T11:27:49.879088",
+  "package_url": "https://pypi.org/project/pykdtree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ipio",
+  "version": "1.2863.1358",
+  "summary": "IPIO Python Library",
+  "author": "Kemal Çelikel",
+  "license": null,
+  "home_page": "https://ipio.readthedocs.io/",
+  "download_filename": "ipio-1.2863.1358.tar.gz",
+  "download_time": "2025-08-06T11:27:59.641375",
+  "package_url": "https://pypi.org/project/ipio/"
+}

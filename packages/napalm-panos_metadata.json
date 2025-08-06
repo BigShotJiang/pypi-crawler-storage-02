@@ -1,0 +1,11 @@
+{
+  "name": "napalm-panos",
+  "version": "0.7.0",
+  "summary": "Network Automation and Programmability Abstraction Layer with Multivendor support for PANOS.",
+  "author": "Gabriele Gerbino",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "napalm_panos-0.7.0.tar.gz",
+  "download_time": "2025-08-06T11:27:55.514084",
+  "package_url": "https://pypi.org/project/napalm-panos/"
+}
