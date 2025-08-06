@@ -1,0 +1,11 @@
+{
+  "name": "himile-model-middleware",
+  "version": "0.2.0",
+  "summary": "A VLLM middleware package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "himile_model_middleware-0.2.0.tar.gz",
+  "download_time": "2025-08-06T10:35:53.820177",
+  "package_url": "https://pypi.org/project/himile-model-middleware/"
+}

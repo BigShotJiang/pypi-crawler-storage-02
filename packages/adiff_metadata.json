@@ -1,11 +1,11 @@
 {
   "name": "adiff",
-  "version": "1.0.3",
-  "summary": "A tool to diff multiple XML files",
+  "version": "2.0.0",
+  "summary": "Advanced XML Comparison CLI Tool",
   "author": "Ashish",
   "license": null,
-  "home_page": null,
-  "download_filename": "adiff-1.0.3.tar.gz",
-  "download_time": "2025-08-06T09:44:20.248665",
+  "home_page": "https://github.com/ashishnxt/adiff",
+  "download_filename": "adiff-2.0.0.tar.gz",
+  "download_time": "2025-08-06T10:35:51.084391",
   "package_url": "https://pypi.org/project/adiff/"
 }

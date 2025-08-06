@@ -1,0 +1,11 @@
+{
+  "name": "collective.pwexpiry",
+  "version": "1.0.0",
+  "summary": "Emulate Active Directory password complexity requirements                   in Plone",
+  "author": "Enfold Systems, Inc.",
+  "license": "ZPL",
+  "home_page": "http://www.enfoldsystems.com",
+  "download_filename": "collective_pwexpiry-1.0.0.tar.gz",
+  "download_time": "2025-08-06T10:35:35.855592",
+  "package_url": "https://pypi.org/project/collective.pwexpiry/"
+}

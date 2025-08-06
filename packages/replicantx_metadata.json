@@ -1,0 +1,11 @@
+{
+  "name": "replicantx",
+  "version": "0.1.9",
+  "summary": "End-to-end testing harness for AI agents via web service API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "replicantx-0.1.9.tar.gz",
+  "download_time": "2025-08-06T10:35:56.008908",
+  "package_url": "https://pypi.org/project/replicantx/"
+}

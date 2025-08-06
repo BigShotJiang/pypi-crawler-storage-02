@@ -1,0 +1,11 @@
+{
+  "name": "unieai-mcp-mysql",
+  "version": "0.1.9",
+  "summary": "Internal MCP server with MySQL for UnieAI",
+  "author": "UnieAI",
+  "license": "Proprietary",
+  "home_page": "https://www.unieai.com/",
+  "download_filename": "unieai_mcp_mysql-0.1.9.tar.gz",
+  "download_time": "2025-08-06T10:35:34.210247",
+  "package_url": "https://pypi.org/project/unieai-mcp-mysql/"
+}

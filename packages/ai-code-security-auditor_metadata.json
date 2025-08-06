@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-security-auditor",
+  "version": "2.0.0",
+  "summary": "AI-powered security scanner with multi-model LLM integration for comprehensive code vulnerability detection and automated patch generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_code_security_auditor-2.0.0.tar.gz",
+  "download_time": "2025-08-06T10:35:24.281003",
+  "package_url": "https://pypi.org/project/ai-code-security-auditor/"
+}

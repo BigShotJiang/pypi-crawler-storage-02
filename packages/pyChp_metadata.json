@@ -1,0 +1,11 @@
+{
+  "name": "pyChp",
+  "version": "0.0.1a1",
+  "summary": "A Python Toolkit for the Chinese Pharmacopoeia",
+  "author": "pyChp Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pyChp",
+  "download_filename": "pychp-0.0.1a1.tar.gz",
+  "download_time": "2025-08-06T10:35:57.062615",
+  "package_url": "https://pypi.org/project/pyChp/"
+}

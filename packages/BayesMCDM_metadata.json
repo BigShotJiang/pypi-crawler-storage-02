@@ -1,11 +1,11 @@
 {
   "name": "BayesMCDM",
-  "version": "0.1.1.2",
+  "version": "0.1.1.4",
   "summary": "Bayesian Multi-Criteria Decision Making Toolkit",
   "author": "Majid Mohammadi",
   "license": null,
   "home_page": null,
-  "download_filename": "bayesmcdm-0.1.1.2.tar.gz",
-  "download_time": "2025-08-04T17:03:11.571666",
+  "download_filename": "bayesmcdm-0.1.1.4.tar.gz",
+  "download_time": "2025-08-06T10:35:55.462777",
   "package_url": "https://pypi.org/project/BayesMCDM/"
 }

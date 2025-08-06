@@ -1,0 +1,11 @@
+{
+  "name": "fcl",
+  "version": "0.0.13",
+  "summary": "fcl machine learning library",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/thomas-bottesch/fcl",
+  "download_filename": "fcl-0.0.13.tar.gz",
+  "download_time": "2025-08-06T10:35:48.381236",
+  "package_url": "https://pypi.org/project/fcl/"
+}

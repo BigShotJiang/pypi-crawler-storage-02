@@ -1,11 +1,11 @@
 {
   "name": "git-narrate",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "summary": "The Repository Storyteller - Analyze git repos and generate development narratives",
   "author": "Git-Narrate Team",
   "license": "MIT",
   "home_page": "https://github.com/000xs/git-narrate",
-  "download_filename": "git_narrate-0.1.4.tar.gz",
-  "download_time": "2025-08-06T08:35:08.160664",
+  "download_filename": "git_narrate-1.0.0.tar.gz",
+  "download_time": "2025-08-06T10:35:42.978875",
   "package_url": "https://pypi.org/project/git-narrate/"
 }
