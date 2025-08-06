@@ -1,0 +1,11 @@
+{
+  "name": "localstripe",
+  "version": "1.15.8",
+  "summary": "A fake but stateful Stripe server that you can run locally, for testing purposes.",
+  "author": "Adrien Vergé",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "localstripe-1.15.8.tar.gz",
+  "download_time": "2025-08-06T06:48:47.705324",
+  "package_url": "https://pypi.org/project/localstripe/"
+}

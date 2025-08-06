@@ -1,0 +1,11 @@
+{
+  "name": "wiktionary-org",
+  "version": "1.0.1",
+  "summary": "Wiktionary on-demand scrapper.",
+  "author": "Josiah Kaviani",
+  "license": "BSD-2-Clause",
+  "home_page": "https://pypi.org/project/wiktionary",
+  "download_filename": "wiktionary_org-1.0.1.tar.gz",
+  "download_time": "2025-08-06T06:49:26.368915",
+  "package_url": "https://pypi.org/project/wiktionary-org/"
+}

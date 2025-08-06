@@ -1,0 +1,11 @@
+{
+  "name": "toast-animation",
+  "version": "0.1",
+  "summary": "A package for creating animated toast notifications in Flet applications.",
+  "author": "Heckerdev",
+  "license": null,
+  "home_page": "https://github.com/louisdev12/flet_toasty.git",
+  "download_filename": "toast_animation-0.1.tar.gz",
+  "download_time": "2025-08-06T06:48:52.857553",
+  "package_url": "https://pypi.org/project/toast-animation/"
+}
