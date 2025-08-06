@@ -1,0 +1,11 @@
+{
+  "name": "quickv",
+  "version": "0.1.0",
+  "summary": "QuicKV is a fast, embedded key-value store database, built for Python, with no dependencies. ",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/dragonpeti53/quickv",
+  "download_filename": "quickv-0.1.0-cp313-cp313-manylinux_2_36_x86_64.whl",
+  "download_time": "2025-08-06T23:56:56.812888",
+  "package_url": "https://pypi.org/project/quickv/"
+}
