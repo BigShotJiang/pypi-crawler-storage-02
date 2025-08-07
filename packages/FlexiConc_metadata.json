@@ -1,11 +1,11 @@
 {
   "name": "FlexiConc",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A Python package to assist concordance reading",
   "author": "RC21 (Nathan Dykes, Stephanie Evert, Michaela Mahlberg, Alexander Piperski @ Friedrich-Alexander-Universität Erlangen-Nürnberg)",
   "license": null,
   "home_page": "https://github.com/fau-klue/flexiconc",
-  "download_filename": "flexiconc-0.1.17.tar.gz",
-  "download_time": "2025-08-04T18:44:16.448127",
+  "download_filename": "flexiconc-0.1.18.tar.gz",
+  "download_time": "2025-08-07T21:45:33.936690",
   "package_url": "https://pypi.org/project/FlexiConc/"
 }

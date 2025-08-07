@@ -1,0 +1,11 @@
+{
+  "name": "zyte-api",
+  "version": "0.8.0",
+  "summary": "Python interface to Zyte API",
+  "author": "Zyte Group Ltd",
+  "license": null,
+  "home_page": "https://github.com/zytedata/python-zyte-api",
+  "download_filename": "zyte_api-0.8.0.tar.gz",
+  "download_time": "2025-08-07T21:45:17.955716",
+  "package_url": "https://pypi.org/project/zyte-api/"
+}

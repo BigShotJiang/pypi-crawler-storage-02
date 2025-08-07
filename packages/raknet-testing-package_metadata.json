@@ -1,11 +1,11 @@
 {
   "name": "raknet-testing-package",
-  "version": "0.0.1",
-  "summary": "A very simple example Python package.",
-  "author": "Your Name",
+  "version": "0.0.5",
+  "summary": "raknet-testing-package",
+  "author": "raknet-testing-package",
   "license": null,
-  "home_page": "https://github.com/yourusername/your-simple-package",
-  "download_filename": "raknet_testing_package-0.0.1.tar.gz",
-  "download_time": "2025-08-07T21:25:56.441821",
+  "home_page": null,
+  "download_filename": "raknet_testing_package-0.0.5.tar.gz",
+  "download_time": "2025-08-07T21:45:17.412606",
   "package_url": "https://pypi.org/project/raknet-testing-package/"
 }

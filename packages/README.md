@@ -1,15 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T21:26:42.850158
-- **Total Packages**: 88
-- **Total Size**: 64.31 MB
+- **Download Time**: 2025-08-07T21:45:53.830532
+- **Total Packages**: 79
+- **Total Size**: 22.46 MB
 
 ## Packages List
+- GALINDA
+- krex
+- statzy
+- meshagent-openai
+- ollama
+- anc
+- foundry-sdk
+- meshagent-mcp
+- meshagent-computers
+- meshagent-api
+- meshagent-agents
+- meshagent-cli
+- mirix
+- baseten-openai-harmony
+- vagd
+- envenom
+- raknet-testing-package
+- zyte-api
+- mrx-runway
+- zafiaonline
+- mlflow-oidc-auth
+- SNFit
+- claude-mpm
+- sensory-data-client
+- terminator-py
+- arthur-client
+- gnucash-uk-vat
+- geofig
+- mkdf
+- qiskit-ionq
+- geemap
+- evo-data-converters-common
+- emlinefit
+- lcEnhance
+- mpy-cross-multi
+- agent-zero-lite
+- geoarrow-rust-io
+- flakewall
+- commonmeta-py
+- rsp-jupyter-extensions
+- napari-3d-counter
+- mlx-cluster
+- sagemaker-studio-dataengineering-extensions
+- FlexiConc
+- pyjavapoet
+- fastapi-offline
+- placards
+- zrb
+- yandex-jamflicsyncer
 - mi-libreria-tobuja48
 - datagrid-ai
-- raknet-testing-package
-- foundry-sdk
 - vllm-judge
 - maleo-metadata
 - quantconnect-stubs
@@ -24,7 +71,6 @@
 - zanshincli
 - defog
 - pyagentic-core
-- agent-zero-lite
 - aldepyde
 - locisimiles
 - caldavctl
@@ -39,58 +85,3 @@
 - rd-cdm
 - accessly
 - cmdrdata-openai
-- snowflake-snowpark-python
-- nolang-mcp
-- deadline
-- trenny-client
-- HoloEcho
-- pyxtxt
-- claude-mpm
-- abm
-- scythe-engine
-- arthur-client
-- concept-sentinel-data-capturer
-- obstore
-- xync-bot
-- SNFit
-- fync
-- HoloTTS
-- agno
-- tap-canvas
-- flakewall
-- av-mcp-client
-- moose-cli
-- creditpulse
-- mpy-cross-v6
-- heaserver-buckets
-- fast-agent-mcp
-- InsideForest
-- openai-agents
-- mio
-- insper-mlops
-- qstrip
-- gemseo-calibration
-- egile-mcp-client
-- vsjetpack
-- dfloat11
-- django-ragamuffin
-- moose-lib
-- casm-tools
-- thds.mops
-- thds.adls
-- thds.atacama
-- thds.core
-- thds.humenc
-- revenium-middleware-litellm
-- radboy
-- signal-petrophysics
-- singlestoredb
-- shuffle-sdk
-- UtilsRPANAGEM
-- pytechnicalindicators
-- feedback-forensics
-- neuro-san
-- xync-schema
-- wopr
-- geosdhydro
-- zerodoc-gen

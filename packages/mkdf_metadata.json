@@ -1,11 +1,11 @@
 {
   "name": "mkdf",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Make Directories and Files - Professional Project Creator with Rich CLI and Web UI",
   "author": "Fassih Belmokhtar",
   "license": "AGPL-3.0",
-  "home_page": null,
-  "download_filename": "mkdf-0.1.1.tar.gz",
-  "download_time": "2025-08-06T23:25:28.324962",
+  "home_page": "https://github.com/Noziop/mkdf",
+  "download_filename": "mkdf-0.1.2.tar.gz",
+  "download_time": "2025-08-07T21:45:24.159926",
   "package_url": "https://pypi.org/project/mkdf/"
 }

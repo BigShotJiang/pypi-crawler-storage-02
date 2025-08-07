@@ -1,0 +1,11 @@
+{
+  "name": "envenom",
+  "version": "3.2.0.post1",
+  "summary": "An elegant application configurator for the more civilized age",
+  "author": "Artur Ciesielski",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "envenom-3.2.0.post1.tar.gz",
+  "download_time": "2025-08-07T21:45:16.881508",
+  "package_url": "https://pypi.org/project/envenom/"
+}
