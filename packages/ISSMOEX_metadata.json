@@ -1,0 +1,11 @@
+{
+  "name": "ISSMOEX",
+  "version": "1.1.6",
+  "summary": "A package to interact with the MOEX ISS API",
+  "author": "Illyuk Alexander",
+  "license": "MIT",
+  "home_page": "https://github.com/alexandrettto/issmoex",
+  "download_filename": "ISSMOEX-1.1.6.tar.gz",
+  "download_time": "2025-08-07T07:29:53.631854",
+  "package_url": "https://pypi.org/project/ISSMOEX/"
+}

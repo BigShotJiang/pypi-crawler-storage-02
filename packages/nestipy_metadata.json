@@ -1,11 +1,11 @@
 {
   "name": "nestipy",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Nestipy is a Python framework built on top of BlackSheep that follows the modular architecture of NestJS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nestipy-0.7.7.tar.gz",
-  "download_time": "2025-08-07T05:59:26.295508",
+  "download_filename": "nestipy-0.7.8.tar.gz",
+  "download_time": "2025-08-07T07:29:35.838899",
   "package_url": "https://pypi.org/project/nestipy/"
 }

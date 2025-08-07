@@ -1,11 +1,11 @@
 {
   "name": "localcosmos-app-kit",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "summary": "LocalCosmos App Kit. Web Portal to build Android and iOS apps",
   "author": "Thomas Uher",
   "license": "The MIT License",
   "home_page": "https://github.com/localcosmos/app-kit",
-  "download_filename": "localcosmos_app_kit-0.8.8.tar.gz",
-  "download_time": "2025-08-06T11:45:40.548441",
+  "download_filename": "localcosmos_app_kit-0.8.9.tar.gz",
+  "download_time": "2025-08-07T07:30:04.625778",
   "package_url": "https://pypi.org/project/localcosmos-app-kit/"
 }

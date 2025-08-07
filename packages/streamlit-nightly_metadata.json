@@ -1,11 +1,11 @@
 {
   "name": "streamlit-nightly",
-  "version": "1.48.1.dev20250805",
+  "version": "1.48.1.dev20250806",
   "summary": "A faster way to build and share data apps",
   "author": "Snowflake Inc",
   "license": "Apache License 2.0",
   "home_page": "https://streamlit.io",
-  "download_filename": "streamlit_nightly-1.48.1.dev20250805.tar.gz",
-  "download_time": "2025-08-06T07:29:57.377596",
+  "download_filename": "streamlit_nightly-1.48.1.dev20250806.tar.gz",
+  "download_time": "2025-08-07T07:29:48.954172",
   "package_url": "https://pypi.org/project/streamlit-nightly/"
 }

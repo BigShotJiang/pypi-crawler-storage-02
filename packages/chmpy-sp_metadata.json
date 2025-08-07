@@ -1,11 +1,11 @@
 {
   "name": "chmpy-sp",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "python TUI for chaning file/folder permission",
   "author": "Ammar Syamil",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chmpy_sp-0.3.2.tar.gz",
-  "download_time": "2025-08-06T14:54:42.480048",
+  "download_filename": "chmpy_sp-0.3.4.tar.gz",
+  "download_time": "2025-08-07T07:29:41.062368",
   "package_url": "https://pypi.org/project/chmpy-sp/"
 }

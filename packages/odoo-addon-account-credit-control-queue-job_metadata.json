@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-credit-control-queue-job",
+  "version": "18.0.2.0.0",
+  "summary": "Account Credit Control",
+  "author": "360 ERP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_account_credit_control_queue_job-18.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-07T07:30:05.668648",
+  "package_url": "https://pypi.org/project/odoo-addon-account-credit-control-queue-job/"
+}

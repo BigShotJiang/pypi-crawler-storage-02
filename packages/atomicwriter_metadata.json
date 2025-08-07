@@ -1,0 +1,11 @@
+{
+  "name": "atomicwriter",
+  "version": "0.3.0",
+  "summary": "Cross-platform atomic file writer for all-or-nothing operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atomicwriter-0.3.0.tar.gz",
+  "download_time": "2025-08-07T07:29:35.294239",
+  "package_url": "https://pypi.org/project/atomicwriter/"
+}

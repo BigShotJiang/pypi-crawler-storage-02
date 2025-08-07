@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-gaokao",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_gaokao-0.1.1.tar.gz",
-  "download_time": "2025-08-06T15:29:42.290665",
+  "download_filename": "mcp_server_gaokao-0.1.2.tar.gz",
+  "download_time": "2025-08-07T07:29:26.910697",
   "package_url": "https://pypi.org/project/mcp-server-gaokao/"
 }

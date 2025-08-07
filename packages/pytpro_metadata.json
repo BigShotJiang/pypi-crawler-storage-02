@@ -1,11 +1,11 @@
 {
   "name": "pytpro",
-  "version": "0.2.7",
-  "summary": "Lightweight Python library for math, randomness, HTML, Markdown, CSS, and JS rendering — clean and minimal.",
+  "version": "0.2.9",
+  "summary": "A powerful Python toolkit with automatic HTML output and utilities by Ibrahim Akhlaq",
   "author": "Ibrahim Akhlaq",
   "license": null,
   "home_page": null,
-  "download_filename": "pytpro-0.2.7.tar.gz",
-  "download_time": "2025-08-06T08:35:06.066569",
+  "download_filename": "pytpro-0.2.9.tar.gz",
+  "download_time": "2025-08-07T07:30:07.774201",
   "package_url": "https://pypi.org/project/pytpro/"
 }

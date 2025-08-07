@@ -1,11 +1,11 @@
 {
   "name": "app-tools-zxw",
-  "version": "2.2.2",
-  "summary": "更新： 杂七杂八微调",
+  "version": "2.2.4",
+  "summary": "app开发相关的各种sdk",
   "author": "薛伟的小工具",
   "license": null,
   "home_page": "https://github.com/sunshineinwater/",
-  "download_filename": "app_tools_zxw-2.2.2.tar.gz",
-  "download_time": "2025-08-05T07:29:31.965723",
+  "download_filename": "app_tools_zxw-2.2.4.tar.gz",
+  "download_time": "2025-08-07T07:29:57.266439",
   "package_url": "https://pypi.org/project/app-tools-zxw/"
 }

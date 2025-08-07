@@ -1,0 +1,11 @@
+{
+  "name": "maweng",
+  "version": "0.1.6",
+  "summary": "A lightweight, modern Python web framework with ORM and auto-generated API docs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maweng-0.1.6.tar.gz",
+  "download_time": "2025-08-07T07:29:24.715513",
+  "package_url": "https://pypi.org/project/maweng/"
+}
