@@ -1,0 +1,11 @@
+{
+  "name": "numerical-methods-rabie",
+  "version": "0.1.6",
+  "summary": "Méthodes numériques classiques : racines, Newton, etc.",
+  "author": "Rabie Oudghiri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "numerical_methods_rabie-0.1.6.tar.gz",
+  "download_time": "2025-08-07T17:42:50.496988",
+  "package_url": "https://pypi.org/project/numerical-methods-rabie/"
+}

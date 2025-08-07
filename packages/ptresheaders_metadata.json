@@ -1,0 +1,11 @@
+{
+  "name": "ptresheaders",
+  "version": "0.0.12",
+  "summary": "Response Headers Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptresheaders-0.0.12.tar.gz",
+  "download_time": "2025-08-07T17:42:51.578738",
+  "package_url": "https://pypi.org/project/ptresheaders/"
+}

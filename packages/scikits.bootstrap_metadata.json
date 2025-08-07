@@ -1,0 +1,11 @@
+{
+  "name": "scikits.bootstrap",
+  "version": "1.1.1",
+  "summary": "Bootstrap confidence interval estimation routines for Numpy/Scipy/Pandas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikits_bootstrap-1.1.1.tar.gz",
+  "download_time": "2025-08-07T17:42:49.351481",
+  "package_url": "https://pypi.org/project/scikits.bootstrap/"
+}

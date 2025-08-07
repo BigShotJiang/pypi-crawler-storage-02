@@ -1,0 +1,11 @@
+{
+  "name": "omniverse-kit",
+  "version": "107.3.1.206797",
+  "summary": "Omniverse Kit Kernel",
+  "author": "Kit Team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "omniverse_kit-107.3.1.206797.tar.gz",
+  "download_time": "2025-08-07T17:42:43.366175",
+  "package_url": "https://pypi.org/project/omniverse-kit/"
+}

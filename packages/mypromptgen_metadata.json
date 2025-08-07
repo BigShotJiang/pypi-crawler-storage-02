@@ -1,0 +1,11 @@
+{
+  "name": "mypromptgen",
+  "version": "0.3.1",
+  "summary": "Package for generating AI prompts and answers",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypromptgen-0.3.1.tar.gz",
+  "download_time": "2025-08-07T17:42:47.105776",
+  "package_url": "https://pypi.org/project/mypromptgen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-hedra",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Agent Framework plugin for Hedra Avatar",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_hedra-1.2.3.tar.gz",
-  "download_time": "2025-08-04T20:49:11.705822",
+  "download_filename": "livekit_plugins_hedra-1.2.4.tar.gz",
+  "download_time": "2025-08-07T17:43:06.773598",
   "package_url": "https://pypi.org/project/livekit-plugins-hedra/"
 }

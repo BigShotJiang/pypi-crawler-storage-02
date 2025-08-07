@@ -1,0 +1,11 @@
+{
+  "name": "flux-python",
+  "version": "0.76.0",
+  "summary": "Python bindings for the flux resource manager API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/flux-framework/flux-python",
+  "download_filename": "flux_python-0.76.0.tar.gz",
+  "download_time": "2025-08-07T17:42:33.561835",
+  "package_url": "https://pypi.org/project/flux-python/"
+}
