@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T23:46:33.140657
-- **Total Packages**: 81
-- **Total Size**: 22.74 MB
+- **Download Time**: 2025-08-07T23:58:22.994884
+- **Total Packages**: 78
+- **Total Size**: 5.43 MB
 
 ## Packages List
+- pygpt-net
+- gh-analysis
+- pyagentic-core
+- compiled-knowledge
+- inception-active-user
+- dragonfly-core
+- pathpilot
+- servextools
+- troubleshoot-mcp-server
+- draping
+- pdfkb-mcp
 - phenoml
 - cloudstack-orchestrator
 - geofig
@@ -15,12 +26,10 @@
 - sequins-inventory-tool
 - autumn-py
 - calkit-python
-- pyagentic-core
 - yt-dlp
 - truss
 - siglab-py
 - highlander-enum
-- inception-active-user
 - abstract-paths
 - llamactl
 - chesstools
@@ -75,15 +84,3 @@
 - pypipq
 - adaptive-harmony
 - django-universal-constraints
-- gh-analysis
-- data-explorer-qt
-- hiad
-- troubleshoot-mcp-server
-- yta-video-opencv
-- flwr-nightly
-- maps4fs
-- emcd-projects
-- Classy-AI
-- django-wildewidgets
-- virginia-clemm-poe
-- jijzept-sdk
