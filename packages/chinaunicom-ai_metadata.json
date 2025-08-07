@@ -1,11 +1,11 @@
 {
   "name": "chinaunicom-ai",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "山东联通产互AI工具箱",
   "author": "zhaoyongzheng",
   "license": null,
   "home_page": "https://github.com/yourusername/your-package",
-  "download_filename": "chinaunicom_ai-0.7.0.tar.gz",
-  "download_time": "2025-08-06T10:35:41.354742",
+  "download_filename": "chinaunicom_ai-0.8.0.tar.gz",
+  "download_time": "2025-08-07T11:28:22.864126",
   "package_url": "https://pypi.org/project/chinaunicom-ai/"
 }

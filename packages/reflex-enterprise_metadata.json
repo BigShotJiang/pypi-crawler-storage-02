@@ -1,11 +1,11 @@
 {
   "name": "reflex-enterprise",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Package containing the paid features for Reflex. [Pro/Team/Enterprise]",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflex_enterprise-0.3.1-py3-none-any.whl",
-  "download_time": "2025-08-04T22:27:19.191640",
+  "download_filename": "reflex_enterprise-0.3.2-py3-none-any.whl",
+  "download_time": "2025-08-07T11:28:35.439559",
   "package_url": "https://pypi.org/project/reflex-enterprise/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mqt.qmap",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "A tool for Quantum Circuit Mapping",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mqt_qmap-3.3.0.tar.gz",
-  "download_time": "2025-08-04T20:28:49.551878",
+  "download_filename": "mqt_qmap-3.3.1.tar.gz",
+  "download_time": "2025-08-07T11:28:41.305643",
   "package_url": "https://pypi.org/project/mqt.qmap/"
 }

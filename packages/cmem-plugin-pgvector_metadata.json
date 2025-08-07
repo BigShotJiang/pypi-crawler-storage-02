@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-pgvector",
+  "version": "0.7.1",
+  "summary": "Store and search for embedding vectors in a Postgres vector store.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_plugin_pgvector-0.7.1.tar.gz",
+  "download_time": "2025-08-07T11:28:40.136427",
+  "package_url": "https://pypi.org/project/cmem-plugin-pgvector/"
+}

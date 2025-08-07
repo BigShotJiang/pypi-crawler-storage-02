@@ -1,11 +1,11 @@
 {
   "name": "tb-nightly",
-  "version": "2.21.0a20250806",
+  "version": "2.21.0a20250807",
   "summary": "TensorBoard lets you watch Tensors Flow",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/tensorflow/tensorboard",
-  "download_filename": "tb_nightly-2.21.0a20250806-py3-none-any.whl",
-  "download_time": "2025-08-06T11:27:45.762068",
+  "download_filename": "tb_nightly-2.21.0a20250807-py3-none-any.whl",
+  "download_time": "2025-08-07T11:28:15.287335",
   "package_url": "https://pypi.org/project/tb-nightly/"
 }

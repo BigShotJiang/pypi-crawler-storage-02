@@ -1,0 +1,11 @@
+{
+  "name": "pygame3d",
+  "version": "0.1.1",
+  "summary": "A library for 3D rendering in PyGame",
+  "author": "Fr5ctal",
+  "license": "MIT",
+  "home_page": "https://github.com/Fr5ctal-Projects/pygame3d",
+  "download_filename": "pygame3d-0.1.1.tar.gz",
+  "download_time": "2025-08-07T11:28:36.600777",
+  "package_url": "https://pypi.org/project/pygame3d/"
+}

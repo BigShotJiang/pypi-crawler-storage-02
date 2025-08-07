@@ -1,0 +1,11 @@
+{
+  "name": "testzeus-hercules",
+  "version": "0.1.3",
+  "summary": "Hercules: The World's First Open-Source AI Agent for End-to-End Testing",
+  "author": "Shriyansh Agnihotri",
+  "license": null,
+  "home_page": "https://testzeus.com/hercules",
+  "download_filename": "testzeus_hercules-0.1.3.tar.gz",
+  "download_time": "2025-08-07T11:28:30.783299",
+  "package_url": "https://pypi.org/project/testzeus-hercules/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mengjia",
+  "version": "0.1.4",
+  "summary": "A apikey generate method, the apikey will expire when current data  over input date",
+  "author": "zqk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mengjia-0.1.4.tar.gz",
+  "download_time": "2025-08-07T11:28:33.704324",
+  "package_url": "https://pypi.org/project/mengjia/"
+}
