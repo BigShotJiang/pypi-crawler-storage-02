@@ -1,11 +1,11 @@
 {
   "name": "takanarishimbo-rosbridge-mcp-server",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A MCP server that provides ROS topic publishing functionality via rosbridge",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "takanarishimbo_rosbridge_mcp_server-0.3.1.tar.gz",
-  "download_time": "2025-08-07T09:03:13.881810",
+  "download_filename": "takanarishimbo_rosbridge_mcp_server-0.3.2.tar.gz",
+  "download_time": "2025-08-07T09:43:37.357111",
   "package_url": "https://pypi.org/project/takanarishimbo-rosbridge-mcp-server/"
 }

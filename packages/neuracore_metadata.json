@@ -1,0 +1,11 @@
+{
+  "name": "neuracore",
+  "version": "3.0.2",
+  "summary": "Neuracore Client Library",
+  "author": "Stephen James",
+  "license": null,
+  "home_page": "https://github.com/neuracoreai/neuracore",
+  "download_filename": "neuracore-3.0.2.tar.gz",
+  "download_time": "2025-08-07T09:43:46.128613",
+  "package_url": "https://pypi.org/project/neuracore/"
+}

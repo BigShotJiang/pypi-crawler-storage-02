@@ -1,0 +1,11 @@
+{
+  "name": "captchaSaz",
+  "version": "2.0.21",
+  "summary": "This is a python-package meant to create automatic captcha",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "captchasaz-2.0.21.tar.gz",
+  "download_time": "2025-08-07T09:43:28.102209",
+  "package_url": "https://pypi.org/project/captchaSaz/"
+}

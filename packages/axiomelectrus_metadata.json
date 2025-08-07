@@ -1,0 +1,11 @@
+{
+  "name": "axiomelectrus",
+  "version": "1.1.2",
+  "summary": "Electrus is a lightweight, MongoDB-style asynchronous and synchronous database module designed for Python.",
+  "author": "Pawan Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/axiomchronicles/electrus",
+  "download_filename": "axiomelectrus-1.1.2.tar.gz",
+  "download_time": "2025-08-07T09:43:42.027184",
+  "package_url": "https://pypi.org/project/axiomelectrus/"
+}
