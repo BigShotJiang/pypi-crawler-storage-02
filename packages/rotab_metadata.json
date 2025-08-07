@@ -1,11 +1,11 @@
 {
   "name": "rotab",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "ROTAB: a template that moves with your thinking.",
   "author": "yuta.itatsu",
   "license": "MIT",
   "home_page": "https://github.com/project-ro/rotab",
-  "download_filename": "rotab-0.3.4.tar.gz",
-  "download_time": "2025-08-04T03:58:11.169114",
+  "download_filename": "rotab-0.3.6.tar.gz",
+  "download_time": "2025-08-07T23:25:39.495070",
   "package_url": "https://pypi.org/project/rotab/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "h2ssscam",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.2.3",
+  "summary": "Synthetic H2 fluorescence code refactored by Cole Meyer, Daniel Lopez-Sanders, Cassandra S. Cruz, Dominik P. Pacholski during Code/Astro 2025. The code is based on ``EMPIRICALLY ESTIMATED FAR-UV EXTINCTION CURVES FOR CLASSICAL T TAURI STARS'', McJunkin, M., France, K., Schindhelm, R., Herczeg, G., Schneider, P. C., & Brown, A. (2016), ApJ, 828, 69.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "h2ssscam-0.1.0.tar.gz",
-  "download_time": "2025-08-06T15:29:29.423456",
+  "download_filename": "h2ssscam-0.2.3.tar.gz",
+  "download_time": "2025-08-07T23:25:36.855675",
   "package_url": "https://pypi.org/project/h2ssscam/"
 }

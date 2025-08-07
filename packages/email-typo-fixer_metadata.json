@@ -1,0 +1,11 @@
+{
+  "name": "email-typo-fixer",
+  "version": "0.1.0",
+  "summary": "A Python library to automatically detect and fix common typos in email addresses",
+  "author": "Joao Brito",
+  "license": "MIT",
+  "home_page": "https://github.com/machado000/email-typo-fixer",
+  "download_filename": "email_typo_fixer-0.1.0.tar.gz",
+  "download_time": "2025-08-07T23:25:46.367327",
+  "package_url": "https://pypi.org/project/email-typo-fixer/"
+}

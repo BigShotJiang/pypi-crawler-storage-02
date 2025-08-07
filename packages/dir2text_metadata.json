@@ -1,0 +1,11 @@
+{
+  "name": "dir2text",
+  "version": "3.0.1",
+  "summary": "A Python library and command-line tool for expressing directory structures and file contents in formats suitable for Large Language Models (LLMs). It combines directory tree visualization with file contents in a memory-efficient, streaming format.",
+  "author": "Ryan N. Lichtenwalter",
+  "license": "MIT",
+  "home_page": "https://github.com/rlichtenwalter/dir2text.git",
+  "download_filename": "dir2text-3.0.1.tar.gz",
+  "download_time": "2025-08-07T23:25:59.609752",
+  "package_url": "https://pypi.org/project/dir2text/"
+}

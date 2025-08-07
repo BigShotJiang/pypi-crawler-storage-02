@@ -1,11 +1,11 @@
 {
   "name": "django-universal-constraints",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "Universal conditional/unique constraint support for Django - makes unique constraints work with ANY database backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_universal_constraints-1.0.1.tar.gz",
-  "download_time": "2025-08-07T09:03:42.606187",
+  "download_filename": "django_universal_constraints-1.1.1.tar.gz",
+  "download_time": "2025-08-07T23:25:50.573170",
   "package_url": "https://pypi.org/project/django-universal-constraints/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "git-changelog-maestro",
+  "version": "0.1.1",
+  "summary": "Generate elegant changelogs from Git commit history using Conventional Commits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_changelog_maestro-0.1.1.tar.gz",
+  "download_time": "2025-08-07T23:26:01.176282",
+  "package_url": "https://pypi.org/project/git-changelog-maestro/"
+}
