@@ -1,0 +1,11 @@
+{
+  "name": "paneltime",
+  "version": "1.2.69",
+  "summary": "Panel regression simultaneously solving for ARIMA/GARCH and random/fixed effects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paneltime-1.2.69.tar.gz",
+  "download_time": "2025-08-07T13:48:55.024025",
+  "package_url": "https://pypi.org/project/paneltime/"
+}

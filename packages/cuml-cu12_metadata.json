@@ -1,0 +1,11 @@
+{
+  "name": "cuml-cu12",
+  "version": "25.8.0",
+  "summary": "cuML - RAPIDS ML Algorithms",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cuml_cu12-25.8.0.tar.gz",
+  "download_time": "2025-08-07T13:48:27.529703",
+  "package_url": "https://pypi.org/project/cuml-cu12/"
+}

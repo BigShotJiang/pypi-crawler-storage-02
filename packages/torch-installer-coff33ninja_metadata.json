@@ -1,0 +1,11 @@
+{
+  "name": "torch-installer-coff33ninja",
+  "version": "1.0.0",
+  "summary": "An intelligent, autonomous PyTorch installer that automatically detects your system, GPU, and CUDA configuration",
+  "author": "coff33ninja",
+  "license": null,
+  "home_page": "https://github.com/coff33ninja/torch-installer",
+  "download_filename": "torch_installer_coff33ninja-1.0.0.tar.gz",
+  "download_time": "2025-08-07T13:48:56.605504",
+  "package_url": "https://pypi.org/project/torch-installer-coff33ninja/"
+}

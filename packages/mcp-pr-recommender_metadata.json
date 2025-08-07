@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pr-recommender",
+  "version": "0.3.0",
+  "summary": "AI-powered MCP server for intelligent PR grouping recommendations",
+  "author": "Manav Gupta",
+  "license": "MIT",
+  "home_page": "https://github.com/manavgup/mcp_pr_recommender",
+  "download_filename": "mcp_pr_recommender-0.3.0.tar.gz",
+  "download_time": "2025-08-07T13:48:48.157089",
+  "package_url": "https://pypi.org/project/mcp-pr-recommender/"
+}

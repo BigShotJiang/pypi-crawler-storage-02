@@ -1,0 +1,11 @@
+{
+  "name": "katcp-codec",
+  "version": "0.2.0",
+  "summary": "Fast encoding and decoding of katcp messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "katcp_codec-0.2.0.tar.gz",
+  "download_time": "2025-08-07T13:49:00.356069",
+  "package_url": "https://pypi.org/project/katcp-codec/"
+}

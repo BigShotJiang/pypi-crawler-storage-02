@@ -1,11 +1,11 @@
 {
   "name": "bitbadgespy-sdk",
-  "version": "0.1.75",
+  "version": "0.1.76",
   "summary": "BitBadges Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitbadgespy_sdk-0.1.75.tar.gz",
-  "download_time": "2025-08-05T15:29:26.870003",
+  "download_filename": "bitbadgespy_sdk-0.1.76.tar.gz",
+  "download_time": "2025-08-07T13:48:33.352492",
   "package_url": "https://pypi.org/project/bitbadgespy-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bagel-tushare",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "summary": "A Python wrapper for Tushare, a Chinese financial data provider. The project provides a simple and easy-to-use automation tool for **downloading** financial data from Tushare, and **storing** the data in a local mysql database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bagel_tushare-2.0.4.tar.gz",
-  "download_time": "2025-08-05T13:54:39.093480",
+  "download_filename": "bagel_tushare-2.0.6.tar.gz",
+  "download_time": "2025-08-07T13:48:41.249589",
   "package_url": "https://pypi.org/project/bagel-tushare/"
 }
