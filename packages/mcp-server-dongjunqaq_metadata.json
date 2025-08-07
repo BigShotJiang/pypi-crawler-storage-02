@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-dongjunqaq",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "DongJun的MCP Server",
   "author": "DongJun",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_dongjunqaq-0.2.3.tar.gz",
-  "download_time": "2025-08-06T14:28:43.275661",
+  "download_filename": "mcp_server_dongjunqaq-0.3.0.tar.gz",
+  "download_time": "2025-08-07T10:35:26.349326",
   "package_url": "https://pypi.org/project/mcp-server-dongjunqaq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-connector-importer",
+  "version": "18.0.1.1.0",
+  "summary": "This module takes care of import sessions.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/connector-interfaces",
+  "download_filename": "odoo_addon_connector_importer-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-07T10:35:33.143950",
+  "package_url": "https://pypi.org/project/odoo-addon-connector-importer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qbrick-alias",
-  "version": "1.0.0",
-  "summary": "Менеджер псевдонимов путей",
+  "version": "1.1.1",
+  "summary": "Path Alias Manager",
   "author": "Alexey Volkov",
   "license": null,
   "home_page": null,
-  "download_filename": "qbrick_alias-1.0.0.tar.gz",
-  "download_time": "2025-08-05T15:49:20.603421",
+  "download_filename": "qbrick_alias-1.1.1.tar.gz",
+  "download_time": "2025-08-07T10:35:00.625349",
   "package_url": "https://pypi.org/project/qbrick-alias/"
 }

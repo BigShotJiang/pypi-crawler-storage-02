@@ -1,0 +1,11 @@
+{
+  "name": "strength-tracker",
+  "version": "1.0.0",
+  "summary": "A comprehensive terminal-based workout tracking application for Mark Rippetoe's Starting Strength program",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/strength-tracker",
+  "download_filename": "strength_tracker-1.0.0.tar.gz",
+  "download_time": "2025-08-07T10:34:50.468330",
+  "package_url": "https://pypi.org/project/strength-tracker/"
+}

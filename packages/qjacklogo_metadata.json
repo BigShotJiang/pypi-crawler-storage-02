@@ -1,11 +1,11 @@
 {
   "name": "qjacklogo",
-  "version": "0.2",
+  "version": "0.2.4",
   "summary": "Animated terminal logo with Arabic text and rainbow effect.",
   "author": "jamalnggau",
   "license": null,
   "home_page": null,
-  "download_filename": "qjacklogo-0.2.tar.gz",
-  "download_time": "2025-08-07T07:29:36.358388",
+  "download_filename": "qjacklogo-0.2.4.tar.gz",
+  "download_time": "2025-08-07T10:35:26.920686",
   "package_url": "https://pypi.org/project/qjacklogo/"
 }

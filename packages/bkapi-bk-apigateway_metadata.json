@@ -1,0 +1,11 @@
+{
+  "name": "bkapi-bk-apigateway",
+  "version": "1.0.12",
+  "summary": "蓝鲸API网关",
+  "author": "blueking",
+  "license": "Apach License 2.0",
+  "home_page": null,
+  "download_filename": "bkapi-bk-apigateway-1.0.12.tar.gz",
+  "download_time": "2025-08-07T10:35:30.312934",
+  "package_url": "https://pypi.org/project/bkapi-bk-apigateway/"
+}

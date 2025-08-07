@@ -1,11 +1,11 @@
 {
   "name": "agi-med-common",
-  "version": "5.1.7",
+  "version": "5.1.8",
   "summary": "Сommon for agi-med team",
   "author": "AGI-MED-TEAM",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_med_common-5.1.7.tar.gz",
-  "download_time": "2025-08-07T09:59:19.076600",
+  "download_filename": "agi_med_common-5.1.8.tar.gz",
+  "download_time": "2025-08-07T10:34:50.979961",
   "package_url": "https://pypi.org/project/agi-med-common/"
 }
