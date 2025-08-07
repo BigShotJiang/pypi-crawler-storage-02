@@ -1,11 +1,11 @@
 {
   "name": "yaapp-core",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "yaapp-core - Minimal core functionality for yaapp framework",
   "author": "yaapp Team",
   "license": null,
   "home_page": null,
-  "download_filename": "yaapp_core-0.0.13.tar.gz",
-  "download_time": "2025-08-06T21:23:00.407397",
+  "download_filename": "yaapp_core-0.0.14.tar.gz",
+  "download_time": "2025-08-07T11:57:40.641860",
   "package_url": "https://pypi.org/project/yaapp-core/"
 }

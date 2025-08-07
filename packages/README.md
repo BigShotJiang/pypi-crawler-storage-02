@@ -1,25 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T11:46:22.539525
-- **Total Packages**: 68
-- **Total Size**: 24.42 MB
+- **Download Time**: 2025-08-07T11:57:58.987166
+- **Total Packages**: 69
+- **Total Size**: 23.3 MB
 
 ## Packages List
+- pylibcugraph-cu12
+- scc-firewall-manager-sdk
+- rss2socials
+- powerbanktau
+- gslides-api
+- py-xh-custapp-xethhung12
+- sokrates
+- abs-repository-core
+- PyMABSolver
+- authentikate
+- mysql-mcp-server-pro-plus
+- ApplicationUtility
+- fspacker
+- mkdocs-tale
+- textual-pyfiglet
+- abs-utils
+- cattle_grid
+- fit-growth-mcp-tools
+- kante
+- insight-proto
+- sweatstack
+- xpander-sdk
+- talentro-definitions
+- bvhio
+- abs-exception-core
+- vinted-api-kit
+- pyqt-code-editor
+- GenericDataSaver
+- async-hyperliquid
+- langchain-naver
+- pulumi
+- unfair-data-generator
+- asammdf
+- Ryzenth
+- novavision-cli
+- chronolog-service
+- yaapp-core
+- pyvckit
+- latex-builder
+- name2gender
+- cucim-cu12
+- onelive-restream
 - terraform_usage
 - iq-core
 - imagedata
-- fit-growth-mcp-tools
 - ida-domain
-- talentro-definitions
-- mysql-mcp-server-pro-plus
 - kodexa
 - fabricengineer-py
 - machc.core
 - machc.logger
 - machc.configurator
 - machc.commercetools
-- name2gender
 - a79
 - qlatent
 - oresmej
@@ -33,44 +71,7 @@
 - lensmc
 - dexray-insight
 - neurograd
-- chronolog-service
 - call-context-lib
 - mangopaysdk
 - pxsol
-- PyMABSolver
-- gslides-api
 - tamar-file-hub-client
-- returnn
-- snappi-ixnetwork
-- anemoi-utils
-- crypto-pandas
-- sphinx_click_custom
-- haiway
-- pyatlan
-- strique-proto-schema
-- glasswall
-- pydantic-gitlab-webhooks
-- MeUtils
-- torchx-nightly
-- wiselib
-- ari3d
-- inmydata
-- django-epfl-entra-id
-- edaflow
-- bigquery-views-manager
-- keywordsai-sdk
-- adbpg-mcp-server-test
-- kgrag-store
-- firecracker-python
-- qjacklogo
-- hmr
-- xldg
-- NepTrain
-- python-ntfy
-- ss-pylib
-- python-sat
-- helpman
-- finbourne-candela-sdk
-- frogml
-- jotform-extended
-- depictio-cli

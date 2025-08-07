@@ -1,0 +1,11 @@
+{
+  "name": "textual-pyfiglet",
+  "version": "1.1.0",
+  "summary": "A Widget implementation of PyFiglet for Textual",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textual_pyfiglet-1.1.0.tar.gz",
+  "download_time": "2025-08-07T11:57:29.287765",
+  "package_url": "https://pypi.org/project/textual-pyfiglet/"
+}

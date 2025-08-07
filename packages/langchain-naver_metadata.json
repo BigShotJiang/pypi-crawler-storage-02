@@ -1,0 +1,11 @@
+{
+  "name": "langchain-naver",
+  "version": "0.1.1",
+  "summary": "An integration package connecting NaverCloud Clova Studio and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_naver-0.1.1.tar.gz",
+  "download_time": "2025-08-07T11:57:36.988045",
+  "package_url": "https://pypi.org/project/langchain-naver/"
+}
