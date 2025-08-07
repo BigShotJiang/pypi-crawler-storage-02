@@ -1,11 +1,11 @@
 {
   "name": "planettapper",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": null,
   "author": "Danny Levinstein",
   "license": null,
   "home_page": null,
-  "download_filename": "planettapper-0.0.5.tar.gz",
-  "download_time": "2025-08-07T17:42:53.189009",
+  "download_filename": "planettapper-0.0.6.tar.gz",
+  "download_time": "2025-08-07T21:57:37.792064",
   "package_url": "https://pypi.org/project/planettapper/"
 }

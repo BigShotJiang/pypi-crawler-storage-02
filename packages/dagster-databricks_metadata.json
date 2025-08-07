@@ -1,0 +1,11 @@
+{
+  "name": "dagster-databricks",
+  "version": "0.27.5",
+  "summary": "Package for Databricks-specific Dagster framework op and resource components.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-databricks",
+  "download_filename": "dagster_databricks-0.27.5.tar.gz",
+  "download_time": "2025-08-07T21:57:15.271197",
+  "package_url": "https://pypi.org/project/dagster-databricks/"
+}
