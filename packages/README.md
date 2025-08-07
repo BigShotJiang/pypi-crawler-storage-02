@@ -1,22 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T05:33:36.797490
-- **Total Packages**: 77
-- **Total Size**: 25.11 MB
+- **Download Time**: 2025-08-07T05:59:50.703875
+- **Total Packages**: 80
+- **Total Size**: 17.1 MB
 
 ## Packages List
+- apache-airflow-providers-onehouse
+- nurtelecom-gras-library
+- playgwtc
+- pynostr
+- pchjlib
+- leap-model-parser
+- pyams-content-es
+- code-loader
+- qpsolvers
+- langchain-mcp-tools-test-20250807
+- midea-local
+- mdllama
+- pybrv
+- py-agent-tools
+- SW-Lab-Manager
+- omicscheck
+- ecl-logging-utility
+- prefig
+- chinaunicom-agent
+- requestsbankrko
+- simpleCan
+- ouroboros-gis
+- concept-sentinel-data-capturer
+- tk-base-utils
+- terrascope-sdk
+- oramacore-client
+- universalpython
+- oshtools
+- python-sixel-windows
+- fromager
+- claude-code-session-client
+- bgutil-ytdlp-pot-provider
+- starlake-snowflake
+- sora-sdk
+- chesstools
+- nestipy
+- genai-prices
+- eyefeatures
+- zipcode-decoder-mcp
+- terrascope-api
+- mcp-ambari-api
+- rpa-tiktok
+- simplecalcZ
+- rpa-common
 - strique-proto-schema
 - pdfkb-mcp
 - technical-analysis-mcp
-- kres
 - mdbq
 - delivery-gear-utils
 - gumui
-- chinaunicom-agent
 - edaflow
 - modulke123
-- mcp-ambari-api
 - bear-utils
 - topicmodel
 - skeletone
@@ -26,7 +67,6 @@
 - dogesec-commons
 - sutro
 - s2v-client
-- genai-prices
 - sqlmesh
 - pymx
 - localstack-core
@@ -37,7 +77,6 @@
 - promptstudio-sdk
 - tterp-cores
 - term-rules
-- mdllama
 - unieai-mcp-mysql
 - altscore
 - toynlp
@@ -47,39 +86,3 @@
 - koatl
 - mcp-vultr
 - k3sprovision
-- ansys-meshing-prime
-- whis-ethical-ai
-- maleo-soma
-- pytracecall
-- scikit-robot
-- jax-sklearn
-- fastlog-io
-- pybrv
-- distclust
-- polymind
-- burla
-- ugly-bot
-- demeter-fetch
-- increase
-- SW-Lab-Manager
-- task-agents-mcp
-- PGAP2
-- alibaba-cloud-ops-mcp-server
-- mathmind-mcp-server
-- minigen
-- git-draft
-- WebGrid
-- zohencel-ai
-- lyricsgenius
-- django-mjml-template
-- BoschMiniRpa
-- imageops-sribalajiSTR
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- kaggle-environments
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- jupyter-mimetypes
-- robhan-cdk-lib.utils

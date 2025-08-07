@@ -1,0 +1,11 @@
+{
+  "name": "oshtools",
+  "version": "0.1.2",
+  "summary": "A simple Python logging library for chat applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oshtools-0.1.2.tar.gz",
+  "download_time": "2025-08-07T05:59:22.046803",
+  "package_url": "https://pypi.org/project/oshtools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "terrascope-api",
+  "version": "1.0.64.9",
+  "summary": "Terrascope API Client",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/orbitalinsight/oi_papi",
+  "download_filename": "terrascope_api-1.0.64.9.tar.gz",
+  "download_time": "2025-08-07T05:59:28.399737",
+  "package_url": "https://pypi.org/project/terrascope-api/"
+}
