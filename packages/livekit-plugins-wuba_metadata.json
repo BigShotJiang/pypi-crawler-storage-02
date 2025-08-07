@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-wuba",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "LiveKit Agents Plugin for 58-LBG voice server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_wuba-1.2.1.tar.gz",
-  "download_time": "2025-08-04T03:58:01.738342",
+  "download_filename": "livekit_plugins_wuba-1.2.2.tar.gz",
+  "download_time": "2025-08-07T08:35:04.337376",
   "package_url": "https://pypi.org/project/livekit-plugins-wuba/"
 }

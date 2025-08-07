@@ -1,11 +1,11 @@
 {
   "name": "novalang",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": "Universal Programming Language with Complete Database Support (70+ Database Types)",
   "author": "martinmaboya",
   "license": "MIT",
   "home_page": "https://github.com/martinmaboya/novalang",
-  "download_filename": "novalang-2.0.0.tar.gz",
-  "download_time": "2025-08-06T21:22:22.118029",
+  "download_filename": "novalang-2.1.1.tar.gz",
+  "download_time": "2025-08-07T08:35:17.344988",
   "package_url": "https://pypi.org/project/novalang/"
 }

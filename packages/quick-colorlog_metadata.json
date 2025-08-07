@@ -1,0 +1,11 @@
+{
+  "name": "quick-colorlog",
+  "version": "0.0.10",
+  "summary": "Colorized logging with Python.",
+  "author": "Scott Walsh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quick_colorlog-0.0.10.tar.gz",
+  "download_time": "2025-08-07T08:35:21.985423",
+  "package_url": "https://pypi.org/project/quick-colorlog/"
+}

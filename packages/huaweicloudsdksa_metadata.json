@@ -1,0 +1,11 @@
+{
+  "name": "huaweicloudsdksa",
+  "version": "3.1.161",
+  "summary": "SA",
+  "author": "HuaweiCloud SDK",
+  "license": "Apache LICENSE 2.0",
+  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
+  "download_filename": "huaweicloudsdksa-3.1.161-py3-none-any.whl",
+  "download_time": "2025-08-07T08:35:39.014984",
+  "package_url": "https://pypi.org/project/huaweicloudsdksa/"
+}

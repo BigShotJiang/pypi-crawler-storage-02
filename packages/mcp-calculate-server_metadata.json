@@ -1,0 +1,11 @@
+{
+  "name": "mcp-calculate-server",
+  "version": "1.0.0",
+  "summary": "计算器MCP服务,输入字符串的计算式，返回计算结果,更新信息：添加幂运算支持，放宽计算结果小数位数限制，并增强了错误处理能力。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_calculate_server-1.0.0.tar.gz",
+  "download_time": "2025-08-07T08:35:22.496458",
+  "package_url": "https://pypi.org/project/mcp-calculate-server/"
+}
