@@ -1,11 +1,11 @@
 {
   "name": "xlizard",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "Extended Lizard with additional static code analysis features",
   "author": "Xor1no",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "xlizard-1.0.9.tar.gz",
-  "download_time": "2025-08-07T20:32:45.606251",
+  "download_filename": "xlizard-1.0.11.tar.gz",
+  "download_time": "2025-08-07T20:57:33.203173",
   "package_url": "https://pypi.org/project/xlizard/"
 }

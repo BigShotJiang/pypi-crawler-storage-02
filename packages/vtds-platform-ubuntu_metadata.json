@@ -1,0 +1,11 @@
+{
+  "name": "vtds-platform-ubuntu",
+  "version": "0.0.14",
+  "summary": "Ubuntu Platform Layer Plugin for the Virtual Test Development System (vTDS) suite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtds_platform_ubuntu-0.0.14.tar.gz",
+  "download_time": "2025-08-07T20:57:55.864713",
+  "package_url": "https://pypi.org/project/vtds-platform-ubuntu/"
+}

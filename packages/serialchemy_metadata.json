@@ -1,0 +1,11 @@
+{
+  "name": "serialchemy",
+  "version": "1.0.2",
+  "summary": "Serializers for SQLAlchemy models.",
+  "author": "ESSS",
+  "license": "MIT",
+  "home_page": "https://github.com/ESSS/serialchemy",
+  "download_filename": "serialchemy-1.0.2.tar.gz",
+  "download_time": "2025-08-07T20:57:47.637335",
+  "package_url": "https://pypi.org/project/serialchemy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aider-chat",
-  "version": "0.85.4",
+  "version": "0.85.5",
   "summary": "Aider is AI pair programming in your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aider_chat-0.85.4.tar.gz",
-  "download_time": "2025-08-07T18:45:09.021907",
+  "download_filename": "aider_chat-0.85.5.tar.gz",
+  "download_time": "2025-08-07T20:57:31.629859",
   "package_url": "https://pypi.org/project/aider-chat/"
 }

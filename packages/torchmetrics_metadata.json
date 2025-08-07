@@ -1,0 +1,11 @@
+{
+  "name": "torchmetrics",
+  "version": "1.8.1",
+  "summary": "PyTorch native Metrics",
+  "author": "Lightning-AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/torchmetrics",
+  "download_filename": "torchmetrics-1.8.1.tar.gz",
+  "download_time": "2025-08-07T20:57:54.842939",
+  "package_url": "https://pypi.org/project/torchmetrics/"
+}

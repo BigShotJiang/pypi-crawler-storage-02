@@ -1,0 +1,11 @@
+{
+  "name": "isaaclab",
+  "version": "2.2.0",
+  "summary": "Isaac Lab",
+  "author": "Isaac Lab team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaaclab-2.2.0-cp311-none-manylinux_2_35_x86_64.whl",
+  "download_time": "2025-08-07T20:57:37.361558",
+  "package_url": "https://pypi.org/project/isaaclab/"
+}
