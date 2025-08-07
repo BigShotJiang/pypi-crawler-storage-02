@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T18:45:52.348071
-- **Total Packages**: 89
-- **Total Size**: 32.26 MB
+- **Download Time**: 2025-08-07T19:04:31.472218
+- **Total Packages**: 82
+- **Total Size**: 26.77 MB
 
 ## Packages List
+- aiozk
+- terralab-cli
+- georef-ar-address
+- claude-mpm
+- rkguiv3
+- oasis-api
+- smodels
+- private-assistant-comms-satellite
+- jackblack
+- pulumi-checkly
+- django-pbsmmapi
+- clselove
+- git-machete
+- GALINDA
+- pegasustools
+- tesseract-decoder
+- qdrant-llamaindex-mcp-server
+- kognitos-bdk-runtime-client
+- rubin-nublado-client
+- kognitos-bdk-api
+- acelerai-staging
+- stytch
+- databricks-labs-pytester
+- adjustor
+- abundant-sdk
+- gammarers.aws-resource-naming
+- promptfold
+- py-allspice
+- hhd
+- lanscape
+- clio-monitoring
+- lazynwb
+- pygpt-net
+- omar6995-browserforge
+- BatchalignHK
+- satori-client
+- batchalign
+- osyris
+- civics-cdf-validator
+- rust-pyfunc
 - discord-py-utilities
 - mcc-api
 - rustyssim
@@ -13,17 +53,13 @@
 - nds-savecraftr
 - bernn
 - oasis-tui
-- rkguiv3
 - csv_remapper_lib
 - pyqtgraph-scope-plots
 - django-ansible-base
 - comfyui-frontend-package
 - contact-person-profile-csv-imp-local
-- promptfold
 - relationalai
 - aioauth
-- clselove
-- claude-mpm
 - falcon-mcp
 - ros2-unbag
 - nsidc-metgenc
@@ -52,46 +88,3 @@
 - graphql-schema-mcp
 - mircat-v2
 - librespot-spotizerr
-- almanack
-- finmlkit
-- sagemaker-studio-cli
-- sagemaker-studio
-- magma-auth
-- safir-logging
-- safir-arq
-- modern-di
-- safir
-- data-source-local
-- skyCatalogs
-- superchat
-- labii-sdk
-- cirro
-- s2v-client
-- UncountablePythonSDK
-- c4ipcam
-- holamundoplayer-OscarMG
-- rust-pyfunc
-- griffe
-- accelapy
-- naeural-core
-- trcks
-- aiosyslogd
-- pybiolib
-- cyseq
-- executorlib
-- orq-ai-sdk
-- naluconfigs
-- langgraph-prebuilt
-- biliup
-- pixelflux
-- flex-evals
-- kognitos-bdk-runtime-client
-- pyfenix
-- pidibble
-- cybrid-api-bank-python
-- scgraph
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- lrt-wallbox
-- tsfm-client
-- dg-sqlmesh
