@@ -1,0 +1,11 @@
+{
+  "name": "PEPit",
+  "version": "0.3.3",
+  "summary": "PEPit is a package that allows users to pep their optimization algorithms as easily as they implement them",
+  "author": "Baptiste Goujaud, Céline Moucer, Julien Hendrickx, Francois Glineur, Adrien Taylor and Aymeric Dieuleveut",
+  "license": null,
+  "home_page": "https://github.com/PerformanceEstimation/PEPit",
+  "download_filename": "PEPit-0.3.3.tar.gz",
+  "download_time": "2025-08-07T03:55:07.406980",
+  "package_url": "https://pypi.org/project/PEPit/"
+}

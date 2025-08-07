@@ -1,0 +1,11 @@
+{
+  "name": "hibber-url-analyzer",
+  "version": "1.0.0",
+  "summary": "A tool for analyzing, categorizing, and reporting on URLs from browsing history or other sources",
+  "author": "URL Analyzer Team",
+  "license": "MIT",
+  "home_page": "https://github.com/url-analyzer/url-analyzer",
+  "download_filename": "hibber_url_analyzer-1.0.0.tar.gz",
+  "download_time": "2025-08-07T03:54:34.555737",
+  "package_url": "https://pypi.org/project/hibber-url-analyzer/"
+}

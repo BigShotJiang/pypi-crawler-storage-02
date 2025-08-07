@@ -1,0 +1,11 @@
+{
+  "name": "notify-client-server",
+  "version": "0.2.0",
+  "summary": "notification server/website with client functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notify_client_server-0.2.0.tar.gz",
+  "download_time": "2025-08-07T03:54:52.096930",
+  "package_url": "https://pypi.org/project/notify-client-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hanzo",
-  "version": "0.2.5",
+  "version": "0.2.10",
   "summary": "Hanzo AI - Complete AI Infrastructure Platform with CLI, Router, MCP, and Agent Runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hanzo-0.2.5.tar.gz",
-  "download_time": "2025-08-07T02:19:54.872970",
+  "download_filename": "hanzo-0.2.10.tar.gz",
+  "download_time": "2025-08-07T03:55:18.761551",
   "package_url": "https://pypi.org/project/hanzo/"
 }

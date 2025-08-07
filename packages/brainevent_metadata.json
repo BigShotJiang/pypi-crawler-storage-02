@@ -1,0 +1,11 @@
+{
+  "name": "brainevent",
+  "version": "0.0.4",
+  "summary": "Event-driven Computation in JAX for Brain Dynamics.",
+  "author": "BrainEvent Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/brainevent",
+  "download_filename": "brainevent-0.0.4-py2.py3-none-any.whl",
+  "download_time": "2025-08-07T03:55:20.531321",
+  "package_url": "https://pypi.org/project/brainevent/"
+}

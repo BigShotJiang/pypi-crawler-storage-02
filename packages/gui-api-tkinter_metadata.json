@@ -1,0 +1,11 @@
+{
+  "name": "gui-api-tkinter",
+  "version": "1.2.1",
+  "summary": "GUI API for interfacing and testing with tkinter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gui_api_tkinter-1.2.1.tar.gz",
+  "download_time": "2025-08-07T03:55:10.327731",
+  "package_url": "https://pypi.org/project/gui-api-tkinter/"
+}

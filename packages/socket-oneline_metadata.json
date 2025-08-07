@@ -1,0 +1,11 @@
+{
+  "name": "socket-oneline",
+  "version": "1.1.1",
+  "summary": "server and client for simple, one line communication protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "socket_oneline-1.1.1.tar.gz",
+  "download_time": "2025-08-07T03:55:15.417670",
+  "package_url": "https://pypi.org/project/socket-oneline/"
+}

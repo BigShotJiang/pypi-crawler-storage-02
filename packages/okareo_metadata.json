@@ -1,11 +1,11 @@
 {
   "name": "okareo",
-  "version": "0.0.102",
+  "version": "0.0.103",
   "summary": "Python SDK for interacting with Okareo Cloud APIs",
   "author": "Okareo",
   "license": "Apache-2.0",
   "home_page": "https://okareo.com",
-  "download_filename": "okareo-0.0.102.tar.gz",
-  "download_time": "2025-08-04T23:56:34.596299",
+  "download_filename": "okareo-0.0.103.tar.gz",
+  "download_time": "2025-08-07T03:55:12.154737",
   "package_url": "https://pypi.org/project/okareo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "edaflow",
-  "version": "0.12.7",
+  "version": "0.12.13",
   "summary": "A Python package for exploratory data analysis workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edaflow-0.12.7.tar.gz",
-  "download_time": "2025-08-06T11:27:52.445750",
+  "download_filename": "edaflow-0.12.13.tar.gz",
+  "download_time": "2025-08-07T03:55:13.997013",
   "package_url": "https://pypi.org/project/edaflow/"
 }
