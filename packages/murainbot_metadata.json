@@ -1,0 +1,11 @@
+{
+  "name": "murainbot",
+  "version": "0.3.0",
+  "summary": "一个基于python适配onebot11协议的轻量级Onebot框架/QQ机器人框架/QQBot框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "murainbot-0.3.0.tar.gz",
+  "download_time": "2025-08-07T10:58:46.916466",
+  "package_url": "https://pypi.org/project/murainbot/"
+}

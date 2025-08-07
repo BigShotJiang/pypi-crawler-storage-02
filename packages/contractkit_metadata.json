@@ -1,11 +1,11 @@
 {
   "name": "contractkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library for contract analysis using LLMs",
-  "author": "Your Name",
+  "author": "Shubham Kaushik",
   "license": null,
   "home_page": "https://github.com/Eskaykaushik/contractKit.git",
-  "download_filename": "contractkit-0.1.0.tar.gz",
-  "download_time": "2025-08-07T10:35:03.015735",
+  "download_filename": "contractkit-0.1.1.tar.gz",
+  "download_time": "2025-08-07T10:58:40.502181",
   "package_url": "https://pypi.org/project/contractkit/"
 }

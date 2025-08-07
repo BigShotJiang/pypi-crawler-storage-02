@@ -1,0 +1,11 @@
+{
+  "name": "jpconvert",
+  "version": "0.3.19",
+  "summary": "macros for Jupyter Notebooks",
+  "author": "Eric Tröbs",
+  "license": null,
+  "home_page": "https://github.com/erictroebs/jpconvert",
+  "download_filename": "jpconvert-0.3.19.tar.gz",
+  "download_time": "2025-08-07T10:58:29.957907",
+  "package_url": "https://pypi.org/project/jpconvert/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cprint-jianjun",
+  "version": "1.8.0",
+  "summary": "Colorful Print 彩色文本格式化, 彩色文本输出, 控制打印字符颜色样式!",
+  "author": "jianjun",
+  "license": null,
+  "home_page": "https://github.com/EVA-JianJun/cprint",
+  "download_filename": "cprint_jianjun-1.8.0.tar.gz",
+  "download_time": "2025-08-07T10:59:01.139231",
+  "package_url": "https://pypi.org/project/cprint-jianjun/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sb-sync",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Django package for data synchronization with PUSH/PULL APIs",
   "author": "TheSocialBytes",
   "license": "MIT",
   "home_page": "https://github.com/TheSocialBytes/sync",
-  "download_filename": "sb_sync-1.9.0.tar.gz",
-  "download_time": "2025-08-07T10:35:24.635633",
+  "download_filename": "sb_sync-1.9.1.tar.gz",
+  "download_time": "2025-08-07T10:59:03.004020",
   "package_url": "https://pypi.org/project/sb-sync/"
 }

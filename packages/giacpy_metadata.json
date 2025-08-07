@@ -1,0 +1,11 @@
+{
+  "name": "giacpy",
+  "version": "0.7.4",
+  "summary": "A Cython frontend to the c++ library giac. (Computer Algebra System)",
+  "author": "Frederic Han",
+  "license": "GPLv2 or above",
+  "home_page": "http://www.imj-prg.fr/~frederic.han/xcas/giacpy/",
+  "download_filename": "giacpy-0.7.4.tar.gz",
+  "download_time": "2025-08-07T10:58:33.292812",
+  "package_url": "https://pypi.org/project/giacpy/"
+}

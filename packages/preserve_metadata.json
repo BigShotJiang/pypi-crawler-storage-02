@@ -1,11 +1,11 @@
 {
   "name": "preserve",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "A simple key/value store with multiple backends.",
   "author": "Grégoire Burel",
   "license": "MIT",
   "home_page": "https://github.com/evhart/preserve/",
-  "download_filename": "preserve-1.0.0.tar.gz",
-  "download_time": "2025-08-06T10:00:04.004627",
+  "download_filename": "preserve-1.2.1.tar.gz",
+  "download_time": "2025-08-07T10:59:01.785482",
   "package_url": "https://pypi.org/project/preserve/"
 }

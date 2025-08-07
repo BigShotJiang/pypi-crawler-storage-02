@@ -1,0 +1,11 @@
+{
+  "name": "python-wekan",
+  "version": "0.3.0",
+  "summary": "This is a python client for interacting with the WeKan® REST-API",
+  "author": "Bastian Wenske",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/bastianwenske/python-wekan",
+  "download_filename": "python_wekan-0.3.0.tar.gz",
+  "download_time": "2025-08-07T10:58:27.433324",
+  "package_url": "https://pypi.org/project/python-wekan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-u64-idx",
+  "version": "1.32.2",
+  "summary": "Blazingly fast DataFrame library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_u64_idx-1.32.2.tar.gz",
+  "download_time": "2025-08-07T10:58:36.574597",
+  "package_url": "https://pypi.org/project/polars-u64-idx/"
+}
