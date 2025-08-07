@@ -1,0 +1,11 @@
+{
+  "name": "mentors-event-hub",
+  "version": "0.1.1",
+  "summary": "Event hub for centralized exception logging and monitoring",
+  "author": "Mentorstec",
+  "license": null,
+  "home_page": "https://github.com/mentorstec/mentors-event-hub",
+  "download_filename": "mentors-event-hub-0.1.1.tar.gz",
+  "download_time": "2025-08-07T23:46:08.078788",
+  "package_url": "https://pypi.org/project/mentors-event-hub/"
+}

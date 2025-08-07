@@ -1,0 +1,11 @@
+{
+  "name": "inception-active-user",
+  "version": "0.1.4",
+  "summary": "inception_active_user is a package that allows you to get the active user",
+  "author": "KhaduaBloom",
+  "license": null,
+  "home_page": "https://github.com/KhaduaBloom/inceptionforcepackages/tree/main/PythonPackage/inceptionActiveUser",
+  "download_filename": "inception_active_user-0.1.4.tar.gz",
+  "download_time": "2025-08-07T23:45:58.204514",
+  "package_url": "https://pypi.org/project/inception-active-user/"
+}
