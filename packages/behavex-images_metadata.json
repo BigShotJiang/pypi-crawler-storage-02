@@ -1,0 +1,11 @@
+{
+  "name": "behavex-images",
+  "version": "3.2.2",
+  "summary": "BehaveX extension library to attach images to the test execution report.",
+  "author": "Hernan Rey, Ana Mercado",
+  "license": "MIT",
+  "home_page": "https://github.com/abmercado19/behavex-images",
+  "download_filename": "behavex_images-3.2.2.tar.gz",
+  "download_time": "2025-08-07T15:49:41.377933",
+  "package_url": "https://pypi.org/project/behavex-images/"
+}

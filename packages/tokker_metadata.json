@@ -1,11 +1,11 @@
 {
   "name": "tokker",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Tokker: a fast local-first CLI tokenizer with all the best models in one place",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokker-0.3.6.tar.gz",
-  "download_time": "2025-08-07T10:58:52.857877",
+  "download_filename": "tokker-0.3.8.tar.gz",
+  "download_time": "2025-08-07T15:49:36.735251",
   "package_url": "https://pypi.org/project/tokker/"
 }

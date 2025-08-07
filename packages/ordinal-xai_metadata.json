@@ -1,11 +1,11 @@
 {
   "name": "ordinal-xai",
-  "version": "0.2.0",
-  "summary": "Ordinal regression explainability library.",
-  "author": "Jakob Wankmüller",
-  "license": null,
-  "home_page": "https://github.com/JWzero/ordinal_xai",
-  "download_filename": "ordinal_xai-0.2.0.tar.gz",
-  "download_time": "2025-08-07T10:35:12.283608",
+  "version": "0.2.1",
+  "summary": "A Python package for ordinal regression and model-agnostic interpretation methods",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ordinal_xai-0.2.1.tar.gz",
+  "download_time": "2025-08-07T15:49:05.687218",
   "package_url": "https://pypi.org/project/ordinal-xai/"
 }

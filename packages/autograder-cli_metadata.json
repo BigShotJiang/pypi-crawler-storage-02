@@ -1,0 +1,11 @@
+{
+  "name": "autograder-cli",
+  "version": "2024.8.0rc1",
+  "summary": "A command-line http client and other utilities for using the autograder.io API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autograder_cli-2024.8.0rc1.tar.gz",
+  "download_time": "2025-08-07T15:49:27.442867",
+  "package_url": "https://pypi.org/project/autograder-cli/"
+}

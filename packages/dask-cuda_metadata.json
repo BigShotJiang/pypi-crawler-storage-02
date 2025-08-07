@@ -1,0 +1,11 @@
+{
+  "name": "dask-cuda",
+  "version": "25.8.0",
+  "summary": "Utilities for Dask and CUDA interactions",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dask_cuda-25.8.0-py3-none-any.whl",
+  "download_time": "2025-08-07T15:49:21.275443",
+  "package_url": "https://pypi.org/project/dask-cuda/"
+}

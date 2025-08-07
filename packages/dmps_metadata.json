@@ -1,11 +1,11 @@
 {
   "name": "dmps",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Dual-Mode Prompt System for AI prompt optimization using 4-D methodology",
   "author": "MrBinnacle",
   "license": "MIT",
   "home_page": "https://github.com/MrBinnacle/dmps",
-  "download_filename": "dmps-0.2.0.tar.gz",
-  "download_time": "2025-08-07T15:30:41.271297",
+  "download_filename": "dmps-0.2.1.tar.gz",
+  "download_time": "2025-08-07T15:49:19.173424",
   "package_url": "https://pypi.org/project/dmps/"
 }

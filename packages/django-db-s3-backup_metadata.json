@@ -1,0 +1,11 @@
+{
+  "name": "django-db-s3-backup",
+  "version": "0.1.2",
+  "summary": "Django database backup with S3 storage and scheduling",
+  "author": "Otu Taofeeq",
+  "license": null,
+  "home_page": "https://github.com/Taofeeq97/postgreSQL_backup.git",
+  "download_filename": "django_db_s3_backup-0.1.2.tar.gz",
+  "download_time": "2025-08-07T15:49:08.253485",
+  "package_url": "https://pypi.org/project/django-db-s3-backup/"
+}

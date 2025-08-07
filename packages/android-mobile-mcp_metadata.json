@@ -1,11 +1,11 @@
 {
   "name": "android-mobile-mcp",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Android Mobile MCP",
   "author": "erichung0906",
   "license": null,
   "home_page": null,
-  "download_filename": "android_mobile_mcp-2.0.5.tar.gz",
-  "download_time": "2025-08-07T06:48:32.520439",
+  "download_filename": "android_mobile_mcp-2.0.6.tar.gz",
+  "download_time": "2025-08-07T15:49:33.133488",
   "package_url": "https://pypi.org/project/android-mobile-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pdbsharp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A TUI frontend for pdb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdbsharp-0.1.1.tar.gz",
-  "download_time": "2025-08-06T20:28:50.010988",
+  "download_filename": "pdbsharp-0.1.2.tar.gz",
+  "download_time": "2025-08-07T15:49:41.891262",
   "package_url": "https://pypi.org/project/pdbsharp/"
 }
