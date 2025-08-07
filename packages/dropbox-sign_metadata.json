@@ -1,0 +1,11 @@
+{
+  "name": "dropbox-sign",
+  "version": "1.10.0",
+  "summary": "Dropbox Sign API",
+  "author": "Dropbox Sign API Team",
+  "license": "MIT",
+  "home_page": "https://github.com/hellosign/dropbox-sign-python",
+  "download_filename": "dropbox_sign-1.10.0.tar.gz",
+  "download_time": "2025-08-07T20:32:27.862388",
+  "package_url": "https://pypi.org/project/dropbox-sign/"
+}

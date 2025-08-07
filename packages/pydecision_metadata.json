@@ -1,0 +1,11 @@
+{
+  "name": "pydecision",
+  "version": "4.7.8",
+  "summary": "A MCDA Library Incorporating a Large Language Model to Enhance Decision Analysis",
+  "author": "Valdecy Pereira",
+  "license": "GNU",
+  "home_page": "https://github.com/Valdecy/pyDecisions",
+  "download_filename": "pydecision-4.7.8.tar.gz",
+  "download_time": "2025-08-07T20:32:55.000754",
+  "package_url": "https://pypi.org/project/pydecision/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "GALINDA",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "galinda-0.1.0.tar.gz",
-  "download_time": "2025-08-07T19:57:54.224434",
+  "download_filename": "galinda-0.1.1.tar.gz",
+  "download_time": "2025-08-07T20:32:23.218232",
   "package_url": "https://pypi.org/project/GALINDA/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "umep",
-  "version": "0.0.1b12",
+  "version": "0.0.1b15",
   "summary": "urban multi-scale environmental predictor",
   "author": "UMEP Developers",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "umep-0.0.1b12.tar.gz",
-  "download_time": "2025-08-07T17:03:05.451044",
+  "download_filename": "umep-0.0.1b15.tar.gz",
+  "download_time": "2025-08-07T20:33:05.160784",
   "package_url": "https://pypi.org/project/umep/"
 }

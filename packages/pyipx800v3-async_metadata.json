@@ -1,0 +1,11 @@
+{
+  "name": "pyipx800v3-async",
+  "version": "0.4.0",
+  "summary": "Asynchronous lib to interact with IPX800v3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyipx800v3_async-0.4.0.tar.gz",
+  "download_time": "2025-08-07T20:32:56.871163",
+  "package_url": "https://pypi.org/project/pyipx800v3-async/"
+}
