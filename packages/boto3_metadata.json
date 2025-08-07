@@ -1,11 +1,11 @@
 {
   "name": "boto3",
-  "version": "1.40.4",
+  "version": "1.40.5",
   "summary": "The AWS SDK for Python",
   "author": "Amazon Web Services",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/boto/boto3",
-  "download_filename": "boto3-1.40.4.tar.gz",
-  "download_time": "2025-08-06T19:53:36.328533",
+  "download_filename": "boto3-1.40.5.tar.gz",
+  "download_time": "2025-08-07T19:46:18.884749",
   "package_url": "https://pypi.org/project/boto3/"
 }

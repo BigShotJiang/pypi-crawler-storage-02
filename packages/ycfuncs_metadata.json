@@ -1,0 +1,11 @@
+{
+  "name": "ycfuncs",
+  "version": "25.8.7",
+  "summary": "Handler for FastAPI apps in Yandex Cloud Functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ycfuncs-25.8.7.tar.gz",
+  "download_time": "2025-08-07T19:46:07.359041",
+  "package_url": "https://pypi.org/project/ycfuncs/"
+}

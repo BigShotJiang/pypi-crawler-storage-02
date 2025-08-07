@@ -1,11 +1,11 @@
 {
   "name": "deltaapply",
-  "version": "0.0.1.dev0",
+  "version": "0.0.2",
   "summary": "Change Data Capture und Anwendung von Inserts, Updates und Deletes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deltaapply-0.0.1.dev0.tar.gz",
-  "download_time": "2025-08-06T08:34:49.722684",
+  "download_filename": "deltaapply-0.0.2.tar.gz",
+  "download_time": "2025-08-07T19:46:08.398978",
   "package_url": "https://pypi.org/project/deltaapply/"
 }

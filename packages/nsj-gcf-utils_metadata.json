@@ -1,0 +1,11 @@
+{
+  "name": "nsj-gcf-utils",
+  "version": "1.0.22",
+  "summary": "Utilitários para construção de Google Cloud Functions.",
+  "author": "Nasajon Sistemas",
+  "license": null,
+  "home_page": "https://github.com/Nasajon/nsj_gcf_utils",
+  "download_filename": "nsj_gcf_utils-1.0.22.tar.gz",
+  "download_time": "2025-08-07T19:46:12.576266",
+  "package_url": "https://pypi.org/project/nsj-gcf-utils/"
+}

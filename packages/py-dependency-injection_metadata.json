@@ -1,0 +1,11 @@
+{
+  "name": "py-dependency-injection",
+  "version": "1.0.0rc2",
+  "summary": "A dependency injection library for Python - inspired by ASP.NET Core.",
+  "author": "David Runemalm",
+  "license": "MIT",
+  "home_page": "https://py-dependency-injection.readthedocs.io/en/latest/",
+  "download_filename": "py_dependency_injection-1.0.0rc2.tar.gz",
+  "download_time": "2025-08-07T19:46:08.919730",
+  "package_url": "https://pypi.org/project/py-dependency-injection/"
+}

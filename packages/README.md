@@ -1,16 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T19:32:22.871336
-- **Total Packages**: 80
-- **Total Size**: 24.38 MB
+- **Download Time**: 2025-08-07T19:46:39.457926
+- **Total Packages**: 86
+- **Total Size**: 11.2 MB
 
 ## Packages List
+- boto3-stubs
+- boto3-stubs-lite
+- mypy-boto3-guardduty
+- mypy-boto3-glue
+- mypy-boto3-gameliftstreams
+- scc-firewall-manager-sdk
+- mypy-boto3-cloudfront
+- mypy-boto3-batch
+- mypy-boto3-codebuild
+- types-boto3
+- types-boto3-lite
+- types-boto3-guardduty
+- types-boto3-glue
+- types-boto3-gameliftstreams
+- types-boto3-batch
+- types-boto3-cloudfront
+- types-boto3-codebuild
+- janito
+- procrastinate
+- TanaT
+- neurograd
+- juriscraper
+- foundry-sdk
+- tidipy
+- standardbots
+- ycfuncs
+- llm-workflow-engine
+- deltaapply
+- py-dependency-injection
+- kimmdy-hydrolysis
+- nsj-rest-lib
+- speechcapture
+- redis-limiters
+- tsbuddy
+- loopy-basic
+- nsj-gcf-utils
+- easycoder
+- deadline-cloud-for-blender
+- tap-canvas
+- orq-ai-sdk
+- labii-sdk
+- rxnn
+- warp-beacon
+- pycarlo
+- zerodoc-gen
+- pydroplet
+- pyppet
+- boto3
 - awscli
 - o2o-process
 - revenium-mcp
 - datadog-checks-dev
-- neurograd
 - tucker-trucker
 - zanshinsdk
 - android-device-manager
@@ -35,7 +82,6 @@
 - recollapse
 - prelude-sdk-beta
 - autofeatureselect
-- scc-firewall-manager-sdk
 - glycotrans
 - omar6995-noble-tls
 - gradysim
@@ -45,44 +91,4 @@
 - semantic-copycat-binarysniffer
 - bento-sts
 - mito-ai
-- tap-canvas
 - mitosheet
-- tremendous-python
-- processligand-py
-- epub-optimizer
-- dexweb
-- withpi
-- marketswimmer
-- rkguiv3
-- braze-mcp-server
-- solveig
-- bernn
-- unichat
-- canvas
-- frame-search
-- additive-manufacturing
-- ctxinject
-- django-pbsmmapi
-- InsideForest
-- dottxt-eval
-- clselove
-- reflex
-- mindscript
-- jingongo-framework
-- dbl-sat-sdk
-- civics-cdf-validator
-- pySISF
-- zex-sdk
-- token-injectable-docker-builder
-- nrel.routee.powertrain
-- nominal-api-protos
-- nominal-api
-- offers-check-marketplaces-mcp-2025
-- bash2gitlab
-- libcasm-mapping
-- ruff
-- metworkpy
-- logwise
-- aiozk
-- terralab-cli
-- georef-ar-address
