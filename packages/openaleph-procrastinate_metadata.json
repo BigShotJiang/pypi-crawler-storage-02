@@ -1,0 +1,11 @@
+{
+  "name": "openaleph-procrastinate",
+  "version": "0.0.21",
+  "summary": "Task queue logic for OpenAleph built upon procrastinate",
+  "author": "Simon Wörpel",
+  "license": "AGPLv3+",
+  "home_page": "https://github.com/openaleph/openaleph-procrastinate",
+  "download_filename": "openaleph_procrastinate-0.0.21.tar.gz",
+  "download_time": "2025-08-07T17:56:38.299340",
+  "package_url": "https://pypi.org/project/openaleph-procrastinate/"
+}

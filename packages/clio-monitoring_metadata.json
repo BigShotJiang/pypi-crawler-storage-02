@@ -1,11 +1,11 @@
 {
   "name": "clio-monitoring",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Playwright automation monitoring SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clio_monitoring-0.1.4.tar.gz",
-  "download_time": "2025-08-07T15:30:28.753150",
+  "download_filename": "clio_monitoring-0.1.6.tar.gz",
+  "download_time": "2025-08-07T17:56:20.727584",
   "package_url": "https://pypi.org/project/clio-monitoring/"
 }

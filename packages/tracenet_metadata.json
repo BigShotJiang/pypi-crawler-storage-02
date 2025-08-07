@@ -1,0 +1,11 @@
+{
+  "name": "tracenet",
+  "version": "0.1.5",
+  "summary": "Universal tracing middleware for LLM applications and AI agents with comprehensive observability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracenet-0.1.5.tar.gz",
+  "download_time": "2025-08-07T17:56:12.928477",
+  "package_url": "https://pypi.org/project/tracenet/"
+}

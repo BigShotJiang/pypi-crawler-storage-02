@@ -1,0 +1,11 @@
+{
+  "name": "once-py",
+  "version": "0.0.7",
+  "summary": "Utility for initialization ensuring functions are called only once",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "once_py-0.0.7-py3-none-any.whl",
+  "download_time": "2025-08-07T17:56:28.974178",
+  "package_url": "https://pypi.org/project/once-py/"
+}

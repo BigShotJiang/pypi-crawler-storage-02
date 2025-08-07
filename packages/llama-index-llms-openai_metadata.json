@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-openai",
+  "version": "0.5.1",
+  "summary": "llama-index llms openai integration",
+  "author": "llama-index",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_openai-0.5.1.tar.gz",
+  "download_time": "2025-08-07T17:56:39.327045",
+  "package_url": "https://pypi.org/project/llama-index-llms-openai/"
+}

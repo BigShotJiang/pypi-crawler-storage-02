@@ -1,0 +1,11 @@
+{
+  "name": "remotior-sensus",
+  "version": "0.5.2",
+  "summary": "Remotior Sensus is software to process remote sensing and GIS data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remotior_sensus-0.5.2.tar.gz",
+  "download_time": "2025-08-07T17:56:14.492390",
+  "package_url": "https://pypi.org/project/remotior-sensus/"
+}
