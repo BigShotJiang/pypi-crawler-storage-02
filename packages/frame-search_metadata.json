@@ -1,0 +1,11 @@
+{
+  "name": "frame-search",
+  "version": "0.1.0",
+  "summary": "Query dataframes with GitHub search syntax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frame_search-0.1.0.tar.gz",
+  "download_time": "2025-08-07T19:32:08.601980",
+  "package_url": "https://pypi.org/project/frame-search/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clad-ai-python",
+  "version": "0.1.5",
+  "summary": "Internal Python SDK for injecting AI-native ads",
+  "author": "Clad Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clad_ai_python-0.1.5.tar.gz",
+  "download_time": "2025-08-07T19:31:51.774021",
+  "package_url": "https://pypi.org/project/clad-ai-python/"
+}

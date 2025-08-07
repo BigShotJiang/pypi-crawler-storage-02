@@ -1,0 +1,11 @@
+{
+  "name": "aircloudy",
+  "version": "0.1.12",
+  "summary": "A library to pilot hitachi aircloud AC",
+  "author": "Yann Le Moigne",
+  "license": null,
+  "home_page": "https://github.com/ylemoigne/aircloudy",
+  "download_filename": "aircloudy-0.1.12.tar.gz",
+  "download_time": "2025-08-07T19:31:50.732653",
+  "package_url": "https://pypi.org/project/aircloudy/"
+}

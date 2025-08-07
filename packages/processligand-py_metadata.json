@@ -1,11 +1,11 @@
 {
   "name": "processligand-py",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python wheels and a wrapper for ProcessLigand, a tool to prepare target and ligand files for FlexAID",
   "author": "Thomas DesCôteaux",
   "license": null,
   "home_page": null,
-  "download_filename": "processligand_py-1.0.1.tar.gz",
-  "download_time": "2025-08-06T18:37:26.347349",
+  "download_filename": "processligand_py-1.0.2.tar.gz",
+  "download_time": "2025-08-07T19:32:02.312473",
   "package_url": "https://pypi.org/project/processligand-py/"
 }

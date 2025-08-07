@@ -1,0 +1,11 @@
+{
+  "name": "mito-ai",
+  "version": "0.1.39",
+  "summary": "AI chat for JupyterLab",
+  "author": null,
+  "license": "Copyright (c) 2020-2024 Saga Inc.\n        \n        See the LICENSE.txt file at the root of this monorepo for licensing information.",
+  "home_page": null,
+  "download_filename": "mito_ai-0.1.39-py3-none-any.whl",
+  "download_time": "2025-08-07T19:32:00.198608",
+  "package_url": "https://pypi.org/project/mito-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "android-device-manager",
-  "version": "1.0.0a1",
-  "summary": "Android Device Manager is a Python library for creating, launching, and managing Android emulators (AVDs) programmatically.",
-  "author": null,
-  "license": "MIT",
+  "version": "1.0.2",
+  "summary": "Android Device Manager is a Python library for creating, launching, and managing Android device programmatically. ",
+  "author": "Jérémy Woirhaye",
+  "license": null,
   "home_page": null,
-  "download_filename": "android_device_manager-1.0.0a1.tar.gz",
-  "download_time": "2025-08-06T15:29:39.538774",
+  "download_filename": "android_device_manager-1.0.2.tar.gz",
+  "download_time": "2025-08-07T19:31:43.935471",
   "package_url": "https://pypi.org/project/android-device-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "recollapse",
+  "version": "1.0.0",
+  "summary": "REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications",
+  "author": "0xacb",
+  "license": "MIT",
+  "home_page": "https://github.com/0xacb/recollapse",
+  "download_filename": "recollapse-1.0.0.tar.gz",
+  "download_time": "2025-08-07T19:31:53.917240",
+  "package_url": "https://pypi.org/project/recollapse/"
+}

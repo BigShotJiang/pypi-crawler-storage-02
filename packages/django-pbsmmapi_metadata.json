@@ -1,11 +1,11 @@
 {
   "name": "django-pbsmmapi",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "Django models that import content from the PBS MediaManager API",
   "author": "Bob Donahue",
   "license": null,
   "home_page": null,
-  "download_filename": "django_pbsmmapi-1.2.2.tar.gz",
-  "download_time": "2025-08-07T19:03:51.670855",
+  "download_filename": "django_pbsmmapi-1.3.0.tar.gz",
+  "download_time": "2025-08-07T19:32:10.167796",
   "package_url": "https://pypi.org/project/django-pbsmmapi/"
 }

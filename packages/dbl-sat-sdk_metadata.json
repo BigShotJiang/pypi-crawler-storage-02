@@ -1,0 +1,11 @@
+{
+  "name": "dbl-sat-sdk",
+  "version": "0.1.38",
+  "summary": "Databricks Security Analysis Tool",
+  "author": "Arun Pamulapati, Anindita Mahapatra, Ram Murali",
+  "license": null,
+  "home_page": "https://databricks.com/learn/labs",
+  "download_filename": "dbl_sat_sdk-0.1.38-py3-none-any.whl",
+  "download_time": "2025-08-07T19:32:13.846784",
+  "package_url": "https://pypi.org/project/dbl-sat-sdk/"
+}

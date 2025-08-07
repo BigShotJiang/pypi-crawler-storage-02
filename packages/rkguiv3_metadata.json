@@ -1,11 +1,11 @@
 {
   "name": "rkguiv3",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Comprehensive Tkinter-based GUI library",
   "author": "1001015dhh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rkguiv3-0.1.2.tar.gz",
-  "download_time": "2025-08-07T19:03:47.921276",
+  "download_filename": "rkguiv3-0.1.4.tar.gz",
+  "download_time": "2025-08-07T19:32:04.921685",
   "package_url": "https://pypi.org/project/rkguiv3/"
 }

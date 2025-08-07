@@ -1,0 +1,11 @@
+{
+  "name": "glycotrans",
+  "version": "0.0.1",
+  "summary": "A python package for glycan structure prediction from mass spectrometry data ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glycotrans-0.0.1.tar.gz",
+  "download_time": "2025-08-07T19:31:56.015128",
+  "package_url": "https://pypi.org/project/glycotrans/"
+}
