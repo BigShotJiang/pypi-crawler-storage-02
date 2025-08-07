@@ -1,0 +1,11 @@
+{
+  "name": "leo-win-os-info-mcp",
+  "version": "0.1.1",
+  "summary": "A simple MCP server that provides host system information.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "leo_win_os_info_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-07T02:20:11.483165",
+  "package_url": "https://pypi.org/project/leo-win-os-info-mcp/"
+}

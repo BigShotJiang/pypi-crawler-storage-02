@@ -1,0 +1,11 @@
+{
+  "name": "django-gbase8s",
+  "version": "4.0.0",
+  "summary": "Django backend for GBase 8s database",
+  "author": "GBase 8s team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_gbase8s-4.0.0.tar.gz",
+  "download_time": "2025-08-07T02:20:14.666400",
+  "package_url": "https://pypi.org/project/django-gbase8s/"
+}

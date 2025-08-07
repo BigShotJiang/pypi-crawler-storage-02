@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim",
+  "version": "5.0.0.0",
+  "summary": "A metapackage to manage the Isaac Sim installation",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:20:09.277622",
+  "package_url": "https://pypi.org/project/isaacsim/"
+}

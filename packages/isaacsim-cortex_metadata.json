@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-cortex",
+  "version": "5.0.0.0",
+  "summary": "Isaac Sim components to enable the Cortex decision framework for intelligent robot behavior",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_cortex-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:19:43.251088",
+  "package_url": "https://pypi.org/project/isaacsim-cortex/"
+}

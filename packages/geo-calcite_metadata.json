@@ -1,0 +1,11 @@
+{
+  "name": "geo-calcite",
+  "version": "0.2.1",
+  "summary": "Python client for Geo-Calcite data service",
+  "author": "Zhejiang University",
+  "license": "Apache License 2.0",
+  "home_page": "https://code.deep-time.org/Aoicat/geo-calcite-python-client",
+  "download_filename": "geo_calcite-0.2.1.tar.gz",
+  "download_time": "2025-08-07T02:20:20.621321",
+  "package_url": "https://pypi.org/project/geo-calcite/"
+}

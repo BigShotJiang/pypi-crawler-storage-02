@@ -1,11 +1,11 @@
 {
   "name": "bili-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Bilibili视频下载器 - 类似yt-dlp的B站视频下载工具",
   "author": "BiliDownloader Team",
   "license": null,
   "home_page": "https://github.com/your-username/bili-downloader",
-  "download_filename": "bili_downloader-1.0.0.tar.gz",
-  "download_time": "2025-08-06T10:36:11.250741",
+  "download_filename": "bili_downloader-1.0.1.tar.gz",
+  "download_time": "2025-08-07T02:19:53.147682",
   "package_url": "https://pypi.org/project/bili-downloader/"
 }

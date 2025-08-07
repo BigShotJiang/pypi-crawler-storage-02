@@ -1,0 +1,11 @@
+{
+  "name": "shiba2sashimi",
+  "version": "0.1.7",
+  "summary": "A utility for creating sashimi plot from Shiba output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shiba2sashimi-0.1.7.tar.gz",
+  "download_time": "2025-08-07T02:19:33.253626",
+  "package_url": "https://pypi.org/project/shiba2sashimi/"
+}

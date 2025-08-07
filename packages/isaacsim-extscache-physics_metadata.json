@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-extscache-physics",
+  "version": "5.0.0.0",
+  "summary": "Physics extensions cache for Isaac Sim",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_extscache_physics-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:19:41.082352",
+  "package_url": "https://pypi.org/project/isaacsim-extscache-physics/"
+}

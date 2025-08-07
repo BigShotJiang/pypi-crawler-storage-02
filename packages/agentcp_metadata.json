@@ -1,0 +1,11 @@
+{
+  "name": "agentcp",
+  "version": "0.1.99",
+  "summary": "ACP是一个开放协议，用于解决Agent互相通信协作的问题。ACP定义了agent的数据规范、通信及授权规范。",
+  "author": "liwenjiang",
+  "license": null,
+  "home_page": "https://github.com/auliwenjiang/agentcp",
+  "download_filename": "agentcp-0.1.99.tar.gz",
+  "download_time": "2025-08-07T02:19:57.124405",
+  "package_url": "https://pypi.org/project/agentcp/"
+}

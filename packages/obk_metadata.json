@@ -1,0 +1,11 @@
+{
+  "name": "obk",
+  "version": "0.2.0",
+  "summary": "A scalable hello-world CLI starter. This is a pre-release/alpha version for initial feedback and CI testing. Not for production use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obk-0.2.0.tar.gz",
+  "download_time": "2025-08-07T02:20:13.101572",
+  "package_url": "https://pypi.org/project/obk/"
+}

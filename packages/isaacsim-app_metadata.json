@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-app",
+  "version": "5.0.0.0",
+  "summary": "Isaac Sim components for application setup",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_app-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:19:45.947206",
+  "package_url": "https://pypi.org/project/isaacsim-app/"
+}

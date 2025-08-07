@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-core",
+  "version": "5.0.0.0",
+  "summary": "Isaac Sim core extensions and APIs",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_core-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:19:41.628832",
+  "package_url": "https://pypi.org/project/isaacsim-core/"
+}

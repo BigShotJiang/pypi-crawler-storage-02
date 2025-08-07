@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-replicator",
+  "version": "5.0.0.0",
+  "summary": "Isaac Sim components to enable the Replicator framework for synthetic data generation pipelines and services",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_replicator-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:19:52.053791",
+  "package_url": "https://pypi.org/project/isaacsim-replicator/"
+}

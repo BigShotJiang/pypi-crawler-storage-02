@@ -1,11 +1,11 @@
 {
   "name": "metis-agent",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "A comprehensive framework for building powerful AI agents with enhanced tools, Graph-Enhanced Knowledge Base system with relationship intelligence, local model support (HuggingFace/Ollama), autonomous capability expansion, blueprint opportunity detection, and advanced memory management with knowledge-first processing",
   "author": "Metis OS Team",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/metisos/metisos_agentV1",
-  "download_filename": "metis_agent-0.8.2.tar.gz",
-  "download_time": "2025-08-06T21:22:35.712962",
+  "download_filename": "metis_agent-0.8.3.tar.gz",
+  "download_time": "2025-08-07T02:20:17.373927",
   "package_url": "https://pypi.org/project/metis-agent/"
 }

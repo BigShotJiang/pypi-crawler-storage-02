@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-ros1",
+  "version": "5.0.0.0",
+  "summary": "Isaac Sim components for ROS 1 system integration",
+  "author": "Isaac Sim team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "isaacsim_ros1-5.0.0.0.tar.gz",
+  "download_time": "2025-08-07T02:20:02.493340",
+  "package_url": "https://pypi.org/project/isaacsim-ros1/"
+}
