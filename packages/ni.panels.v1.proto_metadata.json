@@ -1,0 +1,11 @@
+{
+  "name": "ni.panels.v1.proto",
+  "version": "0.1.0.dev0",
+  "summary": "Protobuf generated code for the ni.panels.v1 gRPC API",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/ni-apis-python",
+  "download_filename": "ni_panels_v1_proto-0.1.0.dev0.tar.gz",
+  "download_time": "2025-08-07T14:54:11.882188",
+  "package_url": "https://pypi.org/project/ni.panels.v1.proto/"
+}

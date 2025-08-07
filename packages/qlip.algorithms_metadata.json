@@ -1,0 +1,11 @@
+{
+  "name": "qlip.algorithms",
+  "version": "0.1.1",
+  "summary": "Library with neural networks compression and acceleration algorithms built on QLIP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qlip_algorithms-0.1.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_34_x86_64.whl",
+  "download_time": "2025-08-07T14:54:29.536867",
+  "package_url": "https://pypi.org/project/qlip.algorithms/"
+}

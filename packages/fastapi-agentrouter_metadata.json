@@ -1,11 +1,11 @@
 {
   "name": "fastapi-agentrouter",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "summary": "AI Agent interface library for FastAPI with multi-platform support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_agentrouter-0.1.2.tar.gz",
-  "download_time": "2025-08-06T16:33:28.912962",
+  "download_filename": "fastapi_agentrouter-0.3.0.tar.gz",
+  "download_time": "2025-08-07T14:53:55.260300",
   "package_url": "https://pypi.org/project/fastapi-agentrouter/"
 }

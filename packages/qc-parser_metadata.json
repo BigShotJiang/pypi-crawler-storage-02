@@ -1,0 +1,11 @@
+{
+  "name": "qc-parser",
+  "version": "0.8.3",
+  "summary": "Parses outputs of different QC tools and unifies them for the SMaHT portal",
+  "author": "Alexander Veit",
+  "license": "MIT",
+  "home_page": "https://github.com/smaht-dac/qc-parser",
+  "download_filename": "qc_parser-0.8.3.tar.gz",
+  "download_time": "2025-08-07T14:54:41.645432",
+  "package_url": "https://pypi.org/project/qc-parser/"
+}

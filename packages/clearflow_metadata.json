@@ -1,11 +1,11 @@
 {
   "name": "clearflow",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Trustworthy orchestration for LLM-powered agents with predictable routing, immutable state, and zero dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clearflow-0.0.1.tar.gz",
-  "download_time": "2025-08-07T13:48:51.832203",
+  "download_filename": "clearflow-0.0.3.tar.gz",
+  "download_time": "2025-08-07T14:54:07.654907",
   "package_url": "https://pypi.org/project/clearflow/"
 }
