@@ -1,0 +1,11 @@
+{
+  "name": "graphql-schema-mcp",
+  "version": "0.9.1",
+  "summary": "Tiny MCP server to handle search in large GraphQL introspection files. Features vector search to improove experience.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphql_schema_mcp-0.9.1.tar.gz",
+  "download_time": "2025-08-07T18:45:18.290517",
+  "package_url": "https://pypi.org/project/graphql-schema-mcp/"
+}

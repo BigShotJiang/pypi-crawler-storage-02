@@ -1,0 +1,11 @@
+{
+  "name": "superchat",
+  "version": "0.9",
+  "summary": "AI-driven discussions and multi-agent debates",
+  "author": "superchat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "superchat-0.9.tar.gz",
+  "download_time": "2025-08-07T18:45:27.817200",
+  "package_url": "https://pypi.org/project/superchat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "librespot-spotizerr",
+  "version": "0.2.10",
+  "summary": "Spotizerr's python librespot implementation",
+  "author": "Xoconoch",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Xoconoch/librespot-spotizerr",
+  "download_filename": "librespot_spotizerr-0.2.10.tar.gz",
+  "download_time": "2025-08-07T18:45:19.636995",
+  "package_url": "https://pypi.org/project/librespot-spotizerr/"
+}

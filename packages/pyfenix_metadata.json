@@ -1,11 +1,11 @@
 {
   "name": "pyfenix",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A blazing fast and minimal Python full-stack web framework",
   "author": "Azeem Teli",
   "license": "MIT",
   "home_page": "https://github.com/tinprogrammers/FeniX",
-  "download_filename": "pyfenix-0.1.4.tar.gz",
-  "download_time": "2025-08-07T16:34:27.756686",
+  "download_filename": "pyfenix-0.1.5.tar.gz",
+  "download_time": "2025-08-07T18:45:45.723045",
   "package_url": "https://pypi.org/project/pyfenix/"
 }

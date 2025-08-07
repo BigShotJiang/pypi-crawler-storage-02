@@ -1,0 +1,11 @@
+{
+  "name": "autofeatureselect",
+  "version": "0.1.4",
+  "summary": "A Python package for automated feature selection in ML workflows.",
+  "author": "Shreenidhi T H",
+  "license": null,
+  "home_page": "https://github.com/yourusername/autofeatureselect",
+  "download_filename": "autofeatureselect-0.1.4.tar.gz",
+  "download_time": "2025-08-07T18:45:07.272240",
+  "package_url": "https://pypi.org/project/autofeatureselect/"
+}

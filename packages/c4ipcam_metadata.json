@@ -1,11 +1,11 @@
 {
   "name": "c4ipcam",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Simple IP camera streaming module with authentication and compression for OpenCV applications.",
   "author": "4edbark",
   "license": null,
   "home_page": "https://github.com/rtcctc/c4ipcam",
-  "download_filename": "c4ipcam-0.0.2.tar.gz",
-  "download_time": "2025-08-06T06:49:22.796871",
+  "download_filename": "c4ipcam-0.0.4.tar.gz",
+  "download_time": "2025-08-07T18:45:30.967756",
   "package_url": "https://pypi.org/project/c4ipcam/"
 }

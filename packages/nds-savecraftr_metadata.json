@@ -1,0 +1,11 @@
+{
+  "name": "nds-savecraftr",
+  "version": "1.0.0",
+  "summary": "Universal Nintendo DS Save File Craftr",
+  "author": "tcsenpai",
+  "license": "MIT",
+  "home_page": "https://github.com/tcsenpai/nds-savecraftr",
+  "download_filename": "nds_savecraftr-1.0.0.tar.gz",
+  "download_time": "2025-08-07T18:44:52.249159",
+  "package_url": "https://pypi.org/project/nds-savecraftr/"
+}

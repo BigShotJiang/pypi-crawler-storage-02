@@ -1,0 +1,11 @@
+{
+  "name": "magma-auth",
+  "version": "1.0.0",
+  "summary": "MAGMA Indonesia Authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magma_auth-1.0.0.tar.gz",
+  "download_time": "2025-08-07T18:45:22.867749",
+  "package_url": "https://pypi.org/project/magma-auth/"
+}
