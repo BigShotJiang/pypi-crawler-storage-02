@@ -1,0 +1,11 @@
+{
+  "name": "thumbor-gcs",
+  "version": "0.0.10",
+  "summary": "Thumbor Loader and Result Storage for Google Cloud Storage(GCS)",
+  "author": "Jea Yang",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/jjonline/thumbor-gcs",
+  "download_filename": "thumbor-gcs-0.0.10.tar.gz",
+  "download_time": "2025-08-07T09:03:32.181776",
+  "package_url": "https://pypi.org/project/thumbor-gcs/"
+}

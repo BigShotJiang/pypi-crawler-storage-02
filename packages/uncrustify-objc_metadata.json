@@ -1,11 +1,11 @@
 {
   "name": "uncrustify-objc",
-  "version": "1.5",
+  "version": "1.6",
   "summary": "Use uncrustify to format the objective-c files under the specified project path",
-  "author": "Will Han",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/python-cli/uncrustify-objc",
-  "download_filename": "uncrustify_objc-1.5.tar.gz",
-  "download_time": "2025-08-07T06:49:07.687696",
+  "home_page": null,
+  "download_filename": "uncrustify_objc-1.6-py3-none-any.whl",
+  "download_time": "2025-08-07T09:03:15.459552",
   "package_url": "https://pypi.org/project/uncrustify-objc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "co6co.db-ext",
+  "version": "0.0.17",
+  "summary": "db 数据库扩展",
+  "author": "co6co",
+  "license": null,
+  "home_page": "http://github.com/co6co",
+  "download_filename": "co6co.db_ext-0.0.17.tar.gz",
+  "download_time": "2025-08-07T09:03:34.769207",
+  "package_url": "https://pypi.org/project/co6co.db-ext/"
+}

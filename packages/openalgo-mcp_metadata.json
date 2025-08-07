@@ -1,11 +1,11 @@
 {
   "name": "openalgo-mcp",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "OpenAlgo MCP Server stub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openalgo_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-07T08:35:06.465796",
+  "download_filename": "openalgo_mcp-0.1.3.tar.gz",
+  "download_time": "2025-08-07T09:03:20.647758",
   "package_url": "https://pypi.org/project/openalgo-mcp/"
 }

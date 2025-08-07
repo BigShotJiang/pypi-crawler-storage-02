@@ -1,11 +1,11 @@
 {
   "name": "pycobaltix",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "코발틱스 파이썬 유틸리티 패키지",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycobaltix-0.2.3.tar.gz",
-  "download_time": "2025-08-07T08:35:09.087078",
+  "download_filename": "pycobaltix-0.2.4.tar.gz",
+  "download_time": "2025-08-07T09:03:54.524486",
   "package_url": "https://pypi.org/project/pycobaltix/"
 }

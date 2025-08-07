@@ -1,0 +1,11 @@
+{
+  "name": "dead-hosts-launcher",
+  "version": "2.4.0",
+  "summary": "The launcher of the Dead-Hosts infrastructure.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/dead-hosts/infrastructure-launcher",
+  "download_filename": "dead_hosts_launcher-2.4.0.tar.gz",
+  "download_time": "2025-08-07T09:03:50.366894",
+  "package_url": "https://pypi.org/project/dead-hosts-launcher/"
+}

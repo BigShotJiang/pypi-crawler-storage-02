@@ -1,0 +1,11 @@
+{
+  "name": "huscy.project-consents",
+  "version": "1.2.0",
+  "summary": "projects_consents",
+  "author": "Stefan Bunde",
+  "license": "AGPLv3+",
+  "home_page": "https://bitbucket.org/huscy/project_consents",
+  "download_filename": "huscy_project_consents-1.2.0.tar.gz",
+  "download_time": "2025-08-07T09:03:33.722032",
+  "package_url": "https://pypi.org/project/huscy.project-consents/"
+}

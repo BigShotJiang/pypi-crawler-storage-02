@@ -1,11 +1,11 @@
 {
   "name": "cute-cats-terminal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A package to print cute cats to terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cute_cats_terminal-0.1.0.tar.gz",
-  "download_time": "2025-08-06T22:26:26.104245",
+  "download_filename": "cute_cats_terminal-0.2.0.tar.gz",
+  "download_time": "2025-08-07T09:03:40.512092",
   "package_url": "https://pypi.org/project/cute-cats-terminal/"
 }
