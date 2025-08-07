@@ -1,11 +1,11 @@
 {
   "name": "muerte32crypt",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Windows-native DPAPI encryption with a clean Python interface.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "muerte32crypt-1.0.7.tar.gz",
-  "download_time": "2025-08-06T09:03:11.871162",
+  "download_filename": "muerte32crypt-1.0.8.tar.gz",
+  "download_time": "2025-08-07T09:59:08.741475",
   "package_url": "https://pypi.org/project/muerte32crypt/"
 }

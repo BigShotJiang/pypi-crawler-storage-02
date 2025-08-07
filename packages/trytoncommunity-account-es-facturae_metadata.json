@@ -1,0 +1,11 @@
+{
+  "name": "trytoncommunity-account-es-facturae",
+  "version": "7.6.0",
+  "summary": "Tryton module for generating facturae invoices",
+  "author": "KOPEN SOFTWARE",
+  "license": "GPL-3",
+  "home_page": "https://www.kopen.es/",
+  "download_filename": "trytoncommunity_account_es_facturae-7.6.0.tar.gz",
+  "download_time": "2025-08-07T09:59:18.040667",
+  "package_url": "https://pypi.org/project/trytoncommunity-account-es-facturae/"
+}

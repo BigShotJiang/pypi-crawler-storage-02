@@ -1,11 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T09:44:07.129689
-- **Total Packages**: 85
-- **Total Size**: 31.99 MB
+- **Download Time**: 2025-08-07T09:59:38.987109
+- **Total Packages**: 86
+- **Total Size**: 19.95 MB
 
 ## Packages List
+- rexi-py
+- minimax-tts-openai
+- pulumi
+- a2a-registry
+- axmp-ai-conversation-completor
+- toadr3
+- PyBoostyApi
+- fdq
+- mccole
+- hahomematic
+- openalgo-mcp
+- pyrebel
+- extension-for-llm-call-or-invocation
+- talentro-definitions
+- py-xh-custapp-xethhung12
+- openpecha
+- smpl-rs
+- quda
+- protomatics
+- pyEulerCurves
+- mrx-runway
+- pyobs-core
+- prompt-writing-assistant
+- freqig
+- quansys
+- lunatone-rest-api-client
+- inoyb
+- mcpccc
+- mindterm
+- muerte32crypt
+- program-writing-assistant
+- deepview-mcp
+- vggsounder
+- ebtorch
+- castor-extractor
+- astroid
+- keycloak-utils
+- tiffdata
+- invert4geom
+- pycafe-server
+- odoo-addon-purchase-fully-invoiced
+- basepak
+- asynctor
+- gdmo
+- hl-web3
+- unieai-mcp-mysql
+- nonebot-plugin-resolver2
+- trytoncommunity-account-es-facturae
+- pybiolib
+- agi-med-common
+- pchjlib
+- Oncodrive3D
+- psr-container
 - skypilot-nightly
 - mammos-entity
 - assisted-service-client
@@ -13,10 +66,8 @@
 - fitsbolt
 - pipton
 - panos-upgrade-assurance
-- talentro-definitions
 - lusid-sdk
 - rpa-temu
-- rexi-py
 - captchaSaz
 - easycoder
 - value-object-pattern
@@ -41,53 +92,3 @@
 - tvb-ext-xircuits
 - py-agent-tools
 - neuralpiano
-- mcpccc
-- cs2tracker
-- axiomelectrus
-- dify_plugin
-- slide2vec
-- kolja-aws
-- greenpulse-mcp
-- pybiolib
-- unieai-mcp-mysql
-- call-context-lib
-- neuracore
-- trytoncommunity-edocument-es-facturae
-- sdbtool
-- askui
-- custom-llm-call-or-llm-invocation
-- ranx
-- djvite
-- sast-fixer-mcp
-- policyengine-data
-- mcp-server-tapd
-- logwise
-- coda-code-assistant
-- quarter-lib
-- agi-med-common
-- cloudvariables
-- Wg-web-client
-- temporal-replayer-adapter-python
-- qlauncher
-- armada-client
-- pchjlib
-- program-writing-assistant
-- brain-slam
-- pulp-cli-console
-- pulp-glue-console
-- kfst-rs
-- sec_gemini
-- lybic
-- qis
-- iso18245
-- fyle-accounting-mappings
-- nav-online-szamla
-- learning-loop-node
-- bia-bob
-- psr
-- tbp-nightly
-- xprof-nightly
-- imio.pm.wsclient
-- alita-sdk
-- pyvector-vexdb
-- polartoolkit

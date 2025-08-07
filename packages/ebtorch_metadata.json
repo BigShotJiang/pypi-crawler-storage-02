@@ -1,0 +1,11 @@
+{
+  "name": "ebtorch",
+  "version": "0.34.0",
+  "summary": "Collection of PyTorch additions, extensions, utilities, uses and abuses",
+  "author": "Emanuele Ballarin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/emaballarin/ebtorch",
+  "download_filename": "ebtorch-0.34.0.tar.gz",
+  "download_time": "2025-08-07T09:59:10.816442",
+  "package_url": "https://pypi.org/project/ebtorch/"
+}

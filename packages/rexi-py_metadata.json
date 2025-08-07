@@ -1,11 +1,11 @@
 {
   "name": "rexi-py",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Python client library for Rexi API",
   "author": "RexiAPI Team",
   "license": null,
   "home_page": "https://github.com/Rexi-sh/rexi-py",
-  "download_filename": "rexi_py-0.1.4.tar.gz",
-  "download_time": "2025-08-07T09:43:27.592353",
+  "download_filename": "rexi_py-0.1.6.tar.gz",
+  "download_time": "2025-08-07T09:58:53.772005",
   "package_url": "https://pypi.org/project/rexi-py/"
 }

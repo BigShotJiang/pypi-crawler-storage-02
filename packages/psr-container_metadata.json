@@ -1,0 +1,11 @@
+{
+  "name": "psr-container",
+  "version": "1.0.0",
+  "summary": "DI Container Interface",
+  "author": "Alexey Volkov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "psr_container-1.0.0.tar.gz",
+  "download_time": "2025-08-07T09:59:20.617201",
+  "package_url": "https://pypi.org/project/psr-container/"
+}

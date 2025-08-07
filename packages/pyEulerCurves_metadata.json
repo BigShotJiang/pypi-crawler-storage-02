@@ -1,0 +1,11 @@
+{
+  "name": "pyEulerCurves",
+  "version": "0.5",
+  "summary": "A python package to compute Euler Characteristic Curves",
+  "author": "Davide Gurnari",
+  "license": null,
+  "home_page": "https://github.com/dgurnari/pyEulerCurves",
+  "download_filename": "pyeulercurves-0.5.tar.gz",
+  "download_time": "2025-08-07T09:59:03.591233",
+  "package_url": "https://pypi.org/project/pyEulerCurves/"
+}

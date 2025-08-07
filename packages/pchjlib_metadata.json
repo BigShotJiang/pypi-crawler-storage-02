@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "A versatile toolkit for applying custom folder icons.",
   "author": "Joesifer",
   "license": null,
   "home_page": null,
-  "download_filename": "pchjlib-1.4.1.tar.gz",
-  "download_time": "2025-08-07T09:43:55.851902",
+  "download_filename": "pchjlib-1.4.2.tar.gz",
+  "download_time": "2025-08-07T09:59:19.589568",
   "package_url": "https://pypi.org/project/pchjlib/"
 }
