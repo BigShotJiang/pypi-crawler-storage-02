@@ -1,11 +1,11 @@
 {
   "name": "mathmind-mcp-server",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "MCP Server for interacting with Mathmind",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mathmind_mcp_server-0.1.10.tar.gz",
-  "download_time": "2025-08-07T05:33:26.624867",
+  "download_filename": "mathmind_mcp_server-0.1.12.tar.gz",
+  "download_time": "2025-08-07T06:49:08.711539",
   "package_url": "https://pypi.org/project/mathmind-mcp-server/"
 }

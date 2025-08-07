@@ -1,0 +1,11 @@
+{
+  "name": "Delpycache",
+  "version": "0.0.2",
+  "summary": "A pip package for deleting __pycache__ files.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "delpycache-0.0.2.tar.gz",
+  "download_time": "2025-08-07T06:48:31.963270",
+  "package_url": "https://pypi.org/project/Delpycache/"
+}

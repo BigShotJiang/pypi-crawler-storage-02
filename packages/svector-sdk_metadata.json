@@ -1,0 +1,11 @@
+{
+  "name": "svector-sdk",
+  "version": "1.7.6",
+  "summary": "Official Python SDK for SVECTOR AI Models - Advanced conversational AI and language models",
+  "author": "SVECTOR Team",
+  "license": null,
+  "home_page": "https://github.com/svector-corporation/svector-python",
+  "download_filename": "svector_sdk-1.7.6.tar.gz",
+  "download_time": "2025-08-07T06:48:30.915494",
+  "package_url": "https://pypi.org/project/svector-sdk/"
+}

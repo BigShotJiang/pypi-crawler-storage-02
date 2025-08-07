@@ -1,0 +1,11 @@
+{
+  "name": "sandhi",
+  "version": "0.1.2",
+  "summary": "Sanskrit Sandhi Module",
+  "author": "Hrishikesh Terdalkar",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/hrishikeshrt/sandhi",
+  "download_filename": "sandhi-0.1.2.tar.gz",
+  "download_time": "2025-08-07T06:49:10.764543",
+  "package_url": "https://pypi.org/project/sandhi/"
+}
