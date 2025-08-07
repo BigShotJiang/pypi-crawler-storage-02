@@ -1,0 +1,11 @@
+{
+  "name": "sourmash",
+  "version": "4.9.4",
+  "summary": "tools for comparing biological sequences with k-mer sketches",
+  "author": "Luiz Irber, N. Tessa Pierce-Ward, Mohamed Abuelanin, Harriet Alexander, Abhishek Anant, Keya Barve, Colton Baumler, Olga Botvinnik, Phillip Brooks, Luca Cappelletti, Peter Cock, Daniel Dsouza, Jade Gardner, Laurent Gautier, Tim Head, Mahmudur Rahman Hera, Hannah Eve Houts, Lisa K. Johnson, Fabian Klötzl, David Koslicki, Katrin Leinweber, Marisa Lim, Ricky Lim, Chase Mateusiak, Bradley Nelson, Ivan Ogasawara, Aiden Pike, Taylor Reiter, Camille Scott, Andreas Sjödin, Connor T. Skennerton, Jason Stajich, Daniel Standage, S. Joshua Swamidass, Connor Tiffany, Pranathi Vemuri, Erik Young, Nick H, C. Titus Brown",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sourmash-4.9.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-07T16:34:29.314662",
+  "package_url": "https://pypi.org/project/sourmash/"
+}

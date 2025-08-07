@@ -1,11 +1,11 @@
 {
   "name": "mnist-ae",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "MNIST auto-encoder",
   "author": "Fernando Garzon",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/ofgarzon2662/mnist_ae",
-  "download_filename": "mnist_ae-0.0.5.tar.gz",
-  "download_time": "2025-08-06T21:22:47.156045",
+  "download_filename": "mnist_ae-0.0.7.tar.gz",
+  "download_time": "2025-08-07T16:34:08.594205",
   "package_url": "https://pypi.org/project/mnist-ae/"
 }

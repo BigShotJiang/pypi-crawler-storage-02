@@ -1,0 +1,11 @@
+{
+  "name": "iredis",
+  "version": "1.15.2",
+  "summary": "Terminal client for Redis with auto-completion and syntax highlighting.",
+  "author": "laixintao",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/laixintao/iredis",
+  "download_filename": "iredis-1.15.2.tar.gz",
+  "download_time": "2025-08-07T16:34:35.517491",
+  "package_url": "https://pypi.org/project/iredis/"
+}

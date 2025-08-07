@@ -1,0 +1,11 @@
+{
+  "name": "yoix",
+  "version": "0.2.0",
+  "summary": "Pythonic static site generator designed for minimalists",
+  "author": "Alex Crocker",
+  "license": null,
+  "home_page": "https://github.com/crock/yoix.py",
+  "download_filename": "yoix-0.2.0.tar.gz",
+  "download_time": "2025-08-07T16:34:09.627633",
+  "package_url": "https://pypi.org/project/yoix/"
+}

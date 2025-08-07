@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-llamaindex-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for reading LlamaIndex documents stored in Qdrant vector database",
+  "author": "Allie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdrant_llamaindex_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-08-07T16:34:24.601152",
+  "package_url": "https://pypi.org/project/qdrant-llamaindex-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "naboo",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": null,
   "author": "Brendan Doms",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "naboo-0.1.17.tar.gz",
-  "download_time": "2025-08-06T17:03:02.417194",
+  "download_filename": "naboo-0.1.18.tar.gz",
+  "download_time": "2025-08-07T16:33:54.591705",
   "package_url": "https://pypi.org/project/naboo/"
 }

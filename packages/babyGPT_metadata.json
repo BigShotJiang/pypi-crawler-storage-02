@@ -1,0 +1,11 @@
+{
+  "name": "babyGPT",
+  "version": "1.1.0",
+  "summary": "An educational module for experimenting with unsupervised learning in large language modeling",
+  "author": "Avinash Kak",
+  "license": "Python Software Foundation License",
+  "home_page": "https://engineering.purdue.edu/kak/distBabyGPT/babyGPT-1.1.0.html",
+  "download_filename": "babyGPT-1.1.0.tar.gz",
+  "download_time": "2025-08-07T16:34:28.271916",
+  "package_url": "https://pypi.org/project/babyGPT/"
+}

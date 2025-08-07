@@ -1,0 +1,11 @@
+{
+  "name": "cuopt-sh-client",
+  "version": "25.8.0",
+  "summary": "A Python client and command-line",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cuopt_sh_client-25.8.0.tar.gz",
+  "download_time": "2025-08-07T16:34:01.364800",
+  "package_url": "https://pypi.org/project/cuopt-sh-client/"
+}

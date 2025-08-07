@@ -1,0 +1,11 @@
+{
+  "name": "weather-lib",
+  "version": "0.1.0",
+  "summary": "package to download the historical weatehr data uisng api",
+  "author": "Rajesh Neupane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weather_lib-0.1.0.tar.gz",
+  "download_time": "2025-08-07T16:34:02.398419",
+  "package_url": "https://pypi.org/project/weather-lib/"
+}

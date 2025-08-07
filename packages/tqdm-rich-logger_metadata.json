@@ -1,0 +1,11 @@
+{
+  "name": "tqdm-rich-logger",
+  "version": "0.1.0",
+  "summary": "TQDM-safe Rich logger with file output and exception catching",
+  "author": "Madhav Arora",
+  "license": null,
+  "home_page": "https://github.com/madhavarora03/tqdm-rich-logger",
+  "download_filename": "tqdm_rich_logger-0.1.0.tar.gz",
+  "download_time": "2025-08-07T16:34:21.510164",
+  "package_url": "https://pypi.org/project/tqdm-rich-logger/"
+}
