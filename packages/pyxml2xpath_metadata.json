@@ -1,0 +1,11 @@
+{
+  "name": "pyxml2xpath",
+  "version": "0.3.5",
+  "summary": "Generate xpath expressions from XML document.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyxml2xpath-0.3.5.tar.gz",
+  "download_time": "2025-08-07T22:27:16.926559",
+  "package_url": "https://pypi.org/project/pyxml2xpath/"
+}

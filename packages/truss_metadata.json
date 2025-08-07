@@ -1,11 +1,11 @@
 {
   "name": "truss",
-  "version": "0.9.119",
+  "version": "0.9.120",
   "summary": "A seamless bridge from model development to model delivery",
   "author": "Pankaj Gupta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "truss-0.9.119.tar.gz",
-  "download_time": "2025-08-04T16:33:52.844971",
+  "download_filename": "truss-0.9.120.tar.gz",
+  "download_time": "2025-08-07T22:26:57.909565",
   "package_url": "https://pypi.org/project/truss/"
 }
