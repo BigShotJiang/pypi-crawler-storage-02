@@ -1,11 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T19:46:39.457926
-- **Total Packages**: 86
-- **Total Size**: 11.2 MB
+- **Download Time**: 2025-08-07T19:58:36.467508
+- **Total Packages**: 92
+- **Total Size**: 23.08 MB
 
 ## Packages List
+- graph-games-proto
+- api-investment-risk
+- standardbots
+- sorcererdb
+- ggx
+- arm-cli
+- iam-mcp-server
+- hone-io
+- sphinxcontrib-osint
+- pennylane-qrack-cpu
+- pennylane-qrack
+- mpy-cross-v6.3
+- GALINDA
+- bulkllm
+- graphiti-core
+- FindMy
+- pioreactor
+- pyjobshop
+- orbax-checkpoint
+- statsig-python-core
+- baddns
+- django-chronos
+- portacode
+- geoarrow-rust-core
+- geoarrow-rust-compute
+- google-account-local
+- not1mm
+- neurograd
+- kintsugi-tax-platform-sdk
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- victron-mqtt
+- pyqrack-cpu-complex128
+- pyqrack-cpu
+- gr
+- pyqrack-complex128
+- pyppet-models
+- pyqrack
+- tap-canvas
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- AstroView
+- dbos
+- pyTenable
+- claude-mpm
+- so4gp
+- aient
+- foundry-sdk
+- gradysim
+- cdp-sdk
+- quackdoor
+- ycfuncs
+- gval
+- pumpia
 - boto3-stubs
 - boto3-stubs-lite
 - mypy-boto3-guardduty
@@ -26,12 +87,8 @@
 - janito
 - procrastinate
 - TanaT
-- neurograd
 - juriscraper
-- foundry-sdk
 - tidipy
-- standardbots
-- ycfuncs
 - llm-workflow-engine
 - deltaapply
 - py-dependency-injection
@@ -41,54 +98,3 @@
 - redis-limiters
 - tsbuddy
 - loopy-basic
-- nsj-gcf-utils
-- easycoder
-- deadline-cloud-for-blender
-- tap-canvas
-- orq-ai-sdk
-- labii-sdk
-- rxnn
-- warp-beacon
-- pycarlo
-- zerodoc-gen
-- pydroplet
-- pyppet
-- boto3
-- awscli
-- o2o-process
-- revenium-mcp
-- datadog-checks-dev
-- tucker-trucker
-- zanshinsdk
-- android-device-manager
-- weltschmerz
-- caer
-- claude-mpm
-- bulkllm
-- avi-tools
-- devtools-sitecustomize
-- OrbitVisualization
-- google-account-local
-- fincept-terminal
-- python-openevse-http
-- dexray-insight
-- ohana
-- aircloudy
-- PyAgentix
-- clad-ai-python
-- abstra
-- vstransitions
-- prelude-cli-beta
-- recollapse
-- prelude-sdk-beta
-- autofeatureselect
-- glycotrans
-- omar6995-noble-tls
-- gradysim
-- owasp-schema
-- sera-2
-- django-chronos
-- semantic-copycat-binarysniffer
-- bento-sts
-- mito-ai
-- mitosheet

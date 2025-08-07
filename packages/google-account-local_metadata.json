@@ -1,11 +1,11 @@
 {
   "name": "google-account-local",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "summary": "PyPI Package for Circles google-account-local Python",
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/google-account-local-python-package",
-  "download_filename": "google_account_local-0.0.32.tar.gz",
-  "download_time": "2025-08-07T19:31:48.123603",
+  "download_filename": "google_account_local-0.0.33.tar.gz",
+  "download_time": "2025-08-07T19:58:01.098570",
   "package_url": "https://pypi.org/project/google-account-local/"
 }
