@@ -1,0 +1,11 @@
+{
+  "name": "fitbit-cli",
+  "version": "1.5.0",
+  "summary": "Access your Fitbit data at your terminal.",
+  "author": "veerendra2",
+  "license": "MIT",
+  "home_page": "https://github.com/veerendra2/fitbit-cli",
+  "download_filename": "fitbit_cli-1.5.0.tar.gz",
+  "download_time": "2025-08-07T14:29:19.460592",
+  "package_url": "https://pypi.org/project/fitbit-cli/"
+}

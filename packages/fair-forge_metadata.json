@@ -1,0 +1,11 @@
+{
+  "name": "fair-forge",
+  "version": "0.2.0",
+  "summary": "A toolkit for developing group-aware ML methods",
+  "author": "Thomas M Kehrenberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fair_forge-0.2.0.tar.gz",
+  "download_time": "2025-08-07T14:29:06.108528",
+  "package_url": "https://pypi.org/project/fair-forge/"
+}

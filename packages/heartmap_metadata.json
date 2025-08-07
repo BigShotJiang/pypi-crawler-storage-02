@@ -1,11 +1,11 @@
 {
   "name": "heartmap",
-  "version": "1.1.2",
+  "version": "1.0.2",
   "summary": "Heart Multi-chamber Analysis Platform for single-cell RNA-seq",
   "author": "Tumo Kgabeng, Lulu Wang, Harry Ngwangwa, Thanyani Pandelani",
   "license": null,
   "home_page": "https://github.com/Tumo505/HeartMap",
-  "download_filename": "heartmap-1.1.2.tar.gz",
-  "download_time": "2025-08-06T20:28:54.709765",
+  "download_filename": "heartmap-1.0.2.tar.gz",
+  "download_time": "2025-08-07T14:29:09.700584",
   "package_url": "https://pypi.org/project/heartmap/"
 }

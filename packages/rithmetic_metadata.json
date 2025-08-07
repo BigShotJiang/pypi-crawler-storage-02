@@ -1,0 +1,11 @@
+{
+  "name": "rithmetic",
+  "version": "0.0.18",
+  "summary": "Simple arithmetic lib for students",
+  "author": "PrashantAswal",
+  "license": "MIT",
+  "home_page": "https://github.com/Prashant-Aswal/rithmetic",
+  "download_filename": "rithmetic-0.0.18.tar.gz",
+  "download_time": "2025-08-07T14:29:01.479490",
+  "package_url": "https://pypi.org/project/rithmetic/"
+}

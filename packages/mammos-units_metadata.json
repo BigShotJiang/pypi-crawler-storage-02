@@ -1,0 +1,11 @@
+{
+  "name": "mammos-units",
+  "version": "0.3.2",
+  "summary": "Magnetic units package built on top of Astropy units",
+  "author": "Sam Holt, Swapneel Amit Pathak, Martin Lang, Andrea Petrocchi, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_units-0.3.2.tar.gz",
+  "download_time": "2025-08-07T14:28:57.850674",
+  "package_url": "https://pypi.org/project/mammos-units/"
+}

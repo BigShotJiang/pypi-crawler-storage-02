@@ -1,0 +1,11 @@
+{
+  "name": "autograder-sandbox",
+  "version": "6.0.0",
+  "summary": "Python library for running untrusted code in Docker containers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autograder_sandbox-6.0.0.tar.gz",
+  "download_time": "2025-08-07T14:28:45.937461",
+  "package_url": "https://pypi.org/project/autograder-sandbox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyhw",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "summary": "PyHw, a neofetch-like command line tool for fetching system information but written mostly in python.",
   "author": "Xiao Ran",
   "license": null,
   "home_page": null,
-  "download_filename": "pyhw-0.14.2.tar.gz",
-  "download_time": "2025-08-05T07:30:03.196585",
+  "download_filename": "pyhw-0.14.3.tar.gz",
+  "download_time": "2025-08-07T14:28:58.880200",
   "package_url": "https://pypi.org/project/pyhw/"
 }

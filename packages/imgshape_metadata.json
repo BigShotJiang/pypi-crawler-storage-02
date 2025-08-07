@@ -1,0 +1,11 @@
+{
+  "name": "imgshape",
+  "version": "2.0.0",
+  "summary": "🖼️ Get image shapes, analyze type, get preprocessing recommendations & check model compatibility",
+  "author": "Stifler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imgshape-2.0.0.tar.gz",
+  "download_time": "2025-08-07T14:28:42.838262",
+  "package_url": "https://pypi.org/project/imgshape/"
+}

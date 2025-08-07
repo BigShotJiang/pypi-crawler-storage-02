@@ -1,11 +1,11 @@
 {
   "name": "talentro-definitions",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "summary": "This package contains all models and data structures for Talentro",
   "author": "Emiel van Essen",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "talentro_definitions-0.10.3.tar.gz",
-  "download_time": "2025-08-07T11:57:33.412634",
+  "download_filename": "talentro_definitions-0.10.4.tar.gz",
+  "download_time": "2025-08-07T14:28:55.800577",
   "package_url": "https://pypi.org/project/talentro-definitions/"
 }

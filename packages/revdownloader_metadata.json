@@ -1,0 +1,11 @@
+{
+  "name": "revdownloader",
+  "version": "0.1.8",
+  "summary": "Librería para descarga de archivos",
+  "author": "Tu Nombre",
+  "license": null,
+  "home_page": "https://github.com/tuusuario/revdownloader",
+  "download_filename": "revdownloader-0.1.8.tar.gz",
+  "download_time": "2025-08-07T14:28:50.093406",
+  "package_url": "https://pypi.org/project/revdownloader/"
+}
