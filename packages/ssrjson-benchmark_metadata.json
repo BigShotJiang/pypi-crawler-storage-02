@@ -1,11 +1,11 @@
 {
   "name": "ssrjson-benchmark",
-  "version": "0.0.1rc1",
+  "version": "0.0.1rc2",
   "summary": "benchmark of ssrJSON",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssrjson_benchmark-0.0.1rc1.tar.gz",
-  "download_time": "2025-08-04T22:27:26.194065",
+  "download_filename": "ssrjson_benchmark-0.0.1rc2.tar.gz",
+  "download_time": "2025-08-07T22:50:30.147501",
   "package_url": "https://pypi.org/project/ssrjson-benchmark/"
 }

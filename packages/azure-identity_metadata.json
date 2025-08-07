@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity",
+  "version": "1.24.0",
+  "summary": "Microsoft Azure Identity Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/identity/azure-identity",
+  "download_filename": "azure_identity-1.24.0.tar.gz",
+  "download_time": "2025-08-07T22:50:31.263235",
+  "package_url": "https://pypi.org/project/azure-identity/"
+}

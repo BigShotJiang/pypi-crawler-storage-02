@@ -1,0 +1,11 @@
+{
+  "name": "siblink",
+  "version": "1.2.2",
+  "summary": "Sibling Link for python packages.",
+  "author": "Trelta",
+  "license": null,
+  "home_page": "https://github.com/treltasev/siblink",
+  "download_filename": "siblink-1.2.2.tar.gz",
+  "download_time": "2025-08-07T22:50:21.652302",
+  "package_url": "https://pypi.org/project/siblink/"
+}

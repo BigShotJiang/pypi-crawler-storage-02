@@ -1,11 +1,11 @@
 {
   "name": "omar6995-browserforge",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "summary": "Intelligent browser header & fingerprint generator",
   "author": "omar6995",
   "license": "Apache-2.0",
   "home_page": "https://github.com/omar6995/browserforge",
-  "download_filename": "omar6995_browserforge-1.2.9.tar.gz",
-  "download_time": "2025-08-07T19:04:04.953388",
+  "download_filename": "omar6995_browserforge-1.2.10.tar.gz",
+  "download_time": "2025-08-07T22:50:10.517617",
   "package_url": "https://pypi.org/project/omar6995-browserforge/"
 }
