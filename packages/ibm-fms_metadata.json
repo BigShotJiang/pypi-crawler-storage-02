@@ -1,0 +1,11 @@
+{
+  "name": "ibm-fms",
+  "version": "1.2.1",
+  "summary": "IBM Foundation Model Stack",
+  "author": "Brian Vaughan, Joshua Rosenkranz, Antoni Viros i Martin, Davis Wertheimer, Supriyo Chakraborty, Raghu Kiran Ganti",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/foundation-model-stack/foundation-model-stack",
+  "download_filename": "ibm_fms-1.2.1-py3-none-any.whl",
+  "download_time": "2025-08-07T15:30:27.595812",
+  "package_url": "https://pypi.org/project/ibm-fms/"
+}

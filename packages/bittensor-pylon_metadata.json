@@ -1,11 +1,11 @@
 {
   "name": "bittensor-pylon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Bittensor Pylon: fast subnet data proxy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bittensor_pylon-0.0.1.tar.gz",
-  "download_time": "2025-08-07T14:53:52.659322",
+  "download_filename": "bittensor_pylon-0.0.2.tar.gz",
+  "download_time": "2025-08-07T15:30:15.688734",
   "package_url": "https://pypi.org/project/bittensor-pylon/"
 }

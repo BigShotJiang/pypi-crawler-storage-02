@@ -1,11 +1,11 @@
 {
   "name": "user-external-local",
-  "version": "0.0.152",
+  "version": "0.0.154",
   "summary": null,
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/user-external-local-python-package",
-  "download_filename": "user_external_local-0.0.152.tar.gz",
-  "download_time": "2025-08-04T17:42:17.869486",
+  "download_filename": "user_external_local-0.0.154.tar.gz",
+  "download_time": "2025-08-07T15:30:12.223160",
   "package_url": "https://pypi.org/project/user-external-local/"
 }

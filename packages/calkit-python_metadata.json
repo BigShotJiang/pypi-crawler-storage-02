@@ -1,11 +1,11 @@
 {
   "name": "calkit-python",
-  "version": "0.26.11",
+  "version": "0.27.0",
   "summary": "Reproducibility simplified.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calkit_python-0.26.11.tar.gz",
-  "download_time": "2025-08-05T17:24:03.684754",
+  "download_filename": "calkit_python-0.27.0.tar.gz",
+  "download_time": "2025-08-07T15:30:25.279852",
   "package_url": "https://pypi.org/project/calkit-python/"
 }

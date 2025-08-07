@@ -1,0 +1,11 @@
+{
+  "name": "emailer-inao",
+  "version": "4.0.0",
+  "summary": "A personalized email campaign management tool",
+  "author": "INAO Team",
+  "license": null,
+  "home_page": "https://github.com/inao/emailer-inao",
+  "download_filename": "emailer_inao-4.0.0.tar.gz",
+  "download_time": "2025-08-07T15:30:02.884292",
+  "package_url": "https://pypi.org/project/emailer-inao/"
+}

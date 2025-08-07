@@ -1,0 +1,11 @@
+{
+  "name": "check-cmake",
+  "version": "0.5.3",
+  "summary": "A simple linter for CMake.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "check_cmake-0.5.3.tar.gz",
+  "download_time": "2025-08-07T15:30:11.066877",
+  "package_url": "https://pypi.org/project/check-cmake/"
+}

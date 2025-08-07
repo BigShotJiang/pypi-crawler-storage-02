@@ -1,11 +1,11 @@
 {
   "name": "tapestrysdk",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tapestrysdk-0.1.31.tar.gz",
-  "download_time": "2025-08-07T07:29:52.075108",
+  "download_filename": "tapestrysdk-0.1.32.tar.gz",
+  "download_time": "2025-08-07T15:30:14.539532",
   "package_url": "https://pypi.org/project/tapestrysdk/"
 }

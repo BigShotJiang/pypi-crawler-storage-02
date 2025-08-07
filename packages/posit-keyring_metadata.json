@@ -1,0 +1,11 @@
+{
+  "name": "posit-keyring",
+  "version": "0.3.1",
+  "summary": "A keyring backend for Posit Package Manager using OIDC device flow.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "posit_keyring-0.3.1.tar.gz",
+  "download_time": "2025-08-07T15:30:28.172003",
+  "package_url": "https://pypi.org/project/posit-keyring/"
+}

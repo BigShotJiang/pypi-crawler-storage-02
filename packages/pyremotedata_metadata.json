@@ -1,11 +1,11 @@
 {
   "name": "pyremotedata",
-  "version": "0.0.55",
+  "version": "0.0.59",
   "summary": "A package for low- and high-level high-bandwidth asynchronous data transfer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyremotedata-0.0.55.tar.gz",
-  "download_time": "2025-08-07T14:53:55.867209",
+  "download_filename": "pyremotedata-0.0.59.tar.gz",
+  "download_time": "2025-08-07T15:30:24.015309",
   "package_url": "https://pypi.org/project/pyremotedata/"
 }
