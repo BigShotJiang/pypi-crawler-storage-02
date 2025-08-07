@@ -1,0 +1,11 @@
+{
+  "name": "flakewall",
+  "version": "0.1.2",
+  "summary": "Local CI guard for flaky tests: parse JUnit XML, retry, and auto-quarantine",
+  "author": "Flakewall",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flakewall-0.1.2.tar.gz",
+  "download_time": "2025-08-07T21:26:23.405175",
+  "package_url": "https://pypi.org/project/flakewall/"
+}

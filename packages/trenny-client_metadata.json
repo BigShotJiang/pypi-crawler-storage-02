@@ -1,0 +1,11 @@
+{
+  "name": "trenny-client",
+  "version": "0.2.0",
+  "summary": "TrennyClient for logging and verifying API keys",
+  "author": "Chris-tian123",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trenny_client-0.2.0.tar.gz",
+  "download_time": "2025-08-07T21:26:15.526736",
+  "package_url": "https://pypi.org/project/trenny-client/"
+}

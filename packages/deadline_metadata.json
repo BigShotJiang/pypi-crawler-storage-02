@@ -1,0 +1,11 @@
+{
+  "name": "deadline",
+  "version": "0.51.1",
+  "summary": "Multi-purpose library and command line tool that implements functionality to support applications using AWS Deadline Cloud.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline-0.51.1.tar.gz",
+  "download_time": "2025-08-07T21:26:15.006787",
+  "package_url": "https://pypi.org/project/deadline/"
+}

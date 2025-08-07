@@ -1,11 +1,11 @@
 {
   "name": "agent-zero-lite",
-  "version": "1.0.12",
+  "version": "1.0.15",
   "summary": "Lightweight Python AI Agent Framework with Web UI",
   "author": "Agent Zero Community",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/frdel/agent-zero-lite",
-  "download_filename": "agent_zero_lite-1.0.12.tar.gz",
-  "download_time": "2025-08-06T07:29:42.905965",
+  "download_filename": "agent_zero_lite-1.0.15.tar.gz",
+  "download_time": "2025-08-07T21:26:06.026613",
   "package_url": "https://pypi.org/project/agent-zero-lite/"
 }

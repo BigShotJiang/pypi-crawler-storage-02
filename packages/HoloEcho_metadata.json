@@ -1,11 +1,11 @@
 {
   "name": "HoloEcho",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Modern STT AND TTS for modern AI-projects",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "holoecho-0.1.2.tar.gz",
-  "download_time": "2025-08-06T02:21:02.051993",
+  "download_filename": "holoecho-0.1.4.tar.gz",
+  "download_time": "2025-08-07T21:26:16.046792",
   "package_url": "https://pypi.org/project/HoloEcho/"
 }

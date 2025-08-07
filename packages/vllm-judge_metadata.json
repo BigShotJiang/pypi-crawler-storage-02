@@ -1,0 +1,11 @@
+{
+  "name": "vllm-judge",
+  "version": "0.1.7",
+  "summary": "LLM-as-a-Judge evaluations for vLLM hosted models",
+  "author": "TrustyAI team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vllm_judge-0.1.7.tar.gz",
+  "download_time": "2025-08-07T21:25:57.485020",
+  "package_url": "https://pypi.org/project/vllm-judge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HoloTTS",
+  "version": "0.1.1",
+  "summary": "Modern Speech Recognition with both active and ambient listening and keyboard",
+  "author": "Tristan McBride Sr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "holotts-0.1.1.tar.gz",
+  "download_time": "2025-08-07T21:26:21.829503",
+  "package_url": "https://pypi.org/project/HoloTTS/"
+}
