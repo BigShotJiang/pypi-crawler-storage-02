@@ -1,11 +1,11 @@
 {
   "name": "chronolog-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Chronolog: Log microservice version to Redis at startup",
   "author": "Lucas Simopoulos",
   "license": null,
   "home_page": "https://github.com/yourusername/chronolog",
-  "download_filename": "chronolog_service-1.0.3.tar.gz",
-  "download_time": "2025-08-07T11:28:33.125357",
+  "download_filename": "chronolog_service-1.0.4.tar.gz",
+  "download_time": "2025-08-07T11:45:59.161783",
   "package_url": "https://pypi.org/project/chronolog-service/"
 }

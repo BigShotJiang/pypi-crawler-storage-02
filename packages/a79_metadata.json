@@ -1,11 +1,11 @@
 {
   "name": "a79",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A79 AI Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a79-0.2.3.tar.gz",
-  "download_time": "2025-08-07T11:28:22.286608",
+  "download_filename": "a79-0.2.4.tar.gz",
+  "download_time": "2025-08-07T11:45:51.746987",
   "package_url": "https://pypi.org/project/a79/"
 }

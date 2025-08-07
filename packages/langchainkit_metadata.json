@@ -1,0 +1,11 @@
+{
+  "name": "langchainkit",
+  "version": "0.1.0",
+  "summary": "A Python toolkit for working with Large Language Models (LLMs) using LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchainkit-0.1.0.tar.gz",
+  "download_time": "2025-08-07T11:45:56.013932",
+  "package_url": "https://pypi.org/project/langchainkit/"
+}

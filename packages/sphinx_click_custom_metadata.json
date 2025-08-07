@@ -1,0 +1,11 @@
+{
+  "name": "sphinx_click_custom",
+  "version": "0.3.0",
+  "summary": "Sphinx extension for documenting Click commands with custom get_help() methods.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_click_custom-0.3.0.tar.gz",
+  "download_time": "2025-08-07T11:46:05.417443",
+  "package_url": "https://pypi.org/project/sphinx_click_custom/"
+}

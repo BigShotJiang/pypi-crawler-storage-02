@@ -1,0 +1,11 @@
+{
+  "name": "adbpg-mcp-server-test",
+  "version": "0.1.8",
+  "summary": "MCP server for AnalyticDB PostgreSQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adbpg_mcp_server_test-0.1.8.tar.gz",
+  "download_time": "2025-08-07T11:46:14.824225",
+  "package_url": "https://pypi.org/project/adbpg-mcp-server-test/"
+}
