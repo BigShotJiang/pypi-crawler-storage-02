@@ -1,0 +1,11 @@
+{
+  "name": "BBDecoder",
+  "version": "1.1.1",
+  "summary": "Analysis of Pytorch Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bbdecoder-1.1.1.tar.gz",
+  "download_time": "2025-08-07T12:59:22.234920",
+  "package_url": "https://pypi.org/project/BBDecoder/"
+}

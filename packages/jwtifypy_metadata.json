@@ -1,0 +1,11 @@
+{
+  "name": "jwtifypy",
+  "version": "0.2.1",
+  "summary": "Lightweight and extensible Python library for generating and verifying JWT tokens with multiple algorithms (HS256, ES256, RS256, etc.). Built on PyJWT, it provides an intuitive interface, flexible configuration, and secure key storage.",
+  "author": "LordCode",
+  "license": "MIT",
+  "home_page": "https://github.com/lordcod/jwtifypy",
+  "download_filename": "jwtifypy-0.2.1.tar.gz",
+  "download_time": "2025-08-07T12:59:14.850512",
+  "package_url": "https://pypi.org/project/jwtifypy/"
+}

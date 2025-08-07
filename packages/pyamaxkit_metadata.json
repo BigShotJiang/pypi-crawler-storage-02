@@ -1,11 +1,11 @@
 {
   "name": "pyamaxkit",
-  "version": "1.0.6",
-  "summary": "Python Toolkit for EOS",
+  "version": "1.0.8",
+  "summary": "Python Toolkit for AMAX",
   "author": "learnforpractice",
   "license": "MIT",
   "home_page": "https://github.com/AMAX-DAO-DEV/pyamaxkit",
-  "download_filename": "pyamaxkit-1.0.6.tar.gz",
-  "download_time": "2025-08-06T08:35:14.418472",
+  "download_filename": "pyamaxkit-1.0.8.tar.gz",
+  "download_time": "2025-08-07T12:59:08.391573",
   "package_url": "https://pypi.org/project/pyamaxkit/"
 }

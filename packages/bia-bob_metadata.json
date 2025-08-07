@@ -1,11 +1,11 @@
 {
   "name": "bia-bob",
-  "version": "0.34.2",
+  "version": "0.34.3",
   "summary": "A Jupyter-based assistant for image data analysis tasks",
   "author": "Robert Haase, Christian Tischer",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/haesleinhuepf/bia-bob",
-  "download_filename": "bia_bob-0.34.2.tar.gz",
-  "download_time": "2025-08-07T09:44:02.497681",
+  "download_filename": "bia_bob-0.34.3.tar.gz",
+  "download_time": "2025-08-07T12:59:51.078179",
   "package_url": "https://pypi.org/project/bia-bob/"
 }

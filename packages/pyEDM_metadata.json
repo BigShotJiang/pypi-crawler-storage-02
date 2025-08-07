@@ -1,0 +1,11 @@
+{
+  "name": "pyEDM",
+  "version": "2.2.3",
+  "summary": "Python/Pandas toolset for Empirical Dynamic Modeling.",
+  "author": null,
+  "license": "Copyright 2019 The Regents of the University of California.\n        All Rights Reserved.\n        \n        Permission to copy, modify, and distribute this software and its\n        documentation for educational, research and non-profit purposes,\n        without fee, and without a written agreement is hereby granted,\n        provided that the above copyright notice, this paragraph and the\n        following three paragraphs appear in all copies.\n        \n        Those desiring to incorporate this software into commercial products\n        or use for commercial purposes should contact:\n        \n        Office of Innovation & Commercialization\n        University of California, San Diego\n        9500 Gilman Drive, Mail Code 0910\n        La Jolla, CA 92093-0910\n        Ph: (858) 534-5815, FAX: (858) 534-7345\n        E-MAIL:invent@ucsd.edu.\n        \n        IN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY\n        PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL\n        DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS\n        SOFTWARE, EVEN IF THE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED\n        OF THE POSSIBILITY OF SUCH DAMAGE.\n         \n        THE SOFTWARE PROVIDED HEREIN IS ON AN \"AS IS\" BASIS, AND THE\n        UNIVERSITY OF CALIFORNIA HAS NO OBLIGATION TO PROVIDE MAINTENANCE,\n        SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.  THE UNIVERSITY\n        OF CALIFORNIA MAKES NO REPRESENTATIONS AND EXTENDS NO WARRANTIES\n        OF ANY KIND, EITHER IMPLIED OR EXPRESS, INCLUDING, BUT NOT LIMITED\n        TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A\n        PARTICULAR PURPOSE, OR THAT THE USE OF THE SOFTWARE WILL NOT\n        INFRINGE ANY PATENT, TRADEMARK OR OTHER RIGHTS.\n        ",
+  "home_page": null,
+  "download_filename": "pyedm-2.2.3.tar.gz",
+  "download_time": "2025-08-07T12:59:43.745091",
+  "package_url": "https://pypi.org/project/pyEDM/"
+}
