@@ -1,0 +1,11 @@
+{
+  "name": "hh-creator",
+  "version": "0.2.0",
+  "summary": "A poker hand history creator/replayer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hh_creator-0.2.0.tar.gz",
+  "download_time": "2025-08-07T04:50:31.746285",
+  "package_url": "https://pypi.org/project/hh-creator/"
+}

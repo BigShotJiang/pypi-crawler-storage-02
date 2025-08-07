@@ -1,11 +1,11 @@
 {
   "name": "vechord",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "VectorChord Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vechord-0.2.0.tar.gz",
-  "download_time": "2025-08-04T11:22:15.924276",
+  "download_filename": "vechord-0.2.1.tar.gz",
+  "download_time": "2025-08-07T04:50:47.471207",
   "package_url": "https://pypi.org/project/vechord/"
 }

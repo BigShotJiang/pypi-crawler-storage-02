@@ -1,0 +1,11 @@
+{
+  "name": "crypto-monitor",
+  "version": "0.1.2",
+  "summary": "Lightweight real-time cryptocurrency market monitor via WebSocket",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/SerenaTradingResearch/crypto-monitor",
+  "download_filename": "crypto_monitor-0.1.2.tar.gz",
+  "download_time": "2025-08-07T04:50:34.409138",
+  "package_url": "https://pypi.org/project/crypto-monitor/"
+}
