@@ -1,11 +1,11 @@
 {
   "name": "pytest-htmlx",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Custom HTML report plugin for Pytest with charts and tables",
   "author": "Devaraju Garigapati",
   "license": "MIT",
-  "home_page": "https://github.com/devgarigapati/pytest-htmlx",
-  "download_filename": "pytest_htmlx-0.3.0.tar.gz",
-  "download_time": "2025-08-07T07:29:25.859102",
+  "home_page": "https://github.com/devrajug/pytest-htmlx",
+  "download_filename": "pytest_htmlx-0.3.1.tar.gz",
+  "download_time": "2025-08-07T07:49:34.249531",
   "package_url": "https://pypi.org/project/pytest-htmlx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-oceanbasepro",
+  "version": "1.0.31",
+  "summary": "The oceanbasepro module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-oceanbasepro-1.0.31.tar.gz",
+  "download_time": "2025-08-07T07:49:39.598631",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-oceanbasepro/"
+}

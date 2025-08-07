@@ -1,0 +1,11 @@
+{
+  "name": "betatelsdk",
+  "version": "0.0.6",
+  "summary": "An SDK for Betatel services",
+  "author": "Betatel LTD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "betatelsdk-0.0.6.tar.gz",
+  "download_time": "2025-08-07T07:49:27.369247",
+  "package_url": "https://pypi.org/project/betatelsdk/"
+}

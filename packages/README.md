@@ -1,24 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-07T07:30:08.793703
-- **Total Packages**: 84
-- **Total Size**: 56.05 MB
+- **Download Time**: 2025-08-07T07:50:03.081690
+- **Total Packages**: 80
+- **Total Size**: 10.45 MB
 
 ## Packages List
+- obiguard-trace-python-sdk
+- mlx
+- rovr
+- openfund-taker
+- openfund-maker
+- openfund-core
+- django-container-manager
+- zhenglin
+- xloft
+- speechflow
+- fdq
+- itk-dev-shared-components
+- kfst-rs
+- sunrise6g-opensdk
+- odoo-addon-stock-inventory
+- log-soso
+- betatelsdk
+- poetry-polylith-plugin
+- polylith-cli
+- otel-file-exporter
+- nebula-client
+- dpgen
+- ai-develop-assistant
+- revornix
+- apiflood
+- pyagentic-core
+- nrl-sdk-lib
+- pixify
+- pytest-htmlx
+- smartutils-py
+- openrouter-haystack
+- toomanythreads
+- maweng
+- myne
+- cognite-toolkit
+- voidwalking
+- aipyapp
+- aliyun-python-sdk-oceanbasepro
+- tk-base-utils
+- pchjlib
+- latex-builder
+- compute-horde-sdk
 - caffeinism-utils
 - odigos-opentelemetry-python
 - messenger-logger-callback
-- maweng
 - gllm-inference-binary
-- pytest-htmlx
 - solidkit
 - mcp-server-gaokao
 - drf-sso-dev-internal
 - harmony-midi-token
 - bootwrap
 - gm
-- speechflow
 - pypjt
 - feldera
 - google-genai-haystack
@@ -47,46 +86,3 @@
 - wmill-pg
 - ebesha-core-engine
 - wmill
-- windmill-api
-- django-queryable-properties
-- tree-sitter-yarn-spinner
-- django-container-manager
-- lazy-mysql
-- terrakio-admin-api
-- streamlit-nightly
-- terrakio-api
-- django-parlor
-- terrakio-core
-- jst-django-core
-- pchjlib
-- tapestrysdk
-- s2v-client
-- highlighter-sdk
-- ISSMOEX
-- agomax
-- nuql
-- KnotLinkClient-Py
-- IservMultiTabReportsLib
-- mkdocs-mcp-plugin
-- llm-to-invoke
-- app-tools-zxw
-- saber-em
-- quarkcircuit
-- twin4build
-- psplib
-- ecl-logging-utility
-- fastapi-lsoft
-- itgeeker
-- cs2tracker
-- custom-call-for-llm
-- jupyterlab-nbqueue
-- tf-models-nightly
-- nebula-client
-- localcosmos-app-kit
-- odoo-addon-account-credit-control
-- odoo-addon-account-credit-control-queue-job
-- atk-common
-- localcosmos-server
-- loggerutility
-- pytpro
-- crypto-monitor

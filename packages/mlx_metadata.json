@@ -1,11 +1,11 @@
 {
   "name": "mlx",
-  "version": "0.27.1",
+  "version": "0.28.0",
   "summary": "A framework for machine learning on Apple silicon.",
   "author": "MLX Contributors",
   "license": "MIT",
   "home_page": "https://github.com/ml-explore/mlx",
-  "download_filename": "mlx-0.27.1-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-08-04T23:24:46.081049",
+  "download_filename": "mlx-0.28.0-cp311-cp311-macosx_14_0_arm64.whl",
+  "download_time": "2025-08-07T07:49:19.248651",
   "package_url": "https://pypi.org/project/mlx/"
 }

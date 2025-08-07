@@ -1,0 +1,11 @@
+{
+  "name": "otel-file-exporter",
+  "version": "0.1.0",
+  "summary": "Lightweight OpenTelemetry file exporter that writes traces, logs and metrics to local JSON Lines files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otel_file_exporter-0.1.0.tar.gz",
+  "download_time": "2025-08-07T07:49:28.938161",
+  "package_url": "https://pypi.org/project/otel-file-exporter/"
+}
