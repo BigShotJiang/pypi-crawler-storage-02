@@ -1,11 +1,11 @@
 {
   "name": "portablesource",
-  "version": "0.1.2.post4",
+  "version": "0.1.2.post5",
   "summary": "Library for portable source!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "portablesource-0.1.2.post4-py3-none-any.whl",
-  "download_time": "2025-08-05T19:03:45.593938",
+  "download_filename": "portablesource-0.1.2.post5-py3-none-any.whl",
+  "download_time": "2025-08-07T17:02:30.202868",
   "package_url": "https://pypi.org/project/portablesource/"
 }

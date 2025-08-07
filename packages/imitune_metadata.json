@@ -1,0 +1,11 @@
+{
+  "name": "imitune",
+  "version": "0.2.0",
+  "summary": "An OMA DM client impersonation tool",
+  "author": null,
+  "license": "GPL3",
+  "home_page": null,
+  "download_filename": "imitune-0.2.0.tar.gz",
+  "download_time": "2025-08-07T17:03:06.479733",
+  "package_url": "https://pypi.org/project/imitune/"
+}

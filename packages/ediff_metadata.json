@@ -1,0 +1,11 @@
+{
+  "name": "ediff",
+  "version": "0.6.4",
+  "summary": "Processing of powder electron diffraction patterns",
+  "author": "Mirek Slouf",
+  "license": "MIT",
+  "home_page": "https://github.com/mirekslouf/ediff/",
+  "download_filename": "ediff-0.6.4.tar.gz",
+  "download_time": "2025-08-07T17:02:55.149990",
+  "package_url": "https://pypi.org/project/ediff/"
+}

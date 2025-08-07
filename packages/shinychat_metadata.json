@@ -1,0 +1,11 @@
+{
+  "name": "shinychat",
+  "version": "0.1.0",
+  "summary": "An AI Chat interface for Shiny apps.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinychat-0.1.0.tar.gz",
+  "download_time": "2025-08-07T17:03:05.965716",
+  "package_url": "https://pypi.org/project/shinychat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "captioned-image-dataset-loader",
+  "version": "1.0.0",
+  "summary": "Flexible dataset tool for creating a 🤗 Datasets dataset from image-caption pairs.",
+  "author": "Alex Senden",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "captioned_image_dataset_loader-1.0.0.tar.gz",
+  "download_time": "2025-08-07T17:02:59.796311",
+  "package_url": "https://pypi.org/project/captioned-image-dataset-loader/"
+}

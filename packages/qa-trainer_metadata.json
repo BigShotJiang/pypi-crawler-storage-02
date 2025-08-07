@@ -1,0 +1,11 @@
+{
+  "name": "qa-trainer",
+  "version": "0.1",
+  "summary": "Train QA models from feedback with Optuna hyperparameter tuning",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qa_trainer-0.1.tar.gz",
+  "download_time": "2025-08-07T17:02:52.590099",
+  "package_url": "https://pypi.org/project/qa-trainer/"
+}

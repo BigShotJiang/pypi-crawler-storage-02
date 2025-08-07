@@ -1,11 +1,11 @@
 {
   "name": "tap-dune",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Singer tap for extracting data from Dune Analytics API",
   "author": "Blueprint Data",
   "license": "Apache-2.0",
   "home_page": "https://github.com/blueprint-data/tap-dune",
-  "download_filename": "tap_dune-0.2.0.tar.gz",
-  "download_time": "2025-08-07T15:30:20.378078",
+  "download_filename": "tap_dune-0.3.0.tar.gz",
+  "download_time": "2025-08-07T17:03:00.309381",
   "package_url": "https://pypi.org/project/tap-dune/"
 }

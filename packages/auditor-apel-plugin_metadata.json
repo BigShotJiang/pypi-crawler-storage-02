@@ -1,0 +1,11 @@
+{
+  "name": "auditor-apel-plugin",
+  "version": "0.10.0",
+  "summary": "AUDITOR plugin for sending accounting data to APEL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auditor_apel_plugin-0.10.0.tar.gz",
+  "download_time": "2025-08-07T17:02:22.487008",
+  "package_url": "https://pypi.org/project/auditor-apel-plugin/"
+}
