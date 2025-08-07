@@ -1,11 +1,11 @@
 {
   "name": "maleo-soma",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "Core package for MaleoSuite",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maleo_soma-0.1.29.tar.gz",
-  "download_time": "2025-08-07T04:50:18.290495",
+  "download_filename": "maleo_soma-0.1.30.tar.gz",
+  "download_time": "2025-08-07T05:33:16.871234",
   "package_url": "https://pypi.org/project/maleo-soma/"
 }

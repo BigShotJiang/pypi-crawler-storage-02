@@ -1,11 +1,11 @@
 {
   "name": "task-agents-mcp",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "summary": "Multi-tool MCP server for specialized AI agents - each agent as its own tool",
   "author": "vredrick",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "task_agents_mcp-2.9.0.tar.gz",
-  "download_time": "2025-08-06T21:22:54.398227",
+  "download_filename": "task_agents_mcp-2.9.1.tar.gz",
+  "download_time": "2025-08-07T05:33:24.713960",
   "package_url": "https://pypi.org/project/task-agents-mcp/"
 }

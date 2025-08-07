@@ -1,11 +1,11 @@
 {
   "name": "polymind",
-  "version": "0.0.63",
+  "version": "0.0.64",
   "summary": "PolyMind is a customizable collaborative multi-agent framework for collective intelligence and distributed problem solving.",
   "author": "TechTao",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polymind-0.0.63.tar.gz",
-  "download_time": "2025-08-06T15:50:08.556830",
+  "download_filename": "polymind-0.0.64.tar.gz",
+  "download_time": "2025-08-07T05:33:20.987873",
   "package_url": "https://pypi.org/project/polymind/"
 }

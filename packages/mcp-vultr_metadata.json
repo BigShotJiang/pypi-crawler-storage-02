@@ -1,0 +1,11 @@
+{
+  "name": "mcp-vultr",
+  "version": "2.0.2",
+  "summary": "A comprehensive Model Context Protocol (MCP) server for managing Vultr DNS records",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_vultr-2.0.2.tar.gz",
+  "download_time": "2025-08-07T05:33:14.346712",
+  "package_url": "https://pypi.org/project/mcp-vultr/"
+}

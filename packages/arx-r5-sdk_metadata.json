@@ -1,11 +1,11 @@
 {
   "name": "arx-r5-sdk",
-  "version": "0.7.4",
+  "version": "1.0.0",
   "summary": "ARX R5 Robotic Arm SDK",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "arx_r5_sdk-0.7.4.tar.gz",
-  "download_time": "2025-08-07T04:50:39.315075",
+  "download_filename": "arx_r5_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-07T05:33:04.335747",
   "package_url": "https://pypi.org/project/arx-r5-sdk/"
 }

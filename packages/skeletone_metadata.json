@@ -1,0 +1,11 @@
+{
+  "name": "skeletone",
+  "version": "0.1.14",
+  "summary": "CLI for services template for Python (FastAPI, SQLAlchemy, Alembic)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skeletone-0.1.14.tar.gz",
+  "download_time": "2025-08-07T05:32:56.969621",
+  "package_url": "https://pypi.org/project/skeletone/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pybrv",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "Python Business Rule Validator",
   "author": "Puneet Taneja",
   "license": null,
   "home_page": null,
-  "download_filename": "pybrv-0.6.3.tar.gz",
-  "download_time": "2025-08-07T04:50:23.037484",
+  "download_filename": "pybrv-0.6.4.tar.gz",
+  "download_time": "2025-08-07T05:33:19.825456",
   "package_url": "https://pypi.org/project/pybrv/"
 }

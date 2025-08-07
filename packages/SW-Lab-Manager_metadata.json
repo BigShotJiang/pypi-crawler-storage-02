@@ -1,11 +1,11 @@
 {
   "name": "SW-Lab-Manager",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A simple lab management system.",
   "author": "sagi",
   "license": null,
   "home_page": "https://github.com/sagist11/SW-Lab-Manager",
-  "download_filename": "sw_lab_manager-0.0.1.tar.gz",
-  "download_time": "2025-08-05T06:50:06.539437",
+  "download_filename": "sw_lab_manager-0.0.3.tar.gz",
+  "download_time": "2025-08-07T05:33:24.075380",
   "package_url": "https://pypi.org/project/SW-Lab-Manager/"
 }

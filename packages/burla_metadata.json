@@ -1,0 +1,11 @@
+{
+  "name": "burla",
+  "version": "1.1.5",
+  "summary": "Scale your program across 1000s of computers with one line of code.",
+  "author": "Jake Zuliani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "burla-1.1.5.tar.gz",
+  "download_time": "2025-08-07T05:33:21.590914",
+  "package_url": "https://pypi.org/project/burla/"
+}
