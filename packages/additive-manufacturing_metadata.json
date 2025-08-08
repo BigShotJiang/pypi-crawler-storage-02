@@ -1,11 +1,11 @@
 {
   "name": "additive-manufacturing",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Package for additive manufacturing related tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "additive_manufacturing-0.0.4.tar.gz",
-  "download_time": "2025-08-08T13:42:34.336310",
+  "download_filename": "additive_manufacturing-0.0.6.tar.gz",
+  "download_time": "2025-08-08T16:34:49.741804",
   "package_url": "https://pypi.org/project/additive-manufacturing/"
 }

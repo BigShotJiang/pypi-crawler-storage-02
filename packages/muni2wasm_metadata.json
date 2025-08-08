@@ -1,11 +1,11 @@
 {
   "name": "muni2wasm",
-  "version": "0.1.0",
+  "version": "0.1.0.post0",
   "summary": "Muni compiler frontend targeting WebAssembly",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muni2wasm-0.1.0.tar.gz",
-  "download_time": "2025-08-08T15:33:39.556666",
+  "download_filename": "muni2wasm-0.1.0.post0.tar.gz",
+  "download_time": "2025-08-08T16:34:36.805386",
   "package_url": "https://pypi.org/project/muni2wasm/"
 }

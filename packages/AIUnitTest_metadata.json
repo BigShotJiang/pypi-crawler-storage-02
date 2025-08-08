@@ -1,11 +1,11 @@
 {
   "name": "AIUnitTest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "CLI to generate and update Python unit tests automatically using coverage and AI",
   "author": "Ofido",
   "license": null,
   "home_page": null,
-  "download_filename": "aiunittest-0.0.1.tar.gz",
-  "download_time": "2025-08-07T23:26:05.906663",
+  "download_filename": "aiunittest-0.0.2.tar.gz",
+  "download_time": "2025-08-08T16:34:39.132972",
   "package_url": "https://pypi.org/project/AIUnitTest/"
 }

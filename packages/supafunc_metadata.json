@@ -1,0 +1,11 @@
+{
+  "name": "supafunc",
+  "version": "0.10.2",
+  "summary": "Library for Supabase Functions",
+  "author": "Joel Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/supabase/functions-py",
+  "download_filename": "supafunc-0.10.2.tar.gz",
+  "download_time": "2025-08-08T16:34:56.502162",
+  "package_url": "https://pypi.org/project/supafunc/"
+}

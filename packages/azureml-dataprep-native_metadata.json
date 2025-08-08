@@ -1,0 +1,11 @@
+{
+  "name": "azureml-dataprep-native",
+  "version": "42.1.0",
+  "summary": "Contains package for AzureML DataPrep specific native extensions.",
+  "author": "Microsoft Corporation",
+  "license": null,
+  "home_page": "http://aka.ms/data-prep-sdk",
+  "download_filename": "azureml_dataprep_native-42.1.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-08T16:34:52.550228",
+  "package_url": "https://pypi.org/project/azureml-dataprep-native/"
+}

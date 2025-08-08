@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T15:58:50.303325
-- **Total Packages**: 80
-- **Total Size**: 65.38 MB
+- **Download Time**: 2025-08-08T16:35:30.425249
+- **Total Packages**: 86
+- **Total Size**: 10.53 MB
 
 ## Packages List
+- ytp-dl
+- muni2wasm
+- escudeiro
+- rusty-todo-md
+- nvidia-nat-opentelemetry
+- AIUnitTest
+- nvidia-nat-phoenix
+- physicell-settings
+- nvidia-nat-mem0ai
+- zafiaonline
+- youtube-thumbnail-generator
+- geocodio-library-python
+- nvidia-nat-mysql
+- promptlyzer
+- nvidia-nat-crewai
+- nvidia-nat-agno
+- qollage
+- nvidia-nat-llama-index
+- nvidia-nat-redis
+- nvidia-nat-langchain
+- nvidia-nat-zep-cloud
+- nvidia-nat-s3
+- additive-manufacturing
+- nvidia-nat-ragaai
+- nvidia-nat-weave
+- fhir-flex
+- nvidia-nat-semantic-kernel
+- azureml-dataprep-native
+- localstack-core
+- kenning-cli
+- nvidia-nat-test
+- super-job-wizard
+- GALINDA
+- sage-agent-internal
+- supafunc
 - leaf-diag
 - logfire-mcp
 - forgeevent
@@ -18,7 +53,6 @@
 - mulch
 - chik-rs
 - epeira
-- zafiaonline
 - marine-omics
 - onkopus
 - rumdl
@@ -40,10 +74,10 @@
 - odoo14-addon-ssi-elearning
 - policyengine-us-data
 - pbi-mermaid
-- fhir-flex
 - otf-api
 - pbi-core
 - logaid
+- passagemath-topcom
 - passagemath-tdlib
 - most-client
 - passagemath-tachyon
@@ -52,37 +86,9 @@
 - passagemath-standard-no-symbolics
 - dramatiq_sqs_batch
 - passagemath-sirocco
+- passagemath-singular
+- passagemath-schemes
 - passagemath-rubiks
 - passagemath-qepcad
-- GALINDA
 - passagemath-polyhedra
 - redis-limiters
-- passagemath-plantri
-- fairmofsyncondition
-- vital
-- python-parakeet
-- passagemath-palp
-- pecos-rslib
-- argo-tugboat
-- logos-cdi
-- sage-agent-internal
-- tt-burnin
-- tt-flash
-- passagemath-ntl
-- intentkit
-- passagemath-nauty
-- signal-petrophysics
-- mybox
-- canoaicli
-- passagemath-msolve
-- nvidia-nat
-- jao-py
-- seqerakit
-- passagemath-meataxe
-- LayerZero
-- prek
-- passagemath-mcqd
-- pyegeria
-- passagemath-lrslib
-- dsa-helpers
-- pynxtools-em
