@@ -1,0 +1,11 @@
+{
+  "name": "woodglue",
+  "version": "0.0.1",
+  "summary": "Self documenting opinionated async server that host logic and data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "woodglue-0.0.1.tar.gz",
+  "download_time": "2025-08-08T06:48:59.308404",
+  "package_url": "https://pypi.org/project/woodglue/"
+}

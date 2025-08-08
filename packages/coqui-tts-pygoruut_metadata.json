@@ -1,0 +1,11 @@
+{
+  "name": "coqui-tts-pygoruut",
+  "version": "0.27.3",
+  "summary": "Deep learning for Text to Speech.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "coqui_tts_pygoruut-0.27.3.tar.gz",
+  "download_time": "2025-08-08T06:49:40.312433",
+  "package_url": "https://pypi.org/project/coqui-tts-pygoruut/"
+}

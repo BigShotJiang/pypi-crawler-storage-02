@@ -1,11 +1,11 @@
 {
   "name": "rpa-common",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "summary": "RPA automated execution program for Common",
   "author": "Zhongshuizhou",
   "license": null,
   "home_page": "https://pypi.org/project/rpa-common/",
-  "download_filename": "rpa_common-1.0.7.tar.gz",
-  "download_time": "2025-08-07T06:49:13.874746",
+  "download_filename": "rpa_common-1.0.10-py3-none-any.whl",
+  "download_time": "2025-08-08T06:48:58.154317",
   "package_url": "https://pypi.org/project/rpa-common/"
 }
