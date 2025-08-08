@@ -1,11 +1,11 @@
 {
   "name": "NeZha2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "将二进制魔丸数据转换为GIF动画",
   "author": "ququ",
   "license": "MIT",
   "home_page": "https://github.com/ququ85005702/NeZha2",
-  "download_filename": "nezha2-0.1.1.tar.gz",
-  "download_time": "2025-08-08T11:45:11.133742",
+  "download_filename": "nezha2-0.1.2.tar.gz",
+  "download_time": "2025-08-08T14:02:34.636898",
   "package_url": "https://pypi.org/project/NeZha2/"
 }
