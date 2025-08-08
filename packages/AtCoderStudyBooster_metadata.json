@@ -1,0 +1,11 @@
+{
+  "name": "AtCoderStudyBooster",
+  "version": "0.4.0",
+  "summary": "A tool to download and manage AtCoder problems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atcoderstudybooster-0.4.0.tar.gz",
+  "download_time": "2025-08-08T04:51:42.338338",
+  "package_url": "https://pypi.org/project/AtCoderStudyBooster/"
+}

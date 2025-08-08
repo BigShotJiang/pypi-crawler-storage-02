@@ -1,11 +1,11 @@
 {
   "name": "jupiter-nacos-client",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Simple nacos client package",
   "author": "tkiyer",
   "license": "Apache License",
   "home_page": "https://github.com/JupiterData-AI/jupiter-nacos-python",
-  "download_filename": "jupiter_nacos_client-1.0.2.tar.gz",
-  "download_time": "2025-08-08T03:54:38.181576",
+  "download_filename": "jupiter_nacos_client-1.0.4.tar.gz",
+  "download_time": "2025-08-08T04:51:24.471648",
   "package_url": "https://pypi.org/project/jupiter-nacos-client/"
 }

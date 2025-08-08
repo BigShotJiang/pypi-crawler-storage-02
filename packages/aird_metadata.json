@@ -1,11 +1,11 @@
 {
   "name": "aird",
-  "version": "0.1",
+  "version": "0.2.0",
   "summary": "Aird - A lightweight web-based file browser and streamer",
   "author": "Viswantha Srinivas P",
-  "license": null,
-  "home_page": null,
-  "download_filename": "aird-0.1.tar.gz",
-  "download_time": "2025-08-07T20:57:40.437336",
+  "license": "Custom",
+  "home_page": "https://github.com/blinkerbit/aird",
+  "download_filename": "aird-0.2.0.tar.gz",
+  "download_time": "2025-08-08T04:51:27.371340",
   "package_url": "https://pypi.org/project/aird/"
 }

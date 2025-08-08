@@ -1,11 +1,11 @@
 {
   "name": "dhis2api",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "summary": "A simple Python Wrapper for downloading DHIS2 server data.",
   "author": "Charlie Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "dhis2api-0.1.2.tar.gz",
-  "download_time": "2025-08-04T19:03:20.811606",
+  "download_filename": "dhis2api-0.2.2.tar.gz",
+  "download_time": "2025-08-08T04:51:23.277430",
   "package_url": "https://pypi.org/project/dhis2api/"
 }

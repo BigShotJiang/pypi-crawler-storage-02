@@ -1,0 +1,11 @@
+{
+  "name": "zipsearch",
+  "version": "1.1.0",
+  "summary": "Updated efficient lookup based on uszipcode",
+  "author": "kydoimos97",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zipsearch-1.1.0.tar.gz",
+  "download_time": "2025-08-08T04:52:09.674514",
+  "package_url": "https://pypi.org/project/zipsearch/"
+}

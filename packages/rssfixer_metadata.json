@@ -1,0 +1,11 @@
+{
+  "name": "rssfixer",
+  "version": "0.2.16",
+  "summary": "Generate RSS feed for Wordpress blog without it.",
+  "author": "Peter Reuterås",
+  "license": "MIT",
+  "home_page": "https://github.com/reuteras/rssfixer",
+  "download_filename": "rssfixer-0.2.16.tar.gz",
+  "download_time": "2025-08-08T04:52:11.490424",
+  "package_url": "https://pypi.org/project/rssfixer/"
+}

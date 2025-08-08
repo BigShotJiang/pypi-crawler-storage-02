@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-api-autonav",
+  "version": "0.3.1",
+  "summary": "Autogenerate API docs with mkdocstrings, including nav",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mkdocs_api_autonav-0.3.1.tar.gz",
+  "download_time": "2025-08-08T04:52:10.902669",
+  "package_url": "https://pypi.org/project/mkdocs-api-autonav/"
+}

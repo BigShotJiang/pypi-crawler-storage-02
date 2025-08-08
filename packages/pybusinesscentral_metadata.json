@@ -1,0 +1,11 @@
+{
+  "name": "pybusinesscentral",
+  "version": "3.4.0",
+  "summary": "(v2.0) Dynamics 365 Business Central",
+  "author": "Uptick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybusinesscentral-3.4.0.tar.gz",
+  "download_time": "2025-08-08T04:51:42.913879",
+  "package_url": "https://pypi.org/project/pybusinesscentral/"
+}
