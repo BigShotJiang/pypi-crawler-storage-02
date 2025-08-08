@@ -1,0 +1,11 @@
+{
+  "name": "tensorfi-sharpe",
+  "version": "0.1.15",
+  "summary": "Financial data access and analysis library with market data, options calculations, and database integration",
+  "author": "rwang",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/wang-sanity/sharpe",
+  "download_filename": "tensorfi_sharpe-0.1.15.tar.gz",
+  "download_time": "2025-08-08T19:23:55.985093",
+  "package_url": "https://pypi.org/project/tensorfi-sharpe/"
+}

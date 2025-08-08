@@ -1,0 +1,11 @@
+{
+  "name": "pretty-json-loguru",
+  "version": "0.2.3",
+  "summary": "Pretty Python JSON logs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pretty_json_loguru-0.2.3.tar.gz",
+  "download_time": "2025-08-08T19:24:05.966149",
+  "package_url": "https://pypi.org/project/pretty-json-loguru/"
+}

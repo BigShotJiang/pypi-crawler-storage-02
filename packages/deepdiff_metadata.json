@@ -1,0 +1,11 @@
+{
+  "name": "deepdiff",
+  "version": "8.6.0",
+  "summary": "Deep Difference and Search of any Python object/data. Recreate objects by adding adding deltas to each other.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepdiff-8.6.0.tar.gz",
+  "download_time": "2025-08-08T19:24:23.716365",
+  "package_url": "https://pypi.org/project/deepdiff/"
+}

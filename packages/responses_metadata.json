@@ -1,0 +1,11 @@
+{
+  "name": "responses",
+  "version": "0.25.8",
+  "summary": "A utility library for mocking out the `requests` Python library.",
+  "author": "David Cramer",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/getsentry/responses",
+  "download_filename": "responses-0.25.8.tar.gz",
+  "download_time": "2025-08-08T19:24:22.636851",
+  "package_url": "https://pypi.org/project/responses/"
+}
