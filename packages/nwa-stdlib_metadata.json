@@ -1,0 +1,11 @@
+{
+  "name": "nwa-stdlib",
+  "version": "1.10.2",
+  "summary": "The NWA-stdlib module.",
+  "author": "SURF",
+  "license": null,
+  "home_page": "https://github.com/workfloworchestrator/nwa-stdlib",
+  "download_filename": "nwa_stdlib-1.10.2.tar.gz",
+  "download_time": "2025-08-08T07:29:36.198212",
+  "package_url": "https://pypi.org/project/nwa-stdlib/"
+}

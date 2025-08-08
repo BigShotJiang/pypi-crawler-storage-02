@@ -1,0 +1,11 @@
+{
+  "name": "lsrestclient",
+  "version": "3.3.1",
+  "summary": "REST Api Client",
+  "author": "mba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsrestclient-3.3.1.tar.gz",
+  "download_time": "2025-08-08T07:29:36.709806",
+  "package_url": "https://pypi.org/project/lsrestclient/"
+}

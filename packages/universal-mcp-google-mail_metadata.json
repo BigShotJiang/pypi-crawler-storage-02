@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-google-mail",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "A Universal MCP Application: universal_mcp_google_mail",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_google_mail-0.1.19.tar.gz",
-  "download_time": "2025-08-07T14:29:01.991935",
+  "download_filename": "universal_mcp_google_mail-0.1.20.tar.gz",
+  "download_time": "2025-08-08T07:29:54.746611",
   "package_url": "https://pypi.org/project/universal-mcp-google-mail/"
 }

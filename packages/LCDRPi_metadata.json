@@ -1,0 +1,11 @@
+{
+  "name": "LCDRPi",
+  "version": "1.0.0",
+  "summary": "Esta librería es para el manejo de pantallas LCD en la Raspberry Pi",
+  "author": "Esteban, herrerazanecheverry@gmail.com",
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "lcdrpi-1.0.0.tar.gz",
+  "download_time": "2025-08-08T07:30:08.283160",
+  "package_url": "https://pypi.org/project/LCDRPi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gemseo-umdo",
+  "version": "4.2.0",
+  "summary": "Robust MDO and advanced UQ with GEMSEO.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemseo_umdo-4.2.0.tar.gz",
+  "download_time": "2025-08-08T07:29:39.311755",
+  "package_url": "https://pypi.org/project/gemseo-umdo/"
+}

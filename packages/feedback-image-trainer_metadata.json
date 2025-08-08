@@ -1,0 +1,11 @@
+{
+  "name": "feedback-image-trainer",
+  "version": "0.1.0",
+  "summary": "Fine-tune Stable Diffusion with feedback-driven Optuna hyperparameter search",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feedback_image_trainer-0.1.0.tar.gz",
+  "download_time": "2025-08-08T07:29:50.114044",
+  "package_url": "https://pypi.org/project/feedback-image-trainer/"
+}

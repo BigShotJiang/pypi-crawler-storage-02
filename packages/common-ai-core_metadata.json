@@ -1,0 +1,11 @@
+{
+  "name": "common-ai-core",
+  "version": "0.1.4",
+  "summary": "A flexible Python framework for building AI chat applications with support for multiple LLM providers including OpenAI, Anthropic, Gemini, DeepSeek, and local Llama models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "common_ai_core-0.1.4.tar.gz",
+  "download_time": "2025-08-08T07:30:02.087529",
+  "package_url": "https://pypi.org/project/common-ai-core/"
+}

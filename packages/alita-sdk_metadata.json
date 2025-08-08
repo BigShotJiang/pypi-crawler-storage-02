@@ -1,11 +1,11 @@
 {
   "name": "alita-sdk",
-  "version": "0.3.215",
+  "version": "0.3.216",
   "summary": "SDK for building langchain agents using resources from Alita",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alita_sdk-0.3.215.tar.gz",
-  "download_time": "2025-08-07T17:02:58.254136",
+  "download_filename": "alita_sdk-0.3.216.tar.gz",
+  "download_time": "2025-08-08T07:29:48.580719",
   "package_url": "https://pypi.org/project/alita-sdk/"
 }
