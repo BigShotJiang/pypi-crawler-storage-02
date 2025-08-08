@@ -1,0 +1,11 @@
+{
+  "name": "agent-connect",
+  "version": "0.3.6",
+  "summary": "An SDK that enables agents to connect with each other, allowing them to perform identity authentication, end-to-end encrypted communication, automatic protocol negotiation based on LLMs, and efficient data exchange.",
+  "author": "changshan",
+  "license": "MIT",
+  "home_page": "https://agent-network-protocol.com/",
+  "download_filename": "agent_connect-0.3.6.tar.gz",
+  "download_time": "2025-08-08T10:58:26.947774",
+  "package_url": "https://pypi.org/project/agent-connect/"
+}

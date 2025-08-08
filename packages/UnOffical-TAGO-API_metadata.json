@@ -1,0 +1,11 @@
+{
+  "name": "UnOffical-TAGO-API",
+  "version": "0.8",
+  "summary": "Unofficial Python wrapper for TAGO Bus API",
+  "author": "hyuntroll",
+  "license": "MIT",
+  "home_page": "https://github.com/hyuntroll/TAGOBus-API",
+  "download_filename": "unoffical_tago_api-0.8.tar.gz",
+  "download_time": "2025-08-08T10:58:28.533860",
+  "package_url": "https://pypi.org/project/UnOffical-TAGO-API/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cypack",
+  "version": "0.0.2.dev7",
+  "summary": "Compile a package in one .so file and remove source code",
+  "author": "liuyvjin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/liuyvjin/cypack",
+  "download_filename": "cypack-0.0.2.dev7-py3-none-any.whl",
+  "download_time": "2025-08-08T10:58:54.933591",
+  "package_url": "https://pypi.org/project/cypack/"
+}

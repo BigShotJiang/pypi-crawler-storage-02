@@ -1,11 +1,11 @@
 {
   "name": "JVLMotor",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A library for JVL motors communication with different protocols",
   "author": "JVL A/S",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jvlmotor-0.0.8.tar.gz",
-  "download_time": "2025-08-08T10:34:14.083477",
+  "download_filename": "jvlmotor-0.0.9.tar.gz",
+  "download_time": "2025-08-08T10:58:40.528577",
   "package_url": "https://pypi.org/project/JVLMotor/"
 }

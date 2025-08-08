@@ -1,0 +1,11 @@
+{
+  "name": "python-taiga-proxies",
+  "version": "1.4.0",
+  "summary": "Taiga python API",
+  "author": "Nephila",
+  "license": "MIT",
+  "home_page": "https://github.com/hassen-doca/python-taiga",
+  "download_filename": "python_taiga_proxies-1.4.0.tar.gz",
+  "download_time": "2025-08-08T10:58:31.172214",
+  "package_url": "https://pypi.org/project/python-taiga-proxies/"
+}

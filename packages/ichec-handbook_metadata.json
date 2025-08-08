@@ -1,0 +1,11 @@
+{
+  "name": "ichec-handbook",
+  "version": "0.2.0",
+  "summary": "Tool to build handbooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ichec_handbook-0.2.0.tar.gz",
+  "download_time": "2025-08-08T10:58:49.810043",
+  "package_url": "https://pypi.org/project/ichec-handbook/"
+}
