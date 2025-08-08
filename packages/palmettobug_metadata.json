@@ -1,0 +1,11 @@
+{
+  "name": "palmettobug",
+  "version": "0.2.6.dev1",
+  "summary": "A GUI for (imaging) mass cyometry analysis predominantly based on the popular Steinbock and CATALYST image processing and data analysis packages and written in customtkinter.",
+  "author": "Ben Caiello",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "palmettobug-0.2.6.dev1.tar.gz",
+  "download_time": "2025-08-08T21:23:37.469278",
+  "package_url": "https://pypi.org/project/palmettobug/"
+}

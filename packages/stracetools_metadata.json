@@ -1,11 +1,11 @@
 {
   "name": "stracetools",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "summary": "A Python library for parsing and analyzing strace output",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stracetools-0.2.0.tar.gz",
-  "download_time": "2025-08-08T19:53:42.880479",
+  "download_filename": "stracetools-1.0.0.tar.gz",
+  "download_time": "2025-08-08T21:23:26.056345",
   "package_url": "https://pypi.org/project/stracetools/"
 }

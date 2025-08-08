@@ -1,0 +1,11 @@
+{
+  "name": "thermo-stability",
+  "version": "0.0.3",
+  "summary": "Thermodynamic stability of chemical compound using DNN.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thermo_stability-0.0.3.tar.gz",
+  "download_time": "2025-08-08T21:23:09.108146",
+  "package_url": "https://pypi.org/project/thermo-stability/"
+}

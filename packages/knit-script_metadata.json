@@ -1,11 +1,11 @@
 {
   "name": "knit-script",
-  "version": "0.1.29",
+  "version": "0.1.31",
   "summary": "Knit Script is a domain specific programming language for writing v-bed knitting machine instructions. The language is loosely based on conventions from Python 3 but includes support for controlling a knitting machine. The code is interpreted into knitout which can then be processed into instructions for different types of knitting machines.",
   "author": "Megan Hofmann",
   "license": "MIT",
   "home_page": "https://mhofmann-khoury.github.io/knit_script/",
-  "download_filename": "knit_script-0.1.29.tar.gz",
-  "download_time": "2025-08-06T20:49:42.530124",
+  "download_filename": "knit_script-0.1.31.tar.gz",
+  "download_time": "2025-08-08T21:22:57.967111",
   "package_url": "https://pypi.org/project/knit-script/"
 }

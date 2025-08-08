@@ -1,0 +1,11 @@
+{
+  "name": "able-recipe",
+  "version": "1.0.16",
+  "summary": "Bluetooth Low Energy for Android",
+  "author": "b3b",
+  "license": "MIT",
+  "home_page": "https://github.com/b3b/able",
+  "download_filename": "able_recipe-1.0.16.tar.gz",
+  "download_time": "2025-08-08T21:23:36.917148",
+  "package_url": "https://pypi.org/project/able-recipe/"
+}

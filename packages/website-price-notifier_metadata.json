@@ -1,0 +1,11 @@
+{
+  "name": "website-price-notifier",
+  "version": "1.1.2",
+  "summary": "A program that scraps websites for prices and notifies you about it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "website_price_notifier-1.1.2.tar.gz",
+  "download_time": "2025-08-08T21:23:19.392557",
+  "package_url": "https://pypi.org/project/website-price-notifier/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ifstate",
-  "version": "1.13.7",
+  "version": "2.0.0",
   "summary": "Manage host interface settings in a declarative manner",
   "author": "Thomas Liske",
   "license": "GPL3+",
   "home_page": "https://ifstate.net/",
-  "download_filename": "ifstate-1.13.7.tar.gz",
-  "download_time": "2025-08-06T20:49:40.282661",
+  "download_filename": "ifstate-2.0.0.tar.gz",
+  "download_time": "2025-08-08T21:23:11.162345",
   "package_url": "https://pypi.org/project/ifstate/"
 }

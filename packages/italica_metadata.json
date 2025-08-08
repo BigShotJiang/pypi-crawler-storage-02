@@ -1,0 +1,11 @@
+{
+  "name": "italica",
+  "version": "1.0.0",
+  "summary": "A simple library for adding markdown-style formatting to print and input functions",
+  "author": "7vntii",
+  "license": "MIT",
+  "home_page": "https://github.com/7vntii/italica",
+  "download_filename": "italica-1.0.0.tar.gz",
+  "download_time": "2025-08-08T21:23:34.848179",
+  "package_url": "https://pypi.org/project/italica/"
+}
