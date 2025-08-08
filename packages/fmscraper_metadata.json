@@ -1,0 +1,11 @@
+{
+  "name": "fmscraper",
+  "version": "0.1.3",
+  "summary": "Scraper for FotMob matches",
+  "author": "Mieszko Pugowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmscraper-0.1.3.tar.gz",
+  "download_time": "2025-08-08T16:59:29.880712",
+  "package_url": "https://pypi.org/project/fmscraper/"
+}

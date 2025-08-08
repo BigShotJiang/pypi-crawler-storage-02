@@ -1,11 +1,11 @@
 {
   "name": "incubator-db",
-  "version": "0.0.6",
+  "version": "0.1.2",
   "summary": "Simple db package for a Incubator",
   "author": "Thiago Meyer",
   "license": null,
   "home_page": null,
-  "download_filename": "incubator_db-0.0.6.tar.gz",
-  "download_time": "2025-08-06T19:33:23.271491",
+  "download_filename": "incubator_db-0.1.2.tar.gz",
+  "download_time": "2025-08-08T16:59:09.621871",
   "package_url": "https://pypi.org/project/incubator-db/"
 }

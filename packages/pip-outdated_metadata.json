@@ -1,0 +1,11 @@
+{
+  "name": "pip-outdated",
+  "version": "0.8.0",
+  "summary": "Find outdated dependencies in your requirements.txt or setup.cfg",
+  "author": "eight",
+  "license": "MIT",
+  "home_page": "https://github.com/eight04/pip-outdated",
+  "download_filename": "pip_outdated-0.8.0.tar.gz",
+  "download_time": "2025-08-08T16:59:12.513442",
+  "package_url": "https://pypi.org/project/pip-outdated/"
+}

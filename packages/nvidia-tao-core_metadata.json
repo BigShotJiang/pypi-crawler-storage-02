@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-tao-core",
+  "version": "6.25.7",
+  "summary": "NVIDIA's package for core modules common across TAO Toolkit DNNs.",
+  "author": "NVIDIA Corporation",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "nvidia_tao_core-6.25.7-py3-none-any.whl",
+  "download_time": "2025-08-08T16:59:42.621068",
+  "package_url": "https://pypi.org/project/nvidia-tao-core/"
+}

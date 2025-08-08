@@ -1,0 +1,11 @@
+{
+  "name": "gremlinpython",
+  "version": "3.7.4",
+  "summary": "Gremlin-Python for Apache TinkerPop",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": "https://tinkerpop.apache.org",
+  "download_filename": "gremlinpython-3.7.4.tar.gz",
+  "download_time": "2025-08-08T16:58:58.634528",
+  "package_url": "https://pypi.org/project/gremlinpython/"
+}

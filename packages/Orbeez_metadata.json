@@ -1,11 +1,11 @@
 {
   "name": "Orbeez",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orbeez-1.1.1.tar.gz",
-  "download_time": "2025-08-07T21:57:33.637159",
+  "download_filename": "orbeez-1.1.3.tar.gz",
+  "download_time": "2025-08-08T16:58:55.801598",
   "package_url": "https://pypi.org/project/Orbeez/"
 }

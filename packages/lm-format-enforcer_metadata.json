@@ -1,11 +1,11 @@
 {
   "name": "lm-format-enforcer",
-  "version": "0.10.12",
+  "version": "0.11.1",
   "summary": "Enforce the output format (JSON Schema, Regex etc) of a language model",
   "author": "Noam Gat",
   "license": "MIT",
   "home_page": "https://github.com/noamgat/lm-format-enforcer",
-  "download_filename": "lm_format_enforcer-0.10.12.tar.gz",
-  "download_time": "2025-08-04T21:24:52.031731",
+  "download_filename": "lm_format_enforcer-0.11.1.tar.gz",
+  "download_time": "2025-08-08T16:58:59.214301",
   "package_url": "https://pypi.org/project/lm-format-enforcer/"
 }
