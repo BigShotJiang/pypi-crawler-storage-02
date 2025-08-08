@@ -1,11 +1,11 @@
 {
   "name": "turbobt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A next generation Bittensor SDK, for Python 3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbobt-0.1.4.tar.gz",
-  "download_time": "2025-08-08T07:29:43.424673",
+  "download_filename": "turbobt-0.1.5.tar.gz",
+  "download_time": "2025-08-08T11:57:08.426461",
   "package_url": "https://pypi.org/project/turbobt/"
 }

@@ -1,12 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T11:45:47.014719
-- **Total Packages**: 82
-- **Total Size**: 26.98 MB
+- **Download Time**: 2025-08-08T11:57:40.414590
+- **Total Packages**: 81
+- **Total Size**: 9.16 MB
 
 ## Packages List
+- agentle
+- mtga-helper
+- near-omni-client
+- mp4svg
+- kpf
+- bloodhound-opengraph
+- adastop
+- supervisely
+- BlazeCache
+- atk-common
+- superagentx-handlers
 - bitquery-pb2-kafka-package
+- pretix-uic-barcode
+- ptmanager
+- matrice
+- prj-tree
+- Mighty-RL
+- odoo-addon-partner-deduplicate-by-website
+- logsentinelai
+- jalansim
+- webu
+- spade
+- turbobt
+- climatrix
+- shancx
+- weaviate-agents
+- project-llm-model
 - fwdi
 - eurogui
 - base-api-utils
@@ -35,13 +61,11 @@
 - pyturso
 - dingent
 - eocube
-- prj-tree
 - pyburn
 - umep
 - mas-cli
 - PVNet_summation
 - email-typo-fixer
-- matrice
 - gemseo-matlab
 - pylint-sort-functions
 - claude-helpers
@@ -63,28 +87,3 @@
 - mcp-email-client-cybergenix
 - camagick
 - yta-timer
-- rdkx5-yolo-mapper
-- PraisonAI
-- metbit
-- commonmeta-py
-- hbrowser
-- connection-helper
-- praisonaiagents
-- codex-as-mcp
-- e-invoice-api
-- yepcode-run
-- yggflix
-- helix.fhir.client.sdk
-- pybotx
-- gestion_fechas
-- amazon-description-scraper
-- colour-cxf
-- cloudburst-fargate
-- youtube-thumbnail-generator
-- tb-nightly
-- nvfuser-cu126
-- nvfuser-cu128
-- busysloths-mlox
-- logsentinelai
-- firefly-sbom-tool
-- NaaVRE-workflow-jupyterlab

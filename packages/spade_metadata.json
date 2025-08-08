@@ -1,0 +1,11 @@
+{
+  "name": "spade",
+  "version": "4.1.2",
+  "summary": "Smart Python Agent Development Environment",
+  "author": "Javi Palanca",
+  "license": "MIT",
+  "home_page": "https://spadeagents.eu",
+  "download_filename": "spade-4.1.2.tar.gz",
+  "download_time": "2025-08-08T11:57:07.915031",
+  "package_url": "https://pypi.org/project/spade/"
+}

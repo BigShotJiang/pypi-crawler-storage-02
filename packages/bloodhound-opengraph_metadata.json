@@ -1,0 +1,11 @@
+{
+  "name": "bloodhound-opengraph",
+  "version": "1.0.0",
+  "summary": "A Python library for creating BloodHound OpenGraph JSON data",
+  "author": "Luke Roberts",
+  "license": null,
+  "home_page": "https://github.com/rookuu/bloodhound-opengraph",
+  "download_filename": "bloodhound_opengraph-1.0.0.tar.gz",
+  "download_time": "2025-08-08T11:56:59.119809",
+  "package_url": "https://pypi.org/project/bloodhound-opengraph/"
+}
