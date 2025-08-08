@@ -1,0 +1,11 @@
+{
+  "name": "argo-tugboat",
+  "version": "0.5.2",
+  "summary": "Streamline your Argo Workflows with precision and confidence",
+  "author": "Tzu-Ting",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "argo_tugboat-0.5.2.tar.gz",
+  "download_time": "2025-08-08T15:58:36.604530",
+  "package_url": "https://pypi.org/project/argo-tugboat/"
+}

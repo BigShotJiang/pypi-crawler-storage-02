@@ -1,0 +1,11 @@
+{
+  "name": "gotrue",
+  "version": "2.12.4",
+  "summary": "Python Client Library for Supabase Auth",
+  "author": "Joel Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/supabase/auth-py",
+  "download_filename": "gotrue-2.12.4.tar.gz",
+  "download_time": "2025-08-08T15:58:05.124102",
+  "package_url": "https://pypi.org/project/gotrue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dramatiq_sqs_batch",
+  "version": "1.0.0",
+  "summary": "A high-performance batch processing broker for AWS SQS with intelligent message splitting",
+  "author": "Jiayun Zhou",
+  "license": "MIT",
+  "home_page": "https://github.com/jiayun/dramatiq_sqs_batch",
+  "download_filename": "dramatiq_sqs_batch-1.0.0.tar.gz",
+  "download_time": "2025-08-08T15:58:28.142559",
+  "package_url": "https://pypi.org/project/dramatiq_sqs_batch/"
+}

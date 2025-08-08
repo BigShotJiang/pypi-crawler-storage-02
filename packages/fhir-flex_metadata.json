@@ -1,0 +1,11 @@
+{
+  "name": "fhir-flex",
+  "version": "2.0.0",
+  "summary": "A flexible library to simplify and map FHIR Patient objects to custom JSON schemas.",
+  "author": "Bhushan Varade",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fhir_flex-2.0.0.tar.gz",
+  "download_time": "2025-08-08T15:58:21.838394",
+  "package_url": "https://pypi.org/project/fhir-flex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "canoaicli",
+  "version": "2.0.0",
+  "summary": "A command-line AI assistant powered by multiple AI providers such as Google Gemini, OpenAI, Anthropic, and DeepSeek",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canoaicli-2.0.0.tar.gz",
+  "download_time": "2025-08-08T15:58:41.929058",
+  "package_url": "https://pypi.org/project/canoaicli/"
+}

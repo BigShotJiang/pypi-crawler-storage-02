@@ -1,0 +1,11 @@
+{
+  "name": "python-parakeet",
+  "version": "0.6.8",
+  "summary": "A phantom generator",
+  "author": "James Parkhurst",
+  "license": "GPL v3",
+  "home_page": "https://github.com/rosalindfranklininstitute/parakeet",
+  "download_filename": "python_parakeet-0.6.8.tar.gz",
+  "download_time": "2025-08-08T15:58:35.000843",
+  "package_url": "https://pypi.org/project/python-parakeet/"
+}
