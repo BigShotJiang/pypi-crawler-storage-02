@@ -1,0 +1,11 @@
+{
+  "name": "discord.py-webhook",
+  "version": "1.0.0",
+  "summary": "A powerful Discord webhook library with extensive customization options",
+  "author": "7",
+  "license": "MIT",
+  "home_page": "https://github.com/7vntii/discord.py-webhook",
+  "download_filename": "discord_py_webhook-1.0.0.tar.gz",
+  "download_time": "2025-08-08T20:28:27.399678",
+  "package_url": "https://pypi.org/project/discord.py-webhook/"
+}

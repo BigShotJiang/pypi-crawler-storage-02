@@ -1,0 +1,11 @@
+{
+  "name": "scientific-spinbox",
+  "version": "1.0.1b1",
+  "summary": "ScientificSpinbox - A Qt widget to manipulate physical quantities",
+  "author": "['Breno Pelegrin']",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "scientific_spinbox-1.0.1b1.tar.gz",
+  "download_time": "2025-08-08T20:28:22.138549",
+  "package_url": "https://pypi.org/project/scientific-spinbox/"
+}

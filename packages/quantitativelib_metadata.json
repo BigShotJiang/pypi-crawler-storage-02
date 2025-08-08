@@ -1,11 +1,11 @@
 {
   "name": "quantitativelib",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "A stock analysis tool for quants",
   "author": "Pheneas Newman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quantitativelib-0.2.2.tar.gz",
-  "download_time": "2025-08-07T17:43:19.307597",
+  "download_filename": "quantitativelib-0.3.0.tar.gz",
+  "download_time": "2025-08-08T20:28:30.012514",
   "package_url": "https://pypi.org/project/quantitativelib/"
 }

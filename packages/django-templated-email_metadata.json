@@ -1,0 +1,11 @@
+{
+  "name": "django-templated-email",
+  "version": "3.1.0",
+  "summary": "A Django oriented templated / transaction email abstraction",
+  "author": "Bradley Whittington",
+  "license": "MIT",
+  "home_page": "http://github.com/vintasoftware/django-templated-email/",
+  "download_filename": "django_templated_email-3.1.0.tar.gz",
+  "download_time": "2025-08-08T20:28:09.041020",
+  "package_url": "https://pypi.org/project/django-templated-email/"
+}

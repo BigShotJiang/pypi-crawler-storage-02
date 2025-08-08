@@ -1,11 +1,11 @@
 {
   "name": "rten-convert",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "summary": "Convert ONNX models to .rten format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rten_convert-0.21.0.tar.gz",
-  "download_time": "2025-08-05T18:38:51.060833",
+  "download_filename": "rten_convert-0.21.1.tar.gz",
+  "download_time": "2025-08-08T20:27:50.014919",
   "package_url": "https://pypi.org/project/rten-convert/"
 }

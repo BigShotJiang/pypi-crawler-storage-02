@@ -1,11 +1,11 @@
 {
   "name": "robotframework-browserpom",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "summary": "robotframework-browser library extension to create Page Objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_browserpom-0.4.1.tar.gz",
-  "download_time": "2025-08-07T17:56:20.212995",
+  "download_filename": "robotframework_browserpom-0.4.4.tar.gz",
+  "download_time": "2025-08-08T20:27:59.008194",
   "package_url": "https://pypi.org/project/robotframework-browserpom/"
 }

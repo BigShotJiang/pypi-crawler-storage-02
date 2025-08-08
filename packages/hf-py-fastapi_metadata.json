@@ -1,11 +1,11 @@
 {
   "name": "hf-py-fastapi",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": null,
   "author": "kuanysh-beisembayev",
   "license": null,
   "home_page": null,
-  "download_filename": "hf_py_fastapi-0.3.1.tar.gz",
-  "download_time": "2025-08-08T19:41:46.613089",
+  "download_filename": "hf_py_fastapi-0.3.2.tar.gz",
+  "download_time": "2025-08-08T20:28:16.394789",
   "package_url": "https://pypi.org/project/hf-py-fastapi/"
 }
