@@ -1,0 +1,11 @@
+{
+  "name": "phonic-python",
+  "version": "0.1.19",
+  "summary": "The official Python SDK for building voice AI with Phonic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phonic_python-0.1.19.tar.gz",
+  "download_time": "2025-08-08T22:24:57.752882",
+  "package_url": "https://pypi.org/project/phonic-python/"
+}

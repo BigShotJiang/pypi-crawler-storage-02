@@ -1,0 +1,11 @@
+{
+  "name": "chatlas",
+  "version": "0.9.2",
+  "summary": "A simple and consistent interface for chatting with LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatlas-0.9.2-py3-none-any.whl",
+  "download_time": "2025-08-08T22:24:54.150861",
+  "package_url": "https://pypi.org/project/chatlas/"
+}

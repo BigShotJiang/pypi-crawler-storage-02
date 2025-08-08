@@ -1,0 +1,11 @@
+{
+  "name": "slav",
+  "version": "1.0.1",
+  "summary": "A modern terminal-based UI toolkit for building interactive interfaces",
+  "author": "Slav Developer",
+  "license": null,
+  "home_page": "https://github.com/slavdev/slav",
+  "download_filename": "slav-1.0.1.tar.gz",
+  "download_time": "2025-08-08T22:25:09.912764",
+  "package_url": "https://pypi.org/project/slav/"
+}

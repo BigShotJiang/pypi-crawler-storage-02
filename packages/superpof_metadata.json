@@ -1,0 +1,11 @@
+{
+  "name": "superpof",
+  "version": "0.0.1",
+  "summary": "Una librería super beta inspirada en NumPy y Torch pero simplificada",
+  "author": "Tu Nombre",
+  "license": null,
+  "home_page": "https://github.com/tuusuario/super_b",
+  "download_filename": "superpof-0.0.1.tar.gz",
+  "download_time": "2025-08-08T22:24:46.607945",
+  "package_url": "https://pypi.org/project/superpof/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kececilayout",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "A deterministic node placement algorithm used in graph visualization. In this layout, nodes are arranged sequentially along a defined primary axis. Each subsequent node is then alternately offset along a secondary, perpendicular axis, typically moving to one side of the primary axis and then the other. Often, the magnitude of this secondary offset increases as nodes progress along the primary axis, creating a characteristic zig-zag or serpentine pattern.",
   "author": "Mehmet Keçeci",
   "license": "MIT",
   "home_page": "https://github.com/WhiteSymmetry/kececilayout",
-  "download_filename": "kececilayout-0.2.5.tar.gz",
-  "download_time": "2025-08-05T07:29:35.485056",
+  "download_filename": "kececilayout-0.2.7.tar.gz",
+  "download_time": "2025-08-08T22:25:01.761023",
   "package_url": "https://pypi.org/project/kececilayout/"
 }

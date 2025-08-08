@@ -1,11 +1,11 @@
 {
   "name": "langchain-nvidia-ai-endpoints",
-  "version": "0.3.14",
+  "version": "0.3.16",
   "summary": "An integration package connecting NVIDIA AI Endpoints and LangChain",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/langchain-ai/langchain-nvidia",
-  "download_filename": "langchain_nvidia_ai_endpoints-0.3.14.tar.gz",
-  "download_time": "2025-08-05T18:39:29.689318",
+  "download_filename": "langchain_nvidia_ai_endpoints-0.3.16.tar.gz",
+  "download_time": "2025-08-08T22:24:38.877081",
   "package_url": "https://pypi.org/project/langchain-nvidia-ai-endpoints/"
 }

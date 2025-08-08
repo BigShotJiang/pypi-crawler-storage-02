@@ -1,11 +1,11 @@
 {
   "name": "mig-dx-api",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Dataset Exchange API Client Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mig_dx_api-0.2.1.tar.gz",
-  "download_time": "2025-08-08T21:23:07.025894",
+  "download_filename": "mig_dx_api-0.2.2.tar.gz",
+  "download_time": "2025-08-08T22:24:43.382518",
   "package_url": "https://pypi.org/project/mig-dx-api/"
 }
