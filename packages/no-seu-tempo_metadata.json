@@ -1,11 +1,11 @@
 {
   "name": "no-seu-tempo",
-  "version": "1.20250809",
+  "version": "1.20250810",
   "summary": "Escreva datas como você fala!",
-  "author": null,
+  "author": "Júlio Cascalles",
   "license": null,
-  "home_page": "https://github.com/julio-cascalles/temp",
-  "download_filename": "no_seu_tempo-1.20250809.tar.gz",
-  "download_time": "2025-08-06T23:25:21.545781",
+  "home_page": "https://github.com/julio-cascalles/temp/no_seu_tempo",
+  "download_filename": "no_seu_tempo-1.20250810.tar.gz",
+  "download_time": "2025-08-08T19:00:30.663959",
   "package_url": "https://pypi.org/project/no-seu-tempo/"
 }

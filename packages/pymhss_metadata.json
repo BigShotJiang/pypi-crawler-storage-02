@@ -1,11 +1,11 @@
 {
   "name": "pymhss",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": "Estevao Prado, Christopher Nemeth, Chris Sherlock",
   "license": null,
   "home_page": null,
-  "download_filename": "pymhss-0.1.1.tar.gz",
-  "download_time": "2025-08-08T17:56:55.031656",
+  "download_filename": "pymhss-0.1.2.tar.gz",
+  "download_time": "2025-08-08T19:00:51.912886",
   "package_url": "https://pypi.org/project/pymhss/"
 }

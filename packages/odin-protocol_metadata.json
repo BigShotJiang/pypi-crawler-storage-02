@@ -1,0 +1,11 @@
+{
+  "name": "odin-protocol",
+  "version": "1.1.0",
+  "summary": "ODIN Protocol - Heuristic-Empowered Logic Rule System for AI-to-AI Communication",
+  "author": "Travis Jacob Johnson",
+  "license": "Commercial",
+  "home_page": "https://github.com/odin-protocol/python-sdk",
+  "download_filename": "odin_protocol-1.1.0.tar.gz",
+  "download_time": "2025-08-08T19:00:13.923408",
+  "package_url": "https://pypi.org/project/odin-protocol/"
+}

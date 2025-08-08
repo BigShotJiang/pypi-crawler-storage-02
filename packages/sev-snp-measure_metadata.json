@@ -1,0 +1,11 @@
+{
+  "name": "sev-snp-measure",
+  "version": "0.0.12",
+  "summary": "Calculate expected measurement of an AMD SEV/SEV-ES/SEV-SNP guest VM for confidential computing",
+  "author": "Dov Murik",
+  "license": null,
+  "home_page": "https://github.com/virtee/sev-snp-measure",
+  "download_filename": "sev_snp_measure-0.0.12.tar.gz",
+  "download_time": "2025-08-08T19:00:28.081422",
+  "package_url": "https://pypi.org/project/sev-snp-measure/"
+}

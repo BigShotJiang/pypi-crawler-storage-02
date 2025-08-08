@@ -1,11 +1,11 @@
 {
   "name": "flake8-define-class-attributes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Check that class attributes are defined at the top level",
   "author": "sco1",
   "license": null,
   "home_page": null,
-  "download_filename": "flake8_define_class_attributes-0.1.0.tar.gz",
-  "download_time": "2025-08-07T17:42:32.975716",
+  "download_filename": "flake8_define_class_attributes-0.2.0.tar.gz",
+  "download_time": "2025-08-08T19:00:53.245684",
   "package_url": "https://pypi.org/project/flake8-define-class-attributes/"
 }

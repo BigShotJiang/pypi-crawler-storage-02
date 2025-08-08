@@ -1,0 +1,11 @@
+{
+  "name": "pystardog",
+  "version": "0.19.0",
+  "summary": "Python client for Stardog Platform Endpoints and Stardog Cloud",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pystardog-0.19.0-py3-none-any.whl",
+  "download_time": "2025-08-08T19:00:43.338669",
+  "package_url": "https://pypi.org/project/pystardog/"
+}

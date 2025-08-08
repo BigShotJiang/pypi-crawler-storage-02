@@ -1,0 +1,11 @@
+{
+  "name": "hcom",
+  "version": "0.1.5",
+  "summary": "Lightweight CLI tool for real-time messaging between Claude Code subagents using hooks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hcom-0.1.5.tar.gz",
+  "download_time": "2025-08-08T19:00:23.620331",
+  "package_url": "https://pypi.org/project/hcom/"
+}

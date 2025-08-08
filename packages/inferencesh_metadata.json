@@ -1,0 +1,11 @@
+{
+  "name": "inferencesh",
+  "version": "0.3.1",
+  "summary": "inference.sh Python SDK",
+  "author": "Inference Shell Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inferencesh-0.3.1.tar.gz",
+  "download_time": "2025-08-08T19:00:21.685606",
+  "package_url": "https://pypi.org/project/inferencesh/"
+}
