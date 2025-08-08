@@ -1,11 +1,11 @@
 {
   "name": "doordash-mcp-server",
-  "version": "2.4.7",
+  "version": "2.4.8",
   "summary": "Enhanced MCP server for DoorDash food ordering with intelligent search, DoubleDash support, address isolation system, and detailed technical guidance",
   "author": "DoorDash MCP Team",
   "license": "MIT",
   "home_page": "https://github.com/doordash-automation/doordash-mcp",
-  "download_filename": "doordash_mcp_server-2.4.7.tar.gz",
-  "download_time": "2025-08-08T07:30:07.234815",
+  "download_filename": "doordash_mcp_server-2.4.8.tar.gz",
+  "download_time": "2025-08-08T18:34:58.551254",
   "package_url": "https://pypi.org/project/doordash-mcp-server/"
 }

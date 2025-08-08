@@ -1,0 +1,11 @@
+{
+  "name": "CMIP7-data-request-api",
+  "version": "1.2.2",
+  "summary": "A programmatic interface to the CMIP7 Data Request",
+  "author": "James Anstey, Gaëlle Rigoudy, Martin Schupfner, Matthew Mizielinski, Daniel Ellis, Elisabeth Dingley, Marie-Pierre Moine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmip7_data_request_api-1.2.2.tar.gz",
+  "download_time": "2025-08-08T18:35:01.257684",
+  "package_url": "https://pypi.org/project/CMIP7-data-request-api/"
+}

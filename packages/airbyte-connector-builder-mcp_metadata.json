@@ -1,11 +1,11 @@
 {
   "name": "airbyte-connector-builder-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Airbyte connector building operations with AI ownership focus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte_connector_builder_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-07T22:27:15.276733",
+  "download_filename": "airbyte_connector_builder_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-08T18:35:25.251337",
   "package_url": "https://pypi.org/project/airbyte-connector-builder-mcp/"
 }

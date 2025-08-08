@@ -1,0 +1,11 @@
+{
+  "name": "aparavi-dtc-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for Aparavi Data Toolchain API",
+  "author": "Aparavi",
+  "license": null,
+  "home_page": "https://dtc.aparavi.com",
+  "download_filename": "aparavi_dtc_sdk-1.1.0.tar.gz",
+  "download_time": "2025-08-08T18:35:16.444702",
+  "package_url": "https://pypi.org/project/aparavi-dtc-sdk/"
+}

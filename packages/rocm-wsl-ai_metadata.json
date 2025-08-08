@@ -1,0 +1,11 @@
+{
+  "name": "rocm-wsl-ai",
+  "version": "0.2.3",
+  "summary": "Web UI to install and manage AMD ROCm + local AI tools on WSL2 (with optional CLI/TUI)",
+  "author": "daMustermann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rocm_wsl_ai-0.2.3.tar.gz",
+  "download_time": "2025-08-08T18:35:02.305546",
+  "package_url": "https://pypi.org/project/rocm-wsl-ai/"
+}

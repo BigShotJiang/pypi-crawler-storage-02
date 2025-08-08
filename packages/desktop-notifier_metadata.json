@@ -1,0 +1,11 @@
+{
+  "name": "desktop-notifier",
+  "version": "6.2.0",
+  "summary": "Python library for cross-platform desktop notifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "desktop_notifier-6.2.0.tar.gz",
+  "download_time": "2025-08-08T18:35:18.614568",
+  "package_url": "https://pypi.org/project/desktop-notifier/"
+}
