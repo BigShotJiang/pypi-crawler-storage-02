@@ -1,0 +1,11 @@
+{
+  "name": "django-functest",
+  "version": "1.6.2",
+  "summary": "Helpers for creating functional tests in Django, with a unified API for WebTest and Selenium tests.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "django_functest-1.6.2.tar.gz",
+  "download_time": "2025-08-08T09:45:09.913251",
+  "package_url": "https://pypi.org/project/django-functest/"
+}

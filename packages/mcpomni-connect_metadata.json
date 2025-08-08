@@ -1,11 +1,11 @@
 {
   "name": "mcpomni-connect",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "Universal MCP Client with multi-transport support and LLM-powered tool routing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpomni_connect-0.1.19.tar.gz",
-  "download_time": "2025-08-05T14:55:02.562516",
+  "download_filename": "mcpomni_connect-0.1.20.tar.gz",
+  "download_time": "2025-08-08T09:44:15.035595",
   "package_url": "https://pypi.org/project/mcpomni-connect/"
 }

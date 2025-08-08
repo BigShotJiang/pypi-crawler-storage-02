@@ -1,11 +1,11 @@
 {
   "name": "kolja-aws",
-  "version": "0.1.0",
+  "version": "0.4.2",
   "summary": "AWS SSO CLI Tool",
   "author": "Kolja Huang",
   "license": null,
   "home_page": null,
-  "download_filename": "kolja_aws-0.1.0.tar.gz",
-  "download_time": "2025-08-07T09:43:43.553329",
+  "download_filename": "kolja_aws-0.4.2.tar.gz",
+  "download_time": "2025-08-08T09:44:32.152989",
   "package_url": "https://pypi.org/project/kolja-aws/"
 }

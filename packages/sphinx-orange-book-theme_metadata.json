@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-orange-book-theme",
+  "version": "0.16.0",
+  "summary": "An orange version of sphinx-book-theme.",
+  "author": "Kenta Kabashima",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/MusicScience37Projects/utility-libraries/sphinx-orange-book-theme",
+  "download_filename": "sphinx_orange_book_theme-0.16.0.tar.gz",
+  "download_time": "2025-08-08T09:44:19.517361",
+  "package_url": "https://pypi.org/project/sphinx-orange-book-theme/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datachop",
+  "version": "1.0.0",
+  "summary": "The Ultimate Slicing Module for various data types and files.",
+  "author": "Mallik Mohammad Musaddiq",
+  "license": null,
+  "home_page": "https://github.com/mallikmusaddiq1/datachop",
+  "download_filename": "datachop-1.0.0.tar.gz",
+  "download_time": "2025-08-08T09:44:13.746124",
+  "package_url": "https://pypi.org/project/datachop/"
+}

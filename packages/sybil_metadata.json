@@ -1,0 +1,11 @@
+{
+  "name": "sybil",
+  "version": "9.2.0",
+  "summary": "Automated testing for the examples in your code and documentation.",
+  "author": "Chris Withers",
+  "license": "MIT",
+  "home_page": "https://github.com/simplistix/sybil",
+  "download_filename": "sybil-9.2.0.tar.gz",
+  "download_time": "2025-08-08T09:44:24.746291",
+  "package_url": "https://pypi.org/project/sybil/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rpa-tiktok",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "RPA automated execution program for TikTok",
   "author": "Zhongshuizhou",
   "license": null,
   "home_page": "https://pypi.org/project/rpa-tiktok/",
-  "download_filename": "rpa_tiktok-1.0.7.tar.gz",
-  "download_time": "2025-08-08T07:49:18.046862",
+  "download_filename": "rpa_tiktok-1.0.9.tar.gz",
+  "download_time": "2025-08-08T09:44:18.237515",
   "package_url": "https://pypi.org/project/rpa-tiktok/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "syllabify",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Automatically convert plain text into phonemes (US English pronunciation) and syllabify",
   "author": "Fong-Chun Tsai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "syllabify-0.2.0.tar.gz",
-  "download_time": "2025-08-06T04:50:42.804307",
+  "download_filename": "syllabify-0.3.2.tar.gz",
+  "download_time": "2025-08-08T09:44:17.563380",
   "package_url": "https://pypi.org/project/syllabify/"
 }

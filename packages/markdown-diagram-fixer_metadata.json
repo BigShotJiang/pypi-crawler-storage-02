@@ -1,11 +1,11 @@
 {
   "name": "markdown-diagram-fixer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A tool to automatically fix formatting and alignment issues in ASCII diagrams",
   "author": "Andrew Yager",
   "license": "MIT",
   "home_page": "https://github.com/andrewyager/markdown-diagram-fixer",
-  "download_filename": "markdown_diagram_fixer-1.0.1.tar.gz",
-  "download_time": "2025-08-08T08:36:03.383017",
+  "download_filename": "markdown_diagram_fixer-1.1.0.tar.gz",
+  "download_time": "2025-08-08T09:44:49.065393",
   "package_url": "https://pypi.org/project/markdown-diagram-fixer/"
 }

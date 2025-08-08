@@ -1,11 +1,11 @@
 {
   "name": "gerbls",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gerbls-0.7.2.tar.gz",
-  "download_time": "2025-08-06T17:41:22.257874",
+  "download_filename": "gerbls-0.7.3.tar.gz",
+  "download_time": "2025-08-08T09:44:34.717696",
   "package_url": "https://pypi.org/project/gerbls/"
 }
