@@ -1,38 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T21:44:54.195993
+- **Download Time**: 2025-08-08T21:56:43.995354
 - **Total Packages**: 90
-- **Total Size**: 41.02 MB
+- **Total Size**: 3.82 MB
 
 ## Packages List
-- okx-sdk
-- dogpile-breaker
-- exoatlas
-- pulumi-formal
-- mcp-imgutils
-- CAPE-parsers
-- pico-ioc
-- django-bsv-integration
-- metworkpy
-- geranslator
-- flow-compute
-- karaoke-gen
-- abstract-paths
-- spnkr
-- metis-agent
-- tiomagic
-- AtomPacker
-- finbourne-access-sdk
-- helicone_async
-- django-fast-count
-- claude-mpm
 - rewind-reward-pytorch
 - lusid-sdk
 - toastapi
 - atomic-mcp
 - zindex-py
 - aind_mri_utils
+- django-fast-count
 - igvf-async-client
 - igvf-client
 - servicetitan-pyapi
@@ -47,6 +27,7 @@
 - quickfetch
 - maisaedu-poormans-dms
 - maisaedu-utilities-prefect
+- pico-ioc
 - stytch
 - evpn-connector
 - utme
@@ -96,3 +77,22 @@
 - virtual-knitting-machine
 - plot-misc
 - Flask-Colorpicker
+- shrinkix
+- braintrust
+- ic-da-ai
+- website-price-notifier
+- bernn
+- cat-llm
+- mipi_datamanager
+- madsci.data_manager
+- madsci.workcell_manager
+- madsci.experiment_manager
+- madsci.resource_manager
+- madsci.event_manager
+- madsci.node_module
+- madsci.client
+- madsci.common
+- stracetools
+- letta-nightly
+- fabricengineer-py
+- letta

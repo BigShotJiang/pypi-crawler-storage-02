@@ -1,11 +1,11 @@
 {
   "name": "plot-misc",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Various plotting templates built on top of matplotlib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plot_misc-2.0.2.tar.gz",
-  "download_time": "2025-08-08T21:23:15.774032",
+  "download_filename": "plot_misc-2.0.3.tar.gz",
+  "download_time": "2025-08-08T21:56:31.090367",
   "package_url": "https://pypi.org/project/plot-misc/"
 }
