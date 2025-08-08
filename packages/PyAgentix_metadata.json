@@ -1,11 +1,11 @@
 {
   "name": "PyAgentix",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "PyAgentix is a lightweight Python library that enables quick and easy creation of model-agnostic AI agents.",
   "author": "Vincent de Neuf",
   "license": "MIT",
   "home_page": "https://github.com/vincentdeneuf/pyagentix",
-  "download_filename": "pyagentix-0.1.4.tar.gz",
-  "download_time": "2025-08-07T19:31:51.252931",
+  "download_filename": "pyagentix-0.1.5.tar.gz",
+  "download_time": "2025-08-08T08:35:28.885263",
   "package_url": "https://pypi.org/project/PyAgentix/"
 }

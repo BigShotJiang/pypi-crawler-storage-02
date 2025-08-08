@@ -1,11 +1,11 @@
 {
   "name": "funputer",
-  "version": "1.3.1",
-  "summary": "Simple, intelligent imputation analysis with PREFLIGHT validation and auto-metadata inference",
+  "version": "1.3.4",
+  "summary": "Intelligent imputation analysis with automatic data validation and metadata inference",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "funputer-1.3.1.tar.gz",
-  "download_time": "2025-08-06T17:03:12.224049",
+  "download_filename": "funputer-1.3.4.tar.gz",
+  "download_time": "2025-08-08T08:35:54.570769",
   "package_url": "https://pypi.org/project/funputer/"
 }

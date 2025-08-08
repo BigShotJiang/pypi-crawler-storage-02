@@ -1,0 +1,11 @@
+{
+  "name": "manticoresearch-devel",
+  "version": "9.1.25073013",
+  "summary": "Manticore Search Client",
+  "author": "Manticore Software Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manticoresearch_devel-9.1.25073013.tar.gz",
+  "download_time": "2025-08-08T08:35:43.268321",
+  "package_url": "https://pypi.org/project/manticoresearch-devel/"
+}

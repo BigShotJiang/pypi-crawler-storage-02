@@ -1,11 +1,11 @@
 {
   "name": "rococo",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "A Python library to help build things the way we want them built",
   "author": "Jay Grieves",
   "license": "MIT",
   "home_page": "https://github.com/EcorRouge/rococo",
-  "download_filename": "rococo-1.1.4.tar.gz",
-  "download_time": "2025-08-05T09:59:12.050235",
+  "download_filename": "rococo-1.1.5.tar.gz",
+  "download_time": "2025-08-08T08:35:33.996584",
   "package_url": "https://pypi.org/project/rococo/"
 }

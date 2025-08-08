@@ -1,11 +1,11 @@
 {
   "name": "ananta",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "summary": "A command-line tool to execute commands on multiple remote hosts",
   "author": "Chaiwat Suttipongsakul",
   "license": "MIT",
   "home_page": "https://github.com/cwt/ananta",
-  "download_filename": "ananta-1.3.3.tar.gz",
-  "download_time": "2025-08-08T06:49:34.000573",
+  "download_filename": "ananta-1.3.4.tar.gz",
+  "download_time": "2025-08-08T08:35:29.399628",
   "package_url": "https://pypi.org/project/ananta/"
 }

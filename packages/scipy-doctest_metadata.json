@@ -1,11 +1,11 @@
 {
   "name": "scipy-doctest",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Configurable, whitespace-insensitive, floating-point-aware doctest helpers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scipy_doctest-2.0.0.tar.gz",
-  "download_time": "2025-08-05T10:59:22.925668",
+  "download_filename": "scipy_doctest-2.0.1.tar.gz",
+  "download_time": "2025-08-08T08:35:24.233869",
   "package_url": "https://pypi.org/project/scipy-doctest/"
 }

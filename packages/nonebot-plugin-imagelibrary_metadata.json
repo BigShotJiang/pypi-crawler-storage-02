@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-imagelibrary",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "Create a shared Image Library",
   "author": "ISOM_DzyCd",
   "license": null,
   "home_page": "https://github.com/DZYCD/nonebot-plugin-ImageLibrary",
-  "download_filename": "nonebot_plugin_imagelibrary-1.0.7.tar.gz",
-  "download_time": "2025-08-08T06:49:03.532695",
+  "download_filename": "nonebot_plugin_imagelibrary-1.0.9.tar.gz",
+  "download_time": "2025-08-08T08:35:30.931447",
   "package_url": "https://pypi.org/project/nonebot-plugin-imagelibrary/"
 }

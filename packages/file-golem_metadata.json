@@ -1,0 +1,11 @@
+{
+  "name": "file-golem",
+  "version": "0.1.13",
+  "summary": "A file i/o utility to handle complex projects with multiple datasets, project locations and calls to 3rd party codebases.",
+  "author": "Cameron Braunstein",
+  "license": null,
+  "home_page": "https://github.com/CameronBraunstein/file_golem",
+  "download_filename": "file_golem-0.1.13.tar.gz",
+  "download_time": "2025-08-08T08:35:30.421354",
+  "package_url": "https://pypi.org/project/file-golem/"
+}

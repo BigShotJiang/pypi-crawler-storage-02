@@ -1,0 +1,11 @@
+{
+  "name": "ticoi",
+  "version": "0.1.0",
+  "summary": "A package to run Temporal Inversion using linear Combinations of Observations, and Interpolation (TICOI)",
+  "author": "Lei Guo",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "ticoi-0.1.0.tar.gz",
+  "download_time": "2025-08-08T08:35:54.060334",
+  "package_url": "https://pypi.org/project/ticoi/"
+}

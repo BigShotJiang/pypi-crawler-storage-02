@@ -1,0 +1,11 @@
+{
+  "name": "stackit-mongodbflex",
+  "version": "1.2.1",
+  "summary": "STACKIT MongoDB Service API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_mongodbflex-1.2.1.tar.gz",
+  "download_time": "2025-08-08T08:35:40.150862",
+  "package_url": "https://pypi.org/project/stackit-mongodbflex/"
+}
