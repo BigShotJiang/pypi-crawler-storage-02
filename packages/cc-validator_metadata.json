@@ -1,11 +1,11 @@
 {
   "name": "cc-validator",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "Hybrid security + TDD validation for Claude Code with automatic test result capture using Google Gemini",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cc_validator-2.2.1.tar.gz",
-  "download_time": "2025-08-08T06:49:16.041644",
+  "download_filename": "cc_validator-2.2.2.tar.gz",
+  "download_time": "2025-08-08T07:49:01.853415",
   "package_url": "https://pypi.org/project/cc-validator/"
 }

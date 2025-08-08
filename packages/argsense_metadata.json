@@ -1,0 +1,11 @@
+{
+  "name": "argsense",
+  "version": "1.1.0",
+  "summary": "New command line interface based on Rich library.",
+  "author": "Likianta",
+  "license": "MIT",
+  "home_page": "https://github.com/likianta/argsense-cli",
+  "download_filename": "argsense-1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-08T07:49:22.187570",
+  "package_url": "https://pypi.org/project/argsense/"
+}

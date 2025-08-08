@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-devs20230714",
+  "version": "2.4.1",
+  "summary": "Alibaba Cloud Devs (20230714) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_devs20230714-2.4.1.tar.gz",
+  "download_time": "2025-08-08T07:49:09.755836",
+  "package_url": "https://pypi.org/project/alibabacloud-devs20230714/"
+}

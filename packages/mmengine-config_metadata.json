@@ -1,0 +1,11 @@
+{
+  "name": "mmengine-config",
+  "version": "0.10.10",
+  "summary": "Only config component from mmengine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmengine_config-0.10.10.tar.gz",
+  "download_time": "2025-08-08T07:49:20.626092",
+  "package_url": "https://pypi.org/project/mmengine-config/"
+}

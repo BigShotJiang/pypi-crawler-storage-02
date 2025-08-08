@@ -1,11 +1,11 @@
 {
   "name": "steel-thread",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Portia Labs Eval framework for evaluating agentic workflows.",
   "author": null,
   "license": "TBD",
   "home_page": null,
-  "download_filename": "steel_thread-0.1.8.tar.gz",
-  "download_time": "2025-08-07T10:35:02.426740",
+  "download_filename": "steel_thread-0.1.9.tar.gz",
+  "download_time": "2025-08-08T07:49:07.637870",
   "package_url": "https://pypi.org/project/steel-thread/"
 }
