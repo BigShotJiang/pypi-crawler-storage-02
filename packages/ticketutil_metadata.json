@@ -1,0 +1,11 @@
+{
+  "name": "ticketutil",
+  "version": "1.8.4",
+  "summary": "Python ticketing utility supporting JIRA, RT, Redmine, Bugzilla, and ServiceNow",
+  "author": "Danny Ranck",
+  "license": null,
+  "home_page": "https://github.com/dmranck/ticketutil",
+  "download_filename": "ticketutil-1.8.4.tar.gz",
+  "download_time": "2025-08-08T20:47:45.535636",
+  "package_url": "https://pypi.org/project/ticketutil/"
+}

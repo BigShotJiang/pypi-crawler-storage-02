@@ -1,0 +1,11 @@
+{
+  "name": "logger-protocol",
+  "version": "1.0.0",
+  "summary": "Python protocol for the standard lib Logger and Logger-like classes. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logger_protocol-1.0.0.tar.gz",
+  "download_time": "2025-08-08T20:47:38.810669",
+  "package_url": "https://pypi.org/project/logger-protocol/"
+}

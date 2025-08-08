@@ -1,11 +1,11 @@
 {
   "name": "knitout-interpreter",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Support for interpreting knitout files used for controlling automatic V-Bed Knitting machines.",
   "author": "Megan Hofmann",
   "license": "MIT",
   "home_page": "https://mhofmann-khoury.github.io/knitout_interpreter/",
-  "download_filename": "knitout_interpreter-0.0.20.tar.gz",
-  "download_time": "2025-08-07T14:54:34.732834",
+  "download_filename": "knitout_interpreter-0.0.21.tar.gz",
+  "download_time": "2025-08-08T20:47:57.546831",
   "package_url": "https://pypi.org/project/knitout-interpreter/"
 }
