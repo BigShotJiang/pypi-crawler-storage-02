@@ -1,0 +1,11 @@
+{
+  "name": "promptquality",
+  "version": "1.14.0",
+  "summary": "🦸 Supercharge your prompts with Galileo Evaluate!",
+  "author": "Galileo Technologies Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://www.galileo.ai/",
+  "download_filename": "promptquality-1.14.0.tar.gz",
+  "download_time": "2025-08-08T17:23:55.397966",
+  "package_url": "https://pypi.org/project/promptquality/"
+}

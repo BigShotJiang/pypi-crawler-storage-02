@@ -1,0 +1,11 @@
+{
+  "name": "CFEDemands",
+  "version": "0.7.0",
+  "summary": "Tools for estimating and computing Constant Frisch Elasticity (CFE) demands.",
+  "author": null,
+  "license": "Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International license",
+  "home_page": "https://github.com/ligon/CFEDemands",
+  "download_filename": "cfedemands-0.7.0-py2.py3-none-any.whl",
+  "download_time": "2025-08-08T17:24:16.717574",
+  "package_url": "https://pypi.org/project/CFEDemands/"
+}

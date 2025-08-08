@@ -1,0 +1,11 @@
+{
+  "name": "whoosh_update",
+  "version": "0.1.4",
+  "summary": "Updated version of Whoosh with Python 3.9+ support",
+  "author": "Dinga Wonanke",
+  "license": null,
+  "home_page": "http://bitbucket.org/mchaput/whoosh",
+  "download_filename": "whoosh_update-0.1.4.tar.gz",
+  "download_time": "2025-08-08T17:23:54.883083",
+  "package_url": "https://pypi.org/project/whoosh_update/"
+}

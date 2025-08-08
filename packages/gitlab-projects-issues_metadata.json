@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-projects-issues",
+  "version": "4.0.1",
+  "summary": "Generate GitLab project issues and milestones statistics automatically",
+  "author": "Adrian DC",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/RadianDevCore/tools/gitlab-projects-issues",
+  "download_filename": "gitlab_projects_issues-4.0.1.tar.gz",
+  "download_time": "2025-08-08T17:23:59.646938",
+  "package_url": "https://pypi.org/project/gitlab-projects-issues/"
+}

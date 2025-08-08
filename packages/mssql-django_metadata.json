@@ -1,0 +1,11 @@
+{
+  "name": "mssql-django",
+  "version": "1.6",
+  "summary": "Django backend for Microsoft SQL Server",
+  "author": "Microsoft",
+  "license": "BSD",
+  "home_page": "https://github.com/microsoft/mssql-django",
+  "download_filename": "mssql_django-1.6.tar.gz",
+  "download_time": "2025-08-08T17:24:09.464188",
+  "package_url": "https://pypi.org/project/mssql-django/"
+}

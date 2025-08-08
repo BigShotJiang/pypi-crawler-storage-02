@@ -1,0 +1,11 @@
+{
+  "name": "settings-helper",
+  "version": "0.0.17",
+  "summary": "Helpers to get specific settings from a particular section of a settings.ini file",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/settings-helper",
+  "download_filename": "settings_helper-0.0.17-py3-none-any.whl",
+  "download_time": "2025-08-08T17:24:11.001829",
+  "package_url": "https://pypi.org/project/settings-helper/"
+}

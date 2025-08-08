@@ -1,11 +1,11 @@
 {
   "name": "pennylane-qrack-cpu",
-  "version": "0.22.4",
+  "version": "0.22.5",
   "summary": "PennyLane plugin for Qrack.",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": "http://github.com/vm6502q",
-  "download_filename": "pennylane_qrack_cpu-0.22.4.tar.gz",
-  "download_time": "2025-08-07T19:57:52.645522",
+  "download_filename": "pennylane_qrack_cpu-0.22.5.tar.gz",
+  "download_time": "2025-08-08T17:24:07.403424",
   "package_url": "https://pypi.org/project/pennylane-qrack-cpu/"
 }

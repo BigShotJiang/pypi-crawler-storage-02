@@ -1,0 +1,11 @@
+{
+  "name": "pycona",
+  "version": "0.4",
+  "summary": "A cpmpy-based library for constraint acquisition.",
+  "author": "Dimos Tsouros",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CPMpy/PyConA",
+  "download_filename": "pycona-0.4.tar.gz",
+  "download_time": "2025-08-08T17:24:21.364781",
+  "package_url": "https://pypi.org/project/pycona/"
+}
