@@ -1,0 +1,11 @@
+{
+  "name": "gitlake",
+  "version": "0.1.1",
+  "summary": "Framework para usar repositorios git como data-lake",
+  "author": "Carlos Corvaum",
+  "license": "MIT",
+  "home_page": "https://github.com/carloscorvaum/gitlake",
+  "download_filename": "gitlake-0.1.1.tar.gz",
+  "download_time": "2025-08-08T23:24:25.809229",
+  "package_url": "https://pypi.org/project/gitlake/"
+}

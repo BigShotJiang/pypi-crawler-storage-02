@@ -1,23 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T22:48:52.618524
-- **Total Packages**: 76
-- **Total Size**: 29.16 MB
+- **Download Time**: 2025-08-08T23:25:07.770411
+- **Total Packages**: 73
+- **Total Size**: 33.8 MB
 
 ## Packages List
+- coiled
+- sentry-arroyo
+- cosim-toolbox
+- har2tree
+- snakestack
+- gitlake
+- ozi-core
+- Perception
+- circremote
+- pulumi-provider-boilerplate
+- dragonfly-core
+- moose-cli
+- ligonlibrary
+- moose-lib
+- flwr-nightly
+- sagemaker
+- nmea2000
+- pysentry-rs
+- bipl
+- pvevti
+- reflex-agent
+- unpage
+- pulumi-xyz
+- tri3d
+- statsig-python-core
+- odoo14-addon-ssi-elearning-work-log
+- markthat
+- mujoco-mjx
+- portacode
+- truss
+- synqly
+- mujoco
+- miamcpdoc
+- hanzo-net
+- pyairahome
+- letta-client
+- leann-core
+- leann-backend-hnsw
 - pypi-test-coltg5
 - leann-backend-diskann
 - leann
 - femtodriver
 - badger-opt
-- pvevti
 - ecdysys
 - pydeye
 - llguidance
-- miamcpdoc
 - nullsweep
-- coiled
 - mkdocs-mermaid-to-svg
 - vgi
 - constellaxion-utils
@@ -34,7 +69,6 @@
 - ollamapy
 - artisan-engine
 - simplesingletable
-- hanzo-net
 - gis-mcp
 - canonmap
 - aioskybellgen
@@ -45,40 +79,3 @@
 - connector-py
 - redis-benchmarks-specification
 - moviebox-api
-- Flask-Fontpicker
-- pyaaware
-- circuit-synth
-- patkit
-- ezmsg-blackrock
-- azure-appconfiguration-provider
-- pixcore
-- pydot_flow
-- metis-agent
-- gai-sdk
-- llama-index
-- python-autofixture
-- aiomysensors
-- llama-index-retrievers-bm25
-- hanzo
-- langchain-nvidia-ai-endpoints
-- dt-cli-tools
-- ultralytics-actions
-- seadexarr
-- dt-console
-- kani
-- mig-dx-api
-- orionis
-- jdmtool
-- pulumi-formal
-- griptape
-- superpof
-- arthur-client
-- regula-documentreader-webclient
-- nahual
-- portacode
-- entity-core
-- pyfurnace
-- toastapi
-- rag-llm-api-pipeline
-- pycbsdk
-- chatlas

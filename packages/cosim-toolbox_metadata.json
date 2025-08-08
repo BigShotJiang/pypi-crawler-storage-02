@@ -1,0 +1,11 @@
+{
+  "name": "cosim-toolbox",
+  "version": "0.9.0",
+  "summary": "Python support for the CoSimulation Toolbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosim_toolbox-0.9.0.tar.gz",
+  "download_time": "2025-08-08T23:24:23.529575",
+  "package_url": "https://pypi.org/project/cosim-toolbox/"
+}
