@@ -1,0 +1,11 @@
+{
+  "name": "edx-organizations",
+  "version": "7.2.1",
+  "summary": "Organization management module for Open edX",
+  "author": "edX",
+  "license": "AGPL",
+  "home_page": "https://github.com/openedx/edx-organizations",
+  "download_filename": "edx_organizations-7.2.1.tar.gz",
+  "download_time": "2025-08-08T19:54:09.073144",
+  "package_url": "https://pypi.org/project/edx-organizations/"
+}

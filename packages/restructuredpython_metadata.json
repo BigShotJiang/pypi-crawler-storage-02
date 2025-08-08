@@ -1,11 +1,11 @@
 {
   "name": "restructuredpython",
-  "version": "2.5.1",
+  "version": "2.5.1.post0",
   "summary": "A superset of Python with many new features, including full JS integration, multiline comments, header files, and optional curly brackets around control statements",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "restructuredpython-2.5.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-05T23:56:52.716660",
+  "download_filename": "restructuredpython-2.5.1.post0.tar.gz",
+  "download_time": "2025-08-08T19:53:53.342436",
   "package_url": "https://pypi.org/project/restructuredpython/"
 }

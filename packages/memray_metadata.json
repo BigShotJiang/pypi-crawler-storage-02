@@ -1,0 +1,11 @@
+{
+  "name": "memray",
+  "version": "1.18.0",
+  "summary": "A memory profiler for Python applications",
+  "author": "Pablo Galindo Salgado",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/bloomberg/memray",
+  "download_filename": "memray-1.18.0.tar.gz",
+  "download_time": "2025-08-08T19:53:53.876300",
+  "package_url": "https://pypi.org/project/memray/"
+}

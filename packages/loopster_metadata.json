@@ -1,0 +1,11 @@
+{
+  "name": "loopster",
+  "version": "2.14.4",
+  "summary": "Service library",
+  "author": "VK Tech",
+  "license": null,
+  "home_page": "https://github.com/vktechdev/loopster",
+  "download_filename": "loopster-2.14.4.tar.gz",
+  "download_time": "2025-08-08T19:53:48.648161",
+  "package_url": "https://pypi.org/project/loopster/"
+}

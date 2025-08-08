@@ -1,0 +1,11 @@
+{
+  "name": "egglog",
+  "version": "11.0.0",
+  "summary": "e-graphs in Python built around the the egglog rust library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "egglog-11.0.0.tar.gz",
+  "download_time": "2025-08-08T19:53:45.523417",
+  "package_url": "https://pypi.org/project/egglog/"
+}

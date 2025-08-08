@@ -1,0 +1,11 @@
+{
+  "name": "lox",
+  "version": "1.0.0",
+  "summary": "Threading and Multiprocessing for every project.",
+  "author": "Brian Pugh",
+  "license": "MIT license",
+  "home_page": "https://github.com/BrianPugh/lox",
+  "download_filename": "lox-1.0.0.tar.gz",
+  "download_time": "2025-08-08T19:53:44.978260",
+  "package_url": "https://pypi.org/project/lox/"
+}
