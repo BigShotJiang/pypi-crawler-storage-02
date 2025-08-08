@@ -1,0 +1,11 @@
+{
+  "name": "brainscale",
+  "version": "0.0.9",
+  "summary": "Enabling Scalable Online Learning for Brain Dynamics.",
+  "author": "BrainScale Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/brainscale",
+  "download_filename": "brainscale-0.0.9-py2.py3-none-any.whl",
+  "download_time": "2025-08-08T03:54:47.432055",
+  "package_url": "https://pypi.org/project/brainscale/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "newrelic-mcp-server",
+  "version": "1.2.1",
+  "summary": "New Relic MCP Server - Model Context Protocol server for New Relic APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newrelic_mcp_server-1.2.1.tar.gz",
+  "download_time": "2025-08-08T03:54:42.318318",
+  "package_url": "https://pypi.org/project/newrelic-mcp-server/"
+}

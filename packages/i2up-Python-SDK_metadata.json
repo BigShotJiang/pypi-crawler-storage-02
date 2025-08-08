@@ -1,0 +1,11 @@
+{
+  "name": "i2up-Python-SDK",
+  "version": "9.1.3",
+  "summary": "英方统一数据管理平台python版本SDK",
+  "author": "wanghl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "i2up_python_sdk-9.1.3.tar.gz",
+  "download_time": "2025-08-08T03:55:01.413319",
+  "package_url": "https://pypi.org/project/i2up-Python-SDK/"
+}

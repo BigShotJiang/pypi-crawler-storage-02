@@ -1,0 +1,11 @@
+{
+  "name": "cacheio",
+  "version": "0.1.2",
+  "summary": "cacheio is a flexible, user-friendly Python caching interface that unifies synchronous and asynchronous caching backends. It provides a consistent API for interacting with proven libraries—cachelib for synchronous caching and aiocache for asynchronous caching—allowing seamless integration of both styles in your applications. With configurable defaults, optional backend installation, and easy-to-use decorators, cacheio simplifies caching logic while minimizing dependencies.",
+  "author": "Nathan Lucas",
+  "license": "MIT",
+  "home_page": "https://github.com/bnlucas/cacheio",
+  "download_filename": "cacheio-0.1.2.tar.gz",
+  "download_time": "2025-08-08T03:54:32.518873",
+  "package_url": "https://pypi.org/project/cacheio/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-az-vm-controller-xethhung12",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "summary": "A small package targeting to help on python project packaging process",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_az_vm_controller_xethhung12-0.0.2.tar.gz",
-  "download_time": "2025-08-07T17:42:59.055464",
+  "download_filename": "py_az_vm_controller_xethhung12-0.1.2.tar.gz",
+  "download_time": "2025-08-08T03:54:21.221163",
   "package_url": "https://pypi.org/project/py-az-vm-controller-xethhung12/"
 }
