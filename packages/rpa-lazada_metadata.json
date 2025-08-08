@@ -1,11 +1,11 @@
 {
   "name": "rpa-lazada",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "RPA automated execution program for Lazada",
   "author": "Zhongshuizhou",
   "license": null,
   "home_page": "https://pypi.org/project/rpa-lazada/",
-  "download_filename": "rpa_lazada-1.0.5.tar.gz",
-  "download_time": "2025-08-07T09:43:36.311091",
+  "download_filename": "rpa_lazada-1.0.6.tar.gz",
+  "download_time": "2025-08-08T09:03:03.640008",
   "package_url": "https://pypi.org/project/rpa-lazada/"
 }

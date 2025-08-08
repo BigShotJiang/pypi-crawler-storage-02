@@ -1,11 +1,11 @@
 {
   "name": "jentic",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Jentic SDK for the discovery and execution of APIs and workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jentic-0.9.0.tar.gz",
-  "download_time": "2025-08-06T16:33:15.282436",
+  "download_filename": "jentic-0.9.1.tar.gz",
+  "download_time": "2025-08-08T09:03:07.701101",
   "package_url": "https://pypi.org/project/jentic/"
 }

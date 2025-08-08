@@ -1,17 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T08:36:06.476457
+- **Download Time**: 2025-08-08T09:03:48.670099
 - **Total Packages**: 88
-- **Total Size**: 51.49 MB
+- **Total Size**: 15.25 MB
 
 ## Packages List
+- acacia-s2s-toolkit
+- esgpull
+- neuromotifs
+- nonebot-plugin-imagelibrary
+- jcloudai
+- rpa-lazada
+- uipath-langchain
+- heaven-tree-repl
+- django-drf-extensions
+- thorpt
+- arivo-settings-models
+- jentic
+- pulumi-eks
+- eot-tools
+- pynutclient
+- pelmesha
+- mdbq
+- pathsim
 - kuzu
 - aircraftdetective
 - wuying-agentbay-sdk
 - pylint-sort-functions
 - pyipx800v3-async
-- acacia-s2s-toolkit
 - scipy-doctest
 - fast-validators
 - pancham
@@ -25,7 +42,6 @@
 - ananta
 - ml-golem
 - file-golem
-- nonebot-plugin-imagelibrary
 - qiufeng
 - alibabacloud-mpaas20201028
 - omicspreprocessing
@@ -64,7 +80,6 @@
 - jyhelper
 - nacvi
 - superposition-sdk
-- django-drf-extensions
 - superposition-provider
 - superposition-bindings
 - molingtools
@@ -79,18 +94,3 @@
 - solidity-audit-client
 - xsuite
 - melodic
-- nessie-py
-- helix.fhir.client.sdk
-- fincept-terminal
-- svc-order-zxw
-- erc7730
-- py-tools-ds
-- django-mtg-res
-- aaf
-- accrete
-- markdown-diagram-fixer
-- annet
-- bullishpy
-- antchain-insurance-saas
-- kivy-reloader
-- pyglove

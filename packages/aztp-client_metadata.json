@@ -1,11 +1,11 @@
 {
   "name": "aztp-client",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "summary": "AZTP (Agentic Zero Trust Protocol) Client Library for Python",
   "author": "Astha AI",
   "license": null,
   "home_page": "https://github.com/asthaAi/aztp-client",
-  "download_filename": "aztp_client-1.0.39.tar.gz",
-  "download_time": "2025-08-08T08:35:41.175350",
+  "download_filename": "aztp_client-1.0.40.tar.gz",
+  "download_time": "2025-08-08T09:03:31.368672",
   "package_url": "https://pypi.org/project/aztp-client/"
 }
