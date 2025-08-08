@@ -1,0 +1,11 @@
+{
+  "name": "okx-sdk",
+  "version": "5.5.809",
+  "summary": "Up-to-date, most-complete, well-organized, well-documented, easy-to-use OKX Exchange Rest and Websocket API SDK for Python",
+  "author": "Burak Öner",
+  "license": null,
+  "home_page": "https://github.com/burakoner/okx-sdk",
+  "download_filename": "okx_sdk-5.5.809.tar.gz",
+  "download_time": "2025-08-08T21:44:02.877386",
+  "package_url": "https://pypi.org/project/okx-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geranslator",
+  "version": "1.4.6",
+  "summary": "Translate your translation files",
+  "author": "Faissal Wahabali",
+  "license": "MIT",
+  "home_page": "https://github.com/faissaloux/geranslator",
+  "download_filename": "geranslator-1.4.6-py3-none-any.whl",
+  "download_time": "2025-08-08T21:44:08.342972",
+  "package_url": "https://pypi.org/project/geranslator/"
+}

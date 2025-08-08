@@ -1,0 +1,11 @@
+{
+  "name": "st-checkbox-tree",
+  "version": "1.0.0",
+  "summary": "A Streamlit component for hierarchical tree selection with tree lines support",
+  "author": "peteraddax",
+  "license": null,
+  "home_page": "https://github.com/PetervanLunteren/streamlit_tree_selector",
+  "download_filename": "st_checkbox_tree-1.0.0.tar.gz",
+  "download_time": "2025-08-08T21:44:23.739037",
+  "package_url": "https://pypi.org/project/st-checkbox-tree/"
+}

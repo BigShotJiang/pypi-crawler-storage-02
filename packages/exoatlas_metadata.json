@@ -1,0 +1,11 @@
+{
+  "name": "exoatlas",
+  "version": "0.7.1",
+  "summary": "Tools for working with transiting exoplanet populations.",
+  "author": "Zach Berta-Thompson",
+  "license": "MIT",
+  "home_page": "https://github.com/zkbt/exoatlas",
+  "download_filename": "exoatlas-0.7.1.tar.gz",
+  "download_time": "2025-08-08T21:44:04.496605",
+  "package_url": "https://pypi.org/project/exoatlas/"
+}

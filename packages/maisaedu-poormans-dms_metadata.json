@@ -1,0 +1,11 @@
+{
+  "name": "maisaedu-poormans-dms",
+  "version": "1.2.49",
+  "summary": "A library for making database migration tasks, for +A Education",
+  "author": "A+ Educação",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "maisaedu_poormans_dms-1.2.49.tar.gz",
+  "download_time": "2025-08-08T21:44:26.390185",
+  "package_url": "https://pypi.org/project/maisaedu-poormans-dms/"
+}

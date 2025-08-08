@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T21:23:44.709362
-- **Total Packages**: 88
-- **Total Size**: 54.28 MB
+- **Download Time**: 2025-08-08T21:44:54.195993
+- **Total Packages**: 90
+- **Total Size**: 41.02 MB
 
 ## Packages List
+- okx-sdk
+- dogpile-breaker
+- exoatlas
+- pulumi-formal
+- mcp-imgutils
+- CAPE-parsers
+- pico-ioc
+- django-bsv-integration
+- metworkpy
+- geranslator
+- flow-compute
+- karaoke-gen
+- abstract-paths
+- spnkr
+- metis-agent
+- tiomagic
+- AtomPacker
+- finbourne-access-sdk
+- helicone_async
+- django-fast-count
+- claude-mpm
+- rewind-reward-pytorch
+- lusid-sdk
+- toastapi
+- atomic-mcp
+- zindex-py
+- aind_mri_utils
+- igvf-async-client
+- igvf-client
+- servicetitan-pyapi
+- image-sitemap
+- w2rpy
+- bash2gitlab
+- arpakitlib
+- iugu-python-sdk
+- st-checkbox-tree
+- capm
+- dragonhpc
+- quickfetch
+- maisaedu-poormans-dms
+- maisaedu-utilities-prefect
+- stytch
+- evpn-connector
+- utme
+- bitbadgespy-sdk
+- mcp-fuzzer
+- flax
+- mat3ra-made
+- speechcapture
+- latch-postgres
+- llama-index-core
+- hanzo
+- hanzo-net
+- datavizhub
+- thermo-stability
 - knit-script
 - obk
 - ecopipeline
@@ -27,7 +82,6 @@
 - dust-extinction
 - gensyn-genrl
 - BridgeFuncRecovery
-- thermo-stability
 - ecdysys
 - pymhss
 - PyfodMC
@@ -42,55 +96,3 @@
 - virtual-knitting-machine
 - plot-misc
 - Flask-Colorpicker
-- shrinkix
-- arpakitlib
-- braintrust
-- ic-da-ai
-- website-price-notifier
-- bernn
-- cat-llm
-- mipi_datamanager
-- madsci.data_manager
-- madsci.workcell_manager
-- madsci.experiment_manager
-- madsci.resource_manager
-- madsci.event_manager
-- madsci.node_module
-- madsci.client
-- madsci.common
-- stracetools
-- letta-nightly
-- fabricengineer-py
-- letta
-- nmdc-schema
-- pydantic-yaml
-- pipen
-- idvpackage
-- fpy2
-- neuromotifs
-- circuit-synth
-- awesome-actus-lib
-- sqlmesh
-- cs2tracker
-- faster-eth-abi
-- genwatch
-- tree-sitter-orca
-- italica
-- snaptrade-python-sdk
-- mat_ceng
-- academic-refchecker
-- able-recipe
-- palmettobug
-- physicell-settings
-- escudeiro
-- supriya
-- flow360
-- RockyRoad
-- llmbuilder
-- libadalina-core
-- bqredis
-- mcp-imgutils
-- causalem
-- pytrain-ogr
-- jupyterlab-logtalk-codemirror-extension
-- ethyca-fides
