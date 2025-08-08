@@ -1,0 +1,11 @@
+{
+  "name": "isobar",
+  "version": "0.2.1",
+  "summary": "A Python library to express and manipulate musical patterns",
+  "author": "Daniel Jones",
+  "license": null,
+  "home_page": "https://github.com/ideoforms/isobar",
+  "download_filename": "isobar-0.2.1.tar.gz",
+  "download_time": "2025-08-08T10:34:10.430841",
+  "package_url": "https://pypi.org/project/isobar/"
+}

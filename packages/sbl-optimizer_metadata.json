@@ -1,0 +1,11 @@
+{
+  "name": "sbl-optimizer",
+  "version": "0.1.7",
+  "summary": "Pattern optimizer based on thermal simulations for Swell by Light",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbl_optimizer-0.1.7.tar.gz",
+  "download_time": "2025-08-08T10:34:07.562467",
+  "package_url": "https://pypi.org/project/sbl-optimizer/"
+}

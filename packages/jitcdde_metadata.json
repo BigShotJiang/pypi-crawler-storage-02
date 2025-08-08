@@ -1,0 +1,11 @@
+{
+  "name": "jitcdde",
+  "version": "1.8.3",
+  "summary": "Just-in-Time Compilation for Delay Differential Equations",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jitcdde-1.8.3.tar.gz",
+  "download_time": "2025-08-08T10:34:01.183820",
+  "package_url": "https://pypi.org/project/jitcdde/"
+}
