@@ -1,11 +1,11 @@
 {
   "name": "nucore-ai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Lightweight library for command/control/optimization/automation of smart home devices using LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucore_ai-1.0.2.tar.gz",
-  "download_time": "2025-08-07T23:26:01.693981",
+  "download_filename": "nucore_ai-1.0.3.tar.gz",
+  "download_time": "2025-08-08T05:33:18.726763",
   "package_url": "https://pypi.org/project/nucore-ai/"
 }

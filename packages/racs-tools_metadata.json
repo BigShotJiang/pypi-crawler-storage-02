@@ -1,0 +1,11 @@
+{
+  "name": "racs-tools",
+  "version": "4.3.0",
+  "summary": "Useful scripts for RACS.",
+  "author": "Alec Thomson",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "racs_tools-4.3.0.tar.gz",
+  "download_time": "2025-08-08T05:33:28.684112",
+  "package_url": "https://pypi.org/project/racs-tools/"
+}

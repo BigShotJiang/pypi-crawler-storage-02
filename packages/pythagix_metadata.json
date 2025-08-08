@@ -1,11 +1,11 @@
 {
   "name": "pythagix",
-  "version": "0.2.17",
-  "summary": "A mathy Python package with utilities like LCM, triangle numbers, etc.",
+  "version": "0.2.19",
+  "summary": "Pythagix is a lightweight Python library that provides a collection of mathematical utility functions for number theory",
   "author": "UltraQuantumScriptor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythagix-0.2.17.tar.gz",
-  "download_time": "2025-08-06T07:30:07.720649",
+  "download_filename": "pythagix-0.2.19.tar.gz",
+  "download_time": "2025-08-08T05:33:06.203153",
   "package_url": "https://pypi.org/project/pythagix/"
 }

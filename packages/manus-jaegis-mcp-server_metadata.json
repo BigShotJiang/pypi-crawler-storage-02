@@ -1,0 +1,11 @@
+{
+  "name": "manus-jaegis-mcp-server",
+  "version": "1.0.0",
+  "summary": "JAEGIS AI Web OS MCP Server - Advanced Model Context Protocol server with filesystem, git, project management, and AI integration tools",
+  "author": "JAEGIS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/jaegis/jaegis-mcp-server",
+  "download_filename": "manus_jaegis_mcp_server-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-08T05:33:04.978151",
+  "package_url": "https://pypi.org/project/manus-jaegis-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shaheen-jarvis",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "A powerful, voice-enabled AI assistant framework with comprehensive speech recognition, natural language processing, and extensive API integrations.",
   "author": "Engr. Hamza",
   "license": null,
-  "home_page": "https://github.com/your-username/shaheen-jarvis",
-  "download_filename": "shaheen_jarvis-0.2.0.tar.gz",
-  "download_time": "2025-08-05T10:35:27.575302",
+  "home_page": "https://github.com/hamza-0987/shaheen_jarvis",
+  "download_filename": "shaheen_jarvis-0.3.2.tar.gz",
+  "download_time": "2025-08-08T05:33:02.066322",
   "package_url": "https://pypi.org/project/shaheen-jarvis/"
 }

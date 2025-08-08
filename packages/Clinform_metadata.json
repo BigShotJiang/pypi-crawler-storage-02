@@ -1,0 +1,11 @@
+{
+  "name": "Clinform",
+  "version": "0.0.0a1",
+  "summary": "A Python package for clinical forms management and data collection",
+  "author": "Ang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clinform-0.0.0a1.tar.gz",
+  "download_time": "2025-08-08T05:32:55.619402",
+  "package_url": "https://pypi.org/project/Clinform/"
+}

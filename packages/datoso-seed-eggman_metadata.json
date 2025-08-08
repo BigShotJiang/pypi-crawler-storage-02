@@ -1,0 +1,11 @@
+{
+  "name": "datoso-seed-eggman",
+  "version": "1.1.1",
+  "summary": "Python command line tool to download and organize your Rom Dat files.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "datoso_seed_eggman-1.1.1.tar.gz",
+  "download_time": "2025-08-08T05:33:14.331567",
+  "package_url": "https://pypi.org/project/datoso-seed-eggman/"
+}
