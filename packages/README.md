@@ -1,19 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T19:24:40.931187
-- **Total Packages**: 87
-- **Total Size**: 17.2 MB
+- **Download Time**: 2025-08-08T19:42:23.036376
+- **Total Packages**: 86
+- **Total Size**: 9.87 MB
 
 ## Packages List
+- airos
+- graphlit-client
+- testapix
+- vibe-automation
+- foamlib
+- bullishpy
+- derive_action_signing
+- ibm-cloud-browser-mcp
+- nautex
+- obk
+- xfetch
+- xqute
+- augint-library
+- tabstar
+- ymvas
+- trading-backend
+- python-can
+- hf-py-fastapi
+- bitbadgespy-sdk
+- usso
+- leafwaxtools
+- agentrun-operation-sdk
+- google-sheets-mcp
+- pywellen
+- gen-tso
 - pyspark-data-toolkit
+- rocm-wsl-ai
+- ciffy
+- HoloAI
+- boto3
+- awscli
+- neurocaps
+- entity-core
+- envenom
+- ai-proxy-core
+- contextgem
+- ufomerge
 - tensorfi-sharpe
 - virtual-knitting-machine
 - nucore-ai
 - qsi-pulse-reader
 - azlassets
-- rocm-wsl-ai
-- nautex
 - modal
 - nitypes
 - kim-tools
@@ -32,7 +66,6 @@
 - service-capacity-modeling
 - garden-ai
 - Dynamic-DateTime
-- hf-py-fastapi
 - bagel-factor
 - localstack-core
 - hantibookmanager
@@ -41,7 +74,6 @@
 - bittty
 - sapiopycommons
 - pulumi-provider-boilerplate
-- bitbadgespy-sdk
 - llmbuilder
 - pypomes-sob
 - eval-protocol
@@ -56,40 +88,7 @@
 - cognite-toolkit
 - pymhss
 - semantic-copycat-binarysniffer
-- testapix
 - slide-narrator
 - responses
 - GameSentenceMiner
 - deepdiff
-- resource-tracker
-- speciesnet
-- odin-protocol
-- investing-algorithm-framework
-- project-x-py
-- skyborn
-- terminator-py
-- sentry-streams
-- sage-agent-internal
-- toml-init
-- cryptonets-python-sdk
-- homewizard-kitchen
-- inferencesh
-- libzrod
-- chift
-- hcom
-- pygeai
-- cat-llm
-- pymimir
-- rumdl
-- simplesingletable
-- sev-snp-measure
-- lib50
-- trcks
-- klayout-pex
-- no-seu-tempo
-- unsloth
-- github-checks
-- pysentry-rs
-- unsloth-zoo
-- apsimNGpy
-- pulumi-xyz

@@ -1,0 +1,11 @@
+{
+  "name": "ufomerge",
+  "version": "1.9.6",
+  "summary": "Merge together two source fonts in UFO format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ufomerge-1.9.6.tar.gz",
+  "download_time": "2025-08-08T19:41:57.615835",
+  "package_url": "https://pypi.org/project/ufomerge/"
+}

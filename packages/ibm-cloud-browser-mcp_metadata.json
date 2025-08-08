@@ -1,0 +1,11 @@
+{
+  "name": "ibm-cloud-browser-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server to open IBM Cloud console in browser",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ibm_cloud_browser_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-08T19:41:40.858960",
+  "package_url": "https://pypi.org/project/ibm-cloud-browser-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "usso",
+  "version": "0.28.39",
+  "summary": "A plug-and-play client for integrating universal single sign-on (SSO) with Python frameworks, enabling secure and seamless authentication across microservices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usso-0.28.39.tar.gz",
+  "download_time": "2025-08-08T19:41:47.787305",
+  "package_url": "https://pypi.org/project/usso/"
+}
