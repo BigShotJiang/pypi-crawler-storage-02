@@ -1,0 +1,11 @@
+{
+  "name": "illdata",
+  "version": "0.2.1",
+  "summary": "Python client for downloading data from Institute Laue Langevin via SFTP.",
+  "author": "Petr Čermák",
+  "license": null,
+  "home_page": null,
+  "download_filename": "illdata-0.2.1.tar.gz",
+  "download_time": "2025-08-08T09:58:54.093945",
+  "package_url": "https://pypi.org/project/illdata/"
+}

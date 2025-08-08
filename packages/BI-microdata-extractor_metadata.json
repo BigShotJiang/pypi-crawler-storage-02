@@ -1,0 +1,11 @@
+{
+  "name": "BI-microdata-extractor",
+  "version": "0.0.1",
+  "summary": "A tool for navigating and processing the microdata od Banca d'Italia: Indagine sul Bilancio dell Famiglie Italiane",
+  "author": "Dario Brunelli",
+  "license": null,
+  "home_page": "https://github.com/Clearbox-AI/bancaitalia-microdata-extractor",
+  "download_filename": "BI-microdata-extractor-0.0.1.tar.gz",
+  "download_time": "2025-08-08T09:59:14.517329",
+  "package_url": "https://pypi.org/project/BI-microdata-extractor/"
+}

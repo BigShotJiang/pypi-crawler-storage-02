@@ -1,0 +1,11 @@
+{
+  "name": "kyutil",
+  "version": "0.1.24",
+  "summary": "Python utils for kylin python application",
+  "author": "xuyonghui",
+  "license": "MIT License",
+  "home_page": "https://server.kylinos.cn/",
+  "download_filename": "kyutil-0.1.24-py2.py3-none-any.whl",
+  "download_time": "2025-08-08T09:59:09.255046",
+  "package_url": "https://pypi.org/project/kyutil/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-http-bridge",
-  "version": "1.2.0",
+  "version": "1.3.1",
   "summary": "Bridge for stdio-only MCP tools that exposes their stdio protocol via streamable-http",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_http_bridge-1.2.0.tar.gz",
-  "download_time": "2025-08-08T09:44:44.541559",
+  "download_filename": "mcp_http_bridge-1.3.1.tar.gz",
+  "download_time": "2025-08-08T09:59:05.109725",
   "package_url": "https://pypi.org/project/mcp-http-bridge/"
 }

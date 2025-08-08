@@ -1,0 +1,11 @@
+{
+  "name": "databricks-sql-handler",
+  "version": "1.0.0",
+  "summary": "A comprehensive Databricks SQL handler with Pydantic models, OAuth authentication, and connection management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databricks_sql_handler-1.0.0.tar.gz",
+  "download_time": "2025-08-08T09:59:18.143166",
+  "package_url": "https://pypi.org/project/databricks-sql-handler/"
+}

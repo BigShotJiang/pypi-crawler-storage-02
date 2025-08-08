@@ -1,11 +1,11 @@
 {
   "name": "pyindicators",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "PyIndicators is a powerful and user-friendly Python library for technical analysis indicators and metrics. Written entirely in Python, it requires no external dependencies, ensuring seamless integration and ease of use.",
   "author": "Marc van Duyn",
   "license": null,
   "home_page": null,
-  "download_filename": "pyindicators-0.12.0.tar.gz",
-  "download_time": "2025-08-07T15:49:24.359437",
+  "download_filename": "pyindicators-0.13.0.tar.gz",
+  "download_time": "2025-08-08T09:59:17.624984",
   "package_url": "https://pypi.org/project/pyindicators/"
 }
