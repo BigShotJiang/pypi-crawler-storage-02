@@ -1,0 +1,11 @@
+{
+  "name": "bento-mdf",
+  "version": "0.11.10",
+  "summary": "Python driver/validator for Bento Model Description Format",
+  "author": "Mark A. Jensen",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "bento_mdf-0.11.10.tar.gz",
+  "download_time": "2025-08-08T17:45:31.344395",
+  "package_url": "https://pypi.org/project/bento-mdf/"
+}

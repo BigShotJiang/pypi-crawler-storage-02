@@ -1,0 +1,11 @@
+{
+  "name": "llmbuilder",
+  "version": "0.1.0",
+  "summary": "A comprehensive toolkit for building, training, and deploying language models",
+  "author": "Qubase",
+  "license": "MIT",
+  "home_page": "https://github.com/qubasehq/llmbuilder-package",
+  "download_filename": "llmbuilder-0.1.0.tar.gz",
+  "download_time": "2025-08-08T17:45:16.244462",
+  "package_url": "https://pypi.org/project/llmbuilder/"
+}
