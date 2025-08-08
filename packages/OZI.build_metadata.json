@@ -1,0 +1,11 @@
+{
+  "name": "OZI.build",
+  "version": "2.3.9",
+  "summary": "Create pep517 compliant packages from the meson build system, OZI-maintained fork.",
+  "author": "Thibault Saunier",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ozi_build-2.3.9.tar.gz",
+  "download_time": "2025-08-08T05:59:51.066006",
+  "package_url": "https://pypi.org/project/OZI.build/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "highlander-enum",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Better enums including flags with subsets in which there can be only one... set.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "highlander_enum-0.9.0.tar.gz",
-  "download_time": "2025-08-07T23:45:57.186739",
+  "download_filename": "highlander_enum-0.9.1.tar.gz",
+  "download_time": "2025-08-08T05:59:33.863935",
   "package_url": "https://pypi.org/project/highlander-enum/"
 }

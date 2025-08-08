@@ -1,0 +1,11 @@
+{
+  "name": "ecodev-front",
+  "version": "0.0.92",
+  "summary": "Dash component helpers",
+  "author": "Amaury Salles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecodev_front-0.0.92.tar.gz",
+  "download_time": "2025-08-08T05:59:51.584221",
+  "package_url": "https://pypi.org/project/ecodev-front/"
+}

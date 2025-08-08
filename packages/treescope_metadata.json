@@ -1,0 +1,11 @@
+{
+  "name": "treescope",
+  "version": "0.1.10",
+  "summary": "Treescope: An interactive HTML pretty-printer for ML research in IPython notebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treescope-0.1.10.tar.gz",
+  "download_time": "2025-08-08T05:59:37.513752",
+  "package_url": "https://pypi.org/project/treescope/"
+}

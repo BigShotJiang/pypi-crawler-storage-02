@@ -1,0 +1,11 @@
+{
+  "name": "httpetcd",
+  "version": "0.3.3",
+  "summary": "Etcd client over HTTP",
+  "author": "Mail.ru Cloud Solutions",
+  "license": null,
+  "home_page": "http://infra.pages.gitlab.corp.mail.ru/iaas/libraries/httpetcd3",
+  "download_filename": "httpetcd-0.3.3.tar.gz",
+  "download_time": "2025-08-08T05:59:31.793826",
+  "package_url": "https://pypi.org/project/httpetcd/"
+}

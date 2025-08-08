@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-google-sheet",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A Universal MCP Application: universal_mcp_google_sheet",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_google_sheet-0.1.10.tar.gz",
-  "download_time": "2025-08-07T17:56:38.811927",
+  "download_filename": "universal_mcp_google_sheet-0.1.11.tar.gz",
+  "download_time": "2025-08-08T05:59:36.985040",
   "package_url": "https://pypi.org/project/universal-mcp-google-sheet/"
 }
