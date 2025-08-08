@@ -1,11 +1,11 @@
 {
   "name": "pyqrack-cpu-complex128",
-  "version": "1.65.6",
+  "version": "1.66.0",
   "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/pyqrack",
-  "download_filename": "pyqrack_cpu_complex128-1.65.6.tar.gz",
-  "download_time": "2025-08-08T17:24:17.230336",
+  "download_filename": "pyqrack_cpu_complex128-1.66.0.tar.gz",
+  "download_time": "2025-08-08T23:55:20.357176",
   "package_url": "https://pypi.org/project/pyqrack-cpu-complex128/"
 }

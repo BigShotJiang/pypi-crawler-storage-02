@@ -1,11 +1,11 @@
 {
   "name": "polyfeatures",
-  "version": "0.0.24",
+  "version": "0.0.26",
   "summary": "A python package for featurizing polymers.",
   "author": "Reyansh Saindane",
   "license": null,
   "home_page": null,
-  "download_filename": "polyfeatures-0.0.24.tar.gz",
-  "download_time": "2025-08-06T13:49:59.184623",
+  "download_filename": "polyfeatures-0.0.26.tar.gz",
+  "download_time": "2025-08-08T23:55:16.127307",
   "package_url": "https://pypi.org/project/polyfeatures/"
 }

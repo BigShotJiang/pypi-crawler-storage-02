@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T23:44:30.557153
-- **Total Packages**: 77
-- **Total Size**: 39.14 MB
+- **Download Time**: 2025-08-08T23:55:54.562315
+- **Total Packages**: 78
+- **Total Size**: 1.46 MB
 
 ## Packages List
+- nmea2000
+- foundry-platform-sdk
+- pypi-test-coltg5
+- openparams
+- pulumi-formal
+- nonebot_plugin_suggarchat
+- pulumi-provider-boilerplate
+- polyfeatures
+- kececilayout
+- neurocaps
+- pulumi-xyz
+- dlcalc
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- stdoutools
+- pyqrack-cpu-complex128
+- pyqrack-cpu
 - classylss
 - owasp-schema
 - pyqrack-complex128
@@ -25,7 +42,6 @@
 - fabricatio
 - fabricatio-tool
 - yt-dlp
-- nmea2000
 - meltano
 - gamesolverlib
 - nv-ingest-client
@@ -57,7 +73,6 @@
 - gitlake
 - ozi-core
 - Perception
-- pulumi-provider-boilerplate
 - dragonfly-core
 - moose-cli
 - ligonlibrary
@@ -69,17 +84,3 @@
 - pvevti
 - reflex-agent
 - unpage
-- pulumi-xyz
-- tri3d
-- statsig-python-core
-- odoo14-addon-ssi-elearning-work-log
-- mujoco-mjx
-- portacode
-- synqly
-- mujoco
-- miamcpdoc
-- hanzo-net
-- pyairahome
-- letta-client
-- leann-core
-- leann-backend-hnsw
