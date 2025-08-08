@@ -1,0 +1,11 @@
+{
+  "name": "jghfmanager",
+  "version": "0.1.9",
+  "summary": "A Python module jghfmanager",
+  "author": "J.Guillaume D-Isabelle",
+  "license": null,
+  "home_page": "https://github.com/jgwill/jghfmanager",
+  "download_filename": "jghfmanager-0.1.9.tar.gz",
+  "download_time": "2025-08-08T11:45:14.712203",
+  "package_url": "https://pypi.org/project/jghfmanager/"
+}

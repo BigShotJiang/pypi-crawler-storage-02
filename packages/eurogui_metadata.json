@@ -1,0 +1,11 @@
+{
+  "name": "eurogui",
+  "version": "0.0",
+  "summary": "A modern, hardware-accelerated C++ GUI framework (Python bindings coming soon).",
+  "author": "Kalom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eurogui-0.0.tar.gz",
+  "download_time": "2025-08-08T11:45:03.179480",
+  "package_url": "https://pypi.org/project/eurogui/"
+}

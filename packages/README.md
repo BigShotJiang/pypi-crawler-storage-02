@@ -1,14 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T11:28:34.900116
-- **Total Packages**: 75
-- **Total Size**: 39.19 MB
+- **Download Time**: 2025-08-08T11:45:47.014719
+- **Total Packages**: 82
+- **Total Size**: 26.98 MB
 
 ## Packages List
+- bitquery-pb2-kafka-package
+- fwdi
+- eurogui
+- base-api-utils
+- statezero
+- 3lc
+- byzh-extra
+- airweave-sdk
+- dbxsql
+- octo-cli
+- orpheuspypractice
+- tdi-rust-python-tools
+- mbta-mcp
+- intellistream-sage-utils
+- cnhkmcp
+- intellistream-sage-middleware
+- dearrayer
+- NeZha2
+- intellistream-sage-kernel
+- trops
+- intellistream-sage
+- intellistream-sage-cli
+- lhs-global-service-fastapi
+- ossbom
+- jghfmanager
+- geo-explorer
+- pyturso
+- dingent
+- eocube
+- prj-tree
+- pyburn
+- umep
+- mas-cli
+- PVNet_summation
+- email-typo-fixer
+- matrice
+- gemseo-matlab
+- pylint-sort-functions
+- claude-helpers
+- EE07
+- bigdata-research-tools
+- torchx-nightly
+- numba-cuda
+- langcache
+- seanox-ai-nlp
+- PVNet
+- scanoss
+- pysentry-rs
+- aioinject
+- rumdl
 - nxu
 - maleo-cds
-- EE07
 - yeref
 - blueapi
 - mcp-email-client-cybergenix
@@ -29,55 +78,13 @@
 - pybotx
 - gestion_fechas
 - amazon-description-scraper
-- octo-cli
 - colour-cxf
 - cloudburst-fargate
 - youtube-thumbnail-generator
 - tb-nightly
 - nvfuser-cu126
-- lhs-global-service-fastapi
 - nvfuser-cu128
 - busysloths-mlox
 - logsentinelai
 - firefly-sbom-tool
 - NaaVRE-workflow-jupyterlab
-- asammdf
-- tickermood
-- dvh-tools
-- robotframework-realtimeresults
-- track-exception
-- aik_infra
-- splunk-add-on-ucc-modinput-test
-- orq-ai-sdk
-- milieudefensie
-- entity-core
-- pyxend
-- hone-io
-- hone-io-enterprise
-- pylint-sort-functions
-- NiaAML-GUI
-- openepi-client
-- uv-outdated
-- cryptography-suite
-- ipgeolocationio
-- acacia-s2s-toolkit
-- skorch
-- gnetclisdk
-- pedantic
-- pyObsFind
-- call-context-lib
-- agentine
-- easy-udp
-- ksim
-- biliup-ruinmi
-- csv_remapper_lib
-- dstz
-- swing-schedule
-- data_exchange_tool
-- raglens
-- pyrebel
-- localrouter
-- bluer-journal
-- trolskgen
-- bluer-objects
-- yut

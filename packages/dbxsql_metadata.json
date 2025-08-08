@@ -1,0 +1,11 @@
+{
+  "name": "dbxsql",
+  "version": "1.0.1",
+  "summary": "A comprehensive Databricks SQL handler with Pydantic models, OAuth authentication, and connection management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbxsql-1.0.1.tar.gz",
+  "download_time": "2025-08-08T11:45:06.504149",
+  "package_url": "https://pypi.org/project/dbxsql/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aioinject",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "Async dependency injection library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aioinject-1.8.1.tar.gz",
-  "download_time": "2025-08-06T10:59:35.274782",
+  "download_filename": "aioinject-1.8.2.tar.gz",
+  "download_time": "2025-08-08T11:45:28.605335",
   "package_url": "https://pypi.org/project/aioinject/"
 }
