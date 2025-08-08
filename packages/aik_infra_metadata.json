@@ -1,11 +1,11 @@
 {
   "name": "aik_infra",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Infrastructure layer for Aikademy microservices. Includes logging, Redis/Kafka clients, database utilities, and event schema definitions.",
   "author": "Anton",
   "license": null,
   "home_page": null,
-  "download_filename": "aik_infra-0.1.4.tar.gz",
-  "download_time": "2025-08-04T11:22:04.347120",
+  "download_filename": "aik_infra-0.1.5.tar.gz",
+  "download_time": "2025-08-08T11:28:13.213988",
   "package_url": "https://pypi.org/project/aik_infra/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "skorch",
+  "version": "1.2.0",
+  "summary": "scikit-learn compatible neural network library for pytorch",
+  "author": "Marian Tietz, Thomas J. Fan, Daniel Nouri, Benjamin Bossan, skorch Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skorch-1.2.0.tar.gz",
+  "download_time": "2025-08-08T11:28:22.803840",
+  "package_url": "https://pypi.org/project/skorch/"
+}

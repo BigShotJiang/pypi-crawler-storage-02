@@ -1,0 +1,11 @@
+{
+  "name": "yggflix",
+  "version": "0.1.2",
+  "summary": "API client for YggTorrent with smart torrent selection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yggflix-0.1.2.tar.gz",
+  "download_time": "2025-08-08T11:27:59.651788",
+  "package_url": "https://pypi.org/project/yggflix/"
+}

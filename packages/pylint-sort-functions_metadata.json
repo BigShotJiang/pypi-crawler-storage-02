@@ -1,11 +1,11 @@
 {
   "name": "pylint-sort-functions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Pylint plugin to sort functions in Python code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylint_sort_functions-1.1.0.tar.gz",
-  "download_time": "2025-08-08T08:35:22.703802",
+  "download_filename": "pylint_sort_functions-1.2.0.tar.gz",
+  "download_time": "2025-08-08T11:28:18.773142",
   "package_url": "https://pypi.org/project/pylint-sort-functions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cryptography-suite",
+  "version": "3.0.0",
+  "summary": "A comprehensive and secure cryptographic toolkit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cryptography_suite-3.0.0.tar.gz",
+  "download_time": "2025-08-08T11:28:21.072388",
+  "package_url": "https://pypi.org/project/cryptography-suite/"
+}

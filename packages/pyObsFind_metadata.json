@@ -1,11 +1,11 @@
 {
   "name": "pyObsFind",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Package to find when solar system objects are observable",
   "author": "Richard Cannon, Abigail Patrick, Ottavia Truttero",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyobsfind-0.3.0.tar.gz",
-  "download_time": "2025-08-07T17:02:58.768964",
+  "download_filename": "pyobsfind-0.4.0.tar.gz",
+  "download_time": "2025-08-08T11:28:24.533065",
   "package_url": "https://pypi.org/project/pyObsFind/"
 }

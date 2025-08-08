@@ -1,11 +1,11 @@
 {
   "name": "easy-udp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Easy UDP communication library",
   "author": "Andrey Mazko",
   "license": null,
   "home_page": "https://github.com/mookor/easyUDP",
-  "download_filename": "easy_udp-0.1.9.tar.gz",
-  "download_time": "2025-08-08T10:58:43.126094",
+  "download_filename": "easy_udp-0.1.10.tar.gz",
+  "download_time": "2025-08-08T11:28:26.309258",
   "package_url": "https://pypi.org/project/easy-udp/"
 }

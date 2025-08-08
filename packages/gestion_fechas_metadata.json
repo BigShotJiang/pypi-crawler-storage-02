@@ -1,11 +1,11 @@
 {
   "name": "gestion_fechas",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "summary": "Gestión de fechas de las etls python",
   "author": "Equipo de integración Valencia smart city",
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "gestion_fechas-3.2.0.tar.gz",
-  "download_time": "2025-08-07T12:59:49.996957",
+  "download_filename": "gestion_fechas-3.3.0.tar.gz",
+  "download_time": "2025-08-08T11:28:01.593068",
   "package_url": "https://pypi.org/project/gestion_fechas/"
 }

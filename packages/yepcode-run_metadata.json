@@ -1,11 +1,11 @@
 {
   "name": "yepcode-run",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "YepCode Run - A powerful serverless runtime and SDK for executing code in secure sandboxes",
   "author": "YepCode Developers",
   "license": "See LICENSE file",
   "home_page": "https://yepcode.io/run/",
-  "download_filename": "yepcode_run-1.6.0.tar.gz",
-  "download_time": "2025-08-05T18:39:30.204249",
+  "download_filename": "yepcode_run-1.6.1.tar.gz",
+  "download_time": "2025-08-08T11:27:59.074501",
   "package_url": "https://pypi.org/project/yepcode-run/"
 }

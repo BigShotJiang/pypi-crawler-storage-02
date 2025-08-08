@@ -1,0 +1,11 @@
+{
+  "name": "firefly-sbom-tool",
+  "version": "1.0.0",
+  "summary": "Comprehensive SBOM generation and auditing tool for Firefly Open Banking Platform",
+  "author": "Firefly OSS",
+  "license": null,
+  "home_page": "https://github.com/firefly-oss/sbom-tool",
+  "download_filename": "firefly_sbom_tool-1.0.0.tar.gz",
+  "download_time": "2025-08-08T11:28:09.114840",
+  "package_url": "https://pypi.org/project/firefly-sbom-tool/"
+}
