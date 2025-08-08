@@ -1,11 +1,11 @@
 {
   "name": "animesub",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Инструмент для автоматического создания субтитров для аниме",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "animesub-0.2.1.tar.gz",
-  "download_time": "2025-08-07T23:25:45.295324",
+  "download_filename": "animesub-0.3.0.tar.gz",
+  "download_time": "2025-08-08T15:33:34.371071",
   "package_url": "https://pypi.org/project/animesub/"
 }

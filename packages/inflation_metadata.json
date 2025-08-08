@@ -1,0 +1,11 @@
+{
+  "name": "inflation",
+  "version": "2.0.3",
+  "summary": "Implementations of the Inflation Technique for Causal Inference",
+  "author": "Emanuel-Cristian Boghiu, Elie Wolfe, Alejandro Pozas-Kerstjens",
+  "license": "GNU GPL v. 3.0",
+  "home_page": "https://github.com/ecboghiu/inflation",
+  "download_filename": "inflation-2.0.3.tar.gz",
+  "download_time": "2025-08-08T15:33:36.421805",
+  "package_url": "https://pypi.org/project/inflation/"
+}

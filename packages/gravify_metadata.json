@@ -1,0 +1,11 @@
+{
+  "name": "gravify",
+  "version": "2.0.0",
+  "summary": "A library to interface with Gravatar profiles and avatars.",
+  "author": "Ben Soyka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gravify-2.0.0.tar.gz",
+  "download_time": "2025-08-08T15:34:02.930034",
+  "package_url": "https://pypi.org/project/gravify/"
+}

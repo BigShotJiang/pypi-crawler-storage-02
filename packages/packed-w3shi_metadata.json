@@ -1,0 +1,11 @@
+{
+  "name": "packed-w3shi",
+  "version": "0.0.1",
+  "summary": "Demo package for PyPI publishing test",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/slvignesh05/w3shi_h1",
+  "download_filename": "packed_w3shi-0.0.1.tar.gz",
+  "download_time": "2025-08-08T15:33:58.286088",
+  "package_url": "https://pypi.org/project/packed-w3shi/"
+}

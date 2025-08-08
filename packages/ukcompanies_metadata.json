@@ -1,0 +1,11 @@
+{
+  "name": "ukcompanies",
+  "version": "0.6.0",
+  "summary": "A Python SDK for accessing UK Companies House API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ukcompanies-0.6.0.tar.gz",
+  "download_time": "2025-08-08T15:33:55.141837",
+  "package_url": "https://pypi.org/project/ukcompanies/"
+}
