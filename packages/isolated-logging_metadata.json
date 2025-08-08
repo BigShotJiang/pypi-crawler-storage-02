@@ -1,0 +1,11 @@
+{
+  "name": "isolated-logging",
+  "version": "0.1.2",
+  "summary": "A Python library for tracking and logging function and loop execution times with stats and color-coded logs for easy performance monitoring and optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isolated_logging-0.1.2.tar.gz",
+  "download_time": "2025-08-08T14:44:38.147770",
+  "package_url": "https://pypi.org/project/isolated-logging/"
+}

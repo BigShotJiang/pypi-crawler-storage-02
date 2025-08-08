@@ -1,0 +1,11 @@
+{
+  "name": "mozilla-django-oidc-db",
+  "version": "0.25.0",
+  "summary": "A database-backed configuration for mozilla-django-oidc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozilla_django_oidc_db-0.25.0.tar.gz",
+  "download_time": "2025-08-08T14:44:00.499684",
+  "package_url": "https://pypi.org/project/mozilla-django-oidc-db/"
+}

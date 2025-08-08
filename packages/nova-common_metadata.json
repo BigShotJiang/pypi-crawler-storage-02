@@ -1,0 +1,11 @@
+{
+  "name": "nova-common",
+  "version": "0.3.0",
+  "summary": "NOVA Common Project",
+  "author": "Sergey Yakubov yakubovs@ornl.gov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nova_common-0.3.0-py3-none-any.whl",
+  "download_time": "2025-08-08T14:44:33.416638",
+  "package_url": "https://pypi.org/project/nova-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyiohat",
+  "version": "1.9.0",
+  "summary": "Python Mass Spectrometry Input Output Harmonization Tool",
+  "author": "Tristan Ranff, Manuel Kösters, Artyom Vlasov, Christian Fufezan",
+  "license": "MIT",
+  "home_page": "https://github.com/computational-ms/pyiohat",
+  "download_filename": "pyiohat-1.9.0.tar.gz",
+  "download_time": "2025-08-08T14:44:39.209876",
+  "package_url": "https://pypi.org/project/pyiohat/"
+}

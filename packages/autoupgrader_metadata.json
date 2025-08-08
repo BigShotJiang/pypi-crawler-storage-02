@@ -1,0 +1,11 @@
+{
+  "name": "autoupgrader",
+  "version": "0.1.2",
+  "summary": "A library for automatic Python updates",
+  "author": "HaZaRd",
+  "license": null,
+  "home_page": "https://github.com/Pytholearn/autoupgrader",
+  "download_filename": "autoupgrader-0.1.2.tar.gz",
+  "download_time": "2025-08-08T14:44:12.860811",
+  "package_url": "https://pypi.org/project/autoupgrader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adestis-netbox-plugin-account-management",
+  "version": "1.9.5",
+  "summary": "ADESTIS Account Management",
+  "author": "ADESTIS GmbH",
+  "license": "GPLv3",
+  "home_page": "https://github.com/adestis/netbox-account-management",
+  "download_filename": "adestis_netbox_plugin_account_management-1.9.5-py3-none-any.whl",
+  "download_time": "2025-08-08T14:44:35.529066",
+  "package_url": "https://pypi.org/project/adestis-netbox-plugin-account-management/"
+}
