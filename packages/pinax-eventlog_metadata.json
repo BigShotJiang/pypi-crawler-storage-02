@@ -1,0 +1,11 @@
+{
+  "name": "pinax-eventlog",
+  "version": "6.0.0",
+  "summary": "an event logger for Django projects",
+  "author": "Pinax Team",
+  "license": "MIT",
+  "home_page": "http://github.com/pinax/pinax-eventlog/",
+  "download_filename": "pinax_eventlog-6.0.0.tar.gz",
+  "download_time": "2025-08-08T23:44:01.371319",
+  "package_url": "https://pypi.org/project/pinax-eventlog/"
+}

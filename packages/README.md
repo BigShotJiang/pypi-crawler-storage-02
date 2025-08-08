@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-08T23:25:07.770411
-- **Total Packages**: 73
-- **Total Size**: 33.8 MB
+- **Download Time**: 2025-08-08T23:44:30.557153
+- **Total Packages**: 77
+- **Total Size**: 39.14 MB
 
 ## Packages List
+- classylss
+- owasp-schema
+- pyqrack-complex128
+- pyqrack
+- libreriawalter
+- fabricatio-yue
+- fabricatio-actions
+- fabricatio-typst
+- fabricatio-core
+- fabricatio-capabilities
+- fabricatio-team
+- fabricatio-anki
+- markthat
+- fabricatio-rag
+- fabricatio-improve
+- fabricatio-question
+- fabricatio
+- fabricatio-tool
+- yt-dlp
+- nmea2000
+- meltano
+- gamesolverlib
+- nv-ingest-client
+- gguf-connector
+- pinax-eventlog
+- uhg
+- narada-pyodide
+- piccard
+- narada
+- guidepost
+- sensorfabric
+- lbt-dragonfly
+- circremote
+- sqsi
+- omnipkg
+- modal
+- truss
+- b10-xgrammar
+- dragonfly-radiance
+- dragonfly-uwg
+- django-wildewidgets
+- dragonfly-energy
+- flake8-import-guard
 - coiled
 - sentry-arroyo
 - cosim-toolbox
@@ -14,7 +57,6 @@
 - gitlake
 - ozi-core
 - Perception
-- circremote
 - pulumi-provider-boilerplate
 - dragonfly-core
 - moose-cli
@@ -22,7 +64,6 @@
 - moose-lib
 - flwr-nightly
 - sagemaker
-- nmea2000
 - pysentry-rs
 - bipl
 - pvevti
@@ -32,10 +73,8 @@
 - tri3d
 - statsig-python-core
 - odoo14-addon-ssi-elearning-work-log
-- markthat
 - mujoco-mjx
 - portacode
-- truss
 - synqly
 - mujoco
 - miamcpdoc
@@ -44,38 +83,3 @@
 - letta-client
 - leann-core
 - leann-backend-hnsw
-- pypi-test-coltg5
-- leann-backend-diskann
-- leann
-- femtodriver
-- badger-opt
-- ecdysys
-- pydeye
-- llguidance
-- nullsweep
-- mkdocs-mermaid-to-svg
-- vgi
-- constellaxion-utils
-- agentbeats
-- prefect-client
-- prefect
-- ecopipeline
-- maite-datasets
-- mcp-agent
-- beyondtrust-bips-library
-- fwdi
-- listpick
-- faster-eth-abi
-- ollamapy
-- artisan-engine
-- simplesingletable
-- gis-mcp
-- canonmap
-- aioskybellgen
-- localrouter
-- clavata-sdk
-- momento-wire-types
-- quantconnect-stubs
-- connector-py
-- redis-benchmarks-specification
-- moviebox-api

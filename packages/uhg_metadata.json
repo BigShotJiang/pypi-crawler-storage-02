@@ -1,0 +1,11 @@
+{
+  "name": "uhg",
+  "version": "0.3.7",
+  "summary": "Universal Hyperbolic Geometry Library for Machine Learning",
+  "author": "UHG Library Team",
+  "license": "MIT",
+  "home_page": "https://github.com/zbovaird/UHG-Library",
+  "download_filename": "uhg-0.3.7.tar.gz",
+  "download_time": "2025-08-08T23:44:01.890901",
+  "package_url": "https://pypi.org/project/uhg/"
+}
