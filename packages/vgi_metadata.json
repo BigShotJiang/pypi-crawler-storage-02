@@ -1,0 +1,11 @@
+{
+  "name": "vgi",
+  "version": "1.0.0",
+  "summary": "Professional Modern GUI Library for Python - Create stunning applications with ease",
+  "author": "VGI Team",
+  "license": null,
+  "home_page": "https://github.com/vgi-team/vgi",
+  "download_filename": "vgi-1.0.0.tar.gz",
+  "download_time": "2025-08-08T22:48:17.972290",
+  "package_url": "https://pypi.org/project/vgi/"
+}

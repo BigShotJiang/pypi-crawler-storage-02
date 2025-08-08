@@ -1,0 +1,11 @@
+{
+  "name": "nullsweep",
+  "version": "0.6.0",
+  "summary": "A comprehensive Python package for managing and analyzing missing data in pandas DataFrames, starting with detection and expanding to complete handling.",
+  "author": "Okan Yenigün",
+  "license": "MIT",
+  "home_page": "https://github.com/okanyenigun/nullsweep",
+  "download_filename": "nullsweep-0.6.0.tar.gz",
+  "download_time": "2025-08-08T22:48:16.349285",
+  "package_url": "https://pypi.org/project/nullsweep/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "constellaxion-utils",
+  "version": "1.0.0",
+  "summary": "The Utils package for constellaXion CLI jobs",
+  "author": "Constellaxion Technologies, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "constellaxion_utils-1.0.0.tar.gz",
+  "download_time": "2025-08-08T22:48:18.491180",
+  "package_url": "https://pypi.org/project/constellaxion-utils/"
+}
