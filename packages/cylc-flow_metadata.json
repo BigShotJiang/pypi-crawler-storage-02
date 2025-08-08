@@ -1,0 +1,11 @@
+{
+  "name": "cylc-flow",
+  "version": "8.5.1",
+  "summary": "A workflow engine for cycling systems",
+  "author": "Hilary Oliver",
+  "license": "GPL",
+  "home_page": "https://cylc.org/",
+  "download_filename": "cylc_flow-8.5.1.tar.gz",
+  "download_time": "2025-08-08T14:59:29.929748",
+  "package_url": "https://pypi.org/project/cylc-flow/"
+}

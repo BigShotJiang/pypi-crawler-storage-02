@@ -1,0 +1,11 @@
+{
+  "name": "onginred",
+  "version": "0.1.0",
+  "summary": "manager for macos launchd services",
+  "author": "Joseph M Courtney",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "onginred-0.1.0.tar.gz",
+  "download_time": "2025-08-08T14:59:27.829608",
+  "package_url": "https://pypi.org/project/onginred/"
+}

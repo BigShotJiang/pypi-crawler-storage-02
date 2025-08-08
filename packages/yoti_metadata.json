@@ -1,0 +1,11 @@
+{
+  "name": "yoti",
+  "version": "2.14.4",
+  "summary": "The Yoti Python SDK, providing API support for Login, Verify (2FA) and Age Verification.",
+  "author": "Yoti",
+  "license": "MIT",
+  "home_page": "https://github.com/getyoti/yoti-python-sdk",
+  "download_filename": "yoti-2.14.4.tar.gz",
+  "download_time": "2025-08-08T14:59:24.667456",
+  "package_url": "https://pypi.org/project/yoti/"
+}
