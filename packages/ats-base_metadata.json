@@ -1,0 +1,11 @@
+{
+  "name": "ats-base",
+  "version": "1.3.4",
+  "summary": "Test Script Development Library",
+  "author": "zhangyue",
+  "license": null,
+  "home_page": "https://gitee.com/henry9000/ats_base",
+  "download_filename": "ats_base-1.3.4.tar.gz",
+  "download_time": "2025-08-08T02:21:34.267689",
+  "package_url": "https://pypi.org/project/ats-base/"
+}

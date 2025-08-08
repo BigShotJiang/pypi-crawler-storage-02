@@ -1,0 +1,11 @@
+{
+  "name": "ostdetector",
+  "version": "1.0.5",
+  "summary": "A tool for extracting of OS-Specific Tests",
+  "author": "Ricardo Job",
+  "license": "MIT",
+  "home_page": "https://github.com/ricardojob/OSTDetector",
+  "download_filename": "ostdetector-1.0.5.tar.gz",
+  "download_time": "2025-08-08T02:21:16.363734",
+  "package_url": "https://pypi.org/project/ostdetector/"
+}

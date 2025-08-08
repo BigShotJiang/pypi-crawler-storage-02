@@ -1,0 +1,11 @@
+{
+  "name": "text-to-curses",
+  "version": "0.1.0",
+  "summary": "A library for displaying documents in terminal with colors using curses",
+  "author": "da4games",
+  "license": "MIT",
+  "home_page": "https://github.com/da4games/Text-to-Curses",
+  "download_filename": "text_to_curses-0.1.0.tar.gz",
+  "download_time": "2025-08-08T02:21:49.966203",
+  "package_url": "https://pypi.org/project/text-to-curses/"
+}

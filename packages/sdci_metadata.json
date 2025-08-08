@@ -1,11 +1,11 @@
 {
   "name": "sdci",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SDCI - Sistema de Deploy Continuo Integrado - Integrated Continuous Deployment System - Sidecar Micro CD",
   "author": "Jonhnatha Trigueiro",
   "license": null,
   "home_page": null,
-  "download_filename": "sdci-0.1.0.tar.gz",
-  "download_time": "2025-08-07T23:25:59.086952",
+  "download_filename": "sdci-0.1.1.tar.gz",
+  "download_time": "2025-08-08T02:21:40.001959",
   "package_url": "https://pypi.org/project/sdci/"
 }

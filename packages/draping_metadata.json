@@ -1,11 +1,11 @@
 {
   "name": "draping",
-  "version": "0.2.0",
+  "version": "0.5.4",
   "summary": "Apply and remove decorators to the fumctions (both sync and async) on-fly",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "draping-0.2.0.tar.gz",
-  "download_time": "2025-08-07T23:57:40.928460",
+  "download_filename": "draping-0.5.4.tar.gz",
+  "download_time": "2025-08-08T02:21:31.135579",
   "package_url": "https://pypi.org/project/draping/"
 }

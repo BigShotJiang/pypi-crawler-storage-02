@@ -1,0 +1,11 @@
+{
+  "name": "timesleuth",
+  "version": "1.0.0",
+  "summary": "Digital forensics timestamp analysis library for detecting suspicious activity",
+  "author": "Mohammad Nazmul",
+  "license": null,
+  "home_page": "https://github.com/MohammadNazmulDev/TimeSleuth",
+  "download_filename": "timesleuth-1.0.0.tar.gz",
+  "download_time": "2025-08-08T02:21:20.590433",
+  "package_url": "https://pypi.org/project/timesleuth/"
+}
