@@ -1,0 +1,11 @@
+{
+  "name": "chunkipy",
+  "version": "1.0.0.post1",
+  "summary": "Chunkipy is an easy-to-use library for chunking text based on the size estimator function you provide.",
+  "author": "Gioele Crispo",
+  "license": "MIT",
+  "home_page": "https://github.com/gioelecrispo/chunkipy",
+  "download_filename": "chunkipy-1.0.0.post1.tar.gz",
+  "download_time": "2025-08-08T12:55:11.611288",
+  "package_url": "https://pypi.org/project/chunkipy/"
+}

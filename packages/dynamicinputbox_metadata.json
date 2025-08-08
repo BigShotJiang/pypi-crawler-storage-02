@@ -1,0 +1,11 @@
+{
+  "name": "dynamicinputbox",
+  "version": "1.2",
+  "summary": "Creates a dynamic inputbox with the possisiblity to add inputboxes and/or alternatives",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dynamicinputbox-1.2.tar.gz",
+  "download_time": "2025-08-08T12:55:03.700458",
+  "package_url": "https://pypi.org/project/dynamicinputbox/"
+}

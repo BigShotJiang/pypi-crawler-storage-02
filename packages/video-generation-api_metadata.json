@@ -1,0 +1,11 @@
+{
+  "name": "video-generation-api",
+  "version": "1.0.0",
+  "summary": "A powerful Docker-based API for intelligent video generation with professional effects and subtitles",
+  "author": "Leo Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/preangelleo/video-generation-docker",
+  "download_filename": "video_generation_api-1.0.0.tar.gz",
+  "download_time": "2025-08-08T12:54:39.428305",
+  "package_url": "https://pypi.org/project/video-generation-api/"
+}

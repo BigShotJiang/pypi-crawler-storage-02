@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-derived-channels",
+  "version": "0.1.2",
+  "summary": "Instrument driver for derived_channels for NOMAD CAMELS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_derived_channels-0.1.2.tar.gz",
+  "download_time": "2025-08-08T12:55:13.666027",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-derived-channels/"
+}

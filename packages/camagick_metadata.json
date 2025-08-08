@@ -1,11 +1,11 @@
 {
   "name": "camagick",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Command-line client tools for EPICS-CA data processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "camagick-0.2.0.tar.gz",
-  "download_time": "2025-08-08T11:27:52.629258",
+  "download_filename": "camagick-0.3.0.tar.gz",
+  "download_time": "2025-08-08T12:54:42.630755",
   "package_url": "https://pypi.org/project/camagick/"
 }

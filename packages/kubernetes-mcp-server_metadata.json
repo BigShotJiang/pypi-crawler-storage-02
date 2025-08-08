@@ -1,11 +1,11 @@
 {
   "name": "kubernetes-mcp-server",
-  "version": "0.0.48",
+  "version": "0.0.49",
   "summary": "Kubernetes MCP Server (Model Context Protocol) with special support for OpenShift",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kubernetes_mcp_server-0.0.48.tar.gz",
-  "download_time": "2025-08-05T13:54:20.504803",
+  "download_filename": "kubernetes_mcp_server-0.0.49.tar.gz",
+  "download_time": "2025-08-08T12:54:43.693494",
   "package_url": "https://pypi.org/project/kubernetes-mcp-server/"
 }

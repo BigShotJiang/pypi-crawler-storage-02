@@ -1,0 +1,11 @@
+{
+  "name": "netbox-firmware",
+  "version": "3.0.5",
+  "summary": "Firmware management in NetBox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_firmware-3.0.5.tar.gz",
+  "download_time": "2025-08-08T12:55:13.153585",
+  "package_url": "https://pypi.org/project/netbox-firmware/"
+}
