@@ -1,0 +1,11 @@
+{
+  "name": "gaudit",
+  "version": "0.1.1",
+  "summary": "Library and CLI for GLIMPS Audit API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaudit-0.1.1.tar.gz",
+  "download_time": "2025-08-08T13:42:46.193015",
+  "package_url": "https://pypi.org/project/gaudit/"
+}

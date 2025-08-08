@@ -1,11 +1,11 @@
 {
   "name": "mbu-dev-shared-components",
-  "version": "2.4.8",
+  "version": "3.0.1",
   "summary": "Shared components to use in RPA projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mbu_dev_shared_components-2.4.8.tar.gz",
-  "download_time": "2025-08-06T08:35:05.555136",
+  "download_filename": "mbu_dev_shared_components-3.0.1.tar.gz",
+  "download_time": "2025-08-08T13:42:45.680485",
   "package_url": "https://pypi.org/project/mbu-dev-shared-components/"
 }

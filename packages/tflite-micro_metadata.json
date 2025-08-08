@@ -1,11 +1,11 @@
 {
   "name": "tflite-micro",
-  "version": "0.dev20250805221117",
+  "version": "0.dev20250808035851",
   "summary": "TensorFlow Lite for Microcontrollers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tflite_micro-0.dev20250805221117-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-08-06T13:50:37.436748",
+  "download_filename": "tflite_micro-0.dev20250808035851-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-08T13:42:37.965462",
   "package_url": "https://pypi.org/project/tflite-micro/"
 }

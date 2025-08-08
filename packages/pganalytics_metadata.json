@@ -1,11 +1,11 @@
 {
   "name": "pganalytics",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "A Python library for analyzing PG data",
   "author": "pgcass",
   "license": null,
   "home_page": null,
-  "download_filename": "pganalytics-1.0.5.tar.gz",
-  "download_time": "2025-08-04T13:45:14.830449",
+  "download_filename": "pganalytics-1.0.7.tar.gz",
+  "download_time": "2025-08-08T13:42:44.137197",
   "package_url": "https://pypi.org/project/pganalytics/"
 }

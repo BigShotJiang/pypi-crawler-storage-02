@@ -1,11 +1,11 @@
 {
   "name": "qt-dataviewer",
-  "version": "0.4.11",
+  "version": "0.4.13",
   "summary": "QuTech Viewer for xarray Datasets. Supports Core-tools, Quantify and QCoDeS datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qt_dataviewer-0.4.11.tar.gz",
-  "download_time": "2025-08-07T07:29:34.771476",
+  "download_filename": "qt_dataviewer-0.4.13.tar.gz",
+  "download_time": "2025-08-08T13:42:25.094408",
   "package_url": "https://pypi.org/project/qt-dataviewer/"
 }

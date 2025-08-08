@@ -1,0 +1,11 @@
+{
+  "name": "simple-report",
+  "version": "0.0.21",
+  "summary": "Simple HTML report generation using Python",
+  "author": "Douglas Sgrott",
+  "license": "MIT",
+  "home_page": "https://github.com/dougsgrott/simple-report",
+  "download_filename": "simple_report-0.0.21.tar.gz",
+  "download_time": "2025-08-08T13:42:37.446674",
+  "package_url": "https://pypi.org/project/simple-report/"
+}

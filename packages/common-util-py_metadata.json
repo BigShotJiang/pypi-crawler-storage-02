@@ -1,0 +1,11 @@
+{
+  "name": "common-util-py",
+  "version": "0.0.28",
+  "summary": "Common Python utility modules",
+  "author": "Jason Wee",
+  "license": null,
+  "home_page": "https://github.com/jasonwee/common-util-py",
+  "download_filename": "common_util_py-0.0.28.tar.gz",
+  "download_time": "2025-08-08T13:42:24.069338",
+  "package_url": "https://pypi.org/project/common-util-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stac-fastapi.pgstac",
+  "version": "6.0.0",
+  "summary": "An implementation of STAC API based on the FastAPI framework and using the pgstac backend.",
+  "author": "David Bitner",
+  "license": "MIT",
+  "home_page": "https://github.com/stac-utils/stac-fastapi",
+  "download_filename": "stac_fastapi_pgstac-6.0.0.tar.gz",
+  "download_time": "2025-08-08T13:42:47.228199",
+  "package_url": "https://pypi.org/project/stac-fastapi.pgstac/"
+}

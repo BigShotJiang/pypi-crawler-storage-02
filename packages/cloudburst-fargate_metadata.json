@@ -1,11 +1,11 @@
 {
   "name": "cloudburst-fargate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Serverless video processing using AWS ECS Fargate",
   "author": "Leo Wang",
   "license": "MIT",
   "home_page": "https://github.com/preangelleo/cloudburst-fargate",
-  "download_filename": "cloudburst_fargate-1.0.0.tar.gz",
-  "download_time": "2025-08-08T11:28:03.886793",
+  "download_filename": "cloudburst_fargate-1.0.1.tar.gz",
+  "download_time": "2025-08-08T13:42:42.077254",
   "package_url": "https://pypi.org/project/cloudburst-fargate/"
 }

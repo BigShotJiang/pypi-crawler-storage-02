@@ -1,0 +1,11 @@
+{
+  "name": "pyntsc",
+  "version": "25.6.25.5246",
+  "summary": "Python Object-Oriented Library to Automate Netitest Network Testing Instruments",
+  "author": "Beijing Netitest Technology Co., Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyntsc-25.6.25.5246.tar.gz",
+  "download_time": "2025-08-08T13:42:34.851593",
+  "package_url": "https://pypi.org/project/pyntsc/"
+}

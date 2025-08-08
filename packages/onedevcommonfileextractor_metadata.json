@@ -1,11 +1,11 @@
 {
   "name": "onedevcommonfileextractor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Ferramenta para extração de conteúdo de arquivos",
   "author": "Renan",
   "license": null,
   "home_page": null,
-  "download_filename": "onedevcommonfileextractor-1.0.5.tar.gz",
-  "download_time": "2025-08-07T15:49:37.759711",
+  "download_filename": "onedevcommonfileextractor-1.0.6.tar.gz",
+  "download_time": "2025-08-08T13:42:36.925114",
   "package_url": "https://pypi.org/project/onedevcommonfileextractor/"
 }

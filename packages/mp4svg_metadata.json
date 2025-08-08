@@ -1,11 +1,11 @@
 {
   "name": "mp4svg",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "summary": "Convert MP4 videos to SVG containers using multiple encoding methods",
   "author": "Tom Sapletta",
   "license": null,
   "home_page": "https://github.com/veridock/mp4svg",
-  "download_filename": "mp4svg-1.0.2.tar.gz",
-  "download_time": "2025-08-08T11:56:58.014213",
+  "download_filename": "mp4svg-1.0.10.tar.gz",
+  "download_time": "2025-08-08T13:42:31.760306",
   "package_url": "https://pypi.org/project/mp4svg/"
 }
