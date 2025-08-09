@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T04:46:28.764333
-- **Total Packages**: 71
-- **Total Size**: 18.76 MB
+- **Download Time**: 2025-08-09T05:01:46.719650
+- **Total Packages**: 67
+- **Total Size**: 1.27 MB
 
 ## Packages List
+- undoom-uninstaller-mcp
+- mcp-server-dongjunqaq
+- academic-refchecker
+- youtube-thumbnail-generator
+- fxdc
+- clio-manage-api-client
+- pymigaguide
+- chalkpy
+- pypomes-core
+- claude-proxy
+- fabric-analytics-mcp
 - nber-cli
 - batchtensor
 - OZI
@@ -13,12 +24,9 @@
 - buildzr
 - akshare-mcp-ikouhaha
 - tesseract-decoder
-- fabric-analytics-mcp
 - llmswap
 - autodoc-mcp
-- fxdc
 - nonebot-plugin-resolver2
-- chalkpy
 - kinglet
 - descartcan
 - revel
@@ -47,7 +55,6 @@
 - fiftyone-devicedetection-cloud
 - chromedriver-binary
 - fmp-data
-- youtube-thumbnail-generator
 - typed-redis
 - pulumi-pagerduty
 - odoo-addons-oca-stock-logistics-workflow
@@ -66,14 +73,3 @@
 - cerbose
 - truss-transfer
 - autohack-next
-- tombi
-- pysodmetrics
-- eqnlint
-- keras-rs-nightly
-- fspin
-- GANDLF
-- lean-runner
-- odoo-addon-purchase-fully-invoiced
-- dingent
-- ddb_single
-- snapcheck-cli
