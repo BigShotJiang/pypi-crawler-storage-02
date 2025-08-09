@@ -1,0 +1,11 @@
+{
+  "name": "finmind",
+  "version": "1.8.2",
+  "summary": "financial mining",
+  "author": "linsam",
+  "license": null,
+  "home_page": "https://github.com/FinMind",
+  "download_filename": "finmind-1.8.2-py3-none-any.whl",
+  "download_time": "2025-08-09T15:25:03.359549",
+  "package_url": "https://pypi.org/project/finmind/"
+}

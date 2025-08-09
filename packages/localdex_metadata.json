@@ -1,0 +1,11 @@
+{
+  "name": "localdex",
+  "version": "0.3.3",
+  "summary": "A local Pokemon data repository/Pokedex with fast offline access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "localdex-0.3.3.tar.gz",
+  "download_time": "2025-08-09T15:25:11.010669",
+  "package_url": "https://pypi.org/project/localdex/"
+}
