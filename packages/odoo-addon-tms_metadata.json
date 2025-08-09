@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-tms",
+  "version": "18.0.1.1.0.22",
+  "summary": "Manage Vehicles, Drivers, Routes and Trips",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-transport",
+  "download_filename": "odoo_addon_tms-18.0.1.1.0.22-py3-none-any.whl",
+  "download_time": "2025-08-09T04:05:30.185891",
+  "package_url": "https://pypi.org/project/odoo-addon-tms/"
+}

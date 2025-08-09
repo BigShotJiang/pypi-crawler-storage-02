@@ -1,0 +1,11 @@
+{
+  "name": "ddb_single",
+  "version": "0.5.5",
+  "summary": "Python DynamoDB interface, specialized in single-table design.",
+  "author": "medaka0213",
+  "license": "MIT",
+  "home_page": "https://medaka0213.github.io/DynamoDB-SingleTable/",
+  "download_filename": "ddb_single-0.5.5.tar.gz",
+  "download_time": "2025-08-09T04:05:43.333350",
+  "package_url": "https://pypi.org/project/ddb_single/"
+}
