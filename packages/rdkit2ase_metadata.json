@@ -1,0 +1,11 @@
+{
+  "name": "rdkit2ase",
+  "version": "0.1.12",
+  "summary": "Interface between rdkit and ASE",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdkit2ase-0.1.12.tar.gz",
+  "download_time": "2025-08-09T16:52:33.805728",
+  "package_url": "https://pypi.org/project/rdkit2ase/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reflexsive",
+  "version": "0.1.6.post0",
+  "summary": "Method aliasing system with argument remapping and optional stub generation",
+  "author": "Dylan Raiff",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "reflexsive-0.1.6.post0.tar.gz",
+  "download_time": "2025-08-09T16:52:47.413432",
+  "package_url": "https://pypi.org/project/reflexsive/"
+}

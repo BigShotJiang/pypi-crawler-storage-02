@@ -1,11 +1,11 @@
 {
   "name": "quarknet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "QuarkNet is a lightweight Deep learning library that's built entirely with NumPy and supports the essentials needed to train fully-connected feedforward neural networks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quarknet-0.1.1.tar.gz",
-  "download_time": "2025-08-09T16:29:32.623501",
+  "download_filename": "quarknet-0.1.2.tar.gz",
+  "download_time": "2025-08-09T16:52:47.925965",
   "package_url": "https://pypi.org/project/quarknet/"
 }

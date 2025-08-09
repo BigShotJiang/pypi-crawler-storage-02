@@ -1,0 +1,11 @@
+{
+  "name": "min-distance",
+  "version": "1.0.0",
+  "summary": "A simple Python package to calculate the minimum distance between two geographic points",
+  "author": "Vansh",
+  "license": null,
+  "home_page": "https://github.com/vanshbhardwajhere/min_distance",
+  "download_filename": "min_distance-1.0.0.tar.gz",
+  "download_time": "2025-08-09T16:52:38.970603",
+  "package_url": "https://pypi.org/project/min-distance/"
+}

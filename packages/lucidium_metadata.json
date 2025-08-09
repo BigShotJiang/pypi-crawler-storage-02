@@ -1,0 +1,11 @@
+{
+  "name": "lucidium",
+  "version": "0.2.0",
+  "summary": "Experiments in neuro-symbolic reinforcement learning in the ",
+  "author": "Gabriel C. Trahan",
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+  "home_page": "https://github.com/theokoles7/lucidium",
+  "download_filename": "lucidium-0.2.0.tar.gz",
+  "download_time": "2025-08-09T16:52:45.366029",
+  "package_url": "https://pypi.org/project/lucidium/"
+}
