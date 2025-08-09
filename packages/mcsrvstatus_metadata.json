@@ -1,11 +1,11 @@
 {
   "name": "mcsrvstatus",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Python library for working with the mcsrvstat.us API - a service for checking the status of Minecraft servers",
-  "author": "mcsrvstatus",
+  "author": "Towux",
   "license": "MIT",
   "home_page": "https://github.com/Towux/mcsrvstatus",
-  "download_filename": "mcsrvstatus-1.0.3.tar.gz",
-  "download_time": "2025-08-09T21:43:11.686999",
+  "download_filename": "mcsrvstatus-1.0.6.tar.gz",
+  "download_time": "2025-08-09T22:47:01.665568",
   "package_url": "https://pypi.org/project/mcsrvstatus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "random-container-with-url-info",
+  "version": "0.0.2",
+  "summary": "random_container_with_url_info",
+  "author": "Mateusz Konieczny",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/matkoniecz/random_container_with_url_info",
+  "download_filename": "random_container_with_url_info-0.0.2.tar.gz",
+  "download_time": "2025-08-09T22:46:44.290928",
+  "package_url": "https://pypi.org/project/random-container-with-url-info/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fraiseql",
-  "version": "0.1.0b49",
-  "summary": "Lightweight GraphQL-to-PostgreSQL query builder using jsonb",
+  "version": "0.1.3",
+  "summary": "Production-ready GraphQL API framework for PostgreSQL with CQRS, JSONB optimization, and type-safe mutations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fraiseql-0.1.0b49.tar.gz",
-  "download_time": "2025-08-05T14:54:55.383659",
+  "download_filename": "fraiseql-0.1.3.tar.gz",
+  "download_time": "2025-08-09T22:47:05.791893",
   "package_url": "https://pypi.org/project/fraiseql/"
 }

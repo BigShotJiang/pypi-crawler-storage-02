@@ -1,0 +1,11 @@
+{
+  "name": "lsst-pex-config",
+  "version": "29.2025.3200",
+  "summary": "A flexible configuration system using Python files.",
+  "author": null,
+  "license": "BSD 3-Clause License, GPLv3+",
+  "home_page": null,
+  "download_filename": "lsst_pex_config-29.2025.3200.tar.gz",
+  "download_time": "2025-08-09T22:46:47.726072",
+  "package_url": "https://pypi.org/project/lsst-pex-config/"
+}
