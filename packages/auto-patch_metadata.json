@@ -1,0 +1,11 @@
+{
+  "name": "auto-patch",
+  "version": "1.1.1",
+  "summary": "Automatically install security and other system updates",
+  "author": "Rolf Krahl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RKrahl/auto-patch",
+  "download_filename": "auto-patch-1.1.1.tar.gz",
+  "download_time": "2025-08-09T15:44:35.947443",
+  "package_url": "https://pypi.org/project/auto-patch/"
+}

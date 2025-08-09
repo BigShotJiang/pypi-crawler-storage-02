@@ -1,11 +1,11 @@
 {
   "name": "lvmopstools",
-  "version": "0.5.17",
+  "version": "0.5.18",
   "summary": "LVM tools and utilities for operations",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "lvmopstools-0.5.17.tar.gz",
-  "download_time": "2025-08-08T16:59:26.978296",
+  "download_filename": "lvmopstools-0.5.18.tar.gz",
+  "download_time": "2025-08-09T15:44:42.328918",
   "package_url": "https://pypi.org/project/lvmopstools/"
 }

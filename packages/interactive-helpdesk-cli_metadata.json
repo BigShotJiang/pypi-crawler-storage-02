@@ -1,0 +1,11 @@
+{
+  "name": "interactive-helpdesk-cli",
+  "version": "0.1.0",
+  "summary": "Interactive Help Desk ticket system CLI using data structures",
+  "author": "Prashidha",
+  "license": "MIT",
+  "home_page": "https://github.com/Prashidha0O1/helpdesk_cli",
+  "download_filename": "interactive_helpdesk_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-09T15:44:32.497709",
+  "package_url": "https://pypi.org/project/interactive-helpdesk-cli/"
+}
