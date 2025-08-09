@@ -1,0 +1,11 @@
+{
+  "name": "mcp-git-commit-generator",
+  "version": "2.0.1",
+  "summary": "Generate conventional commit messages from your staged git changes using Model Context Protocol (MCP).",
+  "author": "Theoklitos Bampouris",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_git_commit_generator-2.0.1.tar.gz",
+  "download_time": "2025-08-09T17:56:14.949993",
+  "package_url": "https://pypi.org/project/mcp-git-commit-generator/"
+}

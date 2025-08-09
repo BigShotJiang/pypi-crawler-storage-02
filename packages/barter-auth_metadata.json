@@ -1,0 +1,11 @@
+{
+  "name": "barter-auth",
+  "version": "0.3.43",
+  "summary": "Barter authentication package",
+  "author": "akatoha",
+  "license": "BSD",
+  "home_page": "https://github.com/kabilovtoha/barter_auth",
+  "download_filename": "barter-auth-0.3.43.tar.gz",
+  "download_time": "2025-08-09T17:56:16.483082",
+  "package_url": "https://pypi.org/project/barter-auth/"
+}

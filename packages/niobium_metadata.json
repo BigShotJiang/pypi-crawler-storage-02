@@ -1,11 +1,11 @@
 {
   "name": "niobium",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "summary": "Niobium extends the Python Selenium client with nice features",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "niobium-0.5.0.tar.gz",
-  "download_time": "2025-08-09T14:45:40.255014",
+  "download_filename": "niobium-1.0.0.tar.gz",
+  "download_time": "2025-08-09T17:56:21.734599",
   "package_url": "https://pypi.org/project/niobium/"
 }

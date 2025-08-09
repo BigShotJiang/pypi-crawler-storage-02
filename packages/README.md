@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T17:44:55.697874
-- **Total Packages**: 89
-- **Total Size**: 28.88 MB
+- **Download Time**: 2025-08-09T17:57:02.815675
+- **Total Packages**: 92
+- **Total Size**: 1.01 MB
 
 ## Packages List
+- shellcheck-py
+- mcp-git-commit-generator
+- aptamerutils
+- mtrust-medical
+- barter-auth
+- pbesa
+- vishuml
+- publicity-idl
+- cornsnake
+- foldifyai
+- git-mcp-server
+- metis-agent
+- invoicing-pdf-mtr
+- niobium
+- logtalk-jupyter-kernel
+- pystiebeleltron
+- tune-jax
+- markdownify
 - git-changes
 - llama-index-experimental
 - linkmerce
@@ -14,7 +32,6 @@
 - llama-index-finetuning
 - WuttaTell
 - arshai
-- mautily
 - PermutiveAPI
 - fraudguard
 - SRT-H
@@ -24,7 +41,6 @@
 - skais-mapper
 - polygon
 - scdl
-- vishuml
 - pyppet-models
 - coolprop
 - WuttJamaican
@@ -37,7 +53,6 @@
 - omlish
 - ominfra
 - omdev
-- metis-agent
 - omdev-cli
 - omdev-cext
 - pydantic-type-chile-rut
@@ -51,7 +66,6 @@
 - plumed-nodes
 - not1mm
 - nexagen
-- foldifyai
 - muonry
 - api-doc-mcp-server
 - krcg
@@ -84,14 +98,3 @@
 - selectiverank
 - youtrack-cli
 - rdkit2ase
-- mylightsystems
-- heatmap_cli
-- gplugins
-- typeman
-- min-distance
-- midil-kit
-- geo-explorer
-- simplebroker
-- python-roborock
-- pymsch
-- avi-tools

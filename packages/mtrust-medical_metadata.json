@@ -1,0 +1,11 @@
+{
+  "name": "mtrust-medical",
+  "version": "1.0.0",
+  "summary": "M-TRUST: Bias detection and mitigation for medical AI",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mtrust-medical",
+  "download_filename": "mtrust_medical-1.0.0.tar.gz",
+  "download_time": "2025-08-09T17:56:15.972014",
+  "package_url": "https://pypi.org/project/mtrust-medical/"
+}
