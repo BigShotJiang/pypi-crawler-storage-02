@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-08-09T16:53:09.726586",
+  "download_time": "2025-08-09T17:22:12.436091",
   "total_packages_downloaded": 80,
-  "total_size_mb": 10.94,
+  "total_size_mb": 10.52,
   "packages": [
-    "config-ninja",
     "txt2ebook",
     "rest-filters",
     "log-candy",
@@ -82,6 +81,7 @@
     "gradio-ap-chat-ui",
     "ethernity-cloud-sdk-py",
     "tesseract-decoder",
-    "pcollections"
+    "pcollections",
+    "enochecker-logs"
   ]
 }
