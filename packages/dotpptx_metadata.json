@@ -1,0 +1,11 @@
+{
+  "name": "dotpptx",
+  "version": "0.1.2",
+  "summary": "dotpptx is a tool to convert PowerPoint files to XML and back.",
+  "author": "Antonio Feregrino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotpptx-0.1.2.tar.gz",
+  "download_time": "2025-08-09T13:34:07.128180",
+  "package_url": "https://pypi.org/project/dotpptx/"
+}

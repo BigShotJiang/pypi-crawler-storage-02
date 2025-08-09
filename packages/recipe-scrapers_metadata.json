@@ -1,0 +1,11 @@
+{
+  "name": "recipe-scrapers",
+  "version": "15.9.0",
+  "summary": "Python package, scraping recipes from all over the internet",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "recipe_scrapers-15.9.0.tar.gz",
+  "download_time": "2025-08-09T13:34:00.174791",
+  "package_url": "https://pypi.org/project/recipe-scrapers/"
+}

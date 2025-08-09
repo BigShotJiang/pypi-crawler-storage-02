@@ -1,11 +1,11 @@
 {
   "name": "autoaicluster",
-  "version": "0.1.5",
-  "summary": "Enterprise-grade clustering solution with local web UI for preprocessing, clustering, and visualization.",
+  "version": "0.2.0",
+  "summary": "Auto AI Clustering: end-to-end segmentation via Python API or local web UI.",
   "author": "Enterprise Cluster Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autoaicluster-0.1.5.tar.gz",
-  "download_time": "2025-08-09T12:47:26.328934",
+  "download_filename": "autoaicluster-0.2.0.tar.gz",
+  "download_time": "2025-08-09T13:33:35.827610",
   "package_url": "https://pypi.org/project/autoaicluster/"
 }

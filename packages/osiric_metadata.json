@@ -1,11 +1,11 @@
 {
   "name": "osiric",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Extracting data from any kind of source.",
   "author": "Kevin Latusinski",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "osiric-0.2.1.tar.gz",
-  "download_time": "2025-08-09T12:47:39.220593",
+  "download_filename": "osiric-0.2.2.tar.gz",
+  "download_time": "2025-08-09T13:33:54.996938",
   "package_url": "https://pypi.org/project/osiric/"
 }

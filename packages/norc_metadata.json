@@ -1,0 +1,11 @@
+{
+  "name": "norc",
+  "version": "0.0.1",
+  "summary": "Noise Resilient Hardware Counters in HPC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "norc-0.0.1.tar.gz",
+  "download_time": "2025-08-09T13:33:34.013623",
+  "package_url": "https://pypi.org/project/norc/"
+}

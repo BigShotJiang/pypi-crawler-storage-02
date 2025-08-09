@@ -1,11 +1,11 @@
 {
   "name": "pyinno-setup",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "module for creating installable exe from iss file using innosetup compiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyinno_setup-0.0.5.tar.gz",
-  "download_time": "2025-08-09T07:43:47.270109",
+  "download_filename": "pyinno_setup-0.0.6.tar.gz",
+  "download_time": "2025-08-09T13:33:31.157668",
   "package_url": "https://pypi.org/project/pyinno-setup/"
 }

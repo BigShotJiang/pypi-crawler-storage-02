@@ -1,0 +1,11 @@
+{
+  "name": "dotquery",
+  "version": "0.1.1",
+  "summary": "A universal proxy class for Python that provides chainable, dot-notation access to nested data structures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotquery-0.1.1.tar.gz",
+  "download_time": "2025-08-09T13:33:57.876889",
+  "package_url": "https://pypi.org/project/dotquery/"
+}
