@@ -1,0 +1,11 @@
+{
+  "name": "tmt-timezone",
+  "version": "1.0.0",
+  "summary": "A CLI tool to get current time in different timezones",
+  "author": "TMT Developer",
+  "license": "MIT",
+  "home_page": "https://github.com/tmt/tmt",
+  "download_filename": "tmt_timezone-1.0.0.tar.gz",
+  "download_time": "2025-08-09T21:55:02.170332",
+  "package_url": "https://pypi.org/project/tmt-timezone/"
+}

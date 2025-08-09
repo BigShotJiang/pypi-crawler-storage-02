@@ -1,15 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T21:43:53.222025
-- **Total Packages**: 76
-- **Total Size**: 3.68 MB
+- **Download Time**: 2025-08-09T21:55:33.897728
+- **Total Packages**: 75
+- **Total Size**: 12.13 MB
 
 ## Packages List
-- contextbase
-- embedding-reader
-- sparkfly
+- foundry-sdk
 - nlweb-org-py-utils
+- rc-toolkit
+- deepfmkit
+- rxnn
+- synimatic
+- summarize-csv-file
+- squidly
+- Asmax
+- depictio-cli
+- embedding-reader
+- hgitaly
+- pytest-awaiting-fix
+- ctenv
+- sourcedefender
+- tmt-timezone
+- h5ffmpeg
+- contextbase
+- sparkfly
 - mcsrvstatus
 - dj-lite
 - traceroot
@@ -21,12 +36,9 @@
 - bear-epoch-time
 - qaravan
 - keywordsai
-- summarize-csv-file
 - torchvista
 - quantconnect-mcp
-- squidly
 - pyairbnb
-- deepfmkit
 - chattr
 - zpui-lib
 - metaspector
@@ -69,16 +81,3 @@
 - sdci
 - bygod
 - cocapi
-- hanzo-net
-- tomegathericon-utils-exceptions
-- langchain-lean
-- adversary-mcp-server
-- rp
-- mpflash
-- litai-research
-- gitbotx
-- MaxBridge
-- check-tls
-- asyncgui-ext-queue
-- urban-worm
-- fennec-asr

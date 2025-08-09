@@ -1,11 +1,11 @@
 {
   "name": "embedding-reader",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "A python template",
   "author": "Romain Beaumont",
   "license": "MIT",
   "home_page": "https://github.com/rom1504/embedding-reader",
-  "download_filename": "embedding_reader-1.8.0.tar.gz",
-  "download_time": "2025-08-09T21:43:09.889012",
+  "download_filename": "embedding_reader-1.8.1.tar.gz",
+  "download_time": "2025-08-09T21:54:59.490896",
   "package_url": "https://pypi.org/project/embedding-reader/"
 }

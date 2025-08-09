@@ -1,0 +1,11 @@
+{
+  "name": "synimatic",
+  "version": "1.0.0",
+  "summary": "Simple and effective matplotlib animation wrapper",
+  "author": "Jonathan Ayalew",
+  "license": null,
+  "home_page": "https://github.com/jonathan-4a/synimatic",
+  "download_filename": "synimatic-1.0.0.tar.gz",
+  "download_time": "2025-08-09T21:54:56.819025",
+  "package_url": "https://pypi.org/project/synimatic/"
+}
