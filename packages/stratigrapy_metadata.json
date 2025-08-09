@@ -1,11 +1,11 @@
 {
   "name": "stratigrapy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Python package for stratigraphic modeling based on Landlab",
   "author": "Guillaume Rongier",
   "license": null,
   "home_page": null,
-  "download_filename": "stratigrapy-0.0.1.tar.gz",
-  "download_time": "2025-08-09T20:27:44.546249",
+  "download_filename": "stratigrapy-0.0.2.tar.gz",
+  "download_time": "2025-08-09T21:23:02.987537",
   "package_url": "https://pypi.org/project/stratigrapy/"
 }

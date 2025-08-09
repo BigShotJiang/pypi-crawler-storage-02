@@ -1,0 +1,11 @@
+{
+  "name": "gradientvis",
+  "version": "0.5.0",
+  "summary": "A library for visualizing neural network gradients",
+  "author": "XCALEN",
+  "license": null,
+  "home_page": "https://github.com/desenyon/gradientvis",
+  "download_filename": "gradientvis-0.5.0.tar.gz",
+  "download_time": "2025-08-09T21:23:01.965012",
+  "package_url": "https://pypi.org/project/gradientvis/"
+}

@@ -1,18 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T20:57:40.065285
-- **Total Packages**: 82
-- **Total Size**: 1.51 MB
+- **Download Time**: 2025-08-09T21:23:35.590090
+- **Total Packages**: 80
+- **Total Size**: 19.86 MB
 
 ## Packages List
+- gdrive-suite
+- baynext-cli
+- arthur-client
+- stream-translator-gpt
+- git-bob
+- easycoder
+- appserver-sdk-python-ai
+- quantitativelib
+- mle-kit-mcp
+- slimformers
+- mcp-ambari-api
+- lingtaiAgent
+- mcsrvstatus
+- rest-filters
+- gradientvis
+- omnara
+- stratigrapy
+- mulch
+- summarize-csv-file
 - ft8decoder
+- trendsagi
+- fetchfox-sdk
+- icad-tone-detection
+- timezones-lib
+- khoj
+- jawanndenn
+- md-server
+- nlweb-org-py-utils
+- arthur-common
 - hanzo
 - joinly-client
 - cshelve
 - strarr
+- scalene
 - docx-comments-to-text
-- mulch
 - Pytanis
 - joinly-common
 - uvartage
@@ -20,7 +48,6 @@
 - sdci
 - bygod
 - cocapi
-- summarize-csv-file
 - hanzo-net
 - tomegathericon-utils-exceptions
 - langchain-lean
@@ -59,32 +86,3 @@
 - rxnn
 - kelp-coverage
 - ytmusic-deleter
-- img2dataset
-- ledger-cli-toolkit
-- cjm-fasthtml-tailwind
-- jvserve
-- jvmanager
-- jvclient
-- jvcli
-- jivas
-- PromptFileLoader
-- gdrive-suite
-- ntypo
-- equitrcoder
-- omnipred
-- kpf
-- airbyte-source-file
-- uk-tides-mcp
-- neatfile
-- stratigrapy
-- ErisPulse-GitHubParser
-- academic-refchecker
-- airbyte-source-convex
-- airbyte-source-faker
-- bullishpy
-- edgar-httpx
-- emath
-- upgini
-- plumed-nodes
-- littlecsv
-- listpick
