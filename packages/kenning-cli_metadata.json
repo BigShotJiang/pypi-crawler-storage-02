@@ -1,11 +1,11 @@
 {
   "name": "kenning-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "AI-powered contextual risk analysis tool for AWS infrastructure - identifies compound security and cost risks",
   "author": "Kenning Project",
   "license": null,
   "home_page": "https://github.com/kenningproject/kenning-cli",
-  "download_filename": "kenning_cli-1.0.2.tar.gz",
-  "download_time": "2025-08-09T06:35:53.064876",
+  "download_filename": "kenning_cli-1.0.3.tar.gz",
+  "download_time": "2025-08-09T09:25:29.173675",
   "package_url": "https://pypi.org/project/kenning-cli/"
 }

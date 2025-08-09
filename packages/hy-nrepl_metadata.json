@@ -1,0 +1,11 @@
+{
+  "name": "hy-nrepl",
+  "version": "1.0.3",
+  "summary": "nREPL implementation for Hy (Hylang)",
+  "author": "Morten Linderud, Gregor Best, Satoshi Imai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hy_nrepl-1.0.3.tar.gz",
+  "download_time": "2025-08-09T09:25:32.538633",
+  "package_url": "https://pypi.org/project/hy-nrepl/"
+}

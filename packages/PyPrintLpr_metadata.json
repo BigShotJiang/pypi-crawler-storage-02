@@ -1,0 +1,11 @@
+{
+  "name": "PyPrintLpr",
+  "version": "1.0.3",
+  "summary": "RFC 1179 client and server toolkits and Python library for interacting with printers via LPR protocol or RAW mode, as well as a proxy/server for debugging, job capture, and protocol analysis.",
+  "author": "Ircama",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/Ircama/PyPrintLpr",
+  "download_filename": "pyprintlpr-1.0.3.tar.gz",
+  "download_time": "2025-08-09T09:25:06.183676",
+  "package_url": "https://pypi.org/project/PyPrintLpr/"
+}

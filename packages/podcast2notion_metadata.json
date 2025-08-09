@@ -1,11 +1,11 @@
 {
   "name": "podcast2notion",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "自动将习惯同步到Notion",
   "author": "malinkang",
   "license": null,
   "home_page": "https://github.com/malinkang/podcast2notionpro",
-  "download_filename": "podcast2notion-0.2.1.tar.gz",
-  "download_time": "2025-08-09T08:30:49.875734",
+  "download_filename": "podcast2notion-0.2.2.tar.gz",
+  "download_time": "2025-08-09T09:25:17.138271",
   "package_url": "https://pypi.org/project/podcast2notion/"
 }

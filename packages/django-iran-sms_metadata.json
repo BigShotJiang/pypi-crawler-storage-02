@@ -1,11 +1,11 @@
 {
   "name": "django-iran-sms",
-  "version": "1.3.4",
+  "version": "1.3.6",
   "summary": "A Django package for seamless integration with Iranian SMS services like ParsianWebCo , Kavenegar and Melipayamak.",
   "author": "Sobhan Bahman Rashnu",
   "license": null,
   "home_page": "https://djangoiransms.chelseru.com",
-  "download_filename": "django_iran_sms-1.3.4.tar.gz",
-  "download_time": "2025-08-08T20:27:49.494605",
+  "download_filename": "django_iran_sms-1.3.6.tar.gz",
+  "download_time": "2025-08-09T09:25:10.788560",
   "package_url": "https://pypi.org/project/django-iran-sms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "CTkMenuBar",
+  "version": "0.9",
+  "summary": "Customtkinter Menu Widget",
+  "author": "Akash Bora",
+  "license": "Creative Commons Zero v1.0 Universal",
+  "home_page": "https://github.com/Akascape/CTkMenuBar",
+  "download_filename": "ctkmenubar-0.9.tar.gz",
+  "download_time": "2025-08-09T09:25:18.323306",
+  "package_url": "https://pypi.org/project/CTkMenuBar/"
+}

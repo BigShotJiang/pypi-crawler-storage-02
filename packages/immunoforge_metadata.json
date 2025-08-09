@@ -1,0 +1,11 @@
+{
+  "name": "immunoforge",
+  "version": "0.1.2",
+  "summary": "A comprehensive library for epitope prediction and immunogenicity analysis",
+  "author": "Nicolas Lynn",
+  "license": null,
+  "home_page": "https://github.com/nicolaslynn/immunoforge",
+  "download_filename": "immunoforge-0.1.2.tar.gz",
+  "download_time": "2025-08-09T09:25:28.025036",
+  "package_url": "https://pypi.org/project/immunoforge/"
+}
