@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T09:25:44.125794
-- **Total Packages**: 66
-- **Total Size**: 17.56 MB
+- **Download Time**: 2025-08-09T09:44:46.330806
+- **Total Packages**: 72
+- **Total Size**: 7.31 MB
 
 ## Packages List
+- blobify
+- clean-jetbrains-old
+- py2mermaid
+- cmlibs.importer
+- typedspark
+- aabd
+- edaflow
+- helpman
+- classy-blocks
+- kenning-cli
+- django-iran-sms
+- yycli
+- phoenix-parser
+- ties
+- eschallot
+- ksim
+- pylint-sort-functions
+- surquest-utils-appstoreconnect-analyticsreports
+- dosctl
+- ScratchExtensionTools
+- pydorm
+- bluer-journal
+- pyodide-mkdocs-theme
+- podcast2notion
+- pwb-toolbox
+- atlib
+- epson-escp2
+- gonka-openai
+- forteenall-kit
 - PyPrintLpr
 - uk-tides-mcp
 - vectorvein
@@ -14,17 +43,14 @@
 - kui
 - chimac
 - velocity-python
-- django-iran-sms
 - ktoolbox-pure-py
 - yayawallet-python-sdk
-- eschallot
 - pylint
 - maps4fs
 - umu-commander
 - pdf2epub
 - tbp-nightly
 - catalax
-- podcast2notion
 - maleo-cds
 - CTkMenuBar
 - wavesurfer
@@ -45,7 +71,6 @@
 - youtube-thumbnail-generator
 - immunoforge
 - pycasbin
-- kenning-cli
 - cifer
 - netron
 - eyefeatures
@@ -53,22 +78,3 @@
 - cisco-hashgen
 - hy-nrepl
 - hh-applicant-tool
-- mcp-selenium-grid
-- chesstools
-- mcp-calendar-python
-- syntaxmatrix
-- tfp-nightly
-- github-mcp-server-unofficial
-- numtypes
-- databae
-- btcaaron
-- kapipy
-- fastcs
-- delete-workflow-runs
-- easy-lightning
-- python-tracer
-- sphinx-llms-txt
-- dosctl
-- kuzu
-- gcj-rectify
-- lite-bootstrap

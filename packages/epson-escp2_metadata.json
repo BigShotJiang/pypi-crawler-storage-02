@@ -1,0 +1,11 @@
+{
+  "name": "epson-escp2",
+  "version": "1.0.2",
+  "summary": "A comprehensive module for generating ESC/P2 printer sequences from text or images. Supports markdown-like formatting, tables, and various text styles. It includes a comprehensive ESC/P2 decoder.",
+  "author": "Ircama",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/Ircama/epson_escp2",
+  "download_filename": "epson_escp2-1.0.2.tar.gz",
+  "download_time": "2025-08-09T09:44:22.334822",
+  "package_url": "https://pypi.org/project/epson-escp2/"
+}

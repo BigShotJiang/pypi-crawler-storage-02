@@ -1,0 +1,11 @@
+{
+  "name": "pwb-toolbox",
+  "version": "0.1.18",
+  "summary": "A toolbox library for quant traders",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/paperswithbacktest/pwb-toolbox",
+  "download_filename": "pwb_toolbox-0.1.18.tar.gz",
+  "download_time": "2025-08-09T09:44:21.309934",
+  "package_url": "https://pypi.org/project/pwb-toolbox/"
+}
