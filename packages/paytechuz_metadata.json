@@ -1,0 +1,11 @@
+{
+  "name": "paytechuz",
+  "version": "0.2.18",
+  "summary": "Unified Python package for Uzbekistan payment gateways",
+  "author": "Muhammadali Akbarov",
+  "license": "MIT",
+  "home_page": "https://github.com/Muhammadali-Akbarov/paytechuz",
+  "download_filename": "paytechuz-0.2.18.tar.gz",
+  "download_time": "2025-08-09T15:56:21.206840",
+  "package_url": "https://pypi.org/project/paytechuz/"
+}

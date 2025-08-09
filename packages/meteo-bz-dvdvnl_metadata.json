@@ -1,0 +1,11 @@
+{
+  "name": "meteo-bz-dvdvnl",
+  "version": "0.0.5",
+  "summary": "Python client for the meteo API, provided by Provincia autonoma di Bolzano - Informatica Alto Adige SPA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meteo_bz_dvdvnl-0.0.5.tar.gz",
+  "download_time": "2025-08-09T15:56:17.082960",
+  "package_url": "https://pypi.org/project/meteo-bz-dvdvnl/"
+}
