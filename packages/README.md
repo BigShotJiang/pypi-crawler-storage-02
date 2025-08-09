@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T22:47:25.703303
-- **Total Packages**: 81
-- **Total Size**: 30.65 MB
+- **Download Time**: 2025-08-09T22:59:27.137202
+- **Total Packages**: 79
+- **Total Size**: 14.11 MB
 
 ## Packages List
+- wan22
+- krex
+- project-x-py
+- nlweb-org-py-utils
+- rxnn
+- splurge-tools
+- streamlit-hotkeys
+- CLASV
+- pyload-ng
+- sibi-dst
+- func-validator
+- fastapi-error-map
+- hakowan
+- dataframely
+- logging-metrics
+- cross-crypto-py
+- pint-xarray
+- lsst-daf-butler
+- uk-postcodes-parsing
+- mcsrvstatus
+- wsapi-client
+- comfyui-workflow-generator
 - edgar-httpx
 - lsst-pipe-base
 - lsst-dax-obscore
@@ -40,13 +62,10 @@
 - sage-docbuild
 - sage-conf
 - complexint
-- wsapi-client
 - sagemath-environment
 - sage-setup
 - m24842-ml
-- mcsrvstatus
 - busylight-for-humans
-- logging-metrics
 - pictex
 - orka-reasoning
 - sagebox
@@ -61,29 +80,8 @@
 - Asmax
 - img2dataset
 - mulch
-- nlweb-org-py-utils
 - moviebox-api
 - ai-mesh-sdk
 - slithyt
 - blocks-sdk
 - confradar
-- CLASV
-- mcp-ambari-api
-- latinum-wallet-mcp
-- chunkr-ai
-- agnets
-- foundry-sdk
-- rc-toolkit
-- rxnn
-- synimatic
-- summarize-csv-file
-- squidly
-- depictio-cli
-- embedding-reader
-- hgitaly
-- pytest-awaiting-fix
-- ctenv
-- sourcedefender
-- tmt-timezone
-- h5ffmpeg
-- contextbase
