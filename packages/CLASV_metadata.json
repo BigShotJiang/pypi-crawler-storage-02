@@ -1,0 +1,11 @@
+{
+  "name": "CLASV",
+  "version": "1.0.4",
+  "summary": "CLASV is a pipeline designed for rapidly predicting Lassa virus lineages using a Random Forest model.",
+  "author": "Richard Daodu, Ebenezer Awotoro, Jens-Uwe Ulrich, Denise Kühnert",
+  "license": null,
+  "home_page": "https://github.com/JoiRichi/CLASV/commits?author=JoiRichi",
+  "download_filename": "clasv-1.0.4.tar.gz",
+  "download_time": "2025-08-09T22:24:00.942133",
+  "package_url": "https://pypi.org/project/CLASV/"
+}
