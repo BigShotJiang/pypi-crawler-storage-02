@@ -1,11 +1,11 @@
 {
   "name": "jvclient",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "summary": "JIVAS client library for action development.",
   "author": "TrueSelph Inc.",
   "license": null,
   "home_page": "https://github.com/TrueSelph/jvclient",
-  "download_filename": "jvclient-2.1.5.tar.gz",
-  "download_time": "2025-08-08T14:44:14.917454",
+  "download_filename": "jvclient-2.1.6.tar.gz",
+  "download_time": "2025-08-09T20:27:36.810953",
   "package_url": "https://pypi.org/project/jvclient/"
 }

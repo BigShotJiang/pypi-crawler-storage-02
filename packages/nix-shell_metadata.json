@@ -1,0 +1,11 @@
+{
+  "name": "nix-shell",
+  "version": "0.0.3",
+  "summary": "Invoke reproducible Nix shells from Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nix_shell-0.0.3.tar.gz",
+  "download_time": "2025-08-09T20:28:04.812133",
+  "package_url": "https://pypi.org/project/nix-shell/"
+}

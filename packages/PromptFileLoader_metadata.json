@@ -1,11 +1,11 @@
 {
   "name": "PromptFileLoader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A simple prompt loader supporting YAML and TXT files with caching",
   "author": "Akashh Krishh",
   "license": null,
   "home_page": "https://github.com/akashhkrishh/PromptFileLoader",
-  "download_filename": "promptfileloader-1.0.0.tar.gz",
-  "download_time": "2025-08-09T19:41:03.223514",
+  "download_filename": "promptfileloader-1.0.2.tar.gz",
+  "download_time": "2025-08-09T20:27:38.717306",
   "package_url": "https://pypi.org/project/PromptFileLoader/"
 }

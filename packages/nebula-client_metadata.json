@@ -1,11 +1,11 @@
 {
   "name": "nebula-client",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Official Python SDK for Nebula Cloud API - Memory Focus",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "nebula_client-0.1.1.tar.gz",
-  "download_time": "2025-08-09T19:41:12.219491",
+  "download_filename": "nebula_client-0.1.3.tar.gz",
+  "download_time": "2025-08-09T20:27:53.321510",
   "package_url": "https://pypi.org/project/nebula-client/"
 }

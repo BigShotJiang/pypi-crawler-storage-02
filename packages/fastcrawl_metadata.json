@@ -1,0 +1,11 @@
+{
+  "name": "fastcrawl",
+  "version": "1.0.0",
+  "summary": "Fast and asynchronous web crawling and scraping library for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastcrawl-1.0.0.tar.gz",
+  "download_time": "2025-08-09T20:28:00.600823",
+  "package_url": "https://pypi.org/project/fastcrawl/"
+}
