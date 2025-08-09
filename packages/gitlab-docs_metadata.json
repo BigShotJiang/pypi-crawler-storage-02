@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-docs",
+  "version": "0.2.0",
+  "summary": "A tool that automatically generates gitlab documentation from yaml files",
+  "author": "Charlie Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitlab_docs-0.2.0.tar.gz",
+  "download_time": "2025-08-09T18:59:24.214565",
+  "package_url": "https://pypi.org/project/gitlab-docs/"
+}

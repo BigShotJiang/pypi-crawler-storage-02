@@ -1,0 +1,11 @@
+{
+  "name": "darkfield-cli",
+  "version": "0.2.0",
+  "summary": "Navigate the topology of mind - ML safety through persona vectors",
+  "author": "Darkfield AI",
+  "license": "MIT",
+  "home_page": "https://github.com/darkfield-ai/darkfield-cli",
+  "download_filename": "darkfield_cli-0.2.0.tar.gz",
+  "download_time": "2025-08-09T18:59:34.207245",
+  "package_url": "https://pypi.org/project/darkfield-cli/"
+}

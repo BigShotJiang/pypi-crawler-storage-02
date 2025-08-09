@@ -1,0 +1,11 @@
+{
+  "name": "pyrefra",
+  "version": "25.8.1",
+  "summary": "Data treatment for refraction seismic data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrefra-25.8.1.tar.gz",
+  "download_time": "2025-08-09T18:59:39.413825",
+  "package_url": "https://pypi.org/project/pyrefra/"
+}

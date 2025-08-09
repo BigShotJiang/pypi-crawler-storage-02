@@ -1,11 +1,11 @@
 {
   "name": "appgen",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A modern project generator CLI for web frameworks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "appgen-0.2.7.tar.gz",
-  "download_time": "2025-08-04T11:22:13.000049",
+  "download_filename": "appgen-0.2.8.tar.gz",
+  "download_time": "2025-08-09T18:59:26.630080",
   "package_url": "https://pypi.org/project/appgen/"
 }

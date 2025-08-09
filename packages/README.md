@@ -1,13 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T18:34:38.407484
-- **Total Packages**: 84
-- **Total Size**: 23.78 MB
+- **Download Time**: 2025-08-09T19:00:06.496055
+- **Total Packages**: 83
+- **Total Size**: 16.12 MB
 
 ## Packages List
+- sqsi
+- fetchfox-sdk
+- pysquareblob
+- digitalarzengine
+- vinagent
+- ifes-apt-tc-data-modeling
+- pre-commit
+- chunkr-ai
+- ai-code-forge
+- moonlabel
+- kavo
+- gitlab-docs
+- hanifx
+- metar-decoder
+- boschshcpy
+- appgen
+- bernn
+- satnogs-decoders
+- django-reportcraft
+- moulti
+- pywabot
 - PromptFileLoader
+- faster-whisper-hotkey
 - dynamic_registry
+- pylint-sort-functions
+- silent-killers
+- appserver-sdk-python-ai
+- darkfield-cli
+- markitdown-cli
+- kagent-adk
+- note-to-json
+- content-summarizer
+- publicity-idl
+- pyframe-web
+- mcp-web-extractor-sadasiba
+- git-mcp-server
+- pyrefra
+- veri-agents-knowledgebase
+- veri-agents-aiware
+- cardiotensor
+- airbyte-source-outbrain-amplify
+- airbyte-source-facebook-marketing
+- instance-cache
 - airbyte-source-marketo
 - sccross
 - vishuml
@@ -16,7 +57,6 @@
 - virtuals-acp
 - linux-gpt
 - arcade-google-sheets
-- metar-decoder
 - orionis
 - maildeck
 - mixedbread
@@ -30,11 +70,8 @@
 - cnhkmcp
 - xflow-py
 - jipso
-- mcp-web-extractor-sadasiba
-- markitdown-cli
 - django-api-explorer
 - lusid-sdk
-- publicity-idl
 - Invoker-CLI
 - ir-sim
 - pbi-pyadomd
@@ -52,41 +89,3 @@
 - ragbits-agents
 - ragbits
 - scrapy-impersonate
-- pbesa
-- qixuema
-- marvin
-- izisat
-- mpy-cross
-- claude-proxy
-- jac-cloud
-- jaclang
-- lazy-freeze
-- moonlabel
-- pycorelibs
-- gradio-propertysheet
-- headless-ida
-- metis-agent
-- cleverminer
-- tokker
-- chython
-- pancham
-- func-validator
-- fauxgen
-- cantools
-- shellcheck-py
-- mcp-git-commit-generator
-- aptamerutils
-- mtrust-medical
-- barter-auth
-- cornsnake
-- foldifyai
-- git-mcp-server
-- invoicing-pdf-mtr
-- niobium
-- logtalk-jupyter-kernel
-- pystiebeleltron
-- tune-jax
-- markdownify
-- git-changes
-- llama-index-experimental
-- linkmerce
