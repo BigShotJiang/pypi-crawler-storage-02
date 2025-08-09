@@ -1,11 +1,11 @@
 {
   "name": "bluer-journal",
-  "version": "5.84.1",
+  "version": "5.88.1",
   "summary": "📜 A journal for the age of AI.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-journal",
-  "download_filename": "bluer_journal-5.84.1.tar.gz",
-  "download_time": "2025-08-09T15:56:20.694118",
+  "download_filename": "bluer_journal-5.88.1.tar.gz",
+  "download_time": "2025-08-09T16:29:28.523253",
   "package_url": "https://pypi.org/project/bluer-journal/"
 }

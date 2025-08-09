@@ -1,0 +1,11 @@
+{
+  "name": "temp-interpolation",
+  "version": "0.1.0",
+  "summary": "A package for temporal interpolation of spatial data",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "temp_interpolation-0.1.0.tar.gz",
+  "download_time": "2025-08-09T16:29:37.740237",
+  "package_url": "https://pypi.org/project/temp-interpolation/"
+}

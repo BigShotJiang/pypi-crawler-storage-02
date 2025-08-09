@@ -1,0 +1,11 @@
+{
+  "name": "ft8decoder",
+  "version": "0.1.0",
+  "summary": "An FT8 message logger that tracks, translates, and organizes CQs, QSOs, and Misc. messages from live WSJT-X packets.",
+  "author": "Christopher Cottone",
+  "license": null,
+  "home_page": "https://github.com/ZappatheHackka/ft8decoder",
+  "download_filename": "ft8decoder-0.1.0.tar.gz",
+  "download_time": "2025-08-09T16:29:34.155064",
+  "package_url": "https://pypi.org/project/ft8decoder/"
+}

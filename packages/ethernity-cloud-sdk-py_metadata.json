@@ -1,0 +1,11 @@
+{
+  "name": "ethernity-cloud-sdk-py",
+  "version": "0.3.0",
+  "summary": "Ethernity Cloud SDK Python",
+  "author": "Ethernity Cloud Team",
+  "license": null,
+  "home_page": "https://github.com/ethernity-cloud/ethernity-cloud-sdk-py",
+  "download_filename": "ethernity_cloud_sdk_py-0.3.0.tar.gz",
+  "download_time": "2025-08-09T16:29:40.823452",
+  "package_url": "https://pypi.org/project/ethernity-cloud-sdk-py/"
+}

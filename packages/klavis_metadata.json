@@ -1,11 +1,11 @@
 {
   "name": "klavis",
-  "version": "1.5.1",
+  "version": "1.6.1",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "klavis-1.5.1.tar.gz",
-  "download_time": "2025-08-04T23:25:00.712960",
+  "download_filename": "klavis-1.6.1.tar.gz",
+  "download_time": "2025-08-09T16:29:48.586748",
   "package_url": "https://pypi.org/project/klavis/"
 }

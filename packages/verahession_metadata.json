@@ -1,11 +1,11 @@
 {
   "name": "verahession",
-  "version": "0.1.22",
+  "version": "0.1.26",
   "summary": "Python client library for Vera AI chatbot by Hession Dynamics",
   "author": "Jack Hession",
   "license": "MIT",
   "home_page": "https://github.com/hession-dynamics/verahession",
-  "download_filename": "verahession-0.1.22.tar.gz",
-  "download_time": "2025-08-09T11:20:51.160318",
+  "download_filename": "verahession-0.1.26.tar.gz",
+  "download_time": "2025-08-09T16:29:29.035788",
   "package_url": "https://pypi.org/project/verahession/"
 }
