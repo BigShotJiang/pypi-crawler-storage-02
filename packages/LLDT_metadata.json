@@ -1,11 +1,11 @@
 {
   "name": "LLDT",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "The package will change the world of data transformation by utilizing/modifying the low-level stuff.",
   "author": "Md Ashif Ali",
   "license": null,
   "home_page": "https://github.com/mdAshif1998/lowLevelDataTransformation/tree/master",
-  "download_filename": "LLDT-0.0.5-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-08-08T14:59:42.509462",
+  "download_filename": "LLDT-0.0.6-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-08-09T07:00:06.814236",
   "package_url": "https://pypi.org/project/LLDT/"
 }

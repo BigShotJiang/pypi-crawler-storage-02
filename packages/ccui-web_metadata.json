@@ -1,0 +1,11 @@
+{
+  "name": "ccui-web",
+  "version": "0.1.2",
+  "summary": "Web UI for managing Claude Code env and MCP configs",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccui_web-0.1.2.tar.gz",
+  "download_time": "2025-08-09T06:59:56.502223",
+  "package_url": "https://pypi.org/project/ccui-web/"
+}

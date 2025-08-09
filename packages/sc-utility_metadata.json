@@ -1,11 +1,11 @@
 {
   "name": "sc-utility",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "Shared utilities for logging and configuration management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sc_utility-2.1.6.tar.gz",
-  "download_time": "2025-08-08T14:44:03.635468",
+  "download_filename": "sc_utility-2.1.7.tar.gz",
+  "download_time": "2025-08-09T07:00:02.686533",
   "package_url": "https://pypi.org/project/sc-utility/"
 }

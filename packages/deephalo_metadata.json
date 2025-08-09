@@ -1,0 +1,11 @@
+{
+  "name": "deephalo",
+  "version": "1.0.0",
+  "summary": "DeepHalo: A deep learning-integrated workflow for high-throughput discovery of halogenated metabolites from HRMS data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deephalo-1.0.0.tar.gz",
+  "download_time": "2025-08-09T06:59:51.299401",
+  "package_url": "https://pypi.org/project/deephalo/"
+}
