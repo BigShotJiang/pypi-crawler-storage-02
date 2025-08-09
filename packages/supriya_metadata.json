@@ -1,11 +1,11 @@
 {
   "name": "supriya",
-  "version": "25.8b2",
+  "version": "25.8b3",
   "summary": "A Python API for SuperCollider",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "supriya-25.8b2.tar.gz",
-  "download_time": "2025-08-08T21:23:39.040643",
+  "download_filename": "supriya-25.8b3.tar.gz",
+  "download_time": "2025-08-09T14:57:03.249990",
   "package_url": "https://pypi.org/project/supriya/"
 }
