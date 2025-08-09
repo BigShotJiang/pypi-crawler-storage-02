@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T08:31:10.095148
+- **Download Time**: 2025-08-09T08:53:07.635036
 - **Total Packages**: 72
-- **Total Size**: 31.73 MB
+- **Total Size**: 3.88 MB
 
 ## Packages List
+- sphinx-llms-txt
+- dosctl
+- eschallot
+- kuzu
+- gcj-rectify
+- lite-bootstrap
+- bizyui
+- owlidar
+- mcp-selenium-grid
 - wavesurfer
 - contextflow
 - rpa-lazada
@@ -22,14 +31,13 @@
 - ties
 - libcurl-ext
 - ttrsscli
-- owlidar
 - calcpy
 - service-capacity-modeling
-- gcj-rectify
 - docxmd-converter
 - repviz
 - geo-explorer
 - mcp-lite
+- youtube-thumbnail-generator
 - pyglove
 - cisco-hashgen
 - jpy-datareader
@@ -66,15 +74,7 @@
 - helpman
 - kinglet
 - openbb-akshare
-- dosctl
 - ezmsg-sigproc
 - ai-native-core
 - mathmind-mcp-server
 - vkforge
-- fastcs
-- brain-sdk
-- fis-mcp-server
-- calendar-link
-- mathmaker
-- habluetooth
-- games-of-probability
