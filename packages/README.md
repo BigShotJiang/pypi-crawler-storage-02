@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T05:32:04.241837
-- **Total Packages**: 81
-- **Total Size**: 14.21 MB
+- **Download Time**: 2025-08-09T05:49:18.969611
+- **Total Packages**: 78
+- **Total Size**: 0.83 MB
 
 ## Packages List
+- fusion-bench
+- agns
+- pulumi-dbtcloud
+- kandc
+- pulumi-confluentcloud
+- casbin-pymongo-adapter
+- pulumi-alicloud
+- autodoc-mcp
+- rpa-temu
+- pulumi-cloudinit
+- pulumi-azuread
+- pulumi-cloudamqp
+- pulumi-aws-apigateway
+- apscale
+- pypomes-scheduling
+- koatl
 - celline
 - fastmssql
 - pypomes-http
@@ -48,7 +64,6 @@
 - akshare-mcp-ikouhaha
 - tesseract-decoder
 - llmswap
-- autodoc-mcp
 - nonebot-plugin-resolver2
 - kinglet
 - descartcan
@@ -69,21 +84,3 @@
 - tnbsclean
 - chanmaster
 - orionis
-- cenplot
-- facu-weather-flow
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- chromedriver-binary
-- fmp-data
-- typed-redis
-- pulumi-pagerduty
-- odoo-addons-oca-stock-logistics-workflow
-- logery
-- keras-nightly
-- odoo-addon-stock-return-request
-- odoo14-addon-stock-split-picking-kit
-- chik-rs
-- pulumi-confluentcloud
-- changelogbump
