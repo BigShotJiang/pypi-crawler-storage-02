@@ -1,0 +1,11 @@
+{
+  "name": "SaucyPass",
+  "version": "1.0.0",
+  "summary": "Generate memorable passwords from personal cues",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "saucypass-1.0.0.tar.gz",
+  "download_time": "2025-08-09T10:25:33.328542",
+  "package_url": "https://pypi.org/project/SaucyPass/"
+}

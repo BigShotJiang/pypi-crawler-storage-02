@@ -1,11 +1,11 @@
 {
   "name": "py2mermaid",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python helper library to create Mermaid.js diagrams",
   "author": "raghuvasanthrao",
   "license": null,
   "home_page": "https://github.com/raghuvasanthrao/mermaidpy",
-  "download_filename": "py2mermaid-0.1.0.tar.gz",
-  "download_time": "2025-08-09T09:44:09.502098",
+  "download_filename": "py2mermaid-0.2.0.tar.gz",
+  "download_time": "2025-08-09T10:25:37.613916",
   "package_url": "https://pypi.org/project/py2mermaid/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "traauto",
+  "version": "0.1.0",
+  "summary": "AutoML with Enhanced Track-Rail Algorithm, meta-learning, feature engineering, explainability, and smart ensemble fusion.",
+  "author": "Dasari Ranga Eswar",
+  "license": "MIT",
+  "home_page": "https://github.com/eswaroy/automl_tra",
+  "download_filename": "traauto-0.1.0.tar.gz",
+  "download_time": "2025-08-09T10:25:34.407584",
+  "package_url": "https://pypi.org/project/traauto/"
+}

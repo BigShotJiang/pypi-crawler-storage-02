@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T09:56:20.539883
-- **Total Packages**: 77
-- **Total Size**: 1.48 MB
+- **Download Time**: 2025-08-09T10:26:04.926343
+- **Total Packages**: 78
+- **Total Size**: 10.41 MB
 
 ## Packages List
+- odfdo
+- podcast2notion
+- syntaxmatrix
+- Wg-web-client
+- kodit
+- funputer
+- breadcrumb-addressbar
+- replbase
+- api-doc-mcp-server
+- chesstools
+- OpenSeesHpy
+- discord-self
+- gslides-api
+- phoenix-parser
+- python-ntfy
+- databae
+- uk-tides-mcp
+- youtube-thumbnail-generator
+- commity
+- SaucyPass
+- python-nhi
+- traauto
+- kenning-cli
+- fastcs
+- phicode
+- permsupping
+- svc-order-zxw
+- py2mermaid
+- pycorelibs
+- PySEMO
+- dogpile-breaker
+- niobium
+- pipette-fp
+- arpakitlib
+- linkmerce
+- render9
+- osiric
+- luxonis-train
+- dragon-ml-toolbox
 - pyairahome
 - nvfuser-cu126
 - stand-da
@@ -16,19 +55,15 @@
 - pico-ioc
 - crewai-playground
 - mcp-add-project
-- phicode
 - lyrpy
 - aipyapp
 - ph-utils
-- kenning-cli
 - Navygram
-- PySEMO
 - eschallot
 - dosctl
 - vicalerts
 - blobify
 - clean-jetbrains-old
-- py2mermaid
 - cmlibs.importer
 - typedspark
 - aabd
@@ -36,7 +71,6 @@
 - helpman
 - classy-blocks
 - yycli
-- phoenix-parser
 - ties
 - ksim
 - pylint-sort-functions
@@ -45,41 +79,8 @@
 - pydorm
 - bluer-journal
 - pyodide-mkdocs-theme
-- podcast2notion
 - pwb-toolbox
 - atlib
 - epson-escp2
 - gonka-openai
 - forteenall-kit
-- PyPrintLpr
-- uk-tides-mcp
-- vectorvein
-- crawler-user-agents
-- azampay-sdk-anga
-- kui
-- chimac
-- velocity-python
-- ktoolbox-pure-py
-- yayawallet-python-sdk
-- pylint
-- maps4fs
-- umu-commander
-- pdf2epub
-- tbp-nightly
-- catalax
-- maleo-cds
-- CTkMenuBar
-- wavesurfer
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- mscore3
-- xync-schema
-- hcai-discover-utils
-- ktoolbox
-- procal
-- undoom-uninstaller-mcp
