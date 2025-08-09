@@ -1,0 +1,11 @@
+{
+  "name": "xpawn",
+  "version": "0.2.0",
+  "summary": "XPawn: A Python client for the XPawn API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xpawn-0.2.0.tar.gz",
+  "download_time": "2025-08-09T23:44:13.167793",
+  "package_url": "https://pypi.org/project/xpawn/"
+}

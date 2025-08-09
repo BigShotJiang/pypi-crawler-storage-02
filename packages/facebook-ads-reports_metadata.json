@@ -1,0 +1,11 @@
+{
+  "name": "facebook-ads-reports",
+  "version": "0.2.0",
+  "summary": "ETL module for Facebook Ads API v22 with database-optimized DataFrame processing",
+  "author": "Joao Brito",
+  "license": "GPL",
+  "home_page": "https://github.com/machado000/facebook-ads-reports",
+  "download_filename": "facebook_ads_reports-0.2.0.tar.gz",
+  "download_time": "2025-08-09T23:44:09.971191",
+  "package_url": "https://pypi.org/project/facebook-ads-reports/"
+}
