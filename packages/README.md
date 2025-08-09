@@ -1,17 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T23:44:46.697192
-- **Total Packages**: 72
-- **Total Size**: 19.03 MB
+- **Download Time**: 2025-08-09T23:56:30.103351
+- **Total Packages**: 71
+- **Total Size**: 0.66 MB
 
 ## Packages List
+- foundry-sdk
+- aenir
+- picle
+- nettracer3d
+- etana-trade-mcp
+- nbsync
+- zyntra
+- hundredandten
 - py-return-success-or-error
 - lero
 - fngen
 - facebook-ads-reports
 - fastvol
-- foundry-sdk
 - adhipk-ascii-art
 - streamlit-hotkeys
 - liger-kernel-nightly
@@ -28,7 +35,6 @@
 - fitparserx
 - Bhanupdf
 - pictex
-- aenir
 - lmflux
 - edgar-httpx
 - mujoco-usd-converter
@@ -37,7 +43,6 @@
 - ures-visual
 - nlweb-org-py-utils
 - workbench
-- nettracer3d
 - cjm-fasthtml-tailwind
 - yoyogram
 - tsx
@@ -50,7 +55,6 @@
 - flwr-nightly
 - nominal-api-protos
 - nominal-api
-- hundredandten
 - CLASV
 - cml-mcp
 - SwiftGUI
@@ -73,8 +77,3 @@
 - mcsrvstatus
 - wsapi-client
 - comfyui-workflow-generator
-- lsst-pipe-base
-- lsst-dax-obscore
-- lsst-ctrl-bps
-- lsst-ctrl-bps-panda
-- lsst-ctrl-bps-parsl
