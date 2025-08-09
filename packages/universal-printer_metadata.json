@@ -1,11 +1,11 @@
 {
   "name": "universal-printer",
-  "version": "2.0.0",
-  "summary": "Universal cross-platform printer supporting text and all file types with PDF fallback - pure Python standard library",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "universal_printer-2.0.0.tar.gz",
-  "download_time": "2025-08-04T05:52:59.270987",
+  "version": "3.0.0",
+  "summary": "Cross-platform document printing with enhanced PDF generation",
+  "author": "Sharath Kumar Daroor",
+  "license": "MIT",
+  "home_page": "https://github.com/sharathkumardaroor/universal-printer",
+  "download_filename": "universal_printer-3.0.0.tar.gz",
+  "download_time": "2025-08-09T12:47:54.684321",
   "package_url": "https://pypi.org/project/universal-printer/"
 }

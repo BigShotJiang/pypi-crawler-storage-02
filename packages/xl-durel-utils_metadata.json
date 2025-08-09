@@ -1,11 +1,11 @@
 {
   "name": "xl-durel-utils",
-  "version": "1.0.1",
-  "summary": "Utility function for tokenizing, truncating, and decoding sentences with marked spans.",
+  "version": "1.0.2",
+  "summary": "XL-DURel Utility functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xl_durel_utils-1.0.1.tar.gz",
-  "download_time": "2025-08-08T09:59:00.907265",
+  "download_filename": "xl_durel_utils-1.0.2.tar.gz",
+  "download_time": "2025-08-09T12:47:37.681447",
   "package_url": "https://pypi.org/project/xl-durel-utils/"
 }

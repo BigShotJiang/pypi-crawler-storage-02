@@ -1,11 +1,11 @@
 {
   "name": "phoney",
-  "version": "0.2.18",
-  "summary": "Fake Info generator, a library for generating realistic personal data like names, phone numbers, emails, and more.",
+  "version": "0.2.19",
+  "summary": "A fake information generator for creating realistic personal data including names, phone numbers, emails, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phoney-0.2.18.tar.gz",
-  "download_time": "2025-08-06T02:21:13.299311",
+  "download_filename": "phoney-0.2.19.tar.gz",
+  "download_time": "2025-08-09T12:47:50.054523",
   "package_url": "https://pypi.org/project/phoney/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ai-runner-hjy",
+  "version": "0.0.1",
+  "summary": "DB-config driven OpenAI-compatible caller with auditing (RDS logs), CLI + import API",
+  "author": "hjy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_runner_hjy-0.0.1.tar.gz",
+  "download_time": "2025-08-09T12:47:42.309860",
+  "package_url": "https://pypi.org/project/ai-runner-hjy/"
+}

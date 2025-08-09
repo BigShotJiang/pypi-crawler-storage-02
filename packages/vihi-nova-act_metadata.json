@@ -1,11 +1,11 @@
 {
   "name": "vihi-nova-act",
-  "version": "1.0.4013.0",
-  "summary": "A Modified Python SDK for Amazon Nova Act.",
+  "version": "2.0.78.1",
+  "summary": "A Python SDK for Amazon Nova Act.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vihi_nova_act-1.0.4013.0.tar.gz",
-  "download_time": "2025-08-06T20:28:32.172504",
+  "download_filename": "vihi_nova_act-2.0.78.1-py3-none-any.whl",
+  "download_time": "2025-08-09T12:47:22.141186",
   "package_url": "https://pypi.org/project/vihi-nova-act/"
 }

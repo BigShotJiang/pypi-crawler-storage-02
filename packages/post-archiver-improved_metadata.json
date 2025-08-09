@@ -1,11 +1,11 @@
 {
   "name": "post-archiver-improved",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Python package for archiving YouTube community posts with zero dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "post_archiver_improved-0.2.0.tar.gz",
-  "download_time": "2025-08-07T14:54:41.077322",
+  "download_filename": "post_archiver_improved-0.3.0.tar.gz",
+  "download_time": "2025-08-09T12:47:56.224898",
   "package_url": "https://pypi.org/project/post-archiver-improved/"
 }

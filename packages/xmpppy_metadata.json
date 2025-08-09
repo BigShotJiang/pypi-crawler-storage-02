@@ -1,0 +1,11 @@
+{
+  "name": "xmpppy",
+  "version": "0.7.2",
+  "summary": "XMPP implementation in Python",
+  "author": "Alexey Nezhdanov",
+  "license": "GPL",
+  "home_page": "https://github.com/xmpppy/xmpppy",
+  "download_filename": "xmpppy-0.7.2.tar.gz",
+  "download_time": "2025-08-09T12:47:36.657527",
+  "package_url": "https://pypi.org/project/xmpppy/"
+}

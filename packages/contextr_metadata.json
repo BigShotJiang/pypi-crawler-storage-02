@@ -1,0 +1,11 @@
+{
+  "name": "contextr",
+  "version": "1.1.2",
+  "summary": "Share your codebase with LLMs - codebase export tool for AI conversations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextr-1.1.2.tar.gz",
+  "download_time": "2025-08-09T12:47:55.197219",
+  "package_url": "https://pypi.org/project/contextr/"
+}

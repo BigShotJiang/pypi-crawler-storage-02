@@ -1,11 +1,11 @@
 {
   "name": "speechflow",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "TTS (Text-to-Speech) wrapper library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speechflow-0.1.5.tar.gz",
-  "download_time": "2025-08-07T07:49:23.662181",
+  "download_filename": "speechflow-0.1.6.tar.gz",
+  "download_time": "2025-08-09T12:47:34.591258",
   "package_url": "https://pypi.org/project/speechflow/"
 }

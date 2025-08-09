@@ -1,0 +1,11 @@
+{
+  "name": "apt-pro",
+  "version": "1.1.2",
+  "summary": "A python package for better update and manage your debian packages.",
+  "author": "Jak Bin",
+  "license": null,
+  "home_page": "https://github.com/jakbin/apt-pro",
+  "download_filename": "apt-pro-1.1.2.tar.gz",
+  "download_time": "2025-08-09T12:47:40.760839",
+  "package_url": "https://pypi.org/project/apt-pro/"
+}

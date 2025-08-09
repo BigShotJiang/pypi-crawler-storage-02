@@ -1,0 +1,11 @@
+{
+  "name": "fima",
+  "version": "0.3.0",
+  "summary": "fima – A Python package for scraping and analyzing Iran’s financial market data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fima-0.3.0.tar.gz",
+  "download_time": "2025-08-09T12:47:59.812861",
+  "package_url": "https://pypi.org/project/fima/"
+}
