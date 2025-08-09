@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T07:44:25.956452
-- **Total Packages**: 73
-- **Total Size**: 8.94 MB
+- **Download Time**: 2025-08-09T07:55:22.566154
+- **Total Packages**: 76
+- **Total Size**: 8.44 MB
 
 ## Packages List
+- aiforge-engine
+- git-mcp-server
+- chimac
+- memg-core
+- geo-explorer
+- pulumi-gcp
+- djangocms-transfer
+- florestbotfunctions
+- tempdataset
+- tidipy
+- podcast2notion
+- gradboard
+- lingtaiAgent
 - lcurl
 - janito
 - pyinno-setup
@@ -69,13 +82,3 @@
 - kandc
 - pulumi-vsphere
 - velocity-python
-- pulumi-tls
-- deephalo
-- pulumi-snowflake
-- cogency
-- pulumi-spotinst
-- pulumi-xyz
-- accrete
-- mcp-server-dongjunqaq
-- okx-sdk
-- repo-smith

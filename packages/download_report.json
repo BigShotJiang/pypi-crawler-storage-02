@@ -1,8 +1,21 @@
 {
-  "download_time": "2025-08-09T07:44:25.956452",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 8.94,
+  "download_time": "2025-08-09T07:55:22.566154",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 8.44,
   "packages": [
+    "aiforge-engine",
+    "git-mcp-server",
+    "chimac",
+    "memg-core",
+    "geo-explorer",
+    "pulumi-gcp",
+    "djangocms-transfer",
+    "florestbotfunctions",
+    "tempdataset",
+    "tidipy",
+    "podcast2notion",
+    "gradboard",
+    "lingtaiAgent",
     "lcurl",
     "janito",
     "pyinno-setup",
@@ -65,16 +78,6 @@
     "cici-tools",
     "kandc",
     "pulumi-vsphere",
-    "velocity-python",
-    "pulumi-tls",
-    "deephalo",
-    "pulumi-snowflake",
-    "cogency",
-    "pulumi-spotinst",
-    "pulumi-xyz",
-    "accrete",
-    "mcp-server-dongjunqaq",
-    "okx-sdk",
-    "repo-smith"
+    "velocity-python"
   ]
 }
