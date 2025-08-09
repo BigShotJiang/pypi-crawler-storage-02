@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T09:44:46.330806
-- **Total Packages**: 72
-- **Total Size**: 7.31 MB
+- **Download Time**: 2025-08-09T09:56:20.539883
+- **Total Packages**: 77
+- **Total Size**: 1.48 MB
 
 ## Packages List
+- pyairahome
+- nvfuser-cu126
+- stand-da
+- nvfuser-cu128
+- clams-utils
+- django-iran-sms
+- google-pso-data-validator
+- pico-ioc
+- crewai-playground
+- mcp-add-project
+- phicode
+- lyrpy
+- aipyapp
+- ph-utils
+- kenning-cli
+- Navygram
+- PySEMO
+- eschallot
+- dosctl
+- vicalerts
 - blobify
 - clean-jetbrains-old
 - py2mermaid
@@ -15,16 +35,12 @@
 - edaflow
 - helpman
 - classy-blocks
-- kenning-cli
-- django-iran-sms
 - yycli
 - phoenix-parser
 - ties
-- eschallot
 - ksim
 - pylint-sort-functions
 - surquest-utils-appstoreconnect-analyticsreports
-- dosctl
 - ScratchExtensionTools
 - pydorm
 - bluer-journal
@@ -67,14 +83,3 @@
 - ktoolbox
 - procal
 - undoom-uninstaller-mcp
-- pystiebeleltron
-- youtube-thumbnail-generator
-- immunoforge
-- pycasbin
-- cifer
-- netron
-- eyefeatures
-- internal
-- cisco-hashgen
-- hy-nrepl
-- hh-applicant-tool

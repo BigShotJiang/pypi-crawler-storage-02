@@ -1,0 +1,11 @@
+{
+  "name": "clams-utils",
+  "version": "250809",
+  "summary": "a collection of smaller helper/utility code of CLAMS platform",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "clams_utils-250809.tar.gz",
+  "download_time": "2025-08-09T09:55:42.276497",
+  "package_url": "https://pypi.org/project/clams-utils/"
+}
