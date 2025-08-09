@@ -1,0 +1,11 @@
+{
+  "name": "ties",
+  "version": "0.0.0a1",
+  "summary": "A CLI tool to duplicate and sync file content with advanced transformations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ties-0.0.0a1.tar.gz",
+  "download_time": "2025-08-09T08:30:35.884009",
+  "package_url": "https://pypi.org/project/ties/"
+}

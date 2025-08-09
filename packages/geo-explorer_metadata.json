@@ -1,11 +1,11 @@
 {
   "name": "geo-explorer",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Explore geodata interactively.",
   "author": "Morten Letnes",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geo_explorer-0.4.0.tar.gz",
-  "download_time": "2025-08-09T07:54:39.743930",
+  "download_filename": "geo_explorer-0.4.1.tar.gz",
+  "download_time": "2025-08-09T08:30:40.624991",
   "package_url": "https://pypi.org/project/geo-explorer/"
 }

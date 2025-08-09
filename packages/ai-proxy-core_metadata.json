@@ -1,11 +1,11 @@
 {
   "name": "ai-proxy-core",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Minimal, reusable AI service handlers for Gemini and other LLMs",
   "author": "ebowwa",
   "license": "MIT",
   "home_page": "https://github.com/ebowwa/ai-proxy-core",
-  "download_filename": "ai_proxy_core-0.3.7.tar.gz",
-  "download_time": "2025-08-08T19:53:42.348099",
+  "download_filename": "ai_proxy_core-0.3.8.tar.gz",
+  "download_time": "2025-08-09T08:30:30.131980",
   "package_url": "https://pypi.org/project/ai-proxy-core/"
 }

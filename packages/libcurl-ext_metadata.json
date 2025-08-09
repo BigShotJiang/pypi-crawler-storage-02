@@ -1,0 +1,11 @@
+{
+  "name": "libcurl-ext",
+  "version": "0.1.0",
+  "summary": "Python bindings for libcurl",
+  "author": "Faddeev-Popov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libcurl_ext-0.1.0.tar.gz",
+  "download_time": "2025-08-09T08:30:36.394466",
+  "package_url": "https://pypi.org/project/libcurl-ext/"
+}

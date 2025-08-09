@@ -1,0 +1,11 @@
+{
+  "name": "docxmd-converter",
+  "version": "3.0.0",
+  "summary": "Convert between .docx and .md files with template support and advanced document post-processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docxmd_converter-3.0.0.tar.gz",
+  "download_time": "2025-08-09T08:30:39.564506",
+  "package_url": "https://pypi.org/project/docxmd-converter/"
+}
