@@ -1,0 +1,11 @@
+{
+  "name": "ures-visual",
+  "version": "1.0.3",
+  "summary": "A comprehensive, multi-backend visualization library designed for scientific research, data analysis, and machine learning, built on Polars DataFrames with matplotlib/seaborn, plotly, and HoloViews backends.",
+  "author": "stone",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ures_visual-1.0.3.tar.gz",
+  "download_time": "2025-08-09T23:25:51.327640",
+  "package_url": "https://pypi.org/project/ures-visual/"
+}
