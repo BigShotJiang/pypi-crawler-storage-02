@@ -1,0 +1,11 @@
+{
+  "name": "types-pexpect",
+  "version": "4.9.0.20250809",
+  "summary": "Typing stubs for pexpect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_pexpect-4.9.0.20250809.tar.gz",
+  "download_time": "2025-08-09T03:24:04.843597",
+  "package_url": "https://pypi.org/project/types-pexpect/"
+}

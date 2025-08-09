@@ -1,11 +1,11 @@
 {
   "name": "logery",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "A highly customizable logging library for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logery-0.0.2.tar.gz",
-  "download_time": "2025-08-08T04:52:07.274241",
+  "download_filename": "logery-0.1.0.tar.gz",
+  "download_time": "2025-08-09T03:24:20.212128",
   "package_url": "https://pypi.org/project/logery/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "HoloAI",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "Modular, provider-agnostic AI framework for multi-model orchestration, agent workflows, and vision.",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "holoai-0.3.9.tar.gz",
-  "download_time": "2025-08-08T19:41:52.889272",
+  "download_filename": "holoai-0.4.0.tar.gz",
+  "download_time": "2025-08-09T03:23:35.004512",
   "package_url": "https://pypi.org/project/HoloAI/"
 }

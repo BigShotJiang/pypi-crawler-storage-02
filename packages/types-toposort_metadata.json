@@ -1,0 +1,11 @@
+{
+  "name": "types-toposort",
+  "version": "1.10.0.20250809",
+  "summary": "Typing stubs for toposort",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_toposort-1.10.0.20250809.tar.gz",
+  "download_time": "2025-08-09T03:24:14.573857",
+  "package_url": "https://pypi.org/project/types-toposort/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "types-python-nmap",
+  "version": "0.7.1.20250809",
+  "summary": "Typing stubs for python-nmap",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_python_nmap-0.7.1.20250809.tar.gz",
+  "download_time": "2025-08-09T03:23:57.671992",
+  "package_url": "https://pypi.org/project/types-python-nmap/"
+}
