@@ -1,0 +1,11 @@
+{
+  "name": "polygon",
+  "version": "1.2.7",
+  "summary": "A Complete Python Wrapper for Polygon.io APIs.",
+  "author": "Pankaj Singh Solanki",
+  "license": "MIT",
+  "home_page": "https://github.com/pssolanki111/polygon",
+  "download_filename": "polygon-1.2.7-py2.py3-none-any.whl",
+  "download_time": "2025-08-09T17:44:17.238727",
+  "package_url": "https://pypi.org/project/polygon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pgsync",
+  "version": "4.2.0",
+  "summary": "Postgres to Elasticsearch/OpenSearch sync",
+  "author": "Tolu Aina",
+  "license": "MIT",
+  "home_page": "https://github.com/toluaina/pgsync",
+  "download_filename": "pgsync-4.2.0.tar.gz",
+  "download_time": "2025-08-09T17:44:35.614496",
+  "package_url": "https://pypi.org/project/pgsync/"
+}
