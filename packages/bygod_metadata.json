@@ -1,11 +1,11 @@
 {
   "name": "bygod",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "summary": "A comprehensive, truly asynchronous tool for downloading Bible translations from BibleGateway.com",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bygod-3.0.5.tar.gz",
-  "download_time": "2025-08-09T14:22:43.286239",
+  "download_filename": "bygod-3.0.6.tar.gz",
+  "download_time": "2025-08-09T20:57:02.790589",
   "package_url": "https://pypi.org/project/bygod/"
 }

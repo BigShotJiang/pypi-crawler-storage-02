@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T20:46:04.158250
-- **Total Packages**: 84
-- **Total Size**: 9.81 MB
+- **Download Time**: 2025-08-09T20:57:40.065285
+- **Total Packages**: 82
+- **Total Size**: 1.51 MB
 
 ## Packages List
+- ft8decoder
+- hanzo
+- joinly-client
+- cshelve
+- strarr
+- docx-comments-to-text
+- mulch
+- Pytanis
+- joinly-common
+- uvartage
+- code-doc-gen
+- sdci
+- bygod
+- cocapi
+- summarize-csv-file
+- hanzo-net
 - tomegathericon-utils-exceptions
 - langchain-lean
 - adversary-mcp-server
@@ -14,11 +30,9 @@
 - mpflash
 - litai-research
 - gitbotx
-- ft8decoder
 - MaxBridge
 - check-tls
 - asyncgui-ext-queue
-- hanzo-net
 - urban-worm
 - fennec-asr
 - absbox
@@ -74,19 +88,3 @@
 - plumed-nodes
 - littlecsv
 - listpick
-- langchain-mcts
-- note-to-json
-- nebula-client
-- pyairbnb
-- ok-logging-setup
-- claude-code-designer
-- qualidator
-- pms-utils
-- cdk-opinionated-constructs
-- Olivattam
-- ludax
-- hanzo
-- arthur-client
-- get-current-time-mcp
-- fastcrawl
-- docx-comments-to-text
