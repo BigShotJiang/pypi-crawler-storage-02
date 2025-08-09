@@ -1,0 +1,11 @@
+{
+  "name": "codestate",
+  "version": "0.9.4",
+  "summary": "A CLI tool for codebase statistics and ASCII visualization",
+  "author": "Henry Lok",
+  "license": null,
+  "home_page": "https://github.com/HenryLok0/CodeState",
+  "download_filename": "codestate-0.9.4.tar.gz",
+  "download_time": "2025-08-09T07:27:23.336452",
+  "package_url": "https://pypi.org/project/codestate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "powerbanktau",
-  "version": "0.1.36",
-  "summary": "A example Python package",
+  "version": "0.2.1",
+  "summary": "Dask cluster utilities for HPC environments",
   "author": "Nicolas Lynn",
   "license": "BSD 2-clause",
   "home_page": null,
-  "download_filename": "powerbanktau-0.1.36.tar.gz",
-  "download_time": "2025-08-07T11:57:23.492865",
+  "download_filename": "powerbanktau-0.2.1.tar.gz",
+  "download_time": "2025-08-09T07:27:32.609887",
   "package_url": "https://pypi.org/project/powerbanktau/"
 }
