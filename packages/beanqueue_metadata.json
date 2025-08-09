@@ -1,11 +1,11 @@
 {
   "name": "beanqueue",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "BeanQueue or BQ for short, PostgreSQL SKIP LOCK and SQLAlchemy based worker queue library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beanqueue-1.1.8.tar.gz",
-  "download_time": "2025-08-09T18:34:04.072980",
+  "download_filename": "beanqueue-1.1.9.tar.gz",
+  "download_time": "2025-08-09T19:22:54.370330",
   "package_url": "https://pypi.org/project/beanqueue/"
 }

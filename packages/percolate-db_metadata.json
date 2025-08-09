@@ -1,0 +1,11 @@
+{
+  "name": "percolate-db",
+  "version": "0.3.5",
+  "summary": "A client for working with the [Percolate database](https://github.com/Percolation-Labs/percolate)",
+  "author": "mr-saoirse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "percolate_db-0.3.5.tar.gz",
+  "download_time": "2025-08-09T19:23:06.317352",
+  "package_url": "https://pypi.org/project/percolate-db/"
+}

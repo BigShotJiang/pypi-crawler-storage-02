@@ -1,11 +1,11 @@
 {
   "name": "sqsi",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Async Iterators for SQS Queues",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqsi-0.1.7.tar.gz",
-  "download_time": "2025-08-09T18:59:17.622315",
+  "download_filename": "sqsi-0.1.9.tar.gz",
+  "download_time": "2025-08-09T19:22:57.012052",
   "package_url": "https://pypi.org/project/sqsi/"
 }

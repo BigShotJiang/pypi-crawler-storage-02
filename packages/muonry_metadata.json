@@ -1,11 +1,11 @@
 {
   "name": "muonry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Muonry - Sequential AI coding assistant with planning, websearch, and resilient fallbacks",
   "author": "Muonry Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "muonry-0.1.0.tar.gz",
-  "download_time": "2025-08-09T17:44:33.017063",
+  "download_filename": "muonry-0.1.1.tar.gz",
+  "download_time": "2025-08-09T19:23:08.969243",
   "package_url": "https://pypi.org/project/muonry/"
 }

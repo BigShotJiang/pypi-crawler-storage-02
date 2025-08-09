@@ -1,12 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T19:00:06.496055
-- **Total Packages**: 83
-- **Total Size**: 16.12 MB
+- **Download Time**: 2025-08-09T19:23:36.783938
+- **Total Packages**: 80
+- **Total Size**: 22.23 MB
 
 ## Packages List
+- emath
+- beanqueue
+- pymitsubishi
+- soup-files
+- rp
+- AdaptiveFoldTS
 - sqsi
+- xflow-py
+- kpf
+- mandelbrot-synthesizer
+- hanifx
+- fabricatio-tool
+- fabricatio
+- locan
+- contextbase
+- dipswitch-svg
+- bernn
+- dynamic_registry
+- piccard
+- TikTokLive
+- structmlib
+- MutagenesisForge
+- prepper
+- percolate-db
+- supacrawler-py
+- liitos
+- podgenai
+- faster-eth-abi
+- muonry
+- markitdown-office-extension
+- trackio
+- fusio-worker-runtime
+- ideastatica-connection-api
+- agentex-sdk
+- TelegramTextApp
+- pbi-pyadomd
+- mcp-web-extractor-sadasiba
+- ttsim-backend
+- ErisPulse-AIChat
+- all-predict
 - fetchfox-sdk
 - pysquareblob
 - digitalarzengine
@@ -18,18 +57,15 @@
 - moonlabel
 - kavo
 - gitlab-docs
-- hanifx
 - metar-decoder
 - boschshcpy
 - appgen
-- bernn
 - satnogs-decoders
 - django-reportcraft
 - moulti
 - pywabot
 - PromptFileLoader
 - faster-whisper-hotkey
-- dynamic_registry
 - pylint-sort-functions
 - silent-killers
 - appserver-sdk-python-ai
@@ -40,7 +76,6 @@
 - content-summarizer
 - publicity-idl
 - pyframe-web
-- mcp-web-extractor-sadasiba
 - git-mcp-server
 - pyrefra
 - veri-agents-knowledgebase
@@ -51,41 +86,3 @@
 - instance-cache
 - airbyte-source-marketo
 - sccross
-- vishuml
-- airbyte-source-firebolt
-- daspack-dev
-- virtuals-acp
-- linux-gpt
-- arcade-google-sheets
-- orionis
-- maildeck
-- mixedbread
-- listpick
-- vector-vault
-- pyspark-pi
-- mtllm
-- truss
-- beanqueue
-- cobra-router
-- cnhkmcp
-- xflow-py
-- jipso
-- django-api-explorer
-- lusid-sdk
-- Invoker-CLI
-- ir-sim
-- pbi-pyadomd
-- chalkpy
-- GreenWorks
-- icloudpd
-- pandas-openscm
-- chloe-reactfy
-- ragbits-guardrails
-- ragbits-evaluate
-- ragbits-document-search
-- ragbits-core
-- ragbits-cli
-- ragbits-chat
-- ragbits-agents
-- ragbits
-- scrapy-impersonate
