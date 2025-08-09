@@ -1,0 +1,11 @@
+{
+  "name": "daspack-dev",
+  "version": "0.0.1a0",
+  "summary": "DASPack: Controlled data compression for Distributed Acoustic Sensing",
+  "author": "Aleix Segui",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "daspack_dev-0.0.1a0.tar.gz",
+  "download_time": "2025-08-09T18:33:57.266747",
+  "package_url": "https://pypi.org/project/daspack-dev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cleverminer",
+  "version": "1.2.4",
+  "summary": "Beyond apriori. CleverMiner is the package for enhanced association rule mining (eARM). Comparing to standard association rules, it is very enhanced, because the package implements the GUHA procedures that generalizes apriori and association rules in many ways. Rules are based on categorical data that can be easily visualized and interpreted. Their if-then with probability allows easy deployment by human realized processes. Truly interpretable & explainable knowledge mining.",
+  "author": "(C) Copyright 2020 - 2025 Little Big Company, s.r.o., Petr Masa",
+  "license": null,
+  "home_page": "https://cleverminer.org",
+  "download_filename": "cleverminer-1.2.4.tar.gz",
+  "download_time": "2025-08-09T18:34:26.096240",
+  "package_url": "https://pypi.org/project/cleverminer/"
+}

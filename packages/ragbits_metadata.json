@@ -1,11 +1,11 @@
 {
   "name": "ragbits",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Building blocks for rapid development of GenAI applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ragbits-1.2.1.tar.gz",
-  "download_time": "2025-08-05T09:03:23.703167",
+  "download_filename": "ragbits-1.2.2.tar.gz",
+  "download_time": "2025-08-09T18:34:17.152167",
   "package_url": "https://pypi.org/project/ragbits/"
 }
