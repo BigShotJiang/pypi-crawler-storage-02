@@ -1,11 +1,11 @@
 {
   "name": "AdaptiveFoldTS",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "summary": "Validação Cruzada Adaptativa para Séries Temporais com Priorização Inteligente de Folds",
   "author": "Allan Pereira Fenelon",
   "license": null,
   "home_page": "https://github.com/allanfenelon/AdaptiveFoldTS",
-  "download_filename": "AdaptiveFoldTS-1.0.2.tar.gz",
-  "download_time": "2025-08-09T19:22:56.496569",
+  "download_filename": "AdaptiveFoldTS-1.0.1.tar.gz",
+  "download_time": "2025-08-09T19:41:17.273211",
   "package_url": "https://pypi.org/project/AdaptiveFoldTS/"
 }

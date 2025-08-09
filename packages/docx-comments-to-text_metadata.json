@@ -1,0 +1,11 @@
+{
+  "name": "docx-comments-to-text",
+  "version": "0.1.0",
+  "summary": "Extract reviewer comments from .docx files and insert them inline with the text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx_comments_to_text-0.1.0.tar.gz",
+  "download_time": "2025-08-09T19:41:13.899336",
+  "package_url": "https://pypi.org/project/docx-comments-to-text/"
+}

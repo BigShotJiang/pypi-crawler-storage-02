@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit-hooks",
+  "version": "6.0.0",
+  "summary": "Some out-of-the-box hooks for pre-commit.",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/pre-commit/pre-commit-hooks",
+  "download_filename": "pre_commit_hooks-6.0.0.tar.gz",
+  "download_time": "2025-08-09T19:41:12.761250",
+  "package_url": "https://pypi.org/project/pre-commit-hooks/"
+}

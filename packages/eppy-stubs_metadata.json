@@ -1,0 +1,11 @@
+{
+  "name": "eppy-stubs",
+  "version": "0.1.0",
+  "summary": "Eppy type stubs for the eppy package",
+  "author": "Samuel Letellier-Duchesne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eppy_stubs-0.1.0.tar.gz",
+  "download_time": "2025-08-09T19:41:09.907516",
+  "package_url": "https://pypi.org/project/eppy-stubs/"
+}

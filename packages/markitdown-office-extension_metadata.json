@@ -1,11 +1,11 @@
 {
   "name": "markitdown-office-extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A markitdown plugin use to customize markdownify",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markitdown_office_extension-0.1.0.tar.gz",
-  "download_time": "2025-08-09T19:23:09.481225",
+  "download_filename": "markitdown_office_extension-0.1.1.tar.gz",
+  "download_time": "2025-08-09T19:41:11.080410",
   "package_url": "https://pypi.org/project/markitdown-office-extension/"
 }
