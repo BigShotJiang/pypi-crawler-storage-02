@@ -1,0 +1,11 @@
+{
+  "name": "mrsegmentator",
+  "version": "1.3.0",
+  "summary": "Multi-Modality Segmentation of 40 Classes in MRI and CT",
+  "author": "Hartmut Häntze",
+  "license": null,
+  "home_page": "https://github.com/hhaentze/mrsegmentator",
+  "download_filename": "mrsegmentator-1.3.0.tar.gz",
+  "download_time": "2025-08-09T14:45:26.836193",
+  "package_url": "https://pypi.org/project/mrsegmentator/"
+}

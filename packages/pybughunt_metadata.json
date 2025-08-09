@@ -1,0 +1,11 @@
+{
+  "name": "pybughunt",
+  "version": "0.2.0",
+  "summary": "A Python library for detecting logical and syntactical errors in Python code",
+  "author": "Preksha Upadhyay",
+  "license": "MIT",
+  "home_page": "https://github.com/Preksha-7/pybughunt",
+  "download_filename": "pybughunt-0.2.0.tar.gz",
+  "download_time": "2025-08-09T14:45:31.491730",
+  "package_url": "https://pypi.org/project/pybughunt/"
+}

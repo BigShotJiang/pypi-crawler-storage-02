@@ -1,0 +1,11 @@
+{
+  "name": "lsnotes",
+  "version": "1.0.0",
+  "summary": "A simple tool to add descriptions to directories by creating .lsnotes files, with endless possibilities for customization.",
+  "author": "Louis Aeilot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lsnotes-1.0.0.tar.gz",
+  "download_time": "2025-08-09T14:45:34.087979",
+  "package_url": "https://pypi.org/project/lsnotes/"
+}

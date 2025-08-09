@@ -1,0 +1,11 @@
+{
+  "name": "loops-python-unofficial",
+  "version": "0.1.0",
+  "summary": "Unofficial Python SDK for Loops (loops.so) with sync and async clients",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loops_python_unofficial-0.1.0.tar.gz",
+  "download_time": "2025-08-09T14:45:24.266609",
+  "package_url": "https://pypi.org/project/loops-python-unofficial/"
+}
