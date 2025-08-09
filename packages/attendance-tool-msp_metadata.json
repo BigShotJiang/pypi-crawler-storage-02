@@ -1,0 +1,11 @@
+{
+  "name": "attendance-tool-msp",
+  "version": "1.0.2",
+  "summary": "Automated attendance processing and reporting tool for MSP technical sessions.",
+  "author": "mohamedelziat50",
+  "license": null,
+  "home_page": null,
+  "download_filename": "attendance_tool_msp-1.0.2.tar.gz",
+  "download_time": "2025-08-09T14:22:46.052886",
+  "package_url": "https://pypi.org/project/attendance-tool-msp/"
+}

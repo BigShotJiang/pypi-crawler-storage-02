@@ -1,11 +1,11 @@
 {
   "name": "mangoapi",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "summary": "Python Wrapper For MangiAPI",
   "author": "Mishal",
   "license": "MIT",
   "home_page": "https://github.com/Mishel-07/MangoAPI",
-  "download_filename": "mangoapi-1.0.30.tar.gz",
-  "download_time": "2025-08-09T11:20:41.930364",
+  "download_filename": "mangoapi-1.0.31.tar.gz",
+  "download_time": "2025-08-09T14:22:56.484003",
   "package_url": "https://pypi.org/project/mangoapi/"
 }

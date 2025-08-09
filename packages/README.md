@@ -1,13 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T13:55:45.045142
-- **Total Packages**: 83
-- **Total Size**: 8.68 MB
+- **Download Time**: 2025-08-09T14:23:20.989613
+- **Total Packages**: 74
+- **Total Size**: 3.14 MB
 
 ## Packages List
-- matrice
+- pymbo
+- psi-toml
+- hantibookmanager
+- py-connect-4
+- fyers_helper
+- syqlorix
+- bygod
+- pemexe
+- internal
+- pybiolib
+- graph-games-proto
+- attendance-tool-msp
+- scope-timer
+- airbyte-source-github
+- airbyte-source-kyve
+- didppy
 - live_template
+- airbyte-source-iterable
+- airbyte-source-linnworks
+- airbyte-source-google-ads
+- airbyte-source-kyriba
+- dance-video-toolkit
+- Dynamic-DateTime
+- cogency
+- airbyte-source-gcs
+- autodoc-mcp
+- genai-prices
+- promptlyzer
+- memberjojo
+- mangoapi
+- lineplot
+- neko-image-gallery-app
+- modelbridge
+- python-roborock
+- matrice
 - agomax
 - tensordict-nightly
 - lazydock-md-task
@@ -16,13 +49,11 @@
 - hubmap-search-sdk
 - hubmap-entity-sdk
 - pymexc
-- lineplot
 - anosys-logger-4-openai-agents
 - qis
 - twrapform
 - sdvrp-py
 - cocolit
-- neko-image-gallery-app
 - sae-lens
 - maps4fs
 - laktory
@@ -32,7 +63,6 @@
 - bq_mcp_server
 - jaimead7-pyutils
 - ondewo-t2s-client
-- graph-games-proto
 - eschallot
 - GNServer
 - arthur-client
@@ -50,42 +80,3 @@
 - pyinno-setup
 - xflow-py
 - bplusplus
-- openmed
-- norc
-- ioelin-iot-ui-mcp-server
-- autoaicluster
-- pjapp
-- quantdle
-- pretix-wallet
-- leohs
-- bittensor-pylon
-- pretix-uic-barcode
-- dosctl
-- klvm-rs
-- unittest-fixtures
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- litai-research
-- sparkden
-- funding-arb
-- agentic-cli-coder
-- hexin-server
-- splurge-tools
-- cutflow-compare
-- ramses_rf
-- glux
-- artanis
-- kommander-cli
-- unity-scene-repacker
-- osiric
-- gravixlayer
-- zrb
-- coffy
-- atom-db
-- dotquery

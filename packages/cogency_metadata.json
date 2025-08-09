@@ -1,11 +1,11 @@
 {
   "name": "cogency",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A reasoning engine for adaptive AI agents",
   "author": "Tyson Chan",
   "license": "Apache-2.0",
   "home_page": "https://github.com/iteebz/cogency",
-  "download_filename": "cogency-1.2.0.tar.gz",
-  "download_time": "2025-08-09T06:59:52.898132",
+  "download_filename": "cogency-1.2.1.tar.gz",
+  "download_time": "2025-08-09T14:22:52.646270",
   "package_url": "https://pypi.org/project/cogency/"
 }
