@@ -1,0 +1,11 @@
+{
+  "name": "games-of-probability",
+  "version": "2.0.0",
+  "summary": "Provides classes that are used as games of chance and things that based on probability, using the `random` module.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "games_of_probability-2.0.0.tar.gz",
+  "download_time": "2025-08-09T07:43:59.280336",
+  "package_url": "https://pypi.org/project/games-of-probability/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openbb-tushare",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "OpenBB extension for Tushare",
   "author": "Roger Ye",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "openbb_tushare-0.3.1.tar.gz",
-  "download_time": "2025-08-08T05:59:24.984014",
+  "download_filename": "openbb_tushare-0.3.3.tar.gz",
+  "download_time": "2025-08-09T07:43:50.381403",
   "package_url": "https://pypi.org/project/openbb-tushare/"
 }

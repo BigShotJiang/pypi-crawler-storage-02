@@ -1,12 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T07:28:02.354654
-- **Total Packages**: 78
-- **Total Size**: 37.86 MB
+- **Download Time**: 2025-08-09T07:44:25.956452
+- **Total Packages**: 73
+- **Total Size**: 8.94 MB
 
 ## Packages List
+- lcurl
+- janito
+- pyinno-setup
 - youtube-thumbnail-generator
+- mkdocs-document-dates
+- artanis
+- beswarm
+- openbb-tushare
+- aient
+- helpman
+- kinglet
+- openbb-akshare
+- dosctl
+- ezmsg-sigproc
+- ai-native-core
+- mathmind-mcp-server
+- vkforge
+- fastcs
+- brain-sdk
+- fis-mcp-server
+- calendar-link
+- mathmaker
+- habluetooth
+- games-of-probability
+- pyiron-lammps
 - kt3extract
 - archx
 - live2d-py
@@ -21,9 +45,7 @@
 - pulumi-oci
 - maleo-cds
 - listpick
-- helpman
 - lazy-imports
-- habluetooth
 - plexflow
 - open3d-plus
 - catalyst-sdwan-lab
@@ -38,10 +60,7 @@
 - gpu-benchmark-tool
 - obsidiana
 - rpa-lazada
-- fastcs
 - rpa-common
-- mathmaker
-- ai-native-core
 - exprmat
 - pulumi-vault
 - git-autograder
@@ -50,7 +69,6 @@
 - kandc
 - pulumi-vsphere
 - velocity-python
-- pyinno-setup
 - pulumi-tls
 - deephalo
 - pulumi-snowflake
@@ -61,26 +79,3 @@
 - mcp-server-dongjunqaq
 - okx-sdk
 - repo-smith
-- ccui-web
-- lazy-mysql
-- meduza-ai
-- pulumi-sdwan
-- inoyb
-- pulumi-slack
-- pulumi-awsx
-- pulumi-random
-- pulumi-scm
-- pulumi-rancher2
-- pulumi-signalfx
-- libzrod
-- sc-utility
-- funputer
-- pathsim
-- odoo-addon-l10n-th-account-tax
-- pckgr
-- git-mcp-server
-- pulumi-rabbitmq
-- pulumi-pagerduty
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- lybase

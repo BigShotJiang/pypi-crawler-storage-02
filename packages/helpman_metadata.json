@@ -1,11 +1,11 @@
 {
   "name": "helpman",
-  "version": "2.26",
+  "version": "2.27",
   "summary": "Enhanced Python Help Tool with Rich Library - Beautiful terminal output.",
   "author": "Hadi Cahyadi",
   "license": null,
   "home_page": "https://github.com/cumulus13/pyhelp",
-  "download_filename": "helpman-2.26.tar.gz",
-  "download_time": "2025-08-09T07:27:28.485346",
+  "download_filename": "helpman-2.27.tar.gz",
+  "download_time": "2025-08-09T07:43:51.432355",
   "package_url": "https://pypi.org/project/helpman/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fis-mcp-server",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "summary": "AWS Fault Injection Simulator MCP Server for chaos engineering",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fis_mcp_server-1.12.0.tar.gz",
-  "download_time": "2025-08-06T17:02:48.579836",
+  "download_filename": "fis_mcp_server-1.13.0.tar.gz",
+  "download_time": "2025-08-09T07:43:57.117070",
   "package_url": "https://pypi.org/project/fis-mcp-server/"
 }
