@@ -1,11 +1,11 @@
 {
   "name": "agomax",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Universal Drone Anomaly Detection Python Package",
   "author": "shaguntembhurne",
   "license": null,
   "home_page": "https://github.com/shaguntembhurne/agomax",
-  "download_filename": "agomax-0.1.5.tar.gz",
-  "download_time": "2025-08-09T13:33:29.329396",
+  "download_filename": "agomax-0.1.8.tar.gz",
+  "download_time": "2025-08-09T13:54:59.896384",
   "package_url": "https://pypi.org/project/agomax/"
 }

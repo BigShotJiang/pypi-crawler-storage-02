@@ -1,27 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T13:34:16.300078
-- **Total Packages**: 84
-- **Total Size**: 36.74 MB
+- **Download Time**: 2025-08-09T13:55:45.045142
+- **Total Packages**: 83
+- **Total Size**: 8.68 MB
 
 ## Packages List
+- matrice
+- live_template
+- agomax
+- tensordict-nightly
+- lazydock-md-task
+- shopify-multipass-auth
+- proton-mail-trash
+- hubmap-search-sdk
+- hubmap-entity-sdk
+- pymexc
+- lineplot
+- anosys-logger-4-openai-agents
+- qis
+- twrapform
+- sdvrp-py
+- cocolit
+- neko-image-gallery-app
+- sae-lens
+- maps4fs
+- laktory
+- pycapabilitydecorator
+- veotools
+- python-socketio-stubs
+- bq_mcp_server
+- jaimead7-pyutils
+- ondewo-t2s-client
+- graph-games-proto
+- eschallot
+- GNServer
+- arthur-client
+- baynext-py
+- xl-durel-utils
+- fbgemm-gpu-nightly-cpu
+- tap2talk
 - mas-cli
 - mccole
 - pyodide-mkdocs-theme
 - x402-hpke
 - agentle
 - sillywalk
-- agomax
 - mdot
-- shopify-multipass-authentication
 - pyinno-setup
 - xflow-py
 - bplusplus
 - openmed
 - norc
 - ioelin-iot-ui-mcp-server
-- python-socketio-stubs
 - autoaicluster
 - pjapp
 - quantdle
@@ -30,7 +61,6 @@
 - bittensor-pylon
 - pretix-uic-barcode
 - dosctl
-- lineplot
 - klvm-rs
 - unittest-fixtures
 - nbdev-apl
@@ -53,40 +83,9 @@
 - artanis
 - kommander-cli
 - unity-scene-repacker
-- veotools
 - osiric
 - gravixlayer
 - zrb
 - coffy
 - atom-db
 - dotquery
-- chainsaws
-- textual-tags
-- eschallot
-- recipe-scrapers
-- hgitaly
-- pyabsa
-- qrpa
-- jbag
-- xl-durel-utils
-- libadalina-core
-- loadnsi
-- sportsball
-- aignostics
-- ddd-cli
-- dotpptx
-- fitstoolz
-- snakestack
-- novae
-- api-doc-mcp-server
-- phicode
-- tensorcircuit-nightly
-- twrapform
-- AminoDorks
-- pelyx
-- xrexpr
-- yak-server
-- SigScaffold
-- fastapi-mongo-base
-- vihi-nova-act
-- barangay

@@ -1,0 +1,11 @@
+{
+  "name": "live_template",
+  "version": "0.1.0",
+  "summary": "LiveTemplate is a tool for local development and testing of Telegram bots, designed to simplify working with message templates and instantly display changes without restarting the bot.",
+  "author": "gPlorovg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "live_template-0.1.0.tar.gz",
+  "download_time": "2025-08-09T13:54:59.287467",
+  "package_url": "https://pypi.org/project/live_template/"
+}

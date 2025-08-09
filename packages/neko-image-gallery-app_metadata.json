@@ -1,0 +1,11 @@
+{
+  "name": "neko-image-gallery-app",
+  "version": "0.1.0.dev20250809134514",
+  "summary": "A web-based image gallery app and dashboard for Neko Image Gallery.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neko_image_gallery_app-0.1.0.dev20250809134514.tar.gz",
+  "download_time": "2025-08-09T13:55:07.828843",
+  "package_url": "https://pypi.org/project/neko-image-gallery-app/"
+}
