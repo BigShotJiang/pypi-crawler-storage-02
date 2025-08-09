@@ -1,15 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T10:26:04.926343
-- **Total Packages**: 78
-- **Total Size**: 10.41 MB
+- **Download Time**: 2025-08-09T10:47:54.879802
+- **Total Packages**: 81
+- **Total Size**: 7.08 MB
 
 ## Packages List
-- odfdo
-- podcast2notion
 - syntaxmatrix
-- Wg-web-client
 - kodit
 - funputer
 - breadcrumb-addressbar
@@ -64,6 +61,7 @@
 - vicalerts
 - blobify
 - clean-jetbrains-old
+- ioelin-iot-ui-mcp-server
 - cmlibs.importer
 - typedspark
 - aabd
@@ -79,8 +77,13 @@
 - pydorm
 - bluer-journal
 - pyodide-mkdocs-theme
+- podcast2notion
 - pwb-toolbox
 - atlib
 - epson-escp2
 - gonka-openai
 - forteenall-kit
+- PyPrintLpr
+- vectorvein
+- crawler-user-agents
+- azampay-sdk-anga

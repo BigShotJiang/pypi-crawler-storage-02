@@ -1,12 +1,9 @@
 {
-  "download_time": "2025-08-09T10:26:04.926343",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 10.41,
+  "download_time": "2025-08-09T10:47:54.879802",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 7.08,
   "packages": [
-    "odfdo",
-    "podcast2notion",
     "syntaxmatrix",
-    "Wg-web-client",
     "kodit",
     "funputer",
     "breadcrumb-addressbar",
@@ -61,6 +58,7 @@
     "vicalerts",
     "blobify",
     "clean-jetbrains-old",
+    "ioelin-iot-ui-mcp-server",
     "cmlibs.importer",
     "typedspark",
     "aabd",
@@ -76,10 +74,15 @@
     "pydorm",
     "bluer-journal",
     "pyodide-mkdocs-theme",
+    "podcast2notion",
     "pwb-toolbox",
     "atlib",
     "epson-escp2",
     "gonka-openai",
-    "forteenall-kit"
+    "forteenall-kit",
+    "PyPrintLpr",
+    "vectorvein",
+    "crawler-user-agents",
+    "azampay-sdk-anga"
   ]
 }
