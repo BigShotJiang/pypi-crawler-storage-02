@@ -1,0 +1,11 @@
+{
+  "name": "gfmodel",
+  "version": "1.0.0",
+  "summary": "Simple Python client for GitHub Models API",
+  "author": "Prakhar Doneria",
+  "license": "MIT",
+  "home_page": "https://github.com/prakhardoneria/gfmodel",
+  "download_filename": "gfmodel-1.0.0.tar.gz",
+  "download_time": "2025-08-09T11:20:48.092400",
+  "package_url": "https://pypi.org/project/gfmodel/"
+}

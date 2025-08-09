@@ -1,0 +1,11 @@
+{
+  "name": "telepop-env",
+  "version": "0.1.1",
+  "summary": "Tiny zero-dependency environment variable loader with type casting and .env.example generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telepop_env-0.1.1.tar.gz",
+  "download_time": "2025-08-09T11:20:58.358259",
+  "package_url": "https://pypi.org/project/telepop-env/"
+}

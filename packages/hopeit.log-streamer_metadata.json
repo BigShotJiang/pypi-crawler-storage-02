@@ -1,0 +1,11 @@
+{
+  "name": "hopeit.log-streamer",
+  "version": "0.27.0",
+  "summary": "Hopeit Engine Log Streamer Plugin",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "hopeit_log_streamer-0.27.0.tar.gz",
+  "download_time": "2025-08-09T11:21:09.662365",
+  "package_url": "https://pypi.org/project/hopeit.log-streamer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vcsdeploy",
+  "version": "0.5",
+  "summary": "Minimal GUI to deploy updates through a VCS repository",
+  "author": "Antonio Cuni",
+  "license": "BSD",
+  "home_page": "https://github.com/antocuni/vcsdeploy",
+  "download_filename": "vcsdeploy-0.5.tar.gz",
+  "download_time": "2025-08-09T11:20:42.458371",
+  "package_url": "https://pypi.org/project/vcsdeploy/"
+}

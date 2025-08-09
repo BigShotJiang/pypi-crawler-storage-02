@@ -1,0 +1,11 @@
+{
+  "name": "freezegun",
+  "version": "1.5.5",
+  "summary": "Let your Python tests travel through time",
+  "author": "Steve Pulec",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/spulec/freezegun",
+  "download_filename": "freezegun-1.5.5.tar.gz",
+  "download_time": "2025-08-09T11:21:01.438137",
+  "package_url": "https://pypi.org/project/freezegun/"
+}

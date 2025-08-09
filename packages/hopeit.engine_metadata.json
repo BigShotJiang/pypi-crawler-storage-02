@@ -1,0 +1,11 @@
+{
+  "name": "hopeit.engine",
+  "version": "0.27.0",
+  "summary": "Hopeit Engine: Microservices with Streams",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "hopeit_engine-0.27.0.tar.gz",
+  "download_time": "2025-08-09T11:21:12.221168",
+  "package_url": "https://pypi.org/project/hopeit.engine/"
+}

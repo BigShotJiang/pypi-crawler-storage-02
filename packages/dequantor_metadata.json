@@ -1,11 +1,11 @@
 {
   "name": "dequantor",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "summary": "model runner and dequantor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dequantor-0.0.3.tar.gz",
-  "download_time": "2025-08-04T23:44:56.911760",
+  "download_filename": "dequantor-0.0.7.tar.gz",
+  "download_time": "2025-08-09T11:20:57.846816",
   "package_url": "https://pypi.org/project/dequantor/"
 }

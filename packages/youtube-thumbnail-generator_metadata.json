@@ -1,11 +1,11 @@
 {
   "name": "youtube-thumbnail-generator",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Professional YouTube thumbnail generator with enhanced Chinese font bold rendering and intelligent text processing",
   "author": "Leo Wang",
   "license": "MIT",
   "home_page": "https://github.com/preangelleo/youtube-thumbnail-generator",
-  "download_filename": "youtube_thumbnail_generator-2.5.0.tar.gz",
-  "download_time": "2025-08-09T10:47:19.319082",
+  "download_filename": "youtube_thumbnail_generator-2.5.1.tar.gz",
+  "download_time": "2025-08-09T11:20:37.273765",
   "package_url": "https://pypi.org/project/youtube-thumbnail-generator/"
 }
