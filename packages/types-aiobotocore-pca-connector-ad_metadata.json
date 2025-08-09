@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-pca-connector-ad",
+  "version": "2.23.2",
+  "summary": "Type annotations for aiobotocore PcaConnectorAd 2.23.2 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_pca_connector_ad-2.23.2.tar.gz",
+  "download_time": "2025-08-09T01:55:43.742164",
+  "package_url": "https://pypi.org/project/types-aiobotocore-pca-connector-ad/"
+}

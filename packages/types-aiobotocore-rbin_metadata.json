@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-rbin",
+  "version": "2.24.0",
+  "summary": "Type annotations for aiobotocore RecycleBin 2.24.0 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_rbin-2.24.0-py3-none-any.whl",
+  "download_time": "2025-08-09T01:55:31.046176",
+  "package_url": "https://pypi.org/project/types-aiobotocore-rbin/"
+}

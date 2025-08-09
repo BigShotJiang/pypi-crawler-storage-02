@@ -1,0 +1,11 @@
+{
+  "name": "anthroab",
+  "version": "1.1.0",
+  "summary": "AnthroAb: Human antibody language model based on RoBERTa for humanization",
+  "author": "Hemant Nagar",
+  "license": "MIT",
+  "home_page": "https://github.com/nagarh/AnthroAb",
+  "download_filename": "anthroab-1.1.0.tar.gz",
+  "download_time": "2025-08-09T01:55:51.649700",
+  "package_url": "https://pypi.org/project/anthroab/"
+}
