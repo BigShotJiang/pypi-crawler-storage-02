@@ -1,0 +1,11 @@
+{
+  "name": "bangumi_recovery",
+  "version": "0.2.0",
+  "summary": "A tool for migrate bangumi tool",
+  "author": "hx",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/bGZo/playground/tree/2025/07/bangumi-recovery-scripts",
+  "download_filename": "bangumi_recovery-0.2.0.tar.gz",
+  "download_time": "2025-08-09T06:35:22.650439",
+  "package_url": "https://pypi.org/project/bangumi_recovery/"
+}

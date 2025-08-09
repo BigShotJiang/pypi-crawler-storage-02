@@ -1,11 +1,11 @@
 {
   "name": "project-provisioner",
-  "version": "0.1.1",
-  "summary": "Uma ferramenta CLI para provisionar automaticamente novos projetos de dados no Azure DevOps e Databricks.",
+  "version": "0.3.0",
+  "summary": "Uma ferramenta CLI para provisionar automaticamente novos projetos de dados no Azure DevOps e Databricks com integração completa ao Azure CLI.",
   "author": "Jose Amaro",
   "license": null,
-  "home_page": "https://a11501880711@dev.azure.com/a11501880711/gases/_git/databricks_project_provisioner",
-  "download_filename": "project_provisioner-0.1.1.tar.gz",
-  "download_time": "2025-08-08T06:49:07.219765",
+  "home_page": "https://github.com/joseamaro/project-provisioner",
+  "download_filename": "project_provisioner-0.3.0.tar.gz",
+  "download_time": "2025-08-09T06:35:33.888122",
   "package_url": "https://pypi.org/project/project-provisioner/"
 }

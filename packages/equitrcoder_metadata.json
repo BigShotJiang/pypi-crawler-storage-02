@@ -1,0 +1,11 @@
+{
+  "name": "equitrcoder",
+  "version": "2.2.0",
+  "summary": "Modular AI coding assistant supporting single and multi-agent workflows",
+  "author": "EQUITR",
+  "license": null,
+  "home_page": "https://github.com/tanushv/equitrcoder",
+  "download_filename": "equitrcoder-2.2.0.tar.gz",
+  "download_time": "2025-08-09T06:35:33.311466",
+  "package_url": "https://pypi.org/project/equitrcoder/"
+}

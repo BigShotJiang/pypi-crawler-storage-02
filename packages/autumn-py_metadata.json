@@ -1,11 +1,11 @@
 {
   "name": "autumn-py",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "summary": "A Python SDK for Autumn's REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autumn_py-2.0.1.tar.gz",
-  "download_time": "2025-08-08T04:52:12.081752",
+  "download_filename": "autumn_py-2.1.1.tar.gz",
+  "download_time": "2025-08-09T06:35:46.743567",
   "package_url": "https://pypi.org/project/autumn-py/"
 }

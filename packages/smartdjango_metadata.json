@@ -1,0 +1,11 @@
+{
+  "name": "smartdjango",
+  "version": "4.1.0",
+  "summary": "fast Django app development",
+  "author": "Jyonn Liu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/Jyonn/SmartDjango",
+  "download_filename": "smartdjango-4.1.0.tar.gz",
+  "download_time": "2025-08-09T06:35:50.239522",
+  "package_url": "https://pypi.org/project/smartdjango/"
+}
