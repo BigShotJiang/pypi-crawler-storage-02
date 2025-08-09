@@ -1,0 +1,11 @@
+{
+  "name": "gitbotx",
+  "version": "0.1.1",
+  "summary": "A smart CLI tool to automate git workflows and suggest commands",
+  "author": "Parikshit Sonwane",
+  "license": null,
+  "home_page": "https://github.com/parikshit-06/gitbotx",
+  "download_filename": "gitbotx-0.1.1.tar.gz",
+  "download_time": "2025-08-09T20:45:22.720651",
+  "package_url": "https://pypi.org/project/gitbotx/"
+}

@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T20:28:14.403646
+- **Download Time**: 2025-08-09T20:46:04.158250
 - **Total Packages**: 84
-- **Total Size**: 17.56 MB
+- **Total Size**: 9.81 MB
 
 ## Packages List
+- tomegathericon-utils-exceptions
+- langchain-lean
+- adversary-mcp-server
+- rp
+- contextbase
+- mpflash
+- litai-research
+- gitbotx
+- ft8decoder
+- MaxBridge
+- check-tls
+- asyncgui-ext-queue
+- hanzo-net
+- urban-worm
+- fennec-asr
+- absbox
+- databathing
+- vhs-decode
+- parallel-web
+- docetl
+- nw-connections
+- harmonify-patcher
+- moneyball
+- run-snapshot-tests
+- browser-use-sdk
+- internetarchive-youtube
 - sportsball
 - qthvym
 - lasagna-ai
@@ -19,7 +45,6 @@
 - rxnn
 - kelp-coverage
 - ytmusic-deleter
-- rp
 - img2dataset
 - ledger-cli-toolkit
 - cjm-fasthtml-tailwind
@@ -31,7 +56,6 @@
 - PromptFileLoader
 - gdrive-suite
 - ntypo
-- MaxBridge
 - equitrcoder
 - omnipred
 - kpf
@@ -44,7 +68,6 @@
 - airbyte-source-convex
 - airbyte-source-faker
 - bullishpy
-- contextbase
 - edgar-httpx
 - emath
 - upgini
@@ -67,26 +90,3 @@
 - get-current-time-mcp
 - fastcrawl
 - docx-comments-to-text
-- periodic-table-cli
-- appserver-sdk-python-ai
-- markpub-themes
-- browser-use
-- faster-eth-abi
-- internetarchive-youtube
-- nix-shell
-- stockula
-- qis
-- arelle-release
-- GreenWorks
-- spykus
-- goofi
-- tacozip
-- metaspector
-- bernn
-- sage-deps
-- datavizhub
-- quantum-starter-lab
-- identify
-- zbq
-- stlog-fastapi-middlewares
-- ouroboros-gis
