@@ -1,11 +1,11 @@
 {
   "name": "velocity-python",
-  "version": "0.0.94",
+  "version": "0.0.95",
   "summary": "A rapid application development library for interfacing with data storage",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "velocity_python-0.0.94.tar.gz",
-  "download_time": "2025-08-08T19:53:43.923432",
+  "download_filename": "velocity_python-0.0.95.tar.gz",
+  "download_time": "2025-08-09T04:46:01.194987",
   "package_url": "https://pypi.org/project/velocity-python/"
 }

@@ -1,38 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T04:06:09.193923
-- **Total Packages**: 81
-- **Total Size**: 13.78 MB
+- **Download Time**: 2025-08-09T04:46:28.764333
+- **Total Packages**: 71
+- **Total Size**: 18.76 MB
 
 ## Packages List
+- nber-cli
+- batchtensor
+- OZI
+- mat3ra-made
+- buildzr
+- akshare-mcp-ikouhaha
+- tesseract-decoder
+- fabric-analytics-mcp
+- llmswap
+- autodoc-mcp
+- fxdc
+- nonebot-plugin-resolver2
+- chalkpy
+- kinglet
+- descartcan
+- revel
+- query-tables
+- passagemath-gap-pkg-jupyterkernel
+- mat3ra-esse
+- pex
+- velocity-python
+- fsmlite
+- intentkit
+- trmd
+- keras-nlp-nightly
+- keras-hub-nightly
+- zenoo-rpc
+- ggai
+- listpick
+- astroemperor
+- tnbsclean
+- chanmaster
+- orionis
+- cenplot
+- facu-weather-flow
+- fiftyone-devicedetection-onpremise
+- fiftyone-devicedetection
+- fiftyone-devicedetection-shared
+- fiftyone-devicedetection-cloud
+- chromedriver-binary
+- fmp-data
+- youtube-thumbnail-generator
+- typed-redis
+- pulumi-pagerduty
 - odoo-addons-oca-stock-logistics-workflow
 - logery
 - keras-nightly
 - odoo-addon-stock-return-request
-- chanmaster
 - odoo14-addon-stock-split-picking-kit
 - chik-rs
 - pulumi-confluentcloud
 - changelogbump
 - webamon-cli
-- llmswap
-- orionis
-- facu-weather-flow
 - publicsuffixlist
 - odoo-addon-tms
 - rpa-temu
-- tnbsclean
-- descartcan
 - odoo-addons-oca-social
 - cerbose
 - truss-transfer
-- listpick
-- pulumi-pagerduty
-- typed-redis
 - autohack-next
-- nonebot-plugin-resolver2
-- autodoc-mcp
 - tombi
 - pysodmetrics
 - eqnlint
@@ -44,46 +77,3 @@
 - dingent
 - ddb_single
 - snapcheck-cli
-- bakong-khqr
-- beswarm
-- odoo-addon-pos-session-pay-invoice
-- lazygit-py
-- strix-agent
-- forecasting-tools
-- odoo-addon-payroll-contract-advantages
-- syqlorix
-- HoloAI
-- odoo-addon-openupgrade-scripts
-- simple-lean-client
-- lean-server
-- easyorm-py
-- types-requests-oauthlib
-- types-docker
-- types-tqdm
-- types-hvac
-- types-tensorflow
-- types-JACK-Client
-- types-geopandas
-- types-WTForms
-- types-seaborn
-- types-fanstatic
-- types-Pygments
-- types-requests
-- types-jsonschema
-- types-Flask-Migrate
-- types-gevent
-- types-django-filter
-- types-fpdf2
-- types-cffi
-- types-bleach
-- types-icalendar
-- types-Flask-SocketIO
-- types-Flask-Cors
-- types-networkx
-- sdci
-- types-shapely
-- types-pycocotools
-- track-flow
-- types-paramiko
-- types-Authlib
-- types-hdbcli

@@ -1,0 +1,11 @@
+{
+  "name": "nber-cli",
+  "version": "0.1.4",
+  "summary": "A command-line tool to download NBER papers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nber_cli-0.1.4.tar.gz",
+  "download_time": "2025-08-09T04:45:50.036669",
+  "package_url": "https://pypi.org/project/nber-cli/"
+}
