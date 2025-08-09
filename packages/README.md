@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-09T21:23:35.590090
-- **Total Packages**: 80
-- **Total Size**: 19.86 MB
+- **Download Time**: 2025-08-09T21:43:53.222025
+- **Total Packages**: 76
+- **Total Size**: 3.68 MB
 
 ## Packages List
+- contextbase
+- embedding-reader
+- sparkfly
+- nlweb-org-py-utils
+- mcsrvstatus
+- dj-lite
+- traceroot
+- ytp-dl
+- torchio
+- lighthouse-observability-sdk
+- thoth-dbmanager
+- weavingspace
+- bear-epoch-time
+- qaravan
+- keywordsai
+- summarize-csv-file
+- torchvista
+- quantconnect-mcp
+- squidly
+- pyairbnb
+- deepfmkit
+- chattr
+- zpui-lib
+- metaspector
 - gdrive-suite
 - baynext-cli
 - arthur-client
@@ -18,13 +42,11 @@
 - slimformers
 - mcp-ambari-api
 - lingtaiAgent
-- mcsrvstatus
 - rest-filters
 - gradientvis
 - omnara
 - stratigrapy
 - mulch
-- summarize-csv-file
 - ft8decoder
 - trendsagi
 - fetchfox-sdk
@@ -33,7 +55,6 @@
 - khoj
 - jawanndenn
 - md-server
-- nlweb-org-py-utils
 - arthur-common
 - hanzo
 - joinly-client
@@ -53,7 +74,6 @@
 - langchain-lean
 - adversary-mcp-server
 - rp
-- contextbase
 - mpflash
 - litai-research
 - gitbotx
@@ -62,27 +82,3 @@
 - asyncgui-ext-queue
 - urban-worm
 - fennec-asr
-- absbox
-- databathing
-- vhs-decode
-- parallel-web
-- docetl
-- nw-connections
-- harmonify-patcher
-- moneyball
-- run-snapshot-tests
-- browser-use-sdk
-- internetarchive-youtube
-- sportsball
-- qthvym
-- lasagna-ai
-- velocity-python
-- pyprland
-- m24842-ml
-- polyfeatures
-- langswarm
-- elevenlabs
-- pwb-toolbox
-- rxnn
-- kelp-coverage
-- ytmusic-deleter

@@ -1,11 +1,11 @@
 {
   "name": "keywordsai",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A package that helps interacting with Keywords AI monitoring, evaluation & user analytics APIs",
   "author": "Raymond Huang",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "keywordsai-1.0.1.tar.gz",
-  "download_time": "2025-08-06T12:59:45.858036",
+  "download_filename": "keywordsai-1.0.3.tar.gz",
+  "download_time": "2025-08-09T21:43:17.604464",
   "package_url": "https://pypi.org/project/keywordsai/"
 }

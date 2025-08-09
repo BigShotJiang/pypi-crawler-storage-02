@@ -1,0 +1,11 @@
+{
+  "name": "lighthouse-observability-sdk",
+  "version": "3.2.3",
+  "summary": "A client library for accessing lighthouse",
+  "author": "lighthouse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lighthouse_observability_sdk-3.2.3.tar.gz",
+  "download_time": "2025-08-09T21:43:14.648537",
+  "package_url": "https://pypi.org/project/lighthouse-observability-sdk/"
+}
