@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T19:41:31.719943
-- **Total Packages**: 77
-- **Total Size**: 16.12 MB
+- **Download Time**: 2025-08-10T19:55:10.032228
+- **Total Packages**: 73
+- **Total Size**: 5.44 MB
 
 ## Packages List
+- tomldiary
+- optimalportfolios
+- civic-transparency-spec
+- rapidgzip
+- lark-util
+- sensory-data-client
+- gitai-tool
+- choix
+- django-python3-ldap
+- datagrok-api
+- twosquares
+- PyMemoryEditor
+- oke-mcp-server
 - microsoft-teams-mcp
 - silent-killers
 - grassmann-tensor
@@ -16,7 +29,6 @@
 - pynanomodem
 - demisto-sdk
 - scs
-- gitai-tool
 - passyunk
 - statzy
 - mcp-mesh
@@ -45,7 +57,6 @@
 - ipf
 - cs-models
 - pybirdsreynolds
-- civic-transparency-spec
 - p115client
 - ctm-pytorch-advi
 - kececilayout
@@ -68,18 +79,3 @@
 - fclpy
 - logsentinelai
 - justllms
-- pbipy
-- gammarers.aws-secure-frontend-web-app-cloudfront-distribution
-- moff-cli
-- circuit-synth
-- mlguardian
-- barangay
-- mcp-imgutils
-- selenium-web-automation-utils
-- chipfiring
-- ajlpypubtest
-- iss-now-sanjeet
-- crashlens
-- timbal
-- Aiology
-- sweepexp

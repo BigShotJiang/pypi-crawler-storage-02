@@ -1,0 +1,11 @@
+{
+  "name": "PyMemoryEditor",
+  "version": "1.5.24",
+  "summary": "Multi-platform library developed with ctypes for reading, writing and searching at process memory, in a simple and friendly way with Python 3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymemoryeditor-1.5.24.tar.gz",
+  "download_time": "2025-08-10T19:54:37.060372",
+  "package_url": "https://pypi.org/project/PyMemoryEditor/"
+}

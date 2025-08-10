@@ -1,0 +1,11 @@
+{
+  "name": "django-python3-ldap",
+  "version": "0.16.1",
+  "summary": "Django LDAP user authentication backend for Python 3.",
+  "author": "Dave Hall",
+  "license": "BSD",
+  "home_page": "https://github.com/etianen/django-python3-ldap",
+  "download_filename": "django_python3_ldap-0.16.1.tar.gz",
+  "download_time": "2025-08-10T19:54:35.134148",
+  "package_url": "https://pypi.org/project/django-python3-ldap/"
+}
