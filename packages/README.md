@@ -1,15 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T23:44:59.332364
-- **Total Packages**: 80
-- **Total Size**: 20.34 MB
+- **Download Time**: 2025-08-10T23:56:50.532317
+- **Total Packages**: 78
+- **Total Size**: 9.56 MB
 
 ## Packages List
+- koi-net
+- dsrnascan
+- formula-fantasy
+- mmif-docloc-baapb
+- soundevent
+- prestoplot
+- agenticmem
+- agenticmem-commons
+- odooss
 - signalblast
 - bfjira
 - wb-writeupbuilder
-- formula-fantasy
+- dextrades
 - medicafe
 - kfre
 - vkforge
@@ -18,7 +27,6 @@
 - SearchLibrium
 - maimai-py
 - nv-ingest-client
-- odooss
 - genie-partner-sdk
 - relationalai
 - ruru
@@ -76,13 +84,3 @@
 - nettracer3d
 - hanzo
 - py2be
-- domain-repository
-- plato-sdk
-- megadetector-utils
-- megadetector
-- promptlab
-- PEPit
-- ctrlstack
-- branch_storm
-- veri-agents-aiware
-- truss-transfer

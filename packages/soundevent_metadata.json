@@ -1,11 +1,11 @@
 {
   "name": "soundevent",
-  "version": "2.6.5",
+  "version": "2.7.0",
   "summary": "soundevent is an open-source Python package for the computational biocoustic community, providing standardized tools for sound event analysis and data management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soundevent-2.6.5.tar.gz",
-  "download_time": "2025-08-07T20:32:45.025636",
+  "download_filename": "soundevent-2.7.0.tar.gz",
+  "download_time": "2025-08-10T23:56:11.261273",
   "package_url": "https://pypi.org/project/soundevent/"
 }
