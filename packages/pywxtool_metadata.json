@@ -1,11 +1,11 @@
 {
   "name": "pywxtool",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "微信信息获取工具",
   "author": "xaoyaoo",
   "license": "MIT",
   "home_page": "https://github.com/xaoyaoo",
-  "download_filename": "pywxtool-1.0.3.tar.gz",
-  "download_time": "2025-08-07T17:56:33.623206",
+  "download_filename": "pywxtool-1.0.4.tar.gz",
+  "download_time": "2025-08-10T11:21:01.413088",
   "package_url": "https://pypi.org/project/pywxtool/"
 }

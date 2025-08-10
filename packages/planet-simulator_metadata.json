@@ -1,0 +1,11 @@
+{
+  "name": "planet-simulator",
+  "version": "0.1.2",
+  "summary": "A Lib that allowes the user create planets",
+  "author": "Davi Sena",
+  "license": "MIT",
+  "home_page": "https://github.com/DaviSenaLopesSacchetto/planet_simulator",
+  "download_filename": "planet_simulator-0.1.2.tar.gz",
+  "download_time": "2025-08-10T11:20:53.630963",
+  "package_url": "https://pypi.org/project/planet-simulator/"
+}

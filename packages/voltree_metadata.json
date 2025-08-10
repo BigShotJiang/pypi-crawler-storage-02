@@ -1,0 +1,11 @@
+{
+  "name": "voltree",
+  "version": "0.1.0",
+  "summary": "Create folder/file structures instantly using CLI commands",
+  "author": "volttome",
+  "license": null,
+  "home_page": "https://github.com/volttome/voltree",
+  "download_filename": "voltree-0.1.0.tar.gz",
+  "download_time": "2025-08-10T11:20:55.186905",
+  "package_url": "https://pypi.org/project/voltree/"
+}

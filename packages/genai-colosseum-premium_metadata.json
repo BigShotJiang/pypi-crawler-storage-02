@@ -1,11 +1,11 @@
 {
   "name": "genai-colosseum-premium",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genai_colosseum_premium-0.1.0.tar.gz",
-  "download_time": "2025-08-10T10:48:24.543771",
+  "download_filename": "genai_colosseum_premium-0.1.6.tar.gz",
+  "download_time": "2025-08-10T11:20:46.843919",
   "package_url": "https://pypi.org/project/genai-colosseum-premium/"
 }

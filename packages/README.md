@@ -1,13 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T10:49:05.660735
-- **Total Packages**: 92
-- **Total Size**: 2.58 MB
+- **Download Time**: 2025-08-10T11:21:16.827700
+- **Total Packages**: 65
+- **Total Size**: 20.14 MB
 
 ## Packages List
-- git-annex-remote-internxt
+- abstract-paths
+- appgen
+- redis-benchmarks-specification
+- foldifyai
+- trade-database-manager
+- rag-colls
+- maigret
+- pyinstrument
+- genai-colosseum-premium
+- gjt
+- gcn10py
+- django-formgen
+- tb-nightly
+- fastlette
+- archetypal-stubs
+- eppy-stubs
+- MzmcOSAPIPySDK
+- fastcorn
+- cryptshield
+- test-genie
+- git-copilot-commit
+- planet-simulator
+- abstract-clipit
+- pg-dbconnect
+- voltree
+- earnix-elevate
+- cc-validator
+- jipso
+- dehug
+- simple-dwd-weatherforecast
 - eric-sse
+- st-img-picker
+- metaspector
+- oold
+- Pygrister
+- pywxtool
+- vprikol
+- foundry-sdk
+- heap-tree
+- asknews
+- konduktor-nightly
+- autodoc-mcp
+- file-organizer-advanced
+- git-annex-remote-internxt
 - ncatbot
 - trainy-policy-nightly
 - bullishpy
@@ -19,7 +61,6 @@
 - twrapform
 - pipton
 - rust-timeseries
-- genai-colosseum-premium
 - mcp-code-indexer
 - bintang
 - gh_release_tools
@@ -30,71 +71,3 @@
 - pybirdsreynolds
 - langchain-anchorbrowser
 - GeoModelingZ
-- annex4risk-detector
-- jinsup-fast-ml
-- fatum
-- imouse-py
-- discord-py-utilities
-- baize
-- metaspector
-- mcp-server-jetour0094766-deepresearch
-- foldifyai
-- vartastorage
-- livekit-plugins-turn-detector
-- livekit-plugins-tavus
-- livekit-plugins-spitch
-- livekit-plugins-speechmatics
-- livekit-plugins-speechify
-- livekit-plugins-simli
-- livekit-plugins-silero
-- livekit-plugins-sarvam
-- livekit-plugins-rime
-- livekit-plugins-resemble
-- livekit-plugins-playai
-- livekit-plugins-openai
-- livekit-plugins-nltk
-- livekit-plugins-neuphonic
-- livekit-plugins-mistralai
-- livekit-plugins-minimal
-- livekit-plugins-lmnt
-- livekit-plugins-langchain
-- livekit-plugins-inworld
-- livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-google
-- livekit-plugins-gladia
-- livekit-plugins-fal
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws
-- livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- livekit-agents
-- jprint2
-- bridgecrew
-- redis-benchmarks-specification
-- dony
-- django-chelseru-chat
-- tocsmith
-- apscale
-- hilda
-- fluidize-sdk
-- chatbox-modelscope-sync-mcp
-- RiboParser
-- dagshub
-- CityLearn
-- termcap
-- checkov
-- kaia-phonix
-- kaia-avatar
-- kaia-grammatron
-- kaia-eaglesong
-- kaia-brainbox
