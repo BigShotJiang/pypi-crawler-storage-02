@@ -1,0 +1,11 @@
+{
+  "name": "featureflagshq",
+  "version": "1.0.0",
+  "summary": "A secure, high-performance Python SDK for FeatureFlagsHQ feature flag management",
+  "author": "FeatureFlagsHQ",
+  "license": "MIT",
+  "home_page": "https://github.com/featureflagshq/python-sdk",
+  "download_filename": "featureflagshq-1.0.0.tar.gz",
+  "download_time": "2025-08-10T22:24:04.862291",
+  "package_url": "https://pypi.org/project/featureflagshq/"
+}

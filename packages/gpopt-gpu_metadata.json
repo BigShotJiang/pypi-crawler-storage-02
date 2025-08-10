@@ -1,0 +1,11 @@
+{
+  "name": "gpopt-gpu",
+  "version": "1.0.0",
+  "summary": "A GPU-accelerated Genetic Programming library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpopt_gpu-1.0.0.tar.gz",
+  "download_time": "2025-08-10T22:24:03.818924",
+  "package_url": "https://pypi.org/project/gpopt-gpu/"
+}

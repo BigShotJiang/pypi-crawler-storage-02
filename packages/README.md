@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T21:56:05.042790
-- **Total Packages**: 74
-- **Total Size**: 12.64 MB
+- **Download Time**: 2025-08-10T22:24:24.362957
+- **Total Packages**: 82
+- **Total Size**: 13.38 MB
 
 ## Packages List
+- tarte-ai
+- free-deepl-translator
+- just-agents
+- fxtensor-salmon
+- just-agents-examples
+- just-agents-router
+- just-agents-web
+- just-agents-coding
+- just-agents-tools
+- just-agents-core
+- markdown-normalization
+- synimatic
+- branch_storm
+- pptxlib
+- conveyor-streaming
+- passcraft
+- veri-agents-aiware
+- ndice
+- xpawn
+- sshuttle
+- django-coolify
+- pympebm
+- ataraxis-automation
+- py2be
+- pbi-core
+- pylahman
+- Meez
+- holamundofranco-dfranco92
+- beswarm
+- odooss
+- Pytanis
+- pymoors
+- pyxtxt
+- qlib-py
+- trainerkit
+- proxy-file-parser
+- pydoll-python
+- mpy-cross-v5
+- shoestring-assembler
+- mpy-cross-v6
+- RubigramClient
+- mpy-cross-v6.1
+- gpopt-gpu
+- plato-sdk
+- featureflagshq
+- formula-fantasy
+- yaclog
+- abdwp
+- mpy-cross-v6.2
+- metaspector
+- logsentinelai
+- lt-tensor
+- gatenet
+- lt-utils
 - pref-voting
 - vhsh
 - determystic
@@ -21,15 +75,12 @@
 - PyPDFForm
 - easycoder
 - hanzo
-- pbi-core
 - hanzo-network
 - rest-tester
 - frame-search
-- yaclog
 - eqnlint
 - fennec-asr
 - spicelib
-- veri-agents-aiware
 - mrx-runway
 - aipyapp
 - mpy-cross-v6.3
@@ -37,46 +88,3 @@
 - supervaizer
 - deriva-ml
 - isnt-that-odd
-- free-deepl-translator
-- pydis_core
-- tidalapi
-- pyBIG
-- QGBx
-- pybirdsreynolds
-- sensory-data-client
-- circuit-synth
-- FigureForge
-- langswarm
-- dbt-fabric
-- csvdir
-- kiwisolver
-- ScriptCollection
-- coverage
-- msproteomics
-- RubigramClient
-- django-coolify
-- civic-transparency-spec
-- llmuxer
-- Starlette-Login
-- rest-filters
-- litai-research
-- textual-spinbox
-- tinyshare
-- flashinfer-python
-- mnt.bench
-- baisstools
-- py-multi-3xui
-- pchjlib
-- cpmpy
-- docassemble.demo
-- lark-util
-- legalvector-mcp
-- entity-query-language
-- utm-referrer-attribution-parser
-- replkit2
-- ProjectManagerSdk
-- radiate
-- refpy
-- undine
-- anima-dao
-- djlogq

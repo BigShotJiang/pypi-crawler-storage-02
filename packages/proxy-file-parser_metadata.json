@@ -1,0 +1,11 @@
+{
+  "name": "proxy-file-parser",
+  "version": "0.0.3",
+  "summary": "Библиотека для парсинга различных форматов прокси из файла",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxy_file_parser-0.0.3.tar.gz",
+  "download_time": "2025-08-10T22:24:00.178673",
+  "package_url": "https://pypi.org/project/proxy-file-parser/"
+}

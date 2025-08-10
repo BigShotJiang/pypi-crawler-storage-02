@@ -1,11 +1,11 @@
 {
   "name": "mpy-cross-v6.1",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Python wrapper for the mpy-cross tool from MicroPython.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpy_cross_v6_1-1.1.0.tar.gz",
-  "download_time": "2025-08-07T20:57:56.896562",
+  "download_filename": "mpy_cross_v6_1-1.1.1.tar.gz",
+  "download_time": "2025-08-10T22:24:03.299419",
   "package_url": "https://pypi.org/project/mpy-cross-v6.1/"
 }

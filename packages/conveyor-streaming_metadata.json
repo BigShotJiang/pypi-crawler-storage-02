@@ -1,0 +1,11 @@
+{
+  "name": "conveyor-streaming",
+  "version": "1.2.1",
+  "summary": "A Python library for streamlining asynchronous streaming tasks and pipelines.",
+  "author": "ju-bezdek",
+  "license": "MIT",
+  "home_page": "https://github.com/ju-bezdek/conveyor",
+  "download_filename": "conveyor_streaming-1.2.1.tar.gz",
+  "download_time": "2025-08-10T22:23:49.194658",
+  "package_url": "https://pypi.org/project/conveyor-streaming/"
+}
