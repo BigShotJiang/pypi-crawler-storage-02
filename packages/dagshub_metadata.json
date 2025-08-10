@@ -1,0 +1,11 @@
+{
+  "name": "dagshub",
+  "version": "0.6.3",
+  "summary": "DagsHub client libraries",
+  "author": "DagsHub",
+  "license": null,
+  "home_page": "https://github.com/DagsHub/client",
+  "download_filename": "dagshub-0.6.3.tar.gz",
+  "download_time": "2025-08-10T10:26:14.023285",
+  "package_url": "https://pypi.org/project/dagshub/"
+}

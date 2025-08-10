@@ -1,11 +1,11 @@
 {
   "name": "BoatBuddy",
-  "version": "0.15.9",
+  "version": "0.16.0",
   "summary": "A suite of tools to help collecting NMEA0183 and other marine metrics in a digital logbook format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boatbuddy-0.15.9.tar.gz",
-  "download_time": "2025-08-07T17:56:34.174921",
+  "download_filename": "boatbuddy-0.16.0.tar.gz",
+  "download_time": "2025-08-10T10:26:25.375496",
   "package_url": "https://pypi.org/project/BoatBuddy/"
 }

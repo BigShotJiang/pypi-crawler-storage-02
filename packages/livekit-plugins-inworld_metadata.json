@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-inworld",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Agent Framework plugin for voice synthesis with Inworld's API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_inworld-1.2.4.tar.gz",
-  "download_time": "2025-08-07T17:43:05.737571",
+  "download_filename": "livekit_plugins_inworld-1.2.5.tar.gz",
+  "download_time": "2025-08-10T10:25:57.539235",
   "package_url": "https://pypi.org/project/livekit-plugins-inworld/"
 }

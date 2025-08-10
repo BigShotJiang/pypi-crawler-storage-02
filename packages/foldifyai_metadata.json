@@ -1,11 +1,11 @@
 {
   "name": "foldifyai",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Tiny CLI to send FASTA files to foldify.ai",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "foldifyai-0.1.12.tar.gz",
-  "download_time": "2025-08-09T17:56:19.369037",
+  "download_filename": "foldifyai-0.1.13.tar.gz",
+  "download_time": "2025-08-10T10:25:47.101326",
   "package_url": "https://pypi.org/project/foldifyai/"
 }

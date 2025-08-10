@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-speechify",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Agent Framework plugin for voice synthesis with Speechify's API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_speechify-1.2.4.tar.gz",
-  "download_time": "2025-08-07T17:42:57.964341",
+  "download_filename": "livekit_plugins_speechify-1.2.5.tar.gz",
+  "download_time": "2025-08-10T10:25:50.211045",
   "package_url": "https://pypi.org/project/livekit-plugins-speechify/"
 }

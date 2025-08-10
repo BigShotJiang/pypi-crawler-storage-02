@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-aws",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "LiveKit Agents Plugin for services from AWS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_aws-1.2.4.tar.gz",
-  "download_time": "2025-08-07T17:43:13.525060",
+  "download_filename": "livekit_plugins_aws-1.2.5.tar.gz",
+  "download_time": "2025-08-10T10:26:05.228798",
   "package_url": "https://pypi.org/project/livekit-plugins-aws/"
 }

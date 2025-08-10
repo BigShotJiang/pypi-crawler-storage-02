@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-minimal",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Minimal plugin template for LiveKit Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_minimal-1.2.4.tar.gz",
-  "download_time": "2025-08-07T17:43:04.195330",
+  "download_filename": "livekit_plugins_minimal-1.2.5.tar.gz",
+  "download_time": "2025-08-10T10:25:56.006092",
   "package_url": "https://pypi.org/project/livekit-plugins-minimal/"
 }
