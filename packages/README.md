@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T09:46:01.416521
-- **Total Packages**: 80
-- **Total Size**: 8.8 MB
+- **Download Time**: 2025-08-10T09:57:40.164538
+- **Total Packages**: 78
+- **Total Size**: 0.31 MB
 
 ## Packages List
+- crypto-pandas
+- pyicer
+- portal-env
+- TelegramTextApp
+- meteora
+- bullishpy
+- generic-temperature-converter
+- microsoft-teams-mcp
+- casibase-python-sdk
+- caffeinism-utils
+- cogency
 - yunetas
 - simplecadapi
 - ties
@@ -19,8 +30,6 @@
 - agentize
 - mcp-ambari-api
 - singular-api-client
-- generic-temperature-converter
-- pyicer
 - satgs
 - fusionscript-stubs
 - lumigo-opentelemetry
@@ -34,14 +43,12 @@
 - pyezvizapi
 - zenodo-uploader
 - kittentts
-- TelegramTextApp
 - internal-rdbms
 - sokrates
 - tree-sitter-orca
 - alipay-sdk
 - kavo
 - redis-benchmarks-specification
-- bullishpy
 - geobox
 - wisest
 - trops
@@ -61,7 +68,6 @@
 - smart-rds-viewer
 - tbp-nightly
 - xprof-nightly
-- caffeinism-utils
 - webcheck-strings
 - ipilot
 - bruce-li-tc
@@ -78,11 +84,3 @@
 - DTS-CDD__Wdis
 - fluidize-sdk
 - databae
-- synimatic
-- winrm-mcp-server
-- emoji-bars
-- file-organizer-advanced
-- dvd-rw
-- voice-mode
-- toolcall
-- llms-txt-mcp
