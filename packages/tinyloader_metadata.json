@@ -1,11 +1,11 @@
 {
   "name": "tinyloader",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A minimalist multiprocessing data loader for tinygrad",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinyloader-0.1.4.tar.gz",
-  "download_time": "2025-08-10T07:43:04.672673",
+  "download_filename": "tinyloader-0.1.5.tar.gz",
+  "download_time": "2025-08-10T08:31:21.626463",
   "package_url": "https://pypi.org/project/tinyloader/"
 }
