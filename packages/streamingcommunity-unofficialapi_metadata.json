@@ -1,0 +1,11 @@
+{
+  "name": "streamingcommunity-unofficialapi",
+  "version": "4.0.0",
+  "summary": "A simple unofficial api for the italian StreamingCommunity website.",
+  "author": "BluTiger",
+  "license": "MIT",
+  "home_page": "https://github.com/Blu-Tiger/streamingcommunity-unofficialapi",
+  "download_filename": "streamingcommunity_unofficialapi-4.0.0.tar.gz",
+  "download_time": "2025-08-10T09:25:53.197886",
+  "package_url": "https://pypi.org/project/streamingcommunity-unofficialapi/"
+}

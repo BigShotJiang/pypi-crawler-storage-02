@@ -1,20 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T08:52:49.146159
-- **Total Packages**: 86
-- **Total Size**: 15.67 MB
+- **Download Time**: 2025-08-10T09:26:20.262107
+- **Total Packages**: 83
+- **Total Size**: 5.25 MB
 
 ## Packages List
-- llms-txt-mcp
+- bullishpy
+- django-approval-workflow
+- geobox
+- tree-sitter-orca
+- wisest
+- trops
+- ripple-down-rules
+- redis-benchmarks-specification
+- bdtariff
+- sportsref-nfl
+- gcj-rectify
+- dagshub-annotation-converter
+- depsdev
+- internal-rdbms
+- maite-datasets
+- x-pages-mcp
+- speed-analyzer
+- bayspec
+- mcp-git-commit-generator
+- Ryzenth
+- fast-gliner
+- smart-rds-viewer
+- tbp-nightly
+- caffeinism-utils
+- webcheck-strings
+- ipilot
+- bruce-li-tc
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- autogluon.features
+- streamingcommunity-unofficialapi
+- autogluon.core
+- autogluon.common
+- iec-api
 - heapyx
+- DTS-CDD__Wdis
+- fluidize-sdk
+- databae
+- synimatic
+- winrm-mcp-server
+- emoji-bars
+- file-organizer-advanced
+- dvd-rw
+- voice-mode
+- kittentts
+- toolcall
+- llms-txt-mcp
 - chesstools
 - svc-order-zxw
 - eqnlint
-- file-organizer-advanced
 - bridgecrew
 - langgraph-lite-cron
-- fast-gliner
 - tfp-nightly
 - track-flow
 - homeconnect-websocket
@@ -39,56 +84,8 @@
 - shrinkplz
 - cocapi
 - pywabot
-- depsdev
 - pycapcut
 - facu-weather-flow
 - topsy
 - sima-cli
 - mybmi
-- cryptonow-persian
-- bitemporal-timeseries
-- cheshire-sql
-- pipen-args
-- phenotypic
-- pyburn
-- database-mcp-server
-- tinui
-- metaspector
-- svr-tts
-- code-doc-gen
-- excelsior-fast
-- tinyloader
-- emoji-bars
-- pyglove
-- anima-dao
-- refpy
-- vpnflow
-- opencv-python-GUI
-- claude-proxy
-- openaivec
-- b24api
-- ai-mesh-sdk
-- coursemap
-- githubkit
-- drf-auth-kit
-- azampay-sdk-anga
-- parsehub
-- consenrich
-- pptxlib
-- cur-rules
-- termaconfig
-- netfend-waf-client
-- m_crawler
-- timetracker-csv
-- arcgis-scraper
-- abap-adt-py
-- api-logger
-- generic-temperature-converter
-- methodkit
-- rapidity
-- rhinomcp
-- vibeleftpad
-- kxy-framework
-- bvwx
-- lybase
-- accrete

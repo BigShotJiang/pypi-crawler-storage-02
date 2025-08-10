@@ -1,11 +1,11 @@
 {
   "name": "internal-rdbms",
-  "version": "0.1.34",
+  "version": "0.1.36",
   "summary": null,
   "author": "Ray",
   "license": null,
   "home_page": null,
-  "download_filename": "internal_rdbms-0.1.34.tar.gz",
-  "download_time": "2025-08-10T03:51:39.105745",
+  "download_filename": "internal_rdbms-0.1.36.tar.gz",
+  "download_time": "2025-08-10T09:25:42.364289",
   "package_url": "https://pypi.org/project/internal-rdbms/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "smart-rds-viewer",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "summary": "Your terminal companion for monitoring Amazon RDS instances with real-time data, pricing, and interactive insights!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smart_rds_viewer-0.1.14.tar.gz",
-  "download_time": "2025-08-06T05:34:31.869424",
+  "download_filename": "smart_rds_viewer-0.1.18.tar.gz",
+  "download_time": "2025-08-10T09:25:46.449087",
   "package_url": "https://pypi.org/project/smart-rds-viewer/"
 }

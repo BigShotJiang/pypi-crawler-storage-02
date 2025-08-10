@@ -1,0 +1,11 @@
+{
+  "name": "dagshub-annotation-converter",
+  "version": "0.1.12",
+  "summary": "Annotation converter between different formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagshub_annotation_converter-0.1.12.tar.gz",
+  "download_time": "2025-08-10T09:25:41.343086",
+  "package_url": "https://pypi.org/project/dagshub-annotation-converter/"
+}
