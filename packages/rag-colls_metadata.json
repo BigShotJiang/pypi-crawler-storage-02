@@ -1,11 +1,11 @@
 {
   "name": "rag-colls",
-  "version": "0.2.0.14",
+  "version": "0.2.0.15",
   "summary": "rag-colls - Implement recent advanced RAG techniques",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rag_colls-0.2.0.14.tar.gz",
-  "download_time": "2025-08-10T11:42:16.382346",
+  "download_filename": "rag_colls-0.2.0.15.tar.gz",
+  "download_time": "2025-08-10T15:44:44.189430",
   "package_url": "https://pypi.org/project/rag-colls/"
 }

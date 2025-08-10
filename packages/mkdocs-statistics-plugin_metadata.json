@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-statistics-plugin",
+  "version": "0.1.5",
+  "summary": "A MkDocs plugin that generate statistic data of a site",
+  "author": "TonyCrane",
+  "license": "MIT",
+  "home_page": "https://github.com/TonyCrane/mkdocs-statistics-plugin",
+  "download_filename": "mkdocs_statistics_plugin-0.1.5.tar.gz",
+  "download_time": "2025-08-10T15:44:50.429411",
+  "package_url": "https://pypi.org/project/mkdocs-statistics-plugin/"
+}

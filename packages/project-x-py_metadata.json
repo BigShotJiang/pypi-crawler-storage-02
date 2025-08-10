@@ -1,11 +1,11 @@
 {
   "name": "project-x-py",
-  "version": "3.1.1",
+  "version": "3.1.3",
   "summary": "High-performance Python SDK for futures trading with real-time WebSocket data, technical indicators, order management, and market depth analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "project_x_py-3.1.1.tar.gz",
-  "download_time": "2025-08-10T02:10:08.284914",
+  "download_filename": "project_x_py-3.1.3.tar.gz",
+  "download_time": "2025-08-10T15:44:46.269274",
   "package_url": "https://pypi.org/project/project-x-py/"
 }

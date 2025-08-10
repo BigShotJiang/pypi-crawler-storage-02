@@ -1,11 +1,11 @@
 {
   "name": "more-more-itertools",
-  "version": "0.1.20250809",
-  "summary": "Additions to more-itertools",
+  "version": "0.1.20250810.2",
+  "summary": "Additions to more-itertools: at_least_n() and at_most_n()",
   "author": "Dutcho",
   "license": null,
   "home_page": null,
-  "download_filename": "more_more_itertools-0.1.20250809.tar.gz",
-  "download_time": "2025-08-09T12:48:02.888901",
+  "download_filename": "more_more_itertools-0.1.20250810.2.tar.gz",
+  "download_time": "2025-08-10T15:44:45.225786",
   "package_url": "https://pypi.org/project/more-more-itertools/"
 }

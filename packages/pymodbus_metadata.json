@@ -1,11 +1,11 @@
 {
   "name": "pymodbus",
-  "version": "3.11.0",
+  "version": "3.11.1",
   "summary": "A fully featured modbus protocol stack in python",
   "author": "Galen Collins, Jan Iversen",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pymodbus-3.11.0.tar.gz",
-  "download_time": "2025-08-05T15:29:00.804690",
+  "download_filename": "pymodbus-3.11.1.tar.gz",
+  "download_time": "2025-08-10T15:44:41.547767",
   "package_url": "https://pypi.org/project/pymodbus/"
 }
