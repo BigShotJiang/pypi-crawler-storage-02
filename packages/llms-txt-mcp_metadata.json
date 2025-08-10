@@ -1,0 +1,11 @@
+{
+  "name": "llms-txt-mcp",
+  "version": "0.1.1",
+  "summary": "Lean MCP server for minimal-context docs via llms.txt",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llms_txt_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-10T08:52:04.600179",
+  "package_url": "https://pypi.org/project/llms-txt-mcp/"
+}

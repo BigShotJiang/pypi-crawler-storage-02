@@ -1,0 +1,11 @@
+{
+  "name": "cryptonow-persian",
+  "version": "0.3.0",
+  "summary": "Advanced crypto price getter with async, caching, Persian support",
+  "author": "SHAYAN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptonow_persian-0.3.0.tar.gz",
+  "download_time": "2025-08-10T08:52:24.731916",
+  "package_url": "https://pypi.org/project/cryptonow-persian/"
+}

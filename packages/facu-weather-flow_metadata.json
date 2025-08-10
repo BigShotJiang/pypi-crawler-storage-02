@@ -1,11 +1,11 @@
 {
   "name": "facu-weather-flow",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "ETL para extraer, transformar y cargar datos del clima en S3",
   "author": "Walter Facundo Vega",
   "license": null,
   "home_page": "https://github.com/facuvegaingenieer/weather-flow.git",
-  "download_filename": "facu_weather_flow-0.1.8.tar.gz",
-  "download_time": "2025-08-09T04:46:09.376968",
+  "download_filename": "facu_weather_flow-0.1.9.tar.gz",
+  "download_time": "2025-08-10T08:52:22.689727",
   "package_url": "https://pypi.org/project/facu-weather-flow/"
 }

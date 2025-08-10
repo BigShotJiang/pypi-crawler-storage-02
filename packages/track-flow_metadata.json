@@ -1,11 +1,11 @@
 {
   "name": "track-flow",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "ETL para extraer, transformar y cargar datos de charts de spotify en S3",
   "author": "Walter Facundo Vega",
   "license": "MIT",
   "home_page": "https://github.com/facuvegaingenieer/track-flow",
-  "download_filename": "track_flow-0.1.8.tar.gz",
-  "download_time": "2025-08-09T03:23:53.057104",
+  "download_filename": "track_flow-0.1.9.tar.gz",
+  "download_time": "2025-08-10T08:52:09.812232",
   "package_url": "https://pypi.org/project/track-flow/"
 }

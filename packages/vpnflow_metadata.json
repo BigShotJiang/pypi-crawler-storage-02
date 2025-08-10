@@ -1,0 +1,11 @@
+{
+  "name": "vpnflow",
+  "version": "1.0.1",
+  "summary": "VPN FLOW",
+  "author": "Michael R. Kisel",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "vpnflow-1.0.1.tar.gz",
+  "download_time": "2025-08-10T08:52:33.947774",
+  "package_url": "https://pypi.org/project/vpnflow/"
+}

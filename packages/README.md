@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T08:31:53.399442
-- **Total Packages**: 80
-- **Total Size**: 4.97 MB
+- **Download Time**: 2025-08-10T08:52:49.146159
+- **Total Packages**: 86
+- **Total Size**: 15.67 MB
 
 ## Packages List
+- llms-txt-mcp
+- heapyx
+- chesstools
+- svc-order-zxw
+- eqnlint
+- file-organizer-advanced
+- bridgecrew
+- langgraph-lite-cron
+- fast-gliner
+- tfp-nightly
+- track-flow
+- homeconnect-websocket
+- arshai
+- azpytools
+- bluer-ugv
+- mcp-server-dongjunqaq
+- json-repair
+- atomicshop
+- deepchecks-llm-client
+- markdown-to-confluence
+- newspy
+- deepeval
+- checkov
+- kuzu
+- bluer-sbc
+- aipyapp
+- bluer-objects
+- shapeio
+- shapeedit
+- trackshapeutils
+- shrinkplz
+- cocapi
+- pywabot
+- depsdev
+- pycapcut
+- facu-weather-flow
+- topsy
+- sima-cli
+- mybmi
+- cryptonow-persian
+- bitemporal-timeseries
+- cheshire-sql
+- pipen-args
+- phenotypic
+- pyburn
+- database-mcp-server
+- tinui
+- metaspector
+- svr-tts
+- code-doc-gen
+- excelsior-fast
+- tinyloader
+- emoji-bars
+- pyglove
+- anima-dao
+- refpy
+- vpnflow
 - opencv-python-GUI
 - claude-proxy
 - openaivec
@@ -15,21 +72,15 @@
 - githubkit
 - drf-auth-kit
 - azampay-sdk-anga
-- emoji-bars
-- eqnlint
 - parsehub
 - consenrich
 - pptxlib
-- chesstools
-- bluer-ugv
 - cur-rules
 - termaconfig
-- bluer-sbc
 - netfend-waf-client
 - m_crawler
 - timetracker-csv
 - arcgis-scraper
-- tinyloader
 - abap-adt-py
 - api-logger
 - generic-temperature-converter
@@ -41,48 +92,3 @@
 - bvwx
 - lybase
 - accrete
-- regvelo
-- obsidian-sticky-notes
-- mdict-rs
-- reqninja
-- commity
-- anima-dao
-- pyiso8583
-- microgpt
-- dipswitch-svg
-- pkscreener
-- mlforgex
-- dxtb
-- pg-dbconnect
-- pingsweeper
-- phenotypic
-- coldpack
-- tf-models-nightly
-- hahomematic
-- sde-sim-rs
-- streamlit-searchbox
-- streamlit-nightly
-- qwak-core
-- testapix
-- pomlock
-- windows-use
-- semantic-copycat-upmex
-- nexagen
-- roul
-- asks_request
-- harmonify-patcher
-- py7zz
-- python-cookietools
-- pytest-plugins
-- genomehouse
-- openai-usage
-- django-layui29
-- secxbrl
-- codegen-2
-- vibeisodd
-- Nazari-simplelibrary
-- freealg
-- simple-proxy
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- GluonixDesigner
