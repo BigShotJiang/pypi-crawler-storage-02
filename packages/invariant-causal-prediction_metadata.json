@@ -1,0 +1,11 @@
+{
+  "name": "invariant-causal-prediction",
+  "version": "0.1.1",
+  "summary": "Invariant Causal Prediction (ICP) for Python: causal predictor discovery via invariance across environments with confidence intervals and R-parity tests.",
+  "author": null,
+  "license": "GNU GENERAL PUBLIC LICENSE\n        \n        Version 2, June 1991\n        \n        Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n        51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA\n        \n        Everyone is permitted to copy and distribute verbatim copies\n        of this license document, but changing it is not allowed.\n        \n        Preamble\n        \n        The licenses for most software are designed to take away your freedom to share and change it. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change free software—to make sure the software is free for all its users. This General Public License applies to most of the Free Software Foundation's software and to any other program whose authors commit to using it. (Some other Free Software Foundation software is covered by the GNU Lesser General Public License instead.) You can apply it to your programs, too.\n        \n        END OF TERMS AND CONDITIONS\n        \n        How to Apply These Terms to Your New Programs ",
+  "home_page": null,
+  "download_filename": "invariant_causal_prediction-0.1.1.tar.gz",
+  "download_time": "2025-08-10T15:25:10.260140",
+  "package_url": "https://pypi.org/project/invariant-causal-prediction/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vsjetpack",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Full suite of filters, wrappers, and helper functions for filtering video using VapourSynth",
   "author": "Jaded Encoding Thaumaturgy",
   "license": null,
   "home_page": null,
-  "download_filename": "vsjetpack-0.6.0.tar.gz",
-  "download_time": "2025-08-07T21:26:30.818753",
+  "download_filename": "vsjetpack-0.6.1.tar.gz",
+  "download_time": "2025-08-10T15:24:59.869854",
   "package_url": "https://pypi.org/project/vsjetpack/"
 }

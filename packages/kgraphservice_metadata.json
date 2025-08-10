@@ -1,0 +1,11 @@
+{
+  "name": "kgraphservice",
+  "version": "0.0.8",
+  "summary": "KGraph Service",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/kgraphservice",
+  "download_filename": "kgraphservice-0.0.8.tar.gz",
+  "download_time": "2025-08-10T15:25:08.700843",
+  "package_url": "https://pypi.org/project/kgraphservice/"
+}

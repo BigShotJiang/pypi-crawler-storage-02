@@ -1,11 +1,11 @@
 {
   "name": "tacozip",
-  "version": "0.1.0",
-  "summary": "TACO ZIP: CIP64 (always ZIP64) writer with a fixed 64-byte ghost LFH",
+  "version": "0.2.0",
+  "summary": "Fast ZIP-like container with ghost metadata",
   "author": "Cesar Aybar",
   "license": null,
   "home_page": null,
-  "download_filename": "tacozip-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-08-09T19:53:57.056752",
+  "download_filename": "tacozip-0.2.0-cp310-cp310-macosx_11_0_universal2.whl",
+  "download_time": "2025-08-10T15:25:11.836514",
   "package_url": "https://pypi.org/project/tacozip/"
 }

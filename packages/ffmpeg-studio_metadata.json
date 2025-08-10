@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-studio",
+  "version": "0.0.15",
+  "summary": "FFmpeg Wrapper for Python",
+  "author": "Aman Raza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_studio-0.0.15.tar.gz",
+  "download_time": "2025-08-10T15:25:11.317160",
+  "package_url": "https://pypi.org/project/ffmpeg-studio/"
+}

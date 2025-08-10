@@ -1,12 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T14:57:40.397614
-- **Total Packages**: 88
-- **Total Size**: 10.32 MB
+- **Download Time**: 2025-08-10T15:25:35.853898
+- **Total Packages**: 84
+- **Total Size**: 15.03 MB
 
 ## Packages List
+- parquet-to-excel
+- django-api-explorer
+- torchrl-nightly
+- metron-tagger
+- matrice
+- pltr-cli
+- fxutil
+- python-roborock
+- mle-kit-mcp
+- evetech
+- flash-llm-rl
+- HippoRAG-Lite
+- data-contract-validator
+- lunary
+- openfl-nightly
+- vimania-uri-rs
+- sdss-archon
+- git-mcp-server
+- vsjetpack
+- compose-viz
+- dagster-slurm
+- graph-games-proto
+- ohdsi-cohort-schemas
+- litai-research
 - twill-throttle
+- xllamacpp
+- vartastorage
+- orka-reasoning
+- vibehowmanyrs
+- aiomysensors
+- pythresh
+- openlog
+- mqi-sspd-api
+- docstub
+- darkseid
+- kgraphservice
+- pybeans
+- annex4risk-detector
+- invariant-causal-prediction
+- easycoder
+- ffmpeg-studio
+- tacozip
+- ctrlstack
+- vibetrimleft
+- yica-yirage
+- tisit-keycloak-adapter
 - leafmap
 - python-snoo
 - dt-cli-tools
@@ -15,7 +60,6 @@
 - circuit-synth
 - dt-console
 - BioImageSuiteLite
-- matrice
 - asusrouter
 - sparkden
 - zwergetl-engine
@@ -28,7 +72,6 @@
 - tree-source-localization
 - homeconnect-websocket
 - pico-ioc
-- aiomysensors
 - certdeploy
 - tesseract-decoder
 - vibesum
@@ -42,55 +85,8 @@
 - mcp-beeper-texts
 - ynca
 - capture-hc
-- ctrlstack
 - pkdevtools
 - rupython
 - s3pathlib
 - yut
 - pypamguard
-- linux-gpt
-- feature-tdd-starter
-- pktai
-- qis
-- foamlib
-- httpxthrottlecache
-- m_crawler
-- annex4risk-detector
-- certapi
-- mcdis-rcon
-- django-rss-filter
-- DePass
-- bitcoin-safe-lib
-- django-daisy
-- mode-manager-mcp
-- spinmobile
-- slimformers
-- lda4microbiome
-- evetech
-- ciel
-- rusty-todo-md
-- quick-ml
-- OSCR-UI
-- orange3-salesforce
-- justllms
-- invisibleText
-- airflow-mcp-server
-- arshai
-- python-plus-tools
-- arclet-letoderea
-- inspect-ai
-- sqlformater
-- ddex-workbench
-- dhti-elixir-base
-- httpcore_request
-- ParticleAnalyzer
-- python-cookietools
-- salute
-- mcp-server-jetour0094766-deepresearch
-- futverse
-- STO-OSCR
-- graph-games-proto
-- jtable
-- mcp-server-dongjunqaq
-- data-contract-validator
-- nominal-api-protos

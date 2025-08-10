@@ -1,11 +1,11 @@
 {
   "name": "mqi-sspd-api",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "This is the official API of the MQI biasing box",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mqi_sspd_api-1.1.0.tar.gz",
-  "download_time": "2025-08-04T11:43:53.213328",
+  "download_filename": "mqi_sspd_api-1.2.0.tar.gz",
+  "download_time": "2025-08-10T15:25:07.142157",
   "package_url": "https://pypi.org/project/mqi-sspd-api/"
 }
