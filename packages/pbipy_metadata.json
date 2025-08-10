@@ -1,11 +1,11 @@
 {
   "name": "pbipy",
-  "version": "2.12.1",
+  "version": "2.13.0",
   "summary": "A Python Library for interacting with the Power BI Rest API.",
   "author": "Andrew Villazon",
   "license": "Apache 2.0",
   "home_page": "https://github.com/andrewvillazon/pbipy",
-  "download_filename": "pbipy-2.12.1.tar.gz",
-  "download_time": "2025-08-04T17:42:12.644698",
+  "download_filename": "pbipy-2.13.0.tar.gz",
+  "download_time": "2025-08-10T18:59:08.617017",
   "package_url": "https://pypi.org/project/pbipy/"
 }

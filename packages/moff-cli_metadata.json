@@ -1,11 +1,11 @@
 {
   "name": "moff-cli",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MOFF - Markdown Organization and Format Framework. A CLI tool for validating documentation structure.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moff_cli-0.3.0.tar.gz",
-  "download_time": "2025-08-10T14:23:10.217240",
+  "download_filename": "moff_cli-0.3.1.tar.gz",
+  "download_time": "2025-08-10T18:59:09.780077",
   "package_url": "https://pypi.org/project/moff-cli/"
 }

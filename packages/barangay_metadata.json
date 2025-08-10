@@ -1,11 +1,11 @@
 {
   "name": "barangay",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Nested dictionary of Philippine barangay. Updated as of 2025.",
   "author": "bendlikeabamboo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "barangay-0.1.1.tar.gz",
-  "download_time": "2025-08-09T12:47:22.677960",
+  "download_filename": "barangay-0.2.0.tar.gz",
+  "download_time": "2025-08-10T18:59:11.665049",
   "package_url": "https://pypi.org/project/barangay/"
 }

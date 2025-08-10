@@ -1,11 +1,11 @@
 {
   "name": "searchmind",
-  "version": "0.1.2",
-  "summary": "A simple Python wrapper for the Snapzion Search API.",
-  "author": "Niansuh",
+  "version": "0.1.4",
+  "summary": "A simple Python client for the Snapzion Search API, packaged as SearchMind.",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/your-username/searchmind",
-  "download_filename": "searchmind-0.1.2.tar.gz",
-  "download_time": "2025-08-10T18:33:23.569290",
+  "home_page": null,
+  "download_filename": "searchmind-0.1.4.tar.gz",
+  "download_time": "2025-08-10T18:59:05.575692",
   "package_url": "https://pypi.org/project/searchmind/"
 }

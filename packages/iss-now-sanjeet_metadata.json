@@ -1,0 +1,11 @@
+{
+  "name": "iss-now-sanjeet",
+  "version": "1.0.0",
+  "summary": "Fetch upcoming ISS passes for a location and helpers to notify users.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iss_now_sanjeet-1.0.0.tar.gz",
+  "download_time": "2025-08-10T18:59:16.290019",
+  "package_url": "https://pypi.org/project/iss-now-sanjeet/"
+}

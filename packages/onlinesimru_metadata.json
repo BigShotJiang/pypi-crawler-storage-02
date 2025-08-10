@@ -1,0 +1,11 @@
+{
+  "name": "onlinesimru",
+  "version": "2.1.3",
+  "summary": "Wrapper for automatic reception of SMS-messages by onlinesim.ru",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onlinesimru-2.1.3.tar.gz",
+  "download_time": "2025-08-10T18:59:01.221553",
+  "package_url": "https://pypi.org/project/onlinesimru/"
+}

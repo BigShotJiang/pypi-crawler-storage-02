@@ -1,11 +1,11 @@
 {
   "name": "vipaxel",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Collection of Dataframe helpers to plot and store data",
   "author": "Joe Shmo",
   "license": null,
   "home_page": null,
-  "download_filename": "vipaxel-0.1.5.tar.gz",
-  "download_time": "2025-08-10T17:44:14.547758",
+  "download_filename": "vipaxel-0.1.7.tar.gz",
+  "download_time": "2025-08-10T18:59:02.511230",
   "package_url": "https://pypi.org/project/vipaxel/"
 }
