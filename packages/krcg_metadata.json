@@ -1,11 +1,11 @@
 {
   "name": "krcg",
-  "version": "4.10",
+  "version": "4.11",
   "summary": "Library for VTES cards and TWDA.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krcg-4.10.tar.gz",
-  "download_time": "2025-08-09T17:44:34.049002",
+  "download_filename": "krcg-4.11.tar.gz",
+  "download_time": "2025-08-10T06:35:31.650176",
   "package_url": "https://pypi.org/project/krcg/"
 }

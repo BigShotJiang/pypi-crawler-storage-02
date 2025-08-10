@@ -1,11 +1,11 @@
 {
   "name": "icad-tone-detection",
-  "version": "2.8.1",
+  "version": "2.8.3",
   "summary": "A Python library for extracting scanner radio tones from scanner audio.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "icad_tone_detection-2.8.1.tar.gz",
-  "download_time": "2025-08-10T02:10:24.113999",
+  "download_filename": "icad_tone_detection-2.8.3.tar.gz",
+  "download_time": "2025-08-10T06:35:36.926915",
   "package_url": "https://pypi.org/project/icad-tone-detection/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mtrust-medical",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "M-TRUST: Bias detection and mitigation for medical AI",
-  "author": "Your Name",
+  "author": "Nasim Mahmud Nayan",
   "license": null,
-  "home_page": "https://github.com/yourusername/mtrust-medical",
-  "download_filename": "mtrust_medical-1.0.0.tar.gz",
-  "download_time": "2025-08-09T17:56:15.972014",
+  "home_page": "https://github.com/NMNayan57/mtrush_medical.git",
+  "download_filename": "mtrust_medical-1.0.1.tar.gz",
+  "download_time": "2025-08-10T06:35:41.176408",
   "package_url": "https://pypi.org/project/mtrust-medical/"
 }

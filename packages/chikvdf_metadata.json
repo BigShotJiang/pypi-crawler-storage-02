@@ -1,0 +1,11 @@
+{
+  "name": "chikvdf",
+  "version": "1.1.12",
+  "summary": "Chik vdf verification (wraps C++)",
+  "author": "Florin Chirica",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Chik-Network/chikvdf",
+  "download_filename": "chikvdf-1.1.12.tar.gz",
+  "download_time": "2025-08-10T06:35:28.372575",
+  "package_url": "https://pypi.org/project/chikvdf/"
+}

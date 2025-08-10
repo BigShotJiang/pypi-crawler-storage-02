@@ -1,0 +1,11 @@
+{
+  "name": "torchadversarial",
+  "version": "0.0.2",
+  "summary": null,
+  "author": "cat-claws",
+  "license": "MIT",
+  "home_page": "https://github.com/cat-claws/torchadversarial",
+  "download_filename": "torchadversarial-0.0.2.tar.gz",
+  "download_time": "2025-08-10T06:35:40.107906",
+  "package_url": "https://pypi.org/project/torchadversarial/"
+}

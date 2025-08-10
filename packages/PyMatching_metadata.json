@@ -1,0 +1,11 @@
+{
+  "name": "PyMatching",
+  "version": "2.3.0",
+  "summary": "A package for decoding quantum error correcting codes using minimum-weight perfect matching.",
+  "author": "Oscar Higgott and Craig Gidney",
+  "license": null,
+  "home_page": "https://github.com/oscarhiggott/PyMatching",
+  "download_filename": "pymatching-2.3.0.tar.gz",
+  "download_time": "2025-08-10T06:35:36.379180",
+  "package_url": "https://pypi.org/project/PyMatching/"
+}
