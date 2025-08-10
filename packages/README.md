@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T13:34:35.796216
-- **Total Packages**: 83
-- **Total Size**: 30.61 MB
+- **Download Time**: 2025-08-10T13:57:42.848405
+- **Total Packages**: 85
+- **Total Size**: 13.02 MB
 
 ## Packages List
+- rloop
+- linux-gpt
+- textshape
+- m24842-ml
+- lumera
+- nonebot-plugin-splatoon3-nso
+- netbox-better-templates
+- fabriq
+- orange3-salesforce
+- tensordict-nightly
+- airflow-mcp-plugin
+- spinmobile
+- md-server
+- otp-cli-utils
+- mcp-server-jetour0094766-deepresearch
+- libro-book
+- zut
+- lukhed-basic-utils
+- autodoc-mcp
+- evetech
+- backy-db
+- rigour
+- py-adtools
+- quick-ml
+- fbgemm-gpu-nightly-cpu
+- graph-games-proto
+- streamlit-hotkeys
+- pybirdsreynolds
+- minisynth
+- gpx2mesh
+- modelforge-finetuning
+- adiftools
+- litestar
+- eridanus-dep
+- nodeimage
+- django-daisy
+- gimmegit
 - bluer-sandbox
 - muni2wasm
-- evetech-oauth
 - munin-plot
 - commonroad-dataset-converter
 - CityLearn
@@ -16,7 +52,6 @@
 - debug-dojo
 - vellum-workflow-server
 - legit-api-client
-- mcp-server-jetour0094766-deepresearch
 - pyEdge-package-name-reservation-1
 - annex4risk-detector
 - hapless
@@ -25,7 +60,6 @@
 - TelegramTextApp
 - treblle
 - githubproj
-- airflow-mcp-plugin
 - shared-utils-ems
 - py-app-dev
 - schnauzer
@@ -56,36 +90,4 @@
 - jarvis-ai-assistant
 - jtable
 - makeslotprop
-- graph-games-proto
 - nonebot-plugin-alisten
-- jipso
-- claude-proxy
-- xlql
-- lunary
-- tronapihelper
-- supabase-pydantic
-- sde-sim-rs
-- math-build02
-- pmarlo
-- httpx_request
-- asks_request
-- inoyb
-- tensorcircuit-nightly
-- ma1522-linear-algebra
-- djson-form
-- bluer-sbc
-- rs-czsc
-- pybasemkit
-- s3-datakit
-- mclab
-- ddi-fw
-- capm
-- knot0-types
-- chainsaws
-- shareddata
-- pyairahome
-- robotframework-robocop
-- fatum
-- mode-manager-mcp
-- nmk-python
-- mlarena

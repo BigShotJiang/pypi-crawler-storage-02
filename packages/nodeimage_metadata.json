@@ -1,0 +1,11 @@
+{
+  "name": "nodeimage",
+  "version": "0.0.2",
+  "summary": "NodeImage Python CLI Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nodeimage-0.0.2.tar.gz",
+  "download_time": "2025-08-10T13:57:16.590886",
+  "package_url": "https://pypi.org/project/nodeimage/"
+}

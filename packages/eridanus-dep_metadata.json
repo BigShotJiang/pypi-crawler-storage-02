@@ -1,0 +1,11 @@
+{
+  "name": "eridanus-dep",
+  "version": "0.1.2",
+  "summary": "轻量化的onebot v11 sdk",
+  "author": "Alpherg",
+  "license": null,
+  "home_page": "https://github.com/avilliai/eridanus-dep",
+  "download_filename": "eridanus_dep-0.1.2.tar.gz",
+  "download_time": "2025-08-10T13:57:16.053003",
+  "package_url": "https://pypi.org/project/eridanus-dep/"
+}

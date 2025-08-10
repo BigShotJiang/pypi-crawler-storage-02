@@ -1,0 +1,11 @@
+{
+  "name": "evetech",
+  "version": "2.0.0",
+  "summary": "EVE Online ESI OAuth handler with multi-character support",
+  "author": "ratouney",
+  "license": null,
+  "home_page": "https://pypi.org/project/evetech",
+  "download_filename": "evetech-2.0.0.tar.gz",
+  "download_time": "2025-08-10T13:57:08.222833",
+  "package_url": "https://pypi.org/project/evetech/"
+}

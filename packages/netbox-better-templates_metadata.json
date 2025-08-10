@@ -1,0 +1,11 @@
+{
+  "name": "netbox-better-templates",
+  "version": "1.0.2",
+  "summary": "Adds some functionality to netbox templates and config render.",
+  "author": "Radin System",
+  "license": null,
+  "home_page": "https://github.com/radin-system/netbox-better-templates",
+  "download_filename": "netbox_better_templates-1.0.2.tar.gz",
+  "download_time": "2025-08-10T13:57:00.859293",
+  "package_url": "https://pypi.org/project/netbox-better-templates/"
+}
