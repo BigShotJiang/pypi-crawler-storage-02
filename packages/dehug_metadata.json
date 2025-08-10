@@ -1,11 +1,11 @@
 {
   "name": "dehug",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Decentralized Hugging Face - AI models and datasets from IPFS/Filecoin",
   "author": "DeHug Team",
   "license": null,
   "home_page": "https://github.com/olagold-hackxx/dehug",
-  "download_filename": "dehug-0.2.0.tar.gz",
-  "download_time": "2025-08-10T11:20:57.265804",
+  "download_filename": "dehug-0.2.2.tar.gz",
+  "download_time": "2025-08-10T17:21:25.560271",
   "package_url": "https://pypi.org/project/dehug/"
 }

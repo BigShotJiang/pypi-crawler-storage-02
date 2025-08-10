@@ -1,0 +1,11 @@
+{
+  "name": "hacs-utils",
+  "version": "0.4.1",
+  "summary": "External service integrations, utilities, and MCP server for HACS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hacs_utils-0.4.1.tar.gz",
+  "download_time": "2025-08-10T17:21:31.796380",
+  "package_url": "https://pypi.org/project/hacs-utils/"
+}

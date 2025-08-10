@@ -1,0 +1,11 @@
+{
+  "name": "docuver",
+  "version": "0.1.0",
+  "summary": "A meta tool for version control of Office documents (docx, xlsx, pptx, odt, ods, odp)",
+  "author": "Jabez Winston C",
+  "license": null,
+  "home_page": "https://github.com/jabezwinston/dcouver",
+  "download_filename": "docuver-0.1.0.tar.gz",
+  "download_time": "2025-08-10T17:21:22.959466",
+  "package_url": "https://pypi.org/project/docuver/"
+}

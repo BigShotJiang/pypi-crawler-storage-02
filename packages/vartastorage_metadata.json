@@ -1,11 +1,11 @@
 {
   "name": "vartastorage",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "VARTA Battery",
   "author": "edAndy",
   "license": "APACHE",
   "home_page": "http://github.com/vip0r/vartastorage",
-  "download_filename": "vartastorage-0.4.1.tar.gz",
-  "download_time": "2025-08-10T15:25:04.024230",
+  "download_filename": "vartastorage-0.4.2.tar.gz",
+  "download_time": "2025-08-10T17:21:25.041394",
   "package_url": "https://pypi.org/project/vartastorage/"
 }

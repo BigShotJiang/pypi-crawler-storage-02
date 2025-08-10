@@ -1,11 +1,11 @@
 {
   "name": "iss-pass-tracker",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Fetch upcoming ISS passes for a location and helpers to notify users.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iss_pass_tracker-0.1.0.tar.gz",
-  "download_time": "2025-08-10T15:57:18.155498",
+  "download_filename": "iss_pass_tracker-0.3.0.tar.gz",
+  "download_time": "2025-08-10T17:21:17.230898",
   "package_url": "https://pypi.org/project/iss-pass-tracker/"
 }

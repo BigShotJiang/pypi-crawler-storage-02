@@ -1,11 +1,11 @@
 {
   "name": "git-annex-remote-internxt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "git annex remote internxt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_annex_remote_internxt-0.1.4.tar.gz",
-  "download_time": "2025-08-10T10:48:17.410384",
+  "download_filename": "git_annex_remote_internxt-0.1.5.tar.gz",
+  "download_time": "2025-08-10T17:21:19.309138",
   "package_url": "https://pypi.org/project/git-annex-remote-internxt/"
 }
