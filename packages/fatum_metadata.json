@@ -1,11 +1,11 @@
 {
   "name": "fatum",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "A collection of code for Fatum.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fatum-4.0.0.tar.gz",
-  "download_time": "2025-08-10T10:48:32.095239",
+  "download_filename": "fatum-5.0.0.tar.gz",
+  "download_time": "2025-08-10T12:48:27.008373",
   "package_url": "https://pypi.org/project/fatum/"
 }

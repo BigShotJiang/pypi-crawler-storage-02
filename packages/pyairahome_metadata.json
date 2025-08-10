@@ -1,11 +1,11 @@
 {
   "name": "pyairahome",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python client for Aira Home, initially developed for Homeassistant",
   "author": "Invy55 (Marco)",
   "license": null,
   "home_page": "https://github.com/Invy55/pyairahome",
-  "download_filename": "pyairahome-0.1.4.tar.gz",
-  "download_time": "2025-08-09T23:25:57.442958",
+  "download_filename": "pyairahome-0.1.5.tar.gz",
+  "download_time": "2025-08-10T12:48:25.964149",
   "package_url": "https://pypi.org/project/pyairahome/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "curtainutils",
+  "version": "0.1.22",
+  "summary": "A utility package that can be used to upload data to a curtain backend server.",
+  "author": "Toan Phung",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "curtainutils-0.1.22.tar.gz",
+  "download_time": "2025-08-10T12:48:58.946079",
+  "package_url": "https://pypi.org/project/curtainutils/"
+}

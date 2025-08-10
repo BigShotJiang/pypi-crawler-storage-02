@@ -1,11 +1,11 @@
 {
   "name": "chainsaws",
-  "version": "0.0.152",
+  "version": "0.0.153",
   "summary": "CHAIN your backend with Simple AWS services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chainsaws-0.0.152.tar.gz",
-  "download_time": "2025-08-09T14:57:02.248867",
+  "download_filename": "chainsaws-0.0.153.tar.gz",
+  "download_time": "2025-08-10T12:48:24.917807",
   "package_url": "https://pypi.org/project/chainsaws/"
 }

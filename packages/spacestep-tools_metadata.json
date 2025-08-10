@@ -1,0 +1,11 @@
+{
+  "name": "spacestep-tools",
+  "version": "0.1.5",
+  "summary": "A flexible toolkit for managing Pipecat function tools with OpenAI-style metadata",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spacestep_tools-0.1.5.tar.gz",
+  "download_time": "2025-08-10T12:48:51.126562",
+  "package_url": "https://pypi.org/project/spacestep-tools/"
+}

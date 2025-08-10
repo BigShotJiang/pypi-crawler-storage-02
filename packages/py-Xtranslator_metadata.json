@@ -1,0 +1,11 @@
+{
+  "name": "py-Xtranslator",
+  "version": "0.1.0",
+  "summary": "Simple Python translation library using Google Translate unofficial API.",
+  "author": "ALI",
+  "license": null,
+  "home_page": "https://github.com/iTs-GoJo/py-Xtranslator",
+  "download_filename": "py_xtranslator-0.1.0.tar.gz",
+  "download_time": "2025-08-10T12:48:34.359001",
+  "package_url": "https://pypi.org/project/py-Xtranslator/"
+}

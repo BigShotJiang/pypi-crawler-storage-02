@@ -1,0 +1,11 @@
+{
+  "name": "tokenrouter",
+  "version": "1.0.0",
+  "summary": "Python SDK for TokenRouter - Intelligent LLM Routing API",
+  "author": "TokenRouter Team",
+  "license": "MIT",
+  "home_page": "https://github.com/tokenrouter/tokenrouter-python",
+  "download_filename": "tokenrouter-1.0.0.tar.gz",
+  "download_time": "2025-08-10T12:48:46.394236",
+  "package_url": "https://pypi.org/project/tokenrouter/"
+}

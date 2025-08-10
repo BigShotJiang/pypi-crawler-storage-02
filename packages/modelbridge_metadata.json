@@ -1,11 +1,11 @@
 {
   "name": "modelbridge",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Simple Multi-Provider LLM Gateway",
   "author": "Mohan Prakash",
   "license": "MIT",
   "home_page": "https://github.com/code-mohanprakash/modelbridge",
-  "download_filename": "modelbridge-0.1.6.tar.gz",
-  "download_time": "2025-08-10T11:54:13.814782",
+  "download_filename": "modelbridge-0.1.7.tar.gz",
+  "download_time": "2025-08-10T12:48:59.465511",
   "package_url": "https://pypi.org/project/modelbridge/"
 }

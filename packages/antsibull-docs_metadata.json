@@ -1,0 +1,11 @@
+{
+  "name": "antsibull-docs",
+  "version": "2.21.0",
+  "summary": "Tools for building Ansible documentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "antsibull_docs-2.21.0.tar.gz",
+  "download_time": "2025-08-10T12:48:48.476114",
+  "package_url": "https://pypi.org/project/antsibull-docs/"
+}
