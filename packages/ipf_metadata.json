@@ -1,0 +1,11 @@
+{
+  "name": "ipf",
+  "version": "1.9.1",
+  "summary": "The Information Publishing Framework",
+  "author": "Warren Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipf-1.9.1.tar.gz",
+  "download_time": "2025-08-10T19:22:02.879466",
+  "package_url": "https://pypi.org/project/ipf/"
+}

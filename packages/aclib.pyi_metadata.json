@@ -1,0 +1,11 @@
+{
+  "name": "aclib.pyi",
+  "version": "1.1.1",
+  "summary": "compile and pack python project to exe with pyd.",
+  "author": "AnsChaser",
+  "license": "MIT",
+  "home_page": "https://github.com/AnsChaser/aclib.pyi",
+  "download_filename": "aclib_pyi-1.1.1.tar.gz",
+  "download_time": "2025-08-10T19:22:10.192052",
+  "package_url": "https://pypi.org/project/aclib.pyi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "topsis-Mridul",
+  "version": "1.0.0",
+  "summary": "A Python implementation of the TOPSIS decision-making method",
+  "author": "Mridul Mahajan",
+  "license": "MIT",
+  "home_page": "https://github.com/mridulmahajan04/Topsis_Package/",
+  "download_filename": "topsis_mridul-1.0.0.tar.gz",
+  "download_time": "2025-08-10T19:22:00.783442",
+  "package_url": "https://pypi.org/project/topsis-Mridul/"
+}
