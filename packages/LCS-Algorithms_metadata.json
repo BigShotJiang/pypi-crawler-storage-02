@@ -1,0 +1,11 @@
+{
+  "name": "LCS-Algorithms",
+  "version": "0.1.0",
+  "summary": "A collection of LCS algorithms in Python",
+  "author": "Zeshan Khan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lcs_algorithms-0.1.0.tar.gz",
+  "download_time": "2025-08-10T11:54:09.968757",
+  "package_url": "https://pypi.org/project/LCS-Algorithms/"
+}

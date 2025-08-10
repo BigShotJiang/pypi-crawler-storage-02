@@ -1,0 +1,11 @@
+{
+  "name": "pocket-w3shi",
+  "version": "0.0.2",
+  "summary": "Demo package for PyPI publishing test",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/slvignesh05/pocket_w3shi",
+  "download_filename": "pocket_w3shi-0.0.2.tar.gz",
+  "download_time": "2025-08-10T11:54:13.266579",
+  "package_url": "https://pypi.org/project/pocket-w3shi/"
+}
