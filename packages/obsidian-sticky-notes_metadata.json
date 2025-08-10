@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-sticky-notes",
+  "version": "1.7.0",
+  "summary": "GTK/WebKit sticky notes that render the Obsidian Markdown file on Linux.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_sticky_notes-1.7.0.tar.gz",
+  "download_time": "2025-08-10T07:27:42.930321",
+  "package_url": "https://pypi.org/project/obsidian-sticky-notes/"
+}

@@ -1,21 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T07:00:18.912155
-- **Total Packages**: 78
-- **Total Size**: 3.85 MB
+- **Download Time**: 2025-08-10T07:28:27.504004
+- **Total Packages**: 77
+- **Total Size**: 33.92 MB
 
 ## Packages List
+- bvwx
+- lybase
+- accrete
+- regvelo
+- m_crawler
+- obsidian-sticky-notes
+- mdict-rs
+- reqninja
+- commity
+- anima-dao
+- pyiso8583
+- microgpt
+- dipswitch-svg
+- pkscreener
+- mlforgex
+- dxtb
+- pg-dbconnect
+- pingsweeper
+- phenotypic
+- coldpack
+- tf-models-nightly
+- hahomematic
+- sde-sim-rs
+- streamlit-searchbox
+- streamlit-nightly
+- qwak-core
+- testapix
+- pomlock
+- windows-use
+- parsehub
 - semantic-copycat-upmex
 - nexagen
 - roul
 - asks_request
 - harmonify-patcher
-- reqninja
 - py7zz
 - python-cookietools
 - pytest-plugins
-- anima-dao
 - genomehouse
 - openai-usage
 - django-layui29
@@ -28,10 +56,6 @@
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - GluonixDesigner
-- coldpack
-- commity
-- testapix
-- m_crawler
 - coshiota
 - polars-uuid
 - tidipy
@@ -51,7 +75,6 @@
 - lackey-mcp
 - chanmaster
 - vibeiseven
-- sde-sim-rs
 - PyMatching
 - icad-tone-detection
 - hxy-lib
@@ -60,27 +83,3 @@
 - financial-reports-generated-client
 - pyg-nightly
 - torchadversarial
-- bluer-ai
-- mtrust-medical
-- mtcli
-- InsideForest
-- casibase-python-sdk
-- gcn10py
-- bluer-journal
-- djblue.portal
-- chromakit
-- jipso
-- openapipy
-- determystic
-- ramifice
-- LLM00
-- ugtext-processor
-- wiz-trader
-- maleo-metadata
-- clovers-groupmate-waifu
-- abstract-paths
-- loglocal
-- pymexc
-- dagster-dify
-- py-ri-ufsc
-- that-depends

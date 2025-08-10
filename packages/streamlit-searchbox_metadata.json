@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-searchbox",
+  "version": "0.1.23",
+  "summary": "Autocomplete Searchbox",
+  "author": "m-wrzr",
+  "license": null,
+  "home_page": "https://github.com/m-wrzr/streamlit-searchbox",
+  "download_filename": "streamlit_searchbox-0.1.23.tar.gz",
+  "download_time": "2025-08-10T07:27:55.257308",
+  "package_url": "https://pypi.org/project/streamlit-searchbox/"
+}

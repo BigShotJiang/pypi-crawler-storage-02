@@ -1,0 +1,11 @@
+{
+  "name": "microgpt",
+  "version": "0.0.2",
+  "summary": "Lightweight GPT implementation designed for resource-constrained environments",
+  "author": "Wu Fuheng",
+  "license": "Apache 2",
+  "home_page": "https://github.com/henrywoo/microgpt",
+  "download_filename": "microgpt-0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-10T07:27:46.857634",
+  "package_url": "https://pypi.org/project/microgpt/"
+}

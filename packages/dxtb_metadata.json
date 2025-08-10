@@ -1,0 +1,11 @@
+{
+  "name": "dxtb",
+  "version": "0.3.0",
+  "summary": "Fully Differentiable Approach to Extended Tight Binding",
+  "author": "\"Sebastian Ehlert, Marvin Friede, Christian Hölzer\"",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/grimme-lab/dxtb",
+  "download_filename": "dxtb-0.3.0.tar.gz",
+  "download_time": "2025-08-10T07:27:49.457995",
+  "package_url": "https://pypi.org/project/dxtb/"
+}

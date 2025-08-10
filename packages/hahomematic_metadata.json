@@ -1,11 +1,11 @@
 {
   "name": "hahomematic",
-  "version": "2025.8.3",
+  "version": "2025.8.4",
   "summary": "Homematic interface for Home Assistant running on Python 3.",
   "author": null,
   "license": "MIT License",
   "home_page": "https://github.com/sukramj/hahomematic",
-  "download_filename": "hahomematic-2025.8.3.tar.gz",
-  "download_time": "2025-08-07T09:58:58.427865",
+  "download_filename": "hahomematic-2025.8.4.tar.gz",
+  "download_time": "2025-08-10T07:27:53.947211",
   "package_url": "https://pypi.org/project/hahomematic/"
 }

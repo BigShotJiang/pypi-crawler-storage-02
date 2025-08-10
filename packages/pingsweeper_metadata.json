@@ -1,0 +1,11 @@
+{
+  "name": "pingsweeper",
+  "version": "1.0.0",
+  "summary": "A tool for pinging subnets.",
+  "author": "Jacob Mackin",
+  "license": null,
+  "home_page": "https://github.com/jzmack/pingsweep",
+  "download_filename": "pingsweeper-1.0.0.tar.gz",
+  "download_time": "2025-08-10T07:27:50.894815",
+  "package_url": "https://pypi.org/project/pingsweeper/"
+}
