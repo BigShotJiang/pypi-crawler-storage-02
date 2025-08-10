@@ -1,11 +1,11 @@
 {
   "name": "axonode-chunker",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A semantic text chunking package for intelligent document processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axonode_chunker-0.1.2.tar.gz",
-  "download_time": "2025-08-06T11:57:51.642715",
+  "download_filename": "axonode_chunker-0.2.0.tar.gz",
+  "download_time": "2025-08-10T13:33:59.723645",
   "package_url": "https://pypi.org/project/axonode-chunker/"
 }

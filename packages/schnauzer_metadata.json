@@ -1,0 +1,11 @@
+{
+  "name": "schnauzer",
+  "version": "0.3.0",
+  "summary": "Visualize networkx graphs interactively in a web browser.",
+  "author": "Nico Bachmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "schnauzer-0.3.0.tar.gz",
+  "download_time": "2025-08-10T13:34:03.881990",
+  "package_url": "https://pypi.org/project/schnauzer/"
+}

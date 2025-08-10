@@ -1,0 +1,11 @@
+{
+  "name": "evetech-oauth",
+  "version": "1.0.0",
+  "summary": "EVE Online ESI OAuth handler with multi-character support",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": "https://github.com/ton-username/evetech-oauth",
+  "download_filename": "evetech_oauth-1.0.0.tar.gz",
+  "download_time": "2025-08-10T13:33:53.407021",
+  "package_url": "https://pypi.org/project/evetech-oauth/"
+}

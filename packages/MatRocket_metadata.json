@@ -1,0 +1,11 @@
+{
+  "name": "MatRocket",
+  "version": "0.10.18",
+  "summary": "MatRocket is a library for simulating rockets in MATLAB.",
+  "author": "Vilgot Lötberg",
+  "license": null,
+  "home_page": "https://github.com/spiggen/MatRocket",
+  "download_filename": "matrocket-0.10.18.tar.gz",
+  "download_time": "2025-08-10T13:34:10.883709",
+  "package_url": "https://pypi.org/project/MatRocket/"
+}

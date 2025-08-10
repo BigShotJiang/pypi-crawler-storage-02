@@ -1,0 +1,11 @@
+{
+  "name": "airflow-mcp-server",
+  "version": "0.8.0",
+  "summary": "MCP Server for Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_mcp_server-0.8.0.tar.gz",
+  "download_time": "2025-08-10T13:33:55.536684",
+  "package_url": "https://pypi.org/project/airflow-mcp-server/"
+}

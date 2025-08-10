@@ -1,0 +1,11 @@
+{
+  "name": "HippoRAG-Lite",
+  "version": "0.0.3",
+  "summary": "去除了HippoRAG2中的torch，vllm，甚至openai；完全由siliconflow api和本地cpu实现功能。",
+  "author": "inkink365",
+  "license": "MIT",
+  "home_page": "https://github.com/inkink365/HippoRAG-Lite",
+  "download_filename": "hipporag_lite-0.0.3.tar.gz",
+  "download_time": "2025-08-10T13:34:09.284439",
+  "package_url": "https://pypi.org/project/HippoRAG-Lite/"
+}

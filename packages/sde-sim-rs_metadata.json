@@ -1,11 +1,11 @@
 {
   "name": "sde-sim-rs",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Powerful and flexible stochastic differential equation (quasi) Monte-Carlo simulation library written in Rust with Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sde_sim_rs-0.1.2.tar.gz",
-  "download_time": "2025-08-10T07:27:54.584635",
+  "download_filename": "sde_sim_rs-0.2.0.tar.gz",
+  "download_time": "2025-08-10T13:34:22.866101",
   "package_url": "https://pypi.org/project/sde-sim-rs/"
 }
