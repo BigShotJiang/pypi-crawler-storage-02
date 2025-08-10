@@ -1,0 +1,11 @@
+{
+  "name": "sec-edgar-agentkit-smolagents",
+  "version": "0.1.0",
+  "summary": "SEC EDGAR agentkit for Hugging Face smolagents framework",
+  "author": "Stefano Amorelli",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "sec_edgar_agentkit_smolagents-0.1.0.tar.gz",
+  "download_time": "2025-08-10T20:57:51.030859",
+  "package_url": "https://pypi.org/project/sec-edgar-agentkit-smolagents/"
+}

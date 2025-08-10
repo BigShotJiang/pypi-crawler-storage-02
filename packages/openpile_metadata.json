@@ -1,0 +1,11 @@
+{
+  "name": "openpile",
+  "version": "1.0.2",
+  "summary": "Library for geotechnical pile calculations.",
+  "author": "Guillaume Melin",
+  "license": "GPLv3",
+  "home_page": "https://github.com/TchilDill/openpile",
+  "download_filename": "openpile-1.0.2.tar.gz",
+  "download_time": "2025-08-10T20:57:46.072837",
+  "package_url": "https://pypi.org/project/openpile/"
+}
