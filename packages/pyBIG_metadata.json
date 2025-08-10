@@ -1,11 +1,11 @@
 {
   "name": "pyBIG",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "A library for manipulating BIG format archives",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ClementJ18/pyBIG",
-  "download_filename": "pybig-0.6.1.tar.gz",
-  "download_time": "2025-08-10T10:26:20.232467",
+  "download_filename": "pybig-0.6.2.tar.gz",
+  "download_time": "2025-08-10T15:57:20.078340",
   "package_url": "https://pypi.org/project/pyBIG/"
 }

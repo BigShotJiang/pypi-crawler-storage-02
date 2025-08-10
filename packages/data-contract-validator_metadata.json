@@ -1,11 +1,11 @@
 {
   "name": "data-contract-validator",
-  "version": "1.0.1",
-  "summary": "Prevent production API breaks by validating data contracts between DBT models and API frameworks",
+  "version": "1.0.2",
+  "summary": "Adding pre-commit-fixes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "data_contract_validator-1.0.1.tar.gz",
-  "download_time": "2025-08-10T15:24:56.723642",
+  "download_filename": "data_contract_validator-1.0.2.tar.gz",
+  "download_time": "2025-08-10T15:57:30.344922",
   "package_url": "https://pypi.org/project/data-contract-validator/"
 }

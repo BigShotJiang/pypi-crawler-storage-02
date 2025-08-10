@@ -1,0 +1,11 @@
+{
+  "name": "sdss-basecam",
+  "version": "0.8.2",
+  "summary": "A base library for camera wrapping and actor.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdss_basecam-0.8.2.tar.gz",
+  "download_time": "2025-08-10T15:57:29.056023",
+  "package_url": "https://pypi.org/project/sdss-basecam/"
+}

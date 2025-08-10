@@ -1,11 +1,11 @@
 {
   "name": "x402-hpke",
-  "version": "0.1.0a1",
+  "version": "0.2.0a0",
   "summary": "Provider-agnostic HPKE envelope for the x402 spec. A utility for confidential, verifiable payment requests and receipts across untrusted intermediaries, using canonical AAD, optional sidecar projection, and cross-language (Python/Node) interoperability.",
   "author": "Tim Cotten",
   "license": "MIT",
   "home_page": "https://scrypted.ai",
-  "download_filename": "x402_hpke-0.1.0a1.tar.gz",
-  "download_time": "2025-08-09T13:33:27.592950",
+  "download_filename": "x402_hpke-0.2.0a0.tar.gz",
+  "download_time": "2025-08-10T15:57:16.434431",
   "package_url": "https://pypi.org/project/x402-hpke/"
 }

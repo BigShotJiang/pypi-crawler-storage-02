@@ -1,0 +1,11 @@
+{
+  "name": "sdss-lvmcam",
+  "version": "1.1.2",
+  "summary": "The package for lvmcam",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdss_lvmcam-1.1.2.tar.gz",
+  "download_time": "2025-08-10T15:57:25.911597",
+  "package_url": "https://pypi.org/project/sdss-lvmcam/"
+}
