@@ -1,0 +1,11 @@
+{
+  "name": "pushover-util",
+  "version": "1.2.0",
+  "summary": "Python-based helper library for interacting with the Pushover API.",
+  "author": "Matt Doyle",
+  "license": "MIT",
+  "home_page": "https://github.com/chief8192/pushover-util",
+  "download_filename": "pushover_util-1.2.0.tar.gz",
+  "download_time": "2025-08-10T20:27:18.674800",
+  "package_url": "https://pypi.org/project/pushover-util/"
+}

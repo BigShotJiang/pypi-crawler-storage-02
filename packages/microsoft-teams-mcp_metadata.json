@@ -1,11 +1,11 @@
 {
   "name": "microsoft-teams-mcp",
-  "version": "1.1.1",
+  "version": "1.1.6",
   "summary": "Microsoft Teams meeting scheduler MCP tool using Microsoft Graph API",
   "author": "Naveen Chowdary Aliveli",
   "license": null,
   "home_page": "https://github.com/alivnavc/Microsoft-Teams-Meetings-MCP-Server",
-  "download_filename": "microsoft_teams_mcp-1.1.1.tar.gz",
-  "download_time": "2025-08-10T19:40:51.803151",
+  "download_filename": "microsoft_teams_mcp-1.1.6.tar.gz",
+  "download_time": "2025-08-10T20:27:20.598184",
   "package_url": "https://pypi.org/project/microsoft-teams-mcp/"
 }

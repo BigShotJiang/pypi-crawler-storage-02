@@ -1,0 +1,11 @@
+{
+  "name": "approval-utilities",
+  "version": "15.1.0",
+  "summary": "Utilities for your production code that work well with approvaltests",
+  "author": "ApprovalTests Contributors",
+  "license": null,
+  "home_page": "https://github.com/approvals/ApprovalTests.Python",
+  "download_filename": "approval_utilities-15.1.0.tar.gz",
+  "download_time": "2025-08-10T20:27:32.598862",
+  "package_url": "https://pypi.org/project/approval-utilities/"
+}

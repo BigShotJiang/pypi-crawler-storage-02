@@ -1,11 +1,11 @@
 {
   "name": "choix",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Inference algorithms for models based on Luce's choice axiom.",
   "author": "Lucas Maystre",
   "license": null,
   "home_page": null,
-  "download_filename": "choix-0.4.0.tar.gz",
-  "download_time": "2025-08-10T19:54:34.496451",
+  "download_filename": "choix-0.4.1.tar.gz",
+  "download_time": "2025-08-10T20:27:23.175240",
   "package_url": "https://pypi.org/project/choix/"
 }
