@@ -1,11 +1,11 @@
 {
   "name": "fennec-asr",
-  "version": "1.0.7",
+  "version": "1.1.2",
   "summary": "Python SDK for the Fennec ASR API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fennec_asr-1.0.7.tar.gz",
-  "download_time": "2025-08-10T18:33:41.288369",
+  "download_filename": "fennec_asr-1.1.2.tar.gz",
+  "download_time": "2025-08-10T21:44:08.364282",
   "package_url": "https://pypi.org/project/fennec-asr/"
 }

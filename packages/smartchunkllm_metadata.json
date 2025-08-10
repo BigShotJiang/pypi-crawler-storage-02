@@ -1,0 +1,11 @@
+{
+  "name": "smartchunkllm",
+  "version": "0.1.4",
+  "summary": "Advanced Legal Document Semantic Chunking System",
+  "author": "SmartChunkLLM Team",
+  "license": "MIT",
+  "home_page": "https://github.com/smartchunkllm/smartchunkllm",
+  "download_filename": "smartchunkllm-0.1.4.tar.gz",
+  "download_time": "2025-08-10T21:44:08.963523",
+  "package_url": "https://pypi.org/project/smartchunkllm/"
+}

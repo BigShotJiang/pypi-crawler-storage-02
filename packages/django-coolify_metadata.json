@@ -1,11 +1,11 @@
 {
   "name": "django-coolify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Django integration for Coolify - easy deployment and management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_coolify-0.1.0.tar.gz",
-  "download_time": "2025-08-10T20:57:49.427786",
+  "download_filename": "django_coolify-0.1.1.tar.gz",
+  "download_time": "2025-08-10T21:44:25.159816",
   "package_url": "https://pypi.org/project/django-coolify/"
 }

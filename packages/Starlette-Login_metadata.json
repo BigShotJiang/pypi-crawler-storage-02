@@ -1,0 +1,11 @@
+{
+  "name": "Starlette-Login",
+  "version": "1.0.3",
+  "summary": "User session management for Starlette",
+  "author": "Jockerz",
+  "license": "MIT",
+  "home_page": "https://github.com/jockerz/starlette-login",
+  "download_filename": "starlette_login-1.0.3.tar.gz",
+  "download_time": "2025-08-10T21:44:27.229963",
+  "package_url": "https://pypi.org/project/Starlette-Login/"
+}

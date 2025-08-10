@@ -1,11 +1,11 @@
 {
   "name": "deriva-ml",
-  "version": "1.14.27",
+  "version": "1.14.28",
   "summary": "Utilities to simplify use of Dervia and Pandas to create reproducable ML pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deriva_ml-1.14.27.tar.gz",
-  "download_time": "2025-08-08T22:25:02.747796",
+  "download_filename": "deriva_ml-1.14.28.tar.gz",
+  "download_time": "2025-08-10T21:44:13.570427",
   "package_url": "https://pypi.org/project/deriva-ml/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "refpy",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Package for subsea pipelines and risers design in Python",
   "author": "ismael-ripoll",
-  "license": "GNU General Public License v3.0",
+  "license": "MIT License",
   "home_page": "https://github.com/refpy/refpy",
-  "download_filename": "refpy-0.1.18.tar.gz",
-  "download_time": "2025-08-10T08:52:33.438091",
+  "download_filename": "refpy-0.1.19.tar.gz",
+  "download_time": "2025-08-10T21:44:39.267563",
   "package_url": "https://pypi.org/project/refpy/"
 }

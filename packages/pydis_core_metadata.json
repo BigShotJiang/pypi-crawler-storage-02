@@ -1,0 +1,11 @@
+{
+  "name": "pydis_core",
+  "version": "11.7.0",
+  "summary": "PyDis core provides core functionality and utility to the bots of the Python Discord community.",
+  "author": "Python Discord",
+  "license": "MIT",
+  "home_page": "https://pythondiscord.com/",
+  "download_filename": "pydis_core-11.7.0.tar.gz",
+  "download_time": "2025-08-10T21:44:15.297817",
+  "package_url": "https://pypi.org/project/pydis_core/"
+}

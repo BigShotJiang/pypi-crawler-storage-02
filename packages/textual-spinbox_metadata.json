@@ -1,0 +1,11 @@
+{
+  "name": "textual-spinbox",
+  "version": "0.8.2",
+  "summary": "A simple spinbox widget for Textual",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_spinbox-0.8.2.tar.gz",
+  "download_time": "2025-08-10T21:44:28.833973",
+  "package_url": "https://pypi.org/project/textual-spinbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "legalvector-mcp",
+  "version": "1.0.2",
+  "summary": "Legal technology intelligence MCP server for Claude Desktop",
+  "author": "DocketLabs",
+  "license": "MIT",
+  "home_page": "https://github.com/docketlabs/LegalVector",
+  "download_filename": "legalvector_mcp-1.0.2.tar.gz",
+  "download_time": "2025-08-10T21:44:36.120127",
+  "package_url": "https://pypi.org/project/legalvector-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-multi-3xui",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "module for managing multiple 3x-ui panels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_multi_3xui-1.2.1.tar.gz",
-  "download_time": "2025-08-09T16:29:51.180588",
+  "download_filename": "py_multi_3xui-1.2.2.tar.gz",
+  "download_time": "2025-08-10T21:44:32.136451",
   "package_url": "https://pypi.org/project/py-multi-3xui/"
 }

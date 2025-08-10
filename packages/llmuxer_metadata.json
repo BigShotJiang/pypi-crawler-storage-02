@@ -1,0 +1,11 @@
+{
+  "name": "llmuxer",
+  "version": "0.1.0",
+  "summary": "Automatically find cheaper LLM alternatives while maintaining performance",
+  "author": "Mihir Ahuja",
+  "license": "MIT",
+  "home_page": "https://github.com/mihirahuja1/llmuxer",
+  "download_filename": "llmuxer-0.1.0.tar.gz",
+  "download_time": "2025-08-10T21:44:26.179791",
+  "package_url": "https://pypi.org/project/llmuxer/"
+}

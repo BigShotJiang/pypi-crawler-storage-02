@@ -1,11 +1,11 @@
 {
   "name": "pybirdsreynolds",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "pybirdsreynolds is a simulation of bird flocking behavior using Reynolds rules",
   "author": "thib1984",
   "license": "MIT",
   "home_page": "https://github.com/thib1984/pybirdsreynolds",
-  "download_filename": "pybirdsreynolds-1.0.3.tar.gz",
-  "download_time": "2025-08-10T21:23:16.376877",
+  "download_filename": "pybirdsreynolds-1.0.4.tar.gz",
+  "download_time": "2025-08-10T21:44:18.121021",
   "package_url": "https://pypi.org/project/pybirdsreynolds/"
 }

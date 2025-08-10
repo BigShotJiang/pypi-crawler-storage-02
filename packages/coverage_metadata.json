@@ -1,0 +1,11 @@
+{
+  "name": "coverage",
+  "version": "7.10.3",
+  "summary": "Code coverage measurement for Python",
+  "author": "Ned Batchelder and 243 others",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nedbat/coveragepy",
+  "download_filename": "coverage-7.10.3.tar.gz",
+  "download_time": "2025-08-10T21:44:23.519876",
+  "package_url": "https://pypi.org/project/coverage/"
+}
