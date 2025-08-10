@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-08-10T07:43:44.076940",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 0.39,
+  "download_time": "2025-08-10T07:54:47.116297",
+  "total_packages_downloaded": 79,
+  "total_size_mb": 6.92,
   "packages": [
+    "azampay-sdk-anga",
+    "emoji-bars",
+    "eqnlint",
+    "parsehub",
+    "consenrich",
+    "pptxlib",
+    "chesstools",
+    "bluer-ugv",
+    "cur-rules",
+    "termaconfig",
     "bluer-sbc",
     "netfend-waf-client",
     "m_crawler",
@@ -45,7 +55,6 @@
     "testapix",
     "pomlock",
     "windows-use",
-    "parsehub",
     "semantic-copycat-upmex",
     "nexagen",
     "roul",
@@ -72,14 +81,6 @@
     "darknet2any",
     "mulch",
     "excelsior-fast",
-    "hic-straw-ajg",
-    "chikvdf",
-    "biblocpal",
-    "academic-contacts",
-    "fromager",
-    "ai-edge-litert-nightly",
-    "krcg",
-    "soe-vinorm",
-    "arborsort"
+    "hic-straw-ajg"
   ]
 }

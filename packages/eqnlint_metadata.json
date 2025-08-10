@@ -1,11 +1,11 @@
 {
   "name": "eqnlint",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Audits LaTeX papers for units, dimensions, symbols, citations, context, opacity, and prose.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eqnlint-0.2.0.tar.gz",
-  "download_time": "2025-08-09T04:05:39.206764",
+  "download_filename": "eqnlint-0.2.1.tar.gz",
+  "download_time": "2025-08-10T07:54:06.906896",
   "package_url": "https://pypi.org/project/eqnlint/"
 }

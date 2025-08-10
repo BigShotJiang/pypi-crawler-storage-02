@@ -1,0 +1,11 @@
+{
+  "name": "termaconfig",
+  "version": "1.0.1",
+  "summary": "Create pretty representations of your configs",
+  "author": "Zentheon",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "termaconfig-1.0.1.tar.gz",
+  "download_time": "2025-08-10T07:54:10.526708",
+  "package_url": "https://pypi.org/project/termaconfig/"
+}
