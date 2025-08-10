@@ -1,0 +1,11 @@
+{
+  "name": "pyguievent",
+  "version": "0.0.7",
+  "summary": "A simple tool to create events to PySimpleGUI or FreeSimpleGUI",
+  "author": "yunluo",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/yunluo/pyguievent",
+  "download_filename": "pyguievent-0.0.7.tar.gz",
+  "download_time": "2025-08-10T02:10:18.071668",
+  "package_url": "https://pypi.org/project/pyguievent/"
+}

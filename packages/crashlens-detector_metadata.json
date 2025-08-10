@@ -1,11 +1,11 @@
 {
   "name": "crashlens-detector",
-  "version": "1.2.0",
+  "version": "1.5.0",
   "summary": "CLI to detect GPT token waste from Langfuse logs",
   "author": "Aditya Singh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crashlens_detector-1.2.0.tar.gz",
-  "download_time": "2025-08-04T19:53:04.810337",
+  "download_filename": "crashlens_detector-1.5.0.tar.gz",
+  "download_time": "2025-08-10T02:10:35.755747",
   "package_url": "https://pypi.org/project/crashlens-detector/"
 }

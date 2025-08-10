@@ -1,0 +1,11 @@
+{
+  "name": "vital-agent-container-sdk",
+  "version": "0.1.12",
+  "summary": "Vital Agent Container SDK",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/vital-agent-container-python",
+  "download_filename": "vital_agent_container_sdk-0.1.12.tar.gz",
+  "download_time": "2025-08-10T02:10:17.501440",
+  "package_url": "https://pypi.org/project/vital-agent-container-sdk/"
+}

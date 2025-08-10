@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-autotune",
+  "version": "1.0.2",
+  "summary": "Automatic 4x training speedup for PyTorch models",
+  "author": "Chinmay Shrivastava",
+  "license": "MIT",
+  "home_page": "https://github.com/JonSnow1807/pytorch-autotune",
+  "download_filename": "pytorch_autotune-1.0.2.tar.gz",
+  "download_time": "2025-08-10T02:10:15.174369",
+  "package_url": "https://pypi.org/project/pytorch-autotune/"
+}

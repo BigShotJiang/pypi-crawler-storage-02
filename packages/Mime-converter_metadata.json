@@ -1,0 +1,11 @@
+{
+  "name": "Mime-converter",
+  "version": "1.0.0",
+  "summary": "Converts mime to file extensions",
+  "author": "Jacob D",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mime_converter-1.0.0.tar.gz",
+  "download_time": "2025-08-10T02:10:41.547554",
+  "package_url": "https://pypi.org/project/Mime-converter/"
+}

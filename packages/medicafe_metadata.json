@@ -1,11 +1,11 @@
 {
   "name": "medicafe",
-  "version": "0.250809.0",
+  "version": "0.250810.5",
   "summary": "MediCafe",
   "author": "Daniel Vidaud",
   "license": "MIT",
   "home_page": "https://github.com/katanada2",
-  "download_filename": "medicafe-0.250809.0.tar.gz",
-  "download_time": "2025-08-09T06:35:28.038301",
+  "download_filename": "medicafe-0.250810.5.tar.gz",
+  "download_time": "2025-08-10T02:10:01.730484",
   "package_url": "https://pypi.org/project/medicafe/"
 }

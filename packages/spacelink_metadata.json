@@ -1,0 +1,11 @@
+{
+  "name": "spacelink",
+  "version": "0.1.6",
+  "summary": "Space link budget calculation package",
+  "author": "Jacob Portukalian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spacelink-0.1.6.tar.gz",
+  "download_time": "2025-08-10T02:10:05.797992",
+  "package_url": "https://pypi.org/project/spacelink/"
+}

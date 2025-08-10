@@ -1,0 +1,11 @@
+{
+  "name": "vital-ai-vitalsigns",
+  "version": "0.1.32",
+  "summary": "VitalSigns knowledge graph bindings",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/vital-vitalsigns-python",
+  "download_filename": "vital_ai_vitalsigns-0.1.32.tar.gz",
+  "download_time": "2025-08-10T02:10:27.013717",
+  "package_url": "https://pypi.org/project/vital-ai-vitalsigns/"
+}

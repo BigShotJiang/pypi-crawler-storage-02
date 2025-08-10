@@ -1,0 +1,11 @@
+{
+  "name": "lero-core",
+  "version": "0.3.0",
+  "summary": "LERO - LeRobot dataset Operations toolkit for editing and managing LeRobot datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lero_core-0.3.0.tar.gz",
+  "download_time": "2025-08-10T02:10:10.960283",
+  "package_url": "https://pypi.org/project/lero-core/"
+}
