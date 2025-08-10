@@ -1,11 +1,11 @@
 {
   "name": "hypixel_stats_bot",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "This project lets you quickly view any acount's Hypixel Stats for Bedwars, Skywars, and Slumber Hotel!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypixel_stats_bot-0.1.0.tar.gz",
-  "download_time": "2025-08-10T22:58:26.727496",
+  "download_filename": "hypixel_stats_bot-0.1.2.tar.gz",
+  "download_time": "2025-08-10T23:26:32.148621",
   "package_url": "https://pypi.org/project/hypixel_stats_bot/"
 }
