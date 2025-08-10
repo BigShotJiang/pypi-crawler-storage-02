@@ -1,0 +1,11 @@
+{
+  "name": "mpr",
+  "version": "1.33",
+  "summary": "Wrapper for MicroPython mpremote tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mpr-1.33.tar.gz",
+  "download_time": "2025-08-10T22:58:27.280484",
+  "package_url": "https://pypi.org/project/mpr/"
+}

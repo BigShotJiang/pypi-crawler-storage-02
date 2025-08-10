@@ -1,11 +1,11 @@
 {
   "name": "veri-agents-aiware",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Veritone Agents Toolkit: aiWARE-related tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "veri_agents_aiware-0.1.7.tar.gz",
-  "download_time": "2025-08-10T22:23:50.234742",
+  "download_filename": "veri_agents_aiware-0.1.8.tar.gz",
+  "download_time": "2025-08-10T22:58:43.506592",
   "package_url": "https://pypi.org/project/veri-agents-aiware/"
 }

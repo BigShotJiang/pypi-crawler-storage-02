@@ -1,0 +1,11 @@
+{
+  "name": "bleak",
+  "version": "1.1.0",
+  "summary": "Bluetooth Low Energy platform Agnostic Klient",
+  "author": "Henrik Blidh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bleak-1.1.0.tar.gz",
+  "download_time": "2025-08-10T22:58:33.488960",
+  "package_url": "https://pypi.org/project/bleak/"
+}

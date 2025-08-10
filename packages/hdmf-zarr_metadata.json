@@ -1,0 +1,11 @@
+{
+  "name": "hdmf-zarr",
+  "version": "0.11.3",
+  "summary": "A package defining a Zarr I/O backend for HDMF",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "hdmf_zarr-0.11.3.tar.gz",
+  "download_time": "2025-08-10T22:58:51.812590",
+  "package_url": "https://pypi.org/project/hdmf-zarr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "schutil",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A collection of utility functions",
   "author": "schuh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "schutil-0.0.3.tar.gz",
-  "download_time": "2025-08-10T02:10:40.404748",
+  "download_filename": "schutil-0.0.4.tar.gz",
+  "download_time": "2025-08-10T22:58:30.242158",
   "package_url": "https://pypi.org/project/schutil/"
 }
