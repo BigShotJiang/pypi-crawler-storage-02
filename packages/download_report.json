@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-08-10T15:58:03.866439",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 3.19,
+  "download_time": "2025-08-10T16:30:32.863125",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 8.14,
   "packages": [
+    "graph-games-proto",
+    "droidrun",
+    "UnOffical-TAGO-API",
+    "py-apple-books",
+    "data-contract-validator",
+    "oslislim",
     "cfbd",
     "rag-colls",
     "x402-hpke",
@@ -26,7 +32,6 @@
     "solarlog-cli",
     "sdss-basecam",
     "droid-metapatch",
-    "data-contract-validator",
     "fixedwidthfile",
     "boosty-downloader",
     "django-mercury-performance",
@@ -68,20 +73,12 @@
     "git-mcp-server",
     "vsjetpack",
     "compose-viz",
-    "graph-games-proto",
     "ohdsi-cohort-schemas",
     "litai-research",
     "twill-throttle",
     "xllamacpp",
     "vartastorage",
     "orka-reasoning",
-    "vibehowmanyrs",
-    "aiomysensors",
-    "pythresh",
-    "openlog",
-    "mqi-sspd-api",
-    "docstub",
-    "darkseid",
-    "kgraphservice"
+    "vibehowmanyrs"
   ]
 }
