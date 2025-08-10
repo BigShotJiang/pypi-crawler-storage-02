@@ -1,0 +1,11 @@
+{
+  "name": "reqninja",
+  "version": "1.0.0",
+  "summary": "ReqNinja - A Python package and CLI tool for API testing, automation, and debugging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reqninja-1.0.0.tar.gz",
+  "download_time": "2025-08-10T06:59:40.320907",
+  "package_url": "https://pypi.org/project/reqninja/"
+}

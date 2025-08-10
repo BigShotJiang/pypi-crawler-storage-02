@@ -1,0 +1,11 @@
+{
+  "name": "django-layui29",
+  "version": "0.4.4",
+  "summary": "django template based on layui2.9",
+  "author": "svtter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_layui29-0.4.4.tar.gz",
+  "download_time": "2025-08-10T06:59:43.977001",
+  "package_url": "https://pypi.org/project/django-layui29/"
+}
