@@ -1,11 +1,11 @@
 {
   "name": "DePass",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "DePass: a dual-enhanced graph learning framework for paired data integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depass-0.0.19.tar.gz",
-  "download_time": "2025-08-10T06:35:37.988944",
+  "download_filename": "depass-0.0.20.tar.gz",
+  "download_time": "2025-08-10T14:22:46.454716",
   "package_url": "https://pypi.org/project/DePass/"
 }

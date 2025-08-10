@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-jetour0094766-deepresearch",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "捷途实现类deepresearch功能的MCP工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_jetour0094766_deepresearch-0.3.7.tar.gz",
-  "download_time": "2025-08-10T13:57:05.115190",
+  "download_filename": "mcp_server_jetour0094766_deepresearch-0.3.8.tar.gz",
+  "download_time": "2025-08-10T14:23:01.881251",
   "package_url": "https://pypi.org/project/mcp-server-jetour0094766-deepresearch/"
 }
