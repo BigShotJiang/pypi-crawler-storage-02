@@ -1,0 +1,11 @@
+{
+  "name": "verse-interface",
+  "version": "0.0.33",
+  "summary": "Verse Inteface Components",
+  "author": "Verse",
+  "license": "MIT",
+  "home_page": "https://github.com/rapidverse/verse",
+  "download_filename": "verse_interface-0.0.33.tar.gz",
+  "download_time": "2025-08-10T18:33:33.486772",
+  "package_url": "https://pypi.org/project/verse-interface/"
+}

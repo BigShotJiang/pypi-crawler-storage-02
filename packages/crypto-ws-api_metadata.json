@@ -1,0 +1,11 @@
+{
+  "name": "crypto-ws-api",
+  "version": "2.1.2",
+  "summary": "Crypto WS API connector for ASYNC requests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crypto_ws_api-2.1.2.tar.gz",
+  "download_time": "2025-08-10T18:33:27.211539",
+  "package_url": "https://pypi.org/project/crypto-ws-api/"
+}

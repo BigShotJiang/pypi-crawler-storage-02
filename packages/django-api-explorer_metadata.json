@@ -1,11 +1,11 @@
 {
   "name": "django-api-explorer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A powerful command-line tool and web interface for discovering, documenting, and testing API endpoints in Django projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_api_explorer-1.0.3.tar.gz",
-  "download_time": "2025-08-10T16:30:21.309907",
+  "download_filename": "django_api_explorer-1.0.4.tar.gz",
+  "download_time": "2025-08-10T18:33:37.653377",
   "package_url": "https://pypi.org/project/django-api-explorer/"
 }

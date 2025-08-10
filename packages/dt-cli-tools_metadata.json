@@ -1,11 +1,11 @@
 {
   "name": "dt-cli-tools",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "summary": "Various CLIs created from dt-* packages",
   "author": "Al DAmico",
   "license": "MIT",
   "home_page": "https://github.com/JavaWiz1/dt-cli-tools",
-  "download_filename": "dt_cli_tools-0.1.35.tar.gz",
-  "download_time": "2025-08-10T14:56:55.781782",
+  "download_filename": "dt_cli_tools-0.1.36.tar.gz",
+  "download_time": "2025-08-10T18:33:49.170147",
   "package_url": "https://pypi.org/project/dt-cli-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "beets-mpd-utils",
-  "version": "0.3.1",
+  "version": "0.3.5",
   "summary": "Utilities for MPD integration with Beets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beets_mpd_utils-0.3.1.tar.gz",
-  "download_time": "2025-08-10T17:44:06.406415",
+  "download_filename": "beets_mpd_utils-0.3.5.tar.gz",
+  "download_time": "2025-08-10T18:33:32.968402",
   "package_url": "https://pypi.org/project/beets-mpd-utils/"
 }
