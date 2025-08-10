@@ -1,0 +1,11 @@
+{
+  "name": "module_dependency",
+  "version": "0.4.0",
+  "summary": "A dependency management tool for Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "module_dependency-0.4.0.tar.gz",
+  "download_time": "2025-08-10T05:05:39.091565",
+  "package_url": "https://pypi.org/project/module_dependency/"
+}
