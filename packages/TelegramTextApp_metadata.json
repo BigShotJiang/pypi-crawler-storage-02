@@ -1,11 +1,11 @@
 {
   "name": "TelegramTextApp",
-  "version": "0.6.8.1",
+  "version": "0.6.8.2",
   "summary": "Библиотека для создания текстовых приложений в telegram",
   "author": "falbue",
   "license": null,
   "home_page": "https://github.com/falbue/TelegramTextApp",
-  "download_filename": "telegramtextapp-0.6.8.1.tar.gz",
-  "download_time": "2025-08-09T19:23:12.141595",
+  "download_filename": "telegramtextapp-0.6.8.2.tar.gz",
+  "download_time": "2025-08-10T09:45:33.096255",
   "package_url": "https://pypi.org/project/TelegramTextApp/"
 }

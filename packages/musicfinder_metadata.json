@@ -1,0 +1,11 @@
+{
+  "name": "musicfinder",
+  "version": "1.0.0",
+  "summary": "A simple Python library for finding music and video with dowload link.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "musicfinder-1.0.0.tar.gz",
+  "download_time": "2025-08-10T09:45:28.244208",
+  "package_url": "https://pypi.org/project/musicfinder/"
+}

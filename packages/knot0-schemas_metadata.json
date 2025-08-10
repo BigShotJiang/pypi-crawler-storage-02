@@ -1,0 +1,11 @@
+{
+  "name": "knot0-schemas",
+  "version": "2.0.0",
+  "summary": "Knot0 JSON Schemas and validation (Python)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knot0_schemas-2.0.0.tar.gz",
+  "download_time": "2025-08-10T09:45:29.328601",
+  "package_url": "https://pypi.org/project/knot0-schemas/"
+}

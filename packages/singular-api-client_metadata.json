@@ -1,11 +1,11 @@
 {
   "name": "singular-api-client",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Helper Library to use Singular Reporting API",
   "author": "Singular Labs, Inc",
   "license": "Apache",
   "home_page": "https://github.com/singular-labs/singular_api_client/",
-  "download_filename": "singular_api_client-0.7.2.tar.gz",
-  "download_time": "2025-08-07T15:30:31.740483",
+  "download_filename": "singular_api_client-0.7.3.tar.gz",
+  "download_time": "2025-08-10T09:45:23.707113",
   "package_url": "https://pypi.org/project/singular-api-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fusionscript-stubs",
+  "version": "20.1",
+  "summary": "DaVinci Resolve Python API stubs",
+  "author": "Korney Czukowski",
+  "license": "MIT",
+  "home_page": "https://github.com/czukowski/fusionscript-stubs",
+  "download_filename": "fusionscript_stubs-20.1.tar.gz",
+  "download_time": "2025-08-10T09:45:25.916494",
+  "package_url": "https://pypi.org/project/fusionscript-stubs/"
+}

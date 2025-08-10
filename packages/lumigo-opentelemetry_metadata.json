@@ -1,11 +1,11 @@
 {
   "name": "lumigo-opentelemetry",
-  "version": "1.0.174",
+  "version": "1.0.175",
   "summary": "Lumigo OpenTelemetry Distribution for Python",
   "author": "Lumigo LTD (https://lumigo.io)",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/lumigo-io/opentelemetry-python-distro",
-  "download_filename": "lumigo_opentelemetry-1.0.174-py3-none-any.whl",
-  "download_time": "2025-08-05T05:32:36.866766",
+  "download_filename": "lumigo_opentelemetry-1.0.175-py3-none-any.whl",
+  "download_time": "2025-08-10T09:45:26.501433",
   "package_url": "https://pypi.org/project/lumigo-opentelemetry/"
 }

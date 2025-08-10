@@ -1,11 +1,11 @@
 {
   "name": "generic-temperature-converter",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.2",
+  "summary": "A simple and generic temperature converter CLI tool for converting between Celsius, Fahrenheit, and Kelvin.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "generic_temperature_converter-0.1.0.tar.gz",
-  "download_time": "2025-08-10T07:43:06.589278",
+  "download_filename": "generic_temperature_converter-0.1.2.tar.gz",
+  "download_time": "2025-08-10T09:45:24.217941",
   "package_url": "https://pypi.org/project/generic-temperature-converter/"
 }

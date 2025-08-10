@@ -1,0 +1,11 @@
+{
+  "name": "alipay-sdk",
+  "version": "2.0.0",
+  "summary": "AliPay Python SDK",
+  "author": "blackcat",
+  "license": "GNU",
+  "home_page": "https://github.com/block-cat/alipay_sdk",
+  "download_filename": "alipay_sdk-2.0.0.tar.gz",
+  "download_time": "2025-08-10T09:45:35.139187",
+  "package_url": "https://pypi.org/project/alipay-sdk/"
+}

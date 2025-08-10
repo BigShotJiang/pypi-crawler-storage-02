@@ -1,11 +1,11 @@
 {
   "name": "kavo",
-  "version": "0.3.0",
-  "summary": "Add your description here",
+  "version": "0.4.0",
+  "summary": "Key-value storage on top of LMDB for storing HTTP entries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kavo-0.3.0.tar.gz",
-  "download_time": "2025-08-09T19:41:04.360857",
+  "download_filename": "kavo-0.4.0.tar.gz",
+  "download_time": "2025-08-10T09:45:35.648548",
   "package_url": "https://pypi.org/project/kavo/"
 }
