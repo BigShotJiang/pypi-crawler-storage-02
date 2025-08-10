@@ -1,0 +1,11 @@
+{
+  "name": "capture-hc",
+  "version": "0.1.1",
+  "summary": "A simple, user-friendly Python client for sending events and traces to Honeycomb, with decorator support for timing and custom fields.",
+  "author": "Amit Singh Sansoya",
+  "license": null,
+  "home_page": "https://github.com/yourusername/capture_hc",
+  "download_filename": "capture_hc-0.1.1.tar.gz",
+  "download_time": "2025-08-10T14:45:41.632945",
+  "package_url": "https://pypi.org/project/capture-hc/"
+}

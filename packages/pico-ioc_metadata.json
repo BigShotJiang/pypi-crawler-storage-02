@@ -1,11 +1,11 @@
 {
   "name": "pico-ioc",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A minimalist, zero-dependency Inversion of Control (IoC) container for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pico_ioc-0.3.1.tar.gz",
-  "download_time": "2025-08-09T12:47:29.424980",
+  "download_filename": "pico_ioc-0.4.0.tar.gz",
+  "download_time": "2025-08-10T14:45:33.396444",
   "package_url": "https://pypi.org/project/pico-ioc/"
 }

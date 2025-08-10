@@ -1,0 +1,11 @@
+{
+  "name": "rupython",
+  "version": "1.3.2",
+  "summary": "Исполнитель кода Русского Питона",
+  "author": "Сообщество русских программистов",
+  "license": "ОДРН",
+  "home_page": null,
+  "download_filename": "rupython-1.3.2.tar.gz",
+  "download_time": "2025-08-10T14:45:43.175455",
+  "package_url": "https://pypi.org/project/rupython/"
+}

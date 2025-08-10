@@ -1,0 +1,11 @@
+{
+  "name": "certdeploy",
+  "version": "0.5.3",
+  "summary": "A tool to automatically sync certificates and update services.",
+  "author": "haxwithaxe",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/haxwithaxe/certdeploy/",
+  "download_filename": "certdeploy-0.5.3.tar.gz",
+  "download_time": "2025-08-10T14:45:34.423673",
+  "package_url": "https://pypi.org/project/certdeploy/"
+}

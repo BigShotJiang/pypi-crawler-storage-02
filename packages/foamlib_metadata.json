@@ -1,11 +1,11 @@
 {
   "name": "foamlib",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "summary": "A Python interface for interacting with OpenFOAM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "foamlib-1.1.3.tar.gz",
-  "download_time": "2025-08-08T19:41:39.018896",
+  "download_filename": "foamlib-1.1.5.tar.gz",
+  "download_time": "2025-08-10T14:45:47.300494",
   "package_url": "https://pypi.org/project/foamlib/"
 }

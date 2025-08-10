@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T14:23:28.083825
-- **Total Packages**: 79
-- **Total Size**: 25.4 MB
+- **Download Time**: 2025-08-10T14:46:17.773733
+- **Total Packages**: 87
+- **Total Size**: 9.28 MB
 
 ## Packages List
-- mcdis-rcon
+- homeconnect-websocket
+- pico-ioc
+- aiomysensors
+- certdeploy
+- tisit-keycloak-adapter
+- tesseract-decoder
+- vibesum
+- tempdataset
 - tinyshare
+- streetview
+- cml-mcp
+- dhisana
+- earningspy
+- fastapi-socketio-handler
+- mcp-beeper-texts
+- ynca
+- capture-hc
+- ctrlstack
+- pkdevtools
+- rupython
+- s3pathlib
+- yut
+- pypamguard
+- linux-gpt
+- feature-tdd-starter
+- pktai
+- qis
+- foamlib
+- httpxthrottlecache
+- m_crawler
+- annex4risk-detector
+- certapi
+- mcdis-rcon
 - django-rss-filter
 - DePass
 - bitcoin-safe-lib
@@ -19,7 +50,6 @@
 - evetech
 - ciel
 - rusty-todo-md
-- foamlib
 - quick-ml
 - OSCR-UI
 - orange3-salesforce
@@ -58,30 +88,8 @@
 - ultimate-python-upgrader
 - chatterbox-io
 - rloop
-- linux-gpt
 - textshape
 - lumera
 - nonebot-plugin-splatoon3-nso
 - netbox-better-templates
 - fabriq
-- tensordict-nightly
-- airflow-mcp-plugin
-- md-server
-- otp-cli-utils
-- libro-book
-- zut
-- lukhed-basic-utils
-- autodoc-mcp
-- backy-db
-- rigour
-- py-adtools
-- fbgemm-gpu-nightly-cpu
-- streamlit-hotkeys
-- pybirdsreynolds
-- minisynth
-- gpx2mesh
-- modelforge-finetuning
-- adiftools
-- litestar
-- eridanus-dep
-- nodeimage

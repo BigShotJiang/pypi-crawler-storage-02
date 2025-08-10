@@ -1,11 +1,11 @@
 {
   "name": "pypamguard",
-  "version": "1.0.0a2",
+  "version": "1.0.0",
   "summary": "A package for processing PAMGuard binary file outputs in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypamguard-1.0.0a2.tar.gz",
-  "download_time": "2025-08-06T04:50:59.530386",
+  "download_filename": "pypamguard-1.0.0.tar.gz",
+  "download_time": "2025-08-10T14:45:44.727587",
   "package_url": "https://pypi.org/project/pypamguard/"
 }
