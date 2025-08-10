@@ -1,11 +1,11 @@
 {
   "name": "giv",
-  "version": "0.5.10",
+  "version": "0.6.0",
   "summary": "Intelligent Git commit message and changelog generator powered by AI",
   "author": "fwdslsh",
   "license": "MIT",
   "home_page": "https://github.com/fwdslsh/giv",
-  "download_filename": "giv-0.5.10.tar.gz",
-  "download_time": "2025-08-10T04:45:34.021755",
+  "download_filename": "giv-0.6.0.tar.gz",
+  "download_time": "2025-08-10T05:41:58.371141",
   "package_url": "https://pypi.org/project/giv/"
 }

@@ -1,14 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T05:06:07.323965
-- **Total Packages**: 73
-- **Total Size**: 38.7 MB
+- **Download Time**: 2025-08-10T05:42:25.617997
+- **Total Packages**: 68
+- **Total Size**: 7.71 MB
 
 ## Packages List
+- clovers-groupmate-waifu
+- abstract-paths
+- loglocal
+- pymexc
+- dagster-dify
+- py-ri-ufsc
+- that-depends
+- DePass
+- hxy-lib
+- bluer-journal
+- pyrustor
+- libzrod
+- ai-creature-lang
+- lium-cli
+- toolcall
+- bluer-plugin
+- shopify-multipass-auth
+- pvevti
+- giv
+- complexint
+- gguf-connector
+- pylint-sort-functions
+- mkdocs-jupyterlite
+- robosystems-sdk
+- argos-translate-files
+- scsurv
+- pytest-pl-grader
+- ktoolkits
+- fauxgen
+- python-myutils
+- ramid-yelp-conn
 - m-crawler
 - kailash
-- clovers-groupmate-waifu
 - python-urlopen
 - kailash-dataflow
 - passagemath-rankwidth
@@ -16,7 +46,6 @@
 - passagemath-planarity
 - sinlib
 - passagemath-objects
-- lium-cli
 - passagemath-homfly
 - passagemath-graphs
 - passagemath-glpk
@@ -28,15 +57,10 @@
 - module_dependency
 - pyhelper-tools-jbhm
 - aiodabpumps
-- ugtext-processer
 - dpg-styleqs
 - not1mm
-- DePass
-- complexint
 - mlbi-datasets
-- mkdocs-jupyterlite
 - inoyb
-- abstract-paths
 - aegis-game
 - Navygram
 - japanese-address-parser-py
@@ -50,32 +74,3 @@
 - requests_request
 - bvwx
 - benchmark-runner
-- maleo-soma
-- picklescan
-- py7zz
-- signal-petrophysics
-- financial-reports-generated-client
-- cardy
-- rekordbox-bulk-edit
-- mysharelib
-- openbb-akshare
-- spyder-modelx
-- litai-research
-- lium-sdk
-- giv
-- memg-core
-- cloci
-- rbx.cp
-- spymx-kernels
-- chromedriver-binary
-- xloft
-- githubproj
-- xmodules
-- keras-nightly
-- weavingspace
-- datasetplus
-- murainbot
-- BAC0
-- leann-core
-- leann-backend-hnsw
-- leann-backend-diskann

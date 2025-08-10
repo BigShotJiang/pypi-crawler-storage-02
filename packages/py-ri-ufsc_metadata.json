@@ -1,0 +1,11 @@
+{
+  "name": "py-ri-ufsc",
+  "version": "0.9",
+  "summary": "Program designed to handle searches in metadata stored in UFSC Institutional Repository",
+  "author": "Igor Caetano de Souza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_ri_ufsc-0.9.tar.gz",
+  "download_time": "2025-08-10T05:41:51.654121",
+  "package_url": "https://pypi.org/project/py-ri-ufsc/"
+}

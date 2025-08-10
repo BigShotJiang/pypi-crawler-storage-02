@@ -1,11 +1,11 @@
 {
   "name": "pyrustor",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "A high-performance Python code parsing and refactoring tool written in Rust",
   "author": null,
   "license": null,
   "home_page": "https://github.com/loonghao/PyRustor",
-  "download_filename": "pyrustor-0.1.18.tar.gz",
-  "download_time": "2025-08-04T03:57:39.838339",
+  "download_filename": "pyrustor-0.1.19.tar.gz",
+  "download_time": "2025-08-10T05:41:54.232743",
   "package_url": "https://pypi.org/project/pyrustor/"
 }

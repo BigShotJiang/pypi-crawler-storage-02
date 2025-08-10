@@ -1,11 +1,11 @@
 {
   "name": "pymexc",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "summary": "Unofficial python library for interacting with the MEXC crypto exchange",
   "author": "abuztrade",
   "license": "MIT",
   "home_page": "https://github.com/makarworld/pymexc.git",
-  "download_filename": "pymexc-1.2.11.tar.gz",
-  "download_time": "2025-08-09T13:55:03.884097",
+  "download_filename": "pymexc-1.2.12.tar.gz",
+  "download_time": "2025-08-10T05:41:50.629648",
   "package_url": "https://pypi.org/project/pymexc/"
 }
