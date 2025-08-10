@@ -1,16 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T17:21:49.576501
-- **Total Packages**: 72
-- **Total Size**: 24.85 MB
+- **Download Time**: 2025-08-10T17:44:43.555350
+- **Total Packages**: 69
+- **Total Size**: 2.25 MB
 
 ## Packages List
+- MignonFramework
+- beets-mpd-utils
+- greenflash
+- iss-pass-tracker
+- md-server
+- pdf-pycrack
+- dagster-slurm
+- dt-console
+- orionis
+- extract-video-frame
+- mcp-ambari-api
+- lieme
+- gammarers.aws-secure-log-bucket
+- zapgpt
+- gradboard
+- matrice
+- vipaxel
+- solveig
+- py-shell-runner
+- zenodotos
+- megarnucleusx13
+- ynab-unlinked
+- pdf-tools-mcp
 - busylight-for-humans
 - anima-dao
-- gradboard
 - graph-games-proto
-- orionis
 - zwergetl-components-aws-s3
 - sca2d
 - krcg
@@ -19,14 +40,11 @@
 - wsignals
 - agent-as-code
 - surquest-utils-appstoreconnect-analyticsreports
-- extract-video-frame
-- iss-pass-tracker
 - finsolvepy
 - iSponsorBlockTV
 - brigid
 - git-annex-remote-internxt
 - Pytanis
-- beets-mpd-utils
 - dao-treasury
 - processamento-imagens-ahaerdy
 - mcp-git-commit-generator
@@ -34,7 +52,6 @@
 - docuver
 - fastapi-socketio-handler
 - ncpy
-- dagster-slurm
 - vartastorage
 - dehug
 - restcall
@@ -58,23 +75,3 @@
 - listele-Esat-cpu
 - listele
 - rectified-flow-pytorch
-- mcp-graphql
-- xrfm
-- hacs-cli
-- hacs-tools
-- hacs-registry
-- hacs-persistence
-- hacs-core
-- hacs-infrastructure
-- crisp-python
-- liman-signal-processing
-- lmms-lean-runner
-- lean-server
-- lean-runner
-- django-chelseru
-- chalkpy
-- pycync
-- qwak-core
-- escudeiro
-- gammarers.aws-secure-bucket
-- TypeTreeGeneratorAPI

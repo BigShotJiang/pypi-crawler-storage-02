@@ -1,11 +1,11 @@
 {
   "name": "py-shell-runner",
-  "version": "0.1.0.dev2",
+  "version": "0.1.0.dev3",
   "summary": "Python for shell scripting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_shell_runner-0.1.0.dev2.tar.gz",
-  "download_time": "2025-08-10T10:26:20.743232",
+  "download_filename": "py_shell_runner-0.1.0.dev3.tar.gz",
+  "download_time": "2025-08-10T17:44:15.608155",
   "package_url": "https://pypi.org/project/py-shell-runner/"
 }
