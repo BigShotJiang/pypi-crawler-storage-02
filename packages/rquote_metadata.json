@@ -1,11 +1,11 @@
 {
   "name": "rquote",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Mostly day quotes of cn/hk/us/fund/future markets, side with quote list fetch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rquote-0.3.0.tar.gz",
-  "download_time": "2025-08-04T17:03:37.767296",
+  "download_filename": "rquote-0.3.1.tar.gz",
+  "download_time": "2025-08-10T03:51:32.444830",
   "package_url": "https://pypi.org/project/rquote/"
 }

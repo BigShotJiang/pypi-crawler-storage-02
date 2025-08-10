@@ -1,11 +1,11 @@
 {
   "name": "mulch",
-  "version": "0.2.25",
-  "summary": "Pythonic Typer CLI for bootstrapping standard and templated workspaces. Controlled per-directory using `.mulch/mulch.toml`. Stealth options available for directories shared between dev and non-dev folk.",
+  "version": "0.2.31",
+  "summary": "Pythonic Typer CLI for bootstrapping standard and templated workspaces and projects. Generate introspective sourcecode workspace_manager.py Path quarterback. Controlled per-directory scaffolds using the mulch.toml file. Stealth options available for directories shared between dev and non-dev team members.",
   "author": "George Clayton Bennett",
   "license": null,
   "home_page": null,
-  "download_filename": "mulch-0.2.25.tar.gz",
-  "download_time": "2025-08-10T02:09:59.866870",
+  "download_filename": "mulch-0.2.31.tar.gz",
+  "download_time": "2025-08-10T03:51:44.747829",
   "package_url": "https://pypi.org/project/mulch/"
 }

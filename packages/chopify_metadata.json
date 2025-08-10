@@ -1,0 +1,11 @@
+{
+  "name": "chopify",
+  "version": "1.0.0",
+  "summary": "Chopify your words.",
+  "author": "Adonis",
+  "license": null,
+  "home_page": "https://github.com/adondonis/chopify",
+  "download_filename": "chopify-1.0.0.tar.gz",
+  "download_time": "2025-08-10T03:51:50.919767",
+  "package_url": "https://pypi.org/project/chopify/"
+}

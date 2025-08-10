@@ -1,11 +1,11 @@
 {
   "name": "typed-redis",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Pydantic Models for Redis",
   "author": "Julien Kmec",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typed_redis-0.0.4.tar.gz",
-  "download_time": "2025-08-09T04:05:35.620524",
+  "download_filename": "typed_redis-0.0.6.tar.gz",
+  "download_time": "2025-08-10T03:51:48.339915",
   "package_url": "https://pypi.org/project/typed-redis/"
 }

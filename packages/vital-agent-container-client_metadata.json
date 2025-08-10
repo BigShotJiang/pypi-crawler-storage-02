@@ -1,0 +1,11 @@
+{
+  "name": "vital-agent-container-client",
+  "version": "0.0.6",
+  "summary": "Vital Agent Container Client",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/vital-agent-container-client",
+  "download_filename": "vital_agent_container_client-0.0.6.tar.gz",
+  "download_time": "2025-08-10T03:51:43.212007",
+  "package_url": "https://pypi.org/project/vital-agent-container-client/"
+}

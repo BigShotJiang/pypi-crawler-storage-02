@@ -1,11 +1,11 @@
 {
   "name": "signal-petrophysics",
-  "version": "0.0.1b30",
+  "version": "0.0.1b31",
   "summary": "Library to handle reading, analysing and plotting Well-Log Pattern Recognition algorithms from Signal-Processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "signal_petrophysics-0.0.1b30.tar.gz",
-  "download_time": "2025-08-08T17:45:38.596977",
+  "download_filename": "signal_petrophysics-0.0.1b31.tar.gz",
+  "download_time": "2025-08-10T03:51:38.592371",
   "package_url": "https://pypi.org/project/signal-petrophysics/"
 }
