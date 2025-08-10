@@ -1,0 +1,11 @@
+{
+  "name": "vibeleftpad",
+  "version": "0.1.0",
+  "summary": "AI-powered left padding library that uses GPT to pad strings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibeleftpad-0.1.0.tar.gz",
+  "download_time": "2025-08-10T07:43:09.412271",
+  "package_url": "https://pypi.org/project/vibeleftpad/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arcgis-scraper",
+  "version": "0.0.1b0",
+  "summary": "Placeholder package to reserve the name",
+  "author": "Peter Grønbæk Andersen",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/pgroenbaek/arcgis-scraper",
+  "download_filename": "arcgis_scraper-0.0.1b0-py3-none-any.whl",
+  "download_time": "2025-08-10T07:43:03.966131",
+  "package_url": "https://pypi.org/project/arcgis-scraper/"
+}
