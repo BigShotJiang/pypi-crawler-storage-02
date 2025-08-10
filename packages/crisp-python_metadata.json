@@ -1,0 +1,11 @@
+{
+  "name": "crisp-python",
+  "version": "1.2.2",
+  "summary": "Simple python interface to control robots that use crisp_controllers and other ROS2 components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crisp_python-1.2.2.tar.gz",
+  "download_time": "2025-08-10T16:52:17.933384",
+  "package_url": "https://pypi.org/project/crisp-python/"
+}

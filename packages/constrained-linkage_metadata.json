@@ -1,0 +1,11 @@
+{
+  "name": "constrained-linkage",
+  "version": "0.1.2",
+  "summary": "Hierarchical agglomerative clustering with soft constraints (SciPy-compatible Z).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "constrained_linkage-0.1.2.tar.gz",
+  "download_time": "2025-08-10T16:52:14.972519",
+  "package_url": "https://pypi.org/project/constrained-linkage/"
+}

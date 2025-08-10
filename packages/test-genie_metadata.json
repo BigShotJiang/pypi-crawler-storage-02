@@ -1,11 +1,11 @@
 {
   "name": "test-genie",
-  "version": "0.1.9",
-  "summary": "CLI tool to auto-generate test cases from your code",
+  "version": "1.0.0",
+  "summary": "AI-Powered Test Case Generation for Developers",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "test_genie-0.1.9.tar.gz",
-  "download_time": "2025-08-10T11:20:52.589835",
+  "download_filename": "test_genie-1.0.0.tar.gz",
+  "download_time": "2025-08-10T16:52:28.177755",
   "package_url": "https://pypi.org/project/test-genie/"
 }

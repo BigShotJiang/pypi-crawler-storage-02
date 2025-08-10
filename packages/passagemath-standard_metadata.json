@@ -1,11 +1,11 @@
 {
   "name": "passagemath-standard",
-  "version": "10.6.2",
+  "version": "10.6.3",
   "summary": "passagemath: Standard Python Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_standard-10.6.2-py3-none-any.whl",
-  "download_time": "2025-08-08T15:33:44.775087",
+  "download_filename": "passagemath_standard-10.6.3.tar.gz",
+  "download_time": "2025-08-10T16:53:01.919655",
   "package_url": "https://pypi.org/project/passagemath-standard/"
 }

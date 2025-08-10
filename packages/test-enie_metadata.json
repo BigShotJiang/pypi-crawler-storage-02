@@ -1,0 +1,11 @@
+{
+  "name": "test-enie",
+  "version": "0.2.1",
+  "summary": "CLI tool to auto-generate test cases for your code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_enie-0.2.1.tar.gz",
+  "download_time": "2025-08-10T16:52:34.016908",
+  "package_url": "https://pypi.org/project/test-enie/"
+}

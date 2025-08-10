@@ -1,11 +1,11 @@
 {
   "name": "claude-proxy",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A production-ready Claude API proxy server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_proxy-0.7.0.tar.gz",
-  "download_time": "2025-08-10T14:56:56.820245",
+  "download_filename": "claude_proxy-0.8.0.tar.gz",
+  "download_time": "2025-08-10T16:52:31.644869",
   "package_url": "https://pypi.org/project/claude-proxy/"
 }
