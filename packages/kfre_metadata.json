@@ -1,0 +1,11 @@
+{
+  "name": "kfre",
+  "version": "0.1.14",
+  "summary": "A Python library for estimating kidney failure risk using the KFRE model developed by Tangri et al.",
+  "author": "Leonid Shpaner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kfre-0.1.14.tar.gz",
+  "download_time": "2025-08-10T23:44:19.904113",
+  "package_url": "https://pypi.org/project/kfre/"
+}
