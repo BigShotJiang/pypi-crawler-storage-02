@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-mcplayer-render",
+  "version": "1.0.3",
+  "summary": "正版玩家信息查询与皮肤渲染",
+  "author": "Polaris_Light",
+  "license": "MIT",
+  "home_page": "https://github.com/GLDYM/nonebot-plugin-mcplayer-render",
+  "download_filename": "nonebot_plugin_mcplayer_render-1.0.3.tar.gz",
+  "download_time": "2025-08-10T04:45:46.458239",
+  "package_url": "https://pypi.org/project/nonebot-plugin-mcplayer-render/"
+}
