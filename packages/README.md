@@ -1,27 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T20:58:29.769558
-- **Total Packages**: 76
-- **Total Size**: 4.46 MB
+- **Download Time**: 2025-08-10T21:23:44.741529
+- **Total Packages**: 70
+- **Total Size**: 1.01 MB
 
 ## Packages List
-- openpile
-- togrill-bluetooth
-- ezbeq
-- QGBx
-- civic-transparency-spec
-- anthraleia-pytgcalls
-- django-coolify
-- tarte-ai
-- vibelib
-- sec-edgar-agentkit-smolagents
-- sonolus.py
-- tencentcloud-sdk-python-tsf
-- tencentcloud-sdk-python-mariadb
-- tencentcloud-sdk-python-faceid
-- tencentcloud-sdk-python-essbasic
-- tencentcloud-sdk-python-ess
 - tencentcloud-sdk-python-dlc
 - tencentcloud-sdk-python-common
 - tencentcloud-sdk-python-cls
@@ -32,6 +16,7 @@
 - beswarm
 - pyelapse
 - AdeptML
+- anthraleia-pytgcalls
 - phoney
 - rubpy
 - tencentcloud-sdk-python-intl-en
@@ -74,6 +59,7 @@
 - hanzo
 - dbt-toolbox
 - hanzo-network
+- civic-transparency-spec
 - logsentinelai
 - tabstruct
 - approvaltests-minimal
@@ -82,3 +68,11 @@
 - lukhed-sports
 - trtruntime
 - falyx
+- pchjlib
+- sec-edgar-toolkit
+- circuit-synth
+- tomldiary
+- enzymetk
+- abdo-dev-innvb
+- GreenWorks
+- cml-mcp
