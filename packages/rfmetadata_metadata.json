@@ -1,0 +1,11 @@
+{
+  "name": "rfmetadata",
+  "version": "1.0.0",
+  "summary": "RF MetaData Displayer",
+  "author": "Iso",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "rfmetadata-1.0.0.tar.gz",
+  "download_time": "2025-08-10T19:41:01.272525",
+  "package_url": "https://pypi.org/project/rfmetadata/"
+}

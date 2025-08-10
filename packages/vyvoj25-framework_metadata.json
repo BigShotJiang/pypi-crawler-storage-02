@@ -1,11 +1,11 @@
 {
   "name": "vyvoj25-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vyvoj25_framework-1.0.1.tar.gz",
-  "download_time": "2025-08-10T19:22:03.931900",
+  "download_filename": "vyvoj25_framework-1.0.2.tar.gz",
+  "download_time": "2025-08-10T19:40:54.984913",
   "package_url": "https://pypi.org/project/vyvoj25-framework/"
 }

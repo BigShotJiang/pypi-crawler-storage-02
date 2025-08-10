@@ -1,11 +1,11 @@
 {
   "name": "GreenWorks",
-  "version": "0.0.2.8",
+  "version": "0.0.2.9",
   "summary": "An API wrapper for the Greenworks robotic lawn mower",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "greenworks-0.0.2.8.tar.gz",
-  "download_time": "2025-08-10T18:59:19.300738",
+  "download_filename": "greenworks-0.0.2.9.tar.gz",
+  "download_time": "2025-08-10T19:40:53.365624",
   "package_url": "https://pypi.org/project/GreenWorks/"
 }
