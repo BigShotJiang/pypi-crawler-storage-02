@@ -1,11 +1,11 @@
 {
   "name": "ambivo-agents",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Multi-Agent AI System for automation",
   "author": "Hemant Gosain 'Sunny'",
   "license": "MIT",
   "home_page": "https://github.com/ambivo-corp/ambivo-agents",
-  "download_filename": "ambivo_agents-1.2.8.tar.gz",
-  "download_time": "2025-08-08T15:58:19.212034",
+  "download_filename": "ambivo_agents-1.2.9.tar.gz",
+  "download_time": "2025-08-10T20:45:55.881057",
   "package_url": "https://pypi.org/project/ambivo-agents/"
 }

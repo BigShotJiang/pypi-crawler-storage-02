@@ -1,11 +1,11 @@
 {
   "name": "anthraleia-pytgcalls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Yet Another Async client API for the Telegram Calls.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anthraleia_pytgcalls-1.0.3.tar.gz",
-  "download_time": "2025-08-10T20:27:23.816933",
+  "download_filename": "anthraleia_pytgcalls-1.0.4.tar.gz",
+  "download_time": "2025-08-10T20:45:42.141078",
   "package_url": "https://pypi.org/project/anthraleia-pytgcalls/"
 }
