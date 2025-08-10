@@ -1,20 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T11:21:16.827700
-- **Total Packages**: 65
-- **Total Size**: 20.14 MB
+- **Download Time**: 2025-08-10T11:42:46.939397
+- **Total Packages**: 70
+- **Total Size**: 28.58 MB
 
 ## Packages List
-- abstract-paths
-- appgen
+- linsecure
+- neosqlite
+- tabcamel
+- apyanki
+- fpyjp
+- irouter
+- shapepy
+- ccnotify
+- calisim
+- MzmcOSAPIPySDK
+- genai-colosseum-premium
+- legit-api-client
+- rag-colls
+- uainepydat
+- dash-ai-chat
+- mcp-server-jetour0094766-deepresearch
+- sqlformater
+- foundry-sdk
+- lymcp
 - redis-benchmarks-specification
+- mcp-servers123456-demo
+- kijpatcher
+- Mopidy-Cranberry
+- st-img-picker
+- xpander-sdk
+- lark-oapi
+- torchx-nightly
+- generatepwd
+- yak-server
+- tabeval
+- appgen
+- GreenWorks
+- soda-ahk-cursor
+- total-time-formatter
+- treblle
+- mle-kit-mcp
+- voylla
+- tdrpa.tdworker
+- AtCoderStudyBooster
+- ultron-analyzer
+- rest-filters
+- rxnn
+- abstract-paths
+- twrapform
 - foldifyai
 - trade-database-manager
-- rag-colls
 - maigret
 - pyinstrument
-- genai-colosseum-premium
 - gjt
 - gcn10py
 - django-formgen
@@ -22,7 +61,6 @@
 - fastlette
 - archetypal-stubs
 - eppy-stubs
-- MzmcOSAPIPySDK
 - fastcorn
 - cryptshield
 - test-genie
@@ -37,37 +75,4 @@
 - dehug
 - simple-dwd-weatherforecast
 - eric-sse
-- st-img-picker
 - metaspector
-- oold
-- Pygrister
-- pywxtool
-- vprikol
-- foundry-sdk
-- heap-tree
-- asknews
-- konduktor-nightly
-- autodoc-mcp
-- file-organizer-advanced
-- git-annex-remote-internxt
-- ncatbot
-- trainy-policy-nightly
-- bullishpy
-- openwebui-chat-client
-- reqninja
-- letta-nightly
-- twitchio
-- pilottai
-- twrapform
-- pipton
-- rust-timeseries
-- mcp-code-indexer
-- bintang
-- gh_release_tools
-- my-saurav-package
-- microsoft-teams-mcp
-- ultimate-python-upgrader
-- hydev
-- pybirdsreynolds
-- langchain-anchorbrowser
-- GeoModelingZ

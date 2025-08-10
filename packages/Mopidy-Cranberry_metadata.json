@@ -1,0 +1,11 @@
+{
+  "name": "Mopidy-Cranberry",
+  "version": "0.1.0rc5",
+  "summary": "An opinionated web frontend for Mopidy",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mopidy_cranberry-0.1.0rc5.tar.gz",
+  "download_time": "2025-08-10T11:42:22.161132",
+  "package_url": "https://pypi.org/project/Mopidy-Cranberry/"
+}

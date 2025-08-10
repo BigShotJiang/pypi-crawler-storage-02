@@ -1,0 +1,11 @@
+{
+  "name": "ccnotify",
+  "version": "0.1.13",
+  "summary": "Intelligent notification system for Claude Code with audio feedback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccnotify-0.1.13.tar.gz",
+  "download_time": "2025-08-10T11:42:13.767215",
+  "package_url": "https://pypi.org/project/ccnotify/"
+}

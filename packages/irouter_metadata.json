@@ -1,11 +1,11 @@
 {
   "name": "irouter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Easy access to 100s of LLMs with a few lines of code (using Openrouter).",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "irouter-0.2.0.tar.gz",
-  "download_time": "2025-08-07T10:35:11.711237",
+  "download_filename": "irouter-0.2.1.tar.gz",
+  "download_time": "2025-08-10T11:42:12.709107",
   "package_url": "https://pypi.org/project/irouter/"
 }

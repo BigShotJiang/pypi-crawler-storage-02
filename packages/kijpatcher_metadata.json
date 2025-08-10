@@ -1,0 +1,11 @@
+{
+  "name": "kijpatcher",
+  "version": "1.0.0",
+  "summary": "A CLI tool to Patch KiCad-generated gerber file to complies with JLC rules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kijpatcher-1.0.0.tar.gz",
+  "download_time": "2025-08-10T11:42:21.635769",
+  "package_url": "https://pypi.org/project/kijpatcher/"
+}
