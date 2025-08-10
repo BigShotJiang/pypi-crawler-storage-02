@@ -1,57 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-10T17:44:43.555350
-- **Total Packages**: 69
-- **Total Size**: 2.25 MB
+- **Download Time**: 2025-08-10T17:56:27.847483
+- **Total Packages**: 74
+- **Total Size**: 1.76 MB
 
 ## Packages List
-- MignonFramework
-- beets-mpd-utils
-- greenflash
-- iss-pass-tracker
-- md-server
-- pdf-pycrack
-- dagster-slurm
-- dt-console
-- orionis
-- extract-video-frame
-- mcp-ambari-api
-- lieme
-- gammarers.aws-secure-log-bucket
-- zapgpt
-- gradboard
-- matrice
-- vipaxel
-- solveig
-- py-shell-runner
-- zenodotos
-- megarnucleusx13
-- ynab-unlinked
-- pdf-tools-mcp
-- busylight-for-humans
-- anima-dao
-- graph-games-proto
-- zwergetl-components-aws-s3
-- sca2d
-- krcg
-- flask-tdg-cyber
-- leafmap
-- wsignals
-- agent-as-code
-- surquest-utils-appstoreconnect-analyticsreports
-- finsolvepy
-- iSponsorBlockTV
-- brigid
-- git-annex-remote-internxt
-- Pytanis
-- dao-treasury
-- processamento-imagens-ahaerdy
 - mcp-git-commit-generator
 - ludax
 - docuver
 - fastapi-socketio-handler
 - ncpy
+- graph-games-proto
+- flask-tdg-cyber
+- dagster-slurm
 - vartastorage
 - dehug
 - restcall
@@ -59,6 +21,7 @@
 - ViLLa-X
 - litai-research
 - sonyk-sdk
+- iss-pass-tracker
 - python-http_request
 - frogml
 - python-proto-importer
@@ -67,6 +30,7 @@
 - hacs-utils
 - hacs-auth
 - hacs-models
+- airontools
 - dipswitch-svg
 - phoney
 - django-reportcraft
@@ -75,3 +39,44 @@
 - listele-Esat-cpu
 - listele
 - rectified-flow-pytorch
+- mcp-graphql
+- xrfm
+- hacs-cli
+- hacs-tools
+- hacs-registry
+- hacs-persistence
+- hacs-core
+- hacs-infrastructure
+- crisp-python
+- liman-signal-processing
+- lmms-lean-runner
+- lean-server
+- lean-runner
+- django-chelseru
+- chalkpy
+- pycync
+- qwak-core
+- escudeiro
+- gammarers.aws-secure-bucket
+- TypeTreeGeneratorAPI
+- infercode
+- trimmargin
+- fletplus
+- projen.canary-package
+- ctrlstack
+- git-mcp-server
+- hikari-lightbulb
+- kim-tools
+- casibase-python-sdk
+- jwbmisc
+- FermaCongress
+- constrained-linkage
+- microbert
+- jtable
+- litellm
+- convert-poetry2uv
+- fabriq
+- solveig
+- selenium-web-automation-utils
+- smpl-logger
+- django-api-explorer
