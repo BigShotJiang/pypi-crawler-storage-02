@@ -1,0 +1,11 @@
+{
+  "name": "BioImageSuiteLite",
+  "version": "0.1.4",
+  "summary": "A Python-based GUI tool for cellular event detection from .avi and .tiff files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioimagesuitelite-0.1.4.tar.gz",
+  "download_time": "2025-08-10T14:56:58.388199",
+  "package_url": "https://pypi.org/project/BioImageSuiteLite/"
+}

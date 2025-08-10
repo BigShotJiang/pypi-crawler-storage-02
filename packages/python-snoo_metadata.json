@@ -1,0 +1,11 @@
+{
+  "name": "python-snoo",
+  "version": "0.7.0",
+  "summary": "A package to control Snoos.",
+  "author": "Lash-L",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/Lash-L/python-snoo",
+  "download_filename": "python_snoo-0.7.0.tar.gz",
+  "download_time": "2025-08-10T14:56:55.262850",
+  "package_url": "https://pypi.org/project/python-snoo/"
+}

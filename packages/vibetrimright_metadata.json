@@ -1,0 +1,11 @@
+{
+  "name": "vibetrimright",
+  "version": "0.1.1",
+  "summary": "String right-trimming library that uses GPT to remove trailing whitespace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibetrimright-0.1.1.tar.gz",
+  "download_time": "2025-08-10T14:57:02.056172",
+  "package_url": "https://pypi.org/project/vibetrimright/"
+}

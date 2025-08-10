@@ -1,0 +1,11 @@
+{
+  "name": "mcp-graphql",
+  "version": "0.4.0",
+  "summary": "MCP server for GraphQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_graphql-0.4.0.tar.gz",
+  "download_time": "2025-08-10T14:57:03.614080",
+  "package_url": "https://pypi.org/project/mcp-graphql/"
+}
