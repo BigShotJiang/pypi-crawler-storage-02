@@ -1,0 +1,11 @@
+{
+  "name": "spiderYdb",
+  "version": "0.1.49",
+  "summary": "ORM for work with YDB",
+  "author": "Vyacheslav Linnik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spiderYdb-0.1.49-py3-none-any.whl",
+  "download_time": "2025-08-11T09:59:22.367043",
+  "package_url": "https://pypi.org/project/spiderYdb/"
+}
