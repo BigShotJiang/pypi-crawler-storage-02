@@ -1,11 +1,11 @@
 {
   "name": "quantor",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "quantor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantor-0.0.2.tar.gz",
-  "download_time": "2025-08-11T10:59:48.316607",
+  "download_filename": "quantor-0.0.4.tar.gz",
+  "download_time": "2025-08-11T11:45:03.412888",
   "package_url": "https://pypi.org/project/quantor/"
 }

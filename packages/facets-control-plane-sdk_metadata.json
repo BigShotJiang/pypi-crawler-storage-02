@@ -1,0 +1,11 @@
+{
+  "name": "facets-control-plane-sdk",
+  "version": "1.0.3",
+  "summary": "Api Documentation",
+  "author": "Anuj Hydrabadi",
+  "license": null,
+  "home_page": "https://github.com/Facets-cloud/control-plane-python-sdk",
+  "download_filename": "facets-control-plane-sdk-1.0.3.tar.gz",
+  "download_time": "2025-08-11T11:44:25.027776",
+  "package_url": "https://pypi.org/project/facets-control-plane-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "git-narrate",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "The Repository Storyteller - Analyze git repos and generate development narratives",
   "author": "Sithum Sathsara Rajapakshe | 000x",
   "license": "MIT",
   "home_page": "https://github.com/000xs/git-narrate",
-  "download_filename": "git_narrate-1.0.3.tar.gz",
-  "download_time": "2025-08-09T12:47:38.197472",
+  "download_filename": "git_narrate-1.0.5.tar.gz",
+  "download_time": "2025-08-11T11:44:37.491639",
   "package_url": "https://pypi.org/project/git-narrate/"
 }

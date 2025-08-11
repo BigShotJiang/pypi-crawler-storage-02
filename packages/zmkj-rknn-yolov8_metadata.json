@@ -1,11 +1,11 @@
 {
   "name": "zmkj-rknn-yolov8",
-  "version": "8.0.151.post1",
+  "version": "8.0.151.post2",
   "summary": "自用rknn yolov8 版本  只修复了 weights_only=False 问题 来源https://github.com/airockchip/ultralytics_yolov8 8.0.151 v1.6分支",
   "author": "Ultralytics",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ultralytics/ultralytics",
-  "download_filename": "zmkj_rknn_yolov8-8.0.151.post1.tar.gz",
-  "download_time": "2025-08-11T11:00:13.856223",
+  "download_filename": "zmkj_rknn_yolov8-8.0.151.post2.tar.gz",
+  "download_time": "2025-08-11T11:44:52.127288",
   "package_url": "https://pypi.org/project/zmkj-rknn-yolov8/"
 }

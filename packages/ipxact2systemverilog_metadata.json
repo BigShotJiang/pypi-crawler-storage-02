@@ -1,11 +1,11 @@
 {
   "name": "ipxact2systemverilog",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "summary": "Generate VHDL, SystemVerilog, html, rst, md, pdf, c headers from an IPXACT description",
   "author": "oddball",
   "license": null,
   "home_page": null,
-  "download_filename": "ipxact2systemverilog-1.0.25.tar.gz",
-  "download_time": "2025-08-06T21:56:33.071047",
+  "download_filename": "ipxact2systemverilog-1.0.26.tar.gz",
+  "download_time": "2025-08-11T11:44:34.613759",
   "package_url": "https://pypi.org/project/ipxact2systemverilog/"
 }

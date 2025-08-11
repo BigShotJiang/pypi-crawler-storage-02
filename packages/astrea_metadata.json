@@ -1,0 +1,11 @@
+{
+  "name": "astrea",
+  "version": "0.8.0",
+  "summary": "Python bindings for astrea C++ library",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "astrea-0.8.0-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2025-08-11T11:45:11.923563",
+  "package_url": "https://pypi.org/project/astrea/"
+}

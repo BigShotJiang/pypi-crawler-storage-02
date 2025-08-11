@@ -1,11 +1,11 @@
 {
   "name": "yica-yirage",
-  "version": "1.0.4",
-  "summary": "YICA-Yirage: AI Computing Optimization Framework for In-Memory Computing Architecture",
-  "author": null,
-  "license": "MIT",
+  "version": "1.0.5",
+  "summary": "YICA-Yirage: AI Computing Optimization Framework (Enhanced Build)",
+  "author": "YICA Team",
+  "license": null,
   "home_page": null,
-  "download_filename": "yica_yirage-1.0.4-py3-none-any.whl",
-  "download_time": "2025-08-10T15:25:14.416151",
+  "download_filename": "yica_yirage-1.0.5.tar.gz",
+  "download_time": "2025-08-11T11:44:36.068895",
   "package_url": "https://pypi.org/project/yica-yirage/"
 }
