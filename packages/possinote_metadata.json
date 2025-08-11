@@ -1,0 +1,11 @@
+{
+  "name": "possinote",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for PossiNote API",
+  "author": "PossiNote Team",
+  "license": null,
+  "home_page": "https://github.com/possitech/possinote-python",
+  "download_filename": "possinote-1.0.0.tar.gz",
+  "download_time": "2025-08-11T14:03:14.462899",
+  "package_url": "https://pypi.org/project/possinote/"
+}
