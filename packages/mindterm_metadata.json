@@ -1,11 +1,11 @@
 {
   "name": "mindterm",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Intelligent terminal like thinking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mindterm-0.1.9.tar.gz",
-  "download_time": "2025-08-11T05:40:06.489130",
+  "download_filename": "mindterm-0.1.10.tar.gz",
+  "download_time": "2025-08-11T08:37:39.628838",
   "package_url": "https://pypi.org/project/mindterm/"
 }

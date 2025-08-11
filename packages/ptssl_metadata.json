@@ -1,11 +1,11 @@
 {
   "name": "ptssl",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": null,
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptssl-0.0.7.tar.gz",
-  "download_time": "2025-08-07T17:56:25.884324",
+  "download_filename": "ptssl-0.0.8.tar.gz",
+  "download_time": "2025-08-11T08:37:35.897692",
   "package_url": "https://pypi.org/project/ptssl/"
 }

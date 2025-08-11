@@ -1,11 +1,11 @@
 {
   "name": "mcp-code-indexer",
-  "version": "4.2.9",
+  "version": "4.2.10",
   "summary": "MCP server that tracks file descriptions across codebases, enabling AI agents to efficiently navigate and understand code through searchable summaries and token-aware overviews.",
   "author": "MCP Code Indexer Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_code_indexer-4.2.9.tar.gz",
-  "download_time": "2025-08-11T07:56:57.310233",
+  "download_filename": "mcp_code_indexer-4.2.10.tar.gz",
+  "download_time": "2025-08-11T08:37:07.131520",
   "package_url": "https://pypi.org/project/mcp-code-indexer/"
 }

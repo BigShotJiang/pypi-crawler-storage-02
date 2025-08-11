@@ -1,0 +1,11 @@
+{
+  "name": "torch-linode",
+  "version": "0.3.0",
+  "summary": "A PyTorch-based library for solving homogeneous and non-homogeneous linear ODEs using Magnus-type integrators.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_linode-0.3.0.tar.gz",
+  "download_time": "2025-08-11T08:37:12.813059",
+  "package_url": "https://pypi.org/project/torch-linode/"
+}

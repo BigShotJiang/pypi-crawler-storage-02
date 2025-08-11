@@ -1,0 +1,11 @@
+{
+  "name": "planesections",
+  "version": "1.4.2",
+  "summary": "A light-weight FEM beam analyzer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "planesections-1.4.2.tar.gz",
+  "download_time": "2025-08-11T08:37:33.769176",
+  "package_url": "https://pypi.org/project/planesections/"
+}
