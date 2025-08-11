@@ -1,0 +1,11 @@
+{
+  "name": "prettypyplot",
+  "version": "0.12.0",
+  "summary": "Wrapper for matplotlib to generate pretty plots.",
+  "author": "braniii",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prettypyplot-0.12.0.tar.gz",
+  "download_time": "2025-08-11T21:23:20.577496",
+  "package_url": "https://pypi.org/project/prettypyplot/"
+}

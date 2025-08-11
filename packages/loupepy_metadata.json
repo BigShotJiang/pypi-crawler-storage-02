@@ -1,0 +1,11 @@
+{
+  "name": "loupepy",
+  "version": "1.1.1",
+  "summary": "A python package for generating 10x cloupe files from anndata objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loupepy-1.1.1-py3-none-any.whl",
+  "download_time": "2025-08-11T21:23:08.426580",
+  "package_url": "https://pypi.org/project/loupepy/"
+}

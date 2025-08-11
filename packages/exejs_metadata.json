@@ -1,0 +1,11 @@
+{
+  "name": "exejs",
+  "version": "0.0.6",
+  "summary": "Run JavaScript code from Python.",
+  "author": "UlionTse",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/uliontse/exejs",
+  "download_filename": "exejs-0.0.6.tar.gz",
+  "download_time": "2025-08-11T21:23:27.396287",
+  "package_url": "https://pypi.org/project/exejs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "crisscross-kit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Unified CAD and scripting packages for megastructure design, handle library generation and visualization.",
   "author": "Matthew Aquilina, Florian Katzmeier, Siyuan Stella Wang, Corey Becker, Yichen Zhao",
   "license": null,
   "home_page": null,
-  "download_filename": "crisscross_kit-1.0.4.tar.gz",
-  "download_time": "2025-08-11T20:46:25.294061",
+  "download_filename": "crisscross_kit-1.0.5-py3-none-any.whl",
+  "download_time": "2025-08-11T21:23:36.355264",
   "package_url": "https://pypi.org/project/crisscross-kit/"
 }

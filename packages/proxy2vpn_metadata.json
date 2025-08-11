@@ -1,11 +1,11 @@
 {
   "name": "proxy2vpn",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Proxy2VPN Python utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxy2vpn-0.2.0.tar.gz",
-  "download_time": "2025-08-11T18:39:42.079872",
+  "download_filename": "proxy2vpn-0.3.0.tar.gz",
+  "download_time": "2025-08-11T21:23:17.459335",
   "package_url": "https://pypi.org/project/proxy2vpn/"
 }
