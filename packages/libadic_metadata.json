@@ -1,0 +1,11 @@
+{
+  "name": "libadic",
+  "version": "1.0.0",
+  "summary": "High-performance p-adic arithmetic library for the Reid-Li criterion",
+  "author": "libadic Contributors",
+  "license": null,
+  "home_page": "https://github.com/IguanAI/libadic",
+  "download_filename": "libadic-1.0.0.tar.gz",
+  "download_time": "2025-08-11T19:29:11.354046",
+  "package_url": "https://pypi.org/project/libadic/"
+}

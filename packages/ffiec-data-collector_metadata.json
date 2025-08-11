@@ -1,0 +1,11 @@
+{
+  "name": "ffiec-data-collector",
+  "version": "2.0.0rc2",
+  "summary": "Lightweight Python library for collecting bulk FFIEC CDR data",
+  "author": "Michael",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/call-report/ffiec-data-collector",
+  "download_filename": "ffiec_data_collector-2.0.0rc2.tar.gz",
+  "download_time": "2025-08-11T19:28:48.675946",
+  "package_url": "https://pypi.org/project/ffiec-data-collector/"
+}

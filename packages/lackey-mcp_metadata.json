@@ -1,11 +1,11 @@
 {
   "name": "lackey-mcp",
-  "version": "2.1.0",
+  "version": "3.0.2",
   "summary": "Task chain management engine for AI agents with MCP integration",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "lackey_mcp-2.1.0.tar.gz",
-  "download_time": "2025-08-11T04:50:42.573620",
+  "download_filename": "lackey_mcp-3.0.2.tar.gz",
+  "download_time": "2025-08-11T19:29:17.174506",
   "package_url": "https://pypi.org/project/lackey-mcp/"
 }

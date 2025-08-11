@@ -1,0 +1,11 @@
+{
+  "name": "rstbuddy",
+  "version": "0.2.1",
+  "summary": "A tool for ensuring your strucuredText files are (more) syntactically correct",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rstbuddy-0.2.1.tar.gz",
+  "download_time": "2025-08-11T19:28:46.866207",
+  "package_url": "https://pypi.org/project/rstbuddy/"
+}

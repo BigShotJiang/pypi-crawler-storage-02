@@ -1,11 +1,11 @@
 {
   "name": "leptonai",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "summary": "Lepton AI Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leptonai-0.26.0-py3-none-any.whl",
-  "download_time": "2025-08-04T09:47:48.585769",
+  "download_filename": "leptonai-0.26.1-py3-none-any.whl",
+  "download_time": "2025-08-11T19:29:06.656419",
   "package_url": "https://pypi.org/project/leptonai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vishuml",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A machine learning library implementing algorithms from scratch",
   "author": "Vishu pratap",
   "license": null,
   "home_page": "https://github.com/vishuRizz/vishuml-pip-library",
-  "download_filename": "vishuml-0.1.7.tar.gz",
-  "download_time": "2025-08-11T03:52:01.535386",
+  "download_filename": "vishuml-0.1.8.tar.gz",
+  "download_time": "2025-08-11T19:29:20.062719",
   "package_url": "https://pypi.org/project/vishuml/"
 }
