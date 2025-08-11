@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-08-11T19:57:12.278425",
+  "download_time": "2025-08-11T20:28:55.405840",
   "total_packages_downloaded": 91,
-  "total_size_mb": 11.87,
+  "total_size_mb": 9.11,
   "packages": [
-    "traffic-anomaly",
-    "mcp-proxy-adapter",
-    "django-spire",
-    "klotho-cac",
-    "wrangles",
-    "nuctools",
-    "cappa",
     "traceloop-sdk",
     "macmenuqbt",
     "vitreaclient",
@@ -93,6 +86,13 @@
     "pywellen",
     "boto3-stubs-lite",
     "boto3-stubs",
-    "ladybug-core"
+    "ladybug-core",
+    "ipyvasp",
+    "mulch",
+    "MaxBridge",
+    "ladybug-geometry-polyskel",
+    "gammarers.aws-waf-ip-rate-limit-rule",
+    "klotho-cac",
+    "markdown-to-slack-mkdown"
   ]
 }

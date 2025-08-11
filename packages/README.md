@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T19:57:12.278425
+- **Download Time**: 2025-08-11T20:28:55.405840
 - **Total Packages**: 91
-- **Total Size**: 11.87 MB
+- **Total Size**: 9.11 MB
 
 ## Packages List
-- traffic-anomaly
-- mcp-proxy-adapter
-- django-spire
-- klotho-cac
-- wrangles
-- nuctools
-- cappa
 - traceloop-sdk
 - macmenuqbt
 - vitreaclient
@@ -97,3 +90,10 @@
 - boto3-stubs-lite
 - boto3-stubs
 - ladybug-core
+- ipyvasp
+- mulch
+- MaxBridge
+- ladybug-geometry-polyskel
+- gammarers.aws-waf-ip-rate-limit-rule
+- klotho-cac
+- markdown-to-slack-mkdown
