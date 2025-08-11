@@ -1,11 +1,11 @@
 {
   "name": "smolagents",
-  "version": "1.21.0",
+  "version": "1.21.1",
   "summary": "🤗 smolagents: a barebones library for agents. Agents write python code to call tools or orchestrate other agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smolagents-1.21.0.tar.gz",
-  "download_time": "2025-08-07T10:58:44.320349",
+  "download_filename": "smolagents-1.21.1.tar.gz",
+  "download_time": "2025-08-11T10:59:56.289052",
   "package_url": "https://pypi.org/project/smolagents/"
 }

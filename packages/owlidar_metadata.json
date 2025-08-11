@@ -1,11 +1,11 @@
 {
   "name": "owlidar",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Add your description here",
   "author": "Bayan2019",
   "license": null,
   "home_page": null,
-  "download_filename": "owlidar-0.1.7.tar.gz",
-  "download_time": "2025-08-09T08:52:30.533683",
+  "download_filename": "owlidar-0.1.8.tar.gz",
+  "download_time": "2025-08-11T10:59:47.147267",
   "package_url": "https://pypi.org/project/owlidar/"
 }

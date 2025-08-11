@@ -1,11 +1,11 @@
 {
   "name": "pyobs-core",
-  "version": "1.26.4",
+  "version": "1.27.0",
   "summary": "robotic telescope software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyobs_core-1.26.4.tar.gz",
-  "download_time": "2025-08-07T09:59:04.638409",
+  "download_filename": "pyobs_core-1.27.0.tar.gz",
+  "download_time": "2025-08-11T10:59:33.690645",
   "package_url": "https://pypi.org/project/pyobs-core/"
 }

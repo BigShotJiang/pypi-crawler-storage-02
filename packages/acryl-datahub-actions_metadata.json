@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub-actions",
-  "version": "1.2.0.3",
+  "version": "1.2.0.4",
   "summary": "An action framework to work with DataHub real time changes.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "acryl_datahub_actions-1.2.0.3.tar.gz",
-  "download_time": "2025-08-06T17:57:42.343324",
+  "download_filename": "acryl_datahub_actions-1.2.0.4.tar.gz",
+  "download_time": "2025-08-11T10:59:48.947454",
   "package_url": "https://pypi.org/project/acryl-datahub-actions/"
 }

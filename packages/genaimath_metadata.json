@@ -1,11 +1,11 @@
 {
   "name": "genaimath",
-  "version": "0.2.0",
-  "summary": "Advanced mathematical operations with arbitrary-precision arithmetic.",
+  "version": "0.3.0",
+  "summary": "Advanced mathematical operations with arbitrary-precision arithmetic numbers, powered by AI. It supports limitless range of numbers.",
   "author": "SoftwareApkDev",
   "license": null,
   "home_page": null,
-  "download_filename": "genaimath-0.2.0.tar.gz",
-  "download_time": "2025-08-10T12:48:43.783826",
+  "download_filename": "genaimath-0.3.0.tar.gz",
+  "download_time": "2025-08-11T10:59:56.917817",
   "package_url": "https://pypi.org/project/genaimath/"
 }

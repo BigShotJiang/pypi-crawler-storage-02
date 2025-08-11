@@ -1,0 +1,11 @@
+{
+  "name": "transformers-v4.55.0-GLM-4.5V-preview",
+  "version": "4.56.0.dev0",
+  "summary": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+  "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/huggingface/transformers",
+  "download_filename": "transformers_v4_55_0_glm_4_5v_preview-4.56.0.dev0.tar.gz",
+  "download_time": "2025-08-11T10:59:42.597512",
+  "package_url": "https://pypi.org/project/transformers-v4.55.0-GLM-4.5V-preview/"
+}
