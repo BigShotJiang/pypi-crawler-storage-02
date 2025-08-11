@@ -1,0 +1,11 @@
+{
+  "name": "bazoola",
+  "version": "0.0.6",
+  "summary": "A lightweight, file-based database implementation in Python",
+  "author": "Dima Doroshev",
+  "license": "MIT",
+  "home_page": "https://github.com/ddoroshev/bazoola",
+  "download_filename": "bazoola-0.0.6.tar.gz",
+  "download_time": "2025-08-11T19:44:41.142453",
+  "package_url": "https://pypi.org/project/bazoola/"
+}

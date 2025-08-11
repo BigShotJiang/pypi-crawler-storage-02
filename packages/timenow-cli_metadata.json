@@ -1,11 +1,11 @@
 {
   "name": "timenow-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A simple CLI to get the current time in any city worldwide.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timenow_cli-1.0.1.tar.gz",
-  "download_time": "2025-08-11T17:02:11.854335",
+  "download_filename": "timenow_cli-1.0.2.tar.gz",
+  "download_time": "2025-08-11T19:44:28.939806",
   "package_url": "https://pypi.org/project/timenow-cli/"
 }

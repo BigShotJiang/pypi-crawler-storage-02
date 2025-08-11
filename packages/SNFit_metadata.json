@@ -1,11 +1,11 @@
 {
   "name": "SNFit",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snfit-1.0.3.tar.gz",
-  "download_time": "2025-08-07T21:57:37.271563",
+  "download_filename": "snfit-1.1.0.tar.gz",
+  "download_time": "2025-08-11T19:44:27.646341",
   "package_url": "https://pypi.org/project/SNFit/"
 }

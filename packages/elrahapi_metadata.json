@@ -1,11 +1,11 @@
 {
   "name": "elrahapi",
-  "version": "1.2.0.3",
+  "version": "1.2.0.5",
   "summary": "Package de développement d'API basé FastAPI",
   "author": "Harlequelrah",
   "license": "LGPL-3.0-only",
   "home_page": "https://github.com/Harlequelrah/Library-ElrahAPI",
-  "download_filename": "elrahapi-1.2.0.3.tar.gz",
-  "download_time": "2025-08-05T21:25:11.835310",
+  "download_filename": "elrahapi-1.2.0.5.tar.gz",
+  "download_time": "2025-08-11T19:44:24.351805",
   "package_url": "https://pypi.org/project/elrahapi/"
 }

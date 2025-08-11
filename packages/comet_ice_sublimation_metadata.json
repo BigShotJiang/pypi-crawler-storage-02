@@ -1,0 +1,11 @@
+{
+  "name": "comet_ice_sublimation",
+  "version": "1.0.0",
+  "summary": "Rapid rotator model of ice sublimation for comet nuclei",
+  "author": "Shawn Oset",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "comet_ice_sublimation-1.0.0.tar.gz",
+  "download_time": "2025-08-11T19:44:40.499305",
+  "package_url": "https://pypi.org/project/comet_ice_sublimation/"
+}

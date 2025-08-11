@@ -1,0 +1,11 @@
+{
+  "name": "markdown-to-slack-mkdown",
+  "version": "0.1.3",
+  "summary": "Convert GitHub markdown to Slack markdown format",
+  "author": "Siim Tiilen",
+  "license": "MIT",
+  "home_page": "https://github.com/eritikass/markdown-to-slack-mkdown",
+  "download_filename": "markdown_to_slack_mkdown-0.1.3.tar.gz",
+  "download_time": "2025-08-11T19:44:39.861505",
+  "package_url": "https://pypi.org/project/markdown-to-slack-mkdown/"
+}
