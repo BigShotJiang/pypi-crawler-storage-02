@@ -1,0 +1,11 @@
+{
+  "name": "dicodon-optimizer",
+  "version": "0.1.2",
+  "summary": "Dicodon optimization library",
+  "author": "Florian Finkernagel",
+  "license": "MIT",
+  "home_page": "https://github.com/TyberiusPrime/dicodon_optimizer",
+  "download_filename": "dicodon_optimizer-0.1.2.tar.gz",
+  "download_time": "2025-08-11T07:16:02.229630",
+  "package_url": "https://pypi.org/project/dicodon-optimizer/"
+}

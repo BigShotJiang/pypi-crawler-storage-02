@@ -1,22 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T07:05:12.791633
-- **Total Packages**: 79
-- **Total Size**: 27.58 MB
+- **Download Time**: 2025-08-11T07:16:42.081504
+- **Total Packages**: 86
+- **Total Size**: 18.92 MB
 
 ## Packages List
+- heaven-tree-repl
+- fastapi-scaf
+- speech2text-client
+- linktools
+- py-adtools
+- vtlengine
+- ragflow-mcp
+- atomica
+- streamlit-nightly
+- reyworm
+- docstrange
+- httpie-kws
+- dicodon-optimizer
+- scribe-python-client
+- ImagePRO-Python
+- antchain-morserta
+- streamstore
+- aipyapp
+- energy-base
+- power-grid-model-io
+- urllib3-future
+- xarm7-ik
+- perceptic-core-client
+- grvpn
+- mrx-runway
+- mcp-databend
+- power-grid-model
+- browser-ui
+- rtdi-ducktape
+- tf-models-nightly
+- scc-firewall-manager-sdk
+- ais-terminal
+- semantic-copycat-upmex
+- litex-kernel
+- abstract-ai
+- odoo-addon-pms
 - faster-eth-abi
 - mcp-server-dongjunqaq
 - odoo-addon-survey-question-type-binary-result-mail
 - eggai
 - deknp
-- abstract-ai
 - module_dependency
 - jpegdata
 - annex4risk-detector
 - zope.deferredimport
-- spech2text-client
 - phenotypic
 - gisweb-depag
 - ppplca
@@ -34,11 +68,9 @@
 - gooder-ai
 - qh3
 - connectonion
-- scribe-python-client
 - neo4j-mcp-memory-scccy
 - django-saas-base
 - discord-py-help-lib
-- py-adtools
 - odoo-addon-users-ldap-groups
 - matrice
 - zope.schema
@@ -60,28 +92,3 @@
 - SOM-TUI
 - trimmargin
 - ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- pypjt
-- httpcore_request
-- ais-terminal
-- transformer-engine
-- PaddockTS
-- educommon
-- liveramp-automation
-- open-meteo-data-dvl
-- FermaCongress
-- pycrdt
-- okx-sdk
-- textbasic
-- http_response
-- krcg
-- gllm-core-binary
-- mcp-databend
-- cnhkmcp
-- horseracepredictor
-- junbedded
-- data_process_task_dispatcher_v0
-- reva-coregistration
-- ai-edge-litert-nightly
-- planqk-commons
-- refpy

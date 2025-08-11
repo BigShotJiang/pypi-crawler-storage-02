@@ -1,11 +1,11 @@
 {
   "name": "py-adtools",
-  "version": "0.1.1",
-  "summary": "Useful tools for parsing Python programs for algorithm design.",
+  "version": "0.1.2",
+  "summary": "Useful tools for parsing and evaluating Python programs for algorithm design.",
   "author": "Rui Zhang",
   "license": null,
   "home_page": "https://github.com/RayZhhh/py-adtools",
-  "download_filename": "py_adtools-0.1.1.tar.gz",
-  "download_time": "2025-08-11T07:04:38.738915",
+  "download_filename": "py_adtools-0.1.2.tar.gz",
+  "download_time": "2025-08-11T07:15:58.066627",
   "package_url": "https://pypi.org/project/py-adtools/"
 }

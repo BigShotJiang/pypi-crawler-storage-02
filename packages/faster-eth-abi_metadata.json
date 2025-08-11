@@ -1,11 +1,11 @@
 {
   "name": "faster-eth-abi",
-  "version": "5.2.4",
+  "version": "5.2.5",
   "summary": "A fork of eth_abi: Python utilities for working with Ethereum ABI definitions, especially encoding and decoding, implemented in C.",
   "author": "The Ethereum Foundation",
   "license": "MIT",
   "home_page": "https://github.com/BobTheBuidler/faster-eth-abi",
-  "download_filename": "faster_eth_abi-5.2.4.tar.gz",
-  "download_time": "2025-08-09T19:54:27.012210",
+  "download_filename": "faster_eth_abi-5.2.5.tar.gz",
+  "download_time": "2025-08-11T07:16:14.626446",
   "package_url": "https://pypi.org/project/faster-eth-abi/"
 }
