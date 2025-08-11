@@ -1,0 +1,11 @@
+{
+  "name": "disjoint-forest",
+  "version": "1.1",
+  "summary": "A high-performance C++ implementation of disjoint-set data structure with Python bindings",
+  "author": "DisjointForest Contributors",
+  "license": null,
+  "home_page": "https://github.com/yourusername/disjoint-forest",
+  "download_filename": "disjoint_forest-1.1.tar.gz",
+  "download_time": "2025-08-11T05:40:09.857785",
+  "package_url": "https://pypi.org/project/disjoint-forest/"
+}

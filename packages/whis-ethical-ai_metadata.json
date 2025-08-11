@@ -1,11 +1,11 @@
 {
   "name": "whis-ethical-ai",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "summary": "Comprehensive ethical AI validation and auditing package",
   "author": "Ethical AI Team",
   "license": "MIT",
   "home_page": "https://github.com/whis-19/ethical-ai",
-  "download_filename": "whis_ethical_ai-1.1.0.tar.gz",
-  "download_time": "2025-08-07T23:25:41.584986",
+  "download_filename": "whis_ethical_ai-1.3.0.tar.gz",
+  "download_time": "2025-08-11T05:39:54.369702",
   "package_url": "https://pypi.org/project/whis-ethical-ai/"
 }

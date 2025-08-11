@@ -1,11 +1,11 @@
 {
   "name": "arclet-alconna",
-  "version": "1.8.41",
+  "version": "1.8.42",
   "summary": "A High-performance, Generality, Humane Command Line Arguments Parser Library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arclet_alconna-1.8.41.tar.gz",
-  "download_time": "2025-08-07T03:55:21.128634",
+  "download_filename": "arclet_alconna-1.8.42.tar.gz",
+  "download_time": "2025-08-11T05:40:09.345674",
   "package_url": "https://pypi.org/project/arclet-alconna/"
 }

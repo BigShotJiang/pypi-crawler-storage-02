@@ -1,0 +1,11 @@
+{
+  "name": "monitor-app",
+  "version": "0.1.8",
+  "summary": "A simple Flask-based database viewer and manager",
+  "author": "hardwork9047",
+  "license": "MIT",
+  "home_page": "https://github.com/hardwork9047/monitor-app",
+  "download_filename": "monitor_app-0.1.8.tar.gz",
+  "download_time": "2025-08-11T05:40:04.756809",
+  "package_url": "https://pypi.org/project/monitor-app/"
+}

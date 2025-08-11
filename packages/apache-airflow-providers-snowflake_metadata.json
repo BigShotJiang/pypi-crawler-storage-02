@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-snowflake",
-  "version": "6.5.1",
+  "version": "6.5.2",
   "summary": "Provider package apache-airflow-providers-snowflake for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_snowflake-6.5.1.tar.gz",
-  "download_time": "2025-08-07T06:48:43.132021",
+  "download_filename": "apache_airflow_providers_snowflake-6.5.2.tar.gz",
+  "download_time": "2025-08-11T05:39:31.708197",
   "package_url": "https://pypi.org/project/apache-airflow-providers-snowflake/"
 }

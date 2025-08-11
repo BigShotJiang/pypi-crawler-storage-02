@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-postgres",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "summary": "Provider package apache-airflow-providers-postgres for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_postgres-6.2.2.tar.gz",
-  "download_time": "2025-08-07T06:48:46.819064",
+  "download_filename": "apache_airflow_providers_postgres-6.2.3.tar.gz",
+  "download_time": "2025-08-11T05:39:35.057462",
   "package_url": "https://pypi.org/project/apache-airflow-providers-postgres/"
 }

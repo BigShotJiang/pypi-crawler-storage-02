@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-qdrant",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Provider package apache-airflow-providers-qdrant for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_qdrant-1.4.2.tar.gz",
-  "download_time": "2025-08-07T06:48:46.303128",
+  "download_filename": "apache_airflow_providers_qdrant-1.4.3.tar.gz",
+  "download_time": "2025-08-11T05:39:34.480165",
   "package_url": "https://pypi.org/project/apache-airflow-providers-qdrant/"
 }

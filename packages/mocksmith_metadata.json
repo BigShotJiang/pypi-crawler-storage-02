@@ -1,11 +1,11 @@
 {
   "name": "mocksmith",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Type-safe data validation and mocking for Python dataclasses and Pydantic models",
   "author": "Gurmeet Saran",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mocksmith-6.0.0.tar.gz",
-  "download_time": "2025-08-11T03:52:02.688628",
+  "download_filename": "mocksmith-6.0.1.tar.gz",
+  "download_time": "2025-08-11T05:39:56.125064",
   "package_url": "https://pypi.org/project/mocksmith/"
 }
