@@ -1,0 +1,11 @@
+{
+  "name": "whad",
+  "version": "1.2.9",
+  "summary": "Wireless protocols hacking framework",
+  "author": "Damien CAUQUIL, Romain CAYRE",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "whad-1.2.9.tar.gz",
+  "download_time": "2025-08-11T21:55:07.352150",
+  "package_url": "https://pypi.org/project/whad/"
+}

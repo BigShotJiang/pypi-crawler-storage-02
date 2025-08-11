@@ -1,0 +1,11 @@
+{
+  "name": "pairstat",
+  "version": "0.3.0",
+  "summary": "Package for computing 2-point statistics (correlation functions and structure functions)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pairstat-0.3.0.tar.gz",
+  "download_time": "2025-08-11T21:55:17.325050",
+  "package_url": "https://pypi.org/project/pairstat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sup",
+  "version": "0.1.1",
+  "summary": "A Python package with Rust-based ripgrep implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sup-0.1.1.tar.gz",
+  "download_time": "2025-08-11T21:55:04.740854",
+  "package_url": "https://pypi.org/project/sup/"
+}

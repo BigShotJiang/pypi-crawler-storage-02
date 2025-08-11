@@ -1,11 +1,11 @@
 {
   "name": "fastapi-agent",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Add an AI Agent to your FastAPI application. The agent knows how to interact with your endpoints within a chat interface.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_agent-0.2.5.tar.gz",
-  "download_time": "2025-08-11T21:44:13.293081",
+  "download_filename": "fastapi_agent-0.2.7.tar.gz",
+  "download_time": "2025-08-11T21:55:08.932475",
   "package_url": "https://pypi.org/project/fastapi-agent/"
 }
