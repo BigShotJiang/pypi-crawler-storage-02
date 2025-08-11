@@ -1,0 +1,11 @@
+{
+  "name": "latteries",
+  "version": "0.1.1",
+  "summary": "James' API LLM evaluations workflow library - A collection of tools for LLM API calls, caching, and evaluation workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latteries-0.1.1.tar.gz",
+  "download_time": "2025-08-11T09:44:05.917079",
+  "package_url": "https://pypi.org/project/latteries/"
+}

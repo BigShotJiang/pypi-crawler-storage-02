@@ -1,0 +1,11 @@
+{
+  "name": "zmkj-rknn-yolov8",
+  "version": "8.2.82.post1",
+  "summary": "自用rknn yolov8 版本 8.2.82 只修复了 weights_only=False 问题 来源https://github.com/airockchip/ultralytics_yolov8",
+  "author": "Glenn Jocher, Ayush Chaurasia, Jing Qiu",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "zmkj_rknn_yolov8-8.2.82.post1.tar.gz",
+  "download_time": "2025-08-11T09:43:42.192211",
+  "package_url": "https://pypi.org/project/zmkj-rknn-yolov8/"
+}

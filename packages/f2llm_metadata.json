@@ -1,0 +1,11 @@
+{
+  "name": "f2llm",
+  "version": "0.1.5",
+  "summary": "A CLI tool to parse files and create LLM prompts",
+  "author": "Mate Dravucz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "f2llm-0.1.5.tar.gz",
+  "download_time": "2025-08-11T09:43:43.892893",
+  "package_url": "https://pypi.org/project/f2llm/"
+}

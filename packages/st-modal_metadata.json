@@ -1,0 +1,11 @@
+{
+  "name": "st-modal",
+  "version": "1.0.1",
+  "summary": "Modal for streamlit",
+  "author": "Peter van Lunteren",
+  "license": "BSD",
+  "home_page": "https://github.com/teamtv/streamlit_modal",
+  "download_filename": "st_modal-1.0.1.tar.gz",
+  "download_time": "2025-08-11T09:44:03.263327",
+  "package_url": "https://pypi.org/project/st-modal/"
+}

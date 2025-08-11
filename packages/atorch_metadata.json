@@ -1,0 +1,11 @@
+{
+  "name": "atorch",
+  "version": "0.2.5",
+  "summary": "A pytorch extension for efficient deep learning.",
+  "author": "Ant Group",
+  "license": null,
+  "home_page": "https://github.com/intelligent-machine-learning/dlrover/tree/master/atorch",
+  "download_filename": "atorch-0.2.5-py3-none-any.whl",
+  "download_time": "2025-08-11T09:44:10.248020",
+  "package_url": "https://pypi.org/project/atorch/"
+}

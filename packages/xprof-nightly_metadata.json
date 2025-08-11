@@ -1,11 +1,11 @@
 {
   "name": "xprof-nightly",
-  "version": "2.21.5a20250810",
+  "version": "2.21.5a20250811",
   "summary": "XProf Profiler Plugin",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/openxla/xprof",
-  "download_filename": "xprof_nightly-2.21.5a20250810.tar.gz",
-  "download_time": "2025-08-10T09:45:46.463731",
+  "download_filename": "xprof_nightly-2.21.5a20250811.tar.gz",
+  "download_time": "2025-08-11T09:44:22.433047",
   "package_url": "https://pypi.org/project/xprof-nightly/"
 }

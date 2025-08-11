@@ -1,11 +1,11 @@
 {
   "name": "higgs",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "audio kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "higgs-0.0.4.tar.gz",
-  "download_time": "2025-08-11T09:02:46.325111",
+  "download_filename": "higgs-0.0.6.tar.gz",
+  "download_time": "2025-08-11T09:43:47.420699",
   "package_url": "https://pypi.org/project/higgs/"
 }
