@@ -1,0 +1,11 @@
+{
+  "name": "interval-py",
+  "version": "1.0.3",
+  "summary": "Interval arithmetic library for Python",
+  "author": "Artem Maminov, Mikhail Posypkin",
+  "license": null,
+  "home_page": "https://github.com/artemmam/intervalpy",
+  "download_filename": "interval_py-1.0.3.tar.gz",
+  "download_time": "2025-08-11T10:33:16.238719",
+  "package_url": "https://pypi.org/project/interval-py/"
+}

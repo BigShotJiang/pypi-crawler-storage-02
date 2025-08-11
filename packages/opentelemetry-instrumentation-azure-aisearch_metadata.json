@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-azure-aisearch",
+  "version": "0.1.0",
+  "summary": "OpenTelemetry Azure AI Search instrumentation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_azure_aisearch-0.1.0.tar.gz",
+  "download_time": "2025-08-11T10:33:17.793198",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-azure-aisearch/"
+}

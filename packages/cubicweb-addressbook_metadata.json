@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-addressbook",
+  "version": "2.2.1",
+  "summary": "address book component for the CubicWeb framework",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "https://forge.extranet.logilab.fr/cubicweb/cubes/cubicweb-addressbook",
+  "download_filename": "cubicweb_addressbook-2.2.1.tar.gz",
+  "download_time": "2025-08-11T10:33:18.304777",
+  "package_url": "https://pypi.org/project/cubicweb-addressbook/"
+}

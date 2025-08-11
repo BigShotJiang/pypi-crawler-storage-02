@@ -1,0 +1,11 @@
+{
+  "name": "plotprofile",
+  "version": "1.0.9",
+  "summary": "Plot reaction profiles with customizable curves and labels",
+  "author": "Dr A Goodfellow",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plotprofile-1.0.9.tar.gz",
+  "download_time": "2025-08-11T10:33:12.651766",
+  "package_url": "https://pypi.org/project/plotprofile/"
+}

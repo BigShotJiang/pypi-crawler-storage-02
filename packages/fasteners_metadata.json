@@ -1,0 +1,11 @@
+{
+  "name": "fasteners",
+  "version": "0.20",
+  "summary": "A python package that provides useful locks",
+  "author": "Joshua Harlow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasteners-0.20.tar.gz",
+  "download_time": "2025-08-11T10:33:04.875445",
+  "package_url": "https://pypi.org/project/fasteners/"
+}

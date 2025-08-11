@@ -1,0 +1,11 @@
+{
+  "name": "app-store-reviews-reader",
+  "version": "1.3",
+  "summary": "To fetch app store reviews from publicly available RSS feeds",
+  "author": "Lalit Pagaria",
+  "license": "Apache Version 2.0",
+  "home_page": "https://github.com/lalitpagaria/app_store_reviews_reader",
+  "download_filename": "app-store-reviews-reader-1.3.tar.gz",
+  "download_time": "2025-08-11T10:32:52.975463",
+  "package_url": "https://pypi.org/project/app-store-reviews-reader/"
+}

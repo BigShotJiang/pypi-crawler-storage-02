@@ -1,11 +1,11 @@
 {
   "name": "pms-utils",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A helper library to implement the Gentoo Package Manager Specification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pms_utils-0.5.2-cp310-cp310-manylinux_2_34_aarch64.whl",
-  "download_time": "2025-08-09T20:27:56.683938",
+  "download_filename": "pms_utils-0.5.3-cp310-cp310-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-08-11T10:32:57.644790",
   "package_url": "https://pypi.org/project/pms-utils/"
 }

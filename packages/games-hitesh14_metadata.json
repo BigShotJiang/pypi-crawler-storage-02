@@ -1,0 +1,11 @@
+{
+  "name": "games-hitesh14",
+  "version": "1.0.0",
+  "summary": "A collection of fun games: Bulls and Cows, Guess the Number, Rock Paper Scissors.",
+  "author": "Hitesh",
+  "license": null,
+  "home_page": "https://github.com/hitesh14/games",
+  "download_filename": "games_hitesh14-1.0.0.tar.gz",
+  "download_time": "2025-08-11T10:32:48.352748",
+  "package_url": "https://pypi.org/project/games-hitesh14/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-expense",
+  "version": "1.1.0",
+  "summary": "expense component for the CubicWeb framework",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "http://www.cubicweb.org/project/cubicweb-expense",
+  "download_filename": "cubicweb_expense-1.1.0.tar.gz",
+  "download_time": "2025-08-11T10:32:52.464304",
+  "package_url": "https://pypi.org/project/cubicweb-expense/"
+}

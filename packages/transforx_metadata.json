@@ -1,11 +1,11 @@
 {
   "name": "transforx",
-  "version": "0.18.0",
-  "summary": "Simple Python translation library using Google Translate unofficial API.",
-  "author": "ALI",
+  "version": "1.7.3",
+  "summary": "A simple Python translation library using Google Translate.",
+  "author": "Ali-Jafari",
   "license": null,
   "home_page": "https://github.com/iTs-GoJo/TransforX",
-  "download_filename": "transforx-0.18.0.tar.gz",
-  "download_time": "2025-08-11T08:37:18.587557",
+  "download_filename": "transforx-1.7.3.tar.gz",
+  "download_time": "2025-08-11T10:32:43.542116",
   "package_url": "https://pypi.org/project/transforx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastlr",
+  "version": "0.1.0",
+  "summary": "Fast logistic regression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlr-0.1.0.tar.gz",
+  "download_time": "2025-08-11T10:33:05.386314",
+  "package_url": "https://pypi.org/project/fastlr/"
+}

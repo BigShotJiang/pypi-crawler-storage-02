@@ -1,11 +1,11 @@
 {
   "name": "fabricengineer-py",
-  "version": "0.1.13",
+  "version": "0.2.0",
   "summary": "Package for Fabric Engineers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabricengineer_py-0.1.13.tar.gz",
-  "download_time": "2025-08-11T09:43:44.492552",
+  "download_filename": "fabricengineer_py-0.2.0.tar.gz",
+  "download_time": "2025-08-11T10:33:01.252990",
   "package_url": "https://pypi.org/project/fabricengineer-py/"
 }
