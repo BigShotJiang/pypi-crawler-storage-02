@@ -1,11 +1,11 @@
 {
   "name": "pegasustools",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Analysis package for the Pegasus PIC code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pegasustools-0.5.4.tar.gz",
-  "download_time": "2025-08-11T18:39:50.993431",
+  "download_filename": "pegasustools-0.5.5.tar.gz",
+  "download_time": "2025-08-11T19:02:56.834402",
   "package_url": "https://pypi.org/project/pegasustools/"
 }

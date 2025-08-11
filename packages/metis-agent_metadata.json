@@ -1,11 +1,11 @@
 {
   "name": "metis-agent",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "summary": "A comprehensive framework for building powerful AI agents with enhanced developer experience, featuring intelligent project awareness, smart codebase analysis, TODO checklist system, fast/stream operation modes, smart confirmation system, progressive disclosure interface, Graph-Enhanced Knowledge Base system with relationship intelligence, local model support (HuggingFace/Ollama), autonomous capability expansion, and advanced memory management",
   "author": "Metis OS Team",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/metisos/metisos_agentV1",
-  "download_filename": "metis_agent-0.11.3.tar.gz",
-  "download_time": "2025-08-11T17:02:37.741873",
+  "download_filename": "metis_agent-0.11.4.tar.gz",
+  "download_time": "2025-08-11T19:02:33.190121",
   "package_url": "https://pypi.org/project/metis-agent/"
 }

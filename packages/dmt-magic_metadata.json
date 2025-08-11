@@ -1,0 +1,11 @@
+{
+  "name": "dmt-magic",
+  "version": "1.1.1",
+  "summary": "Jupyter Magic zur Integration des E-Assessment-Systems Data Management Tester (DMT)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmt_magic-1.1.1.tar.gz",
+  "download_time": "2025-08-11T19:03:06.826981",
+  "package_url": "https://pypi.org/project/dmt-magic/"
+}

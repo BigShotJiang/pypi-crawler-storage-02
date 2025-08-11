@@ -1,0 +1,11 @@
+{
+  "name": "wws-api",
+  "version": "0.1.0",
+  "summary": "Simplifies the process for calling the Workday Web Services API asyncronously.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wws_api-0.1.0.tar.gz",
+  "download_time": "2025-08-11T19:02:54.225913",
+  "package_url": "https://pypi.org/project/wws-api/"
+}

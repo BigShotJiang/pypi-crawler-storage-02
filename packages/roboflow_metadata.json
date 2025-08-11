@@ -1,11 +1,11 @@
 {
   "name": "roboflow",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Official Python package for working with the Roboflow API",
   "author": "Roboflow",
   "license": null,
   "home_page": "https://github.com/roboflow-ai/roboflow-python",
-  "download_filename": "roboflow-1.2.4.tar.gz",
-  "download_time": "2025-08-11T15:34:07.237416",
+  "download_filename": "roboflow-1.2.5.tar.gz",
+  "download_time": "2025-08-11T19:02:47.373689",
   "package_url": "https://pypi.org/project/roboflow/"
 }

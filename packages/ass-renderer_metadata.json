@@ -1,0 +1,11 @@
+{
+  "name": "ass-renderer",
+  "version": "0.5",
+  "summary": "Render ASS subtitles as numpy bitmaps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ass_renderer-0.5.tar.gz",
+  "download_time": "2025-08-11T19:03:07.886246",
+  "package_url": "https://pypi.org/project/ass-renderer/"
+}

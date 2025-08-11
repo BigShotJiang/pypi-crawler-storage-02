@@ -1,11 +1,11 @@
 {
   "name": "fabric-analytics-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Microsoft Fabric Analytics MCP Server - Enable AI assistants to access and analyze Microsoft Fabric data",
   "author": "Santhosh Ravindran",
   "license": null,
   "home_page": "https://github.com/santhoshravindran7/Fabric-Analytics-MCP",
-  "download_filename": "fabric_analytics_mcp-1.0.1.tar.gz",
-  "download_time": "2025-08-09T05:01:17.087333",
+  "download_filename": "fabric_analytics_mcp-1.0.2.tar.gz",
+  "download_time": "2025-08-11T19:02:52.143815",
   "package_url": "https://pypi.org/project/fabric-analytics-mcp/"
 }
