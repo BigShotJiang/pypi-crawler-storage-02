@@ -1,0 +1,11 @@
+{
+  "name": "MorphLink",
+  "version": "1.0.6",
+  "summary": "MorphLink: Bridging Cell Morphological Behaviors and Molecular Dynamics in Multi-modal Spatial Omics",
+  "author": "Jing Huang",
+  "license": null,
+  "home_page": "https://github.com/jianhuupenn/MorphLink",
+  "download_filename": "morphlink-1.0.6.tar.gz",
+  "download_time": "2025-08-11T04:50:37.357148",
+  "package_url": "https://pypi.org/project/MorphLink/"
+}

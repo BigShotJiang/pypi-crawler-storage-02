@@ -1,11 +1,11 @@
 {
   "name": "dmxfy",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "大语言模型翻译器终端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmxfy-0.5.3.tar.gz",
-  "download_time": "2025-08-08T09:45:01.188488",
+  "download_filename": "dmxfy-0.5.4.tar.gz",
+  "download_time": "2025-08-11T04:50:59.420128",
   "package_url": "https://pypi.org/project/dmxfy/"
 }

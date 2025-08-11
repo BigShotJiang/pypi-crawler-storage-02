@@ -1,11 +1,11 @@
 {
   "name": "bikidata",
-  "version": "0.2.22",
+  "version": "0.3.0",
   "summary": "Developer-friendly Queries over RDF triples",
   "author": "Etienne Posthumus",
   "license": "MIT",
   "home_page": "https://github.com/ISE-FIZKarlsruhe/bikidata/",
-  "download_filename": "bikidata-0.2.22.tar.gz",
-  "download_time": "2025-08-08T17:45:27.185523",
+  "download_filename": "bikidata-0.3.0.tar.gz",
+  "download_time": "2025-08-11T04:50:49.603985",
   "package_url": "https://pypi.org/project/bikidata/"
 }

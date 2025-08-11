@@ -1,0 +1,11 @@
+{
+  "name": "social-magic",
+  "version": "0.1.0",
+  "summary": "A Python library for social media content enhancement",
+  "author": "SocialMagic Team",
+  "license": null,
+  "home_page": "https://github.com/socialmagic/social-magic",
+  "download_filename": "social_magic-0.1.0.tar.gz",
+  "download_time": "2025-08-11T04:50:50.179816",
+  "package_url": "https://pypi.org/project/social-magic/"
+}

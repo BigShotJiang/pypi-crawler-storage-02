@@ -1,0 +1,11 @@
+{
+  "name": "thompson-sampling-example-unique",
+  "version": "0.1.1",
+  "summary": "A simple implementation of Thompson Sampling for the Multi-Armed Bandit problem.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thompson_sampling_example_unique-0.1.1.tar.gz",
+  "download_time": "2025-08-11T04:50:44.316464",
+  "package_url": "https://pypi.org/project/thompson-sampling-example-unique/"
+}

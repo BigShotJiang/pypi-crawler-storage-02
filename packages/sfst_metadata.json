@@ -1,0 +1,11 @@
+{
+  "name": "sfst",
+  "version": "1.8.0",
+  "summary": "Python binding for SFST",
+  "author": "Santhosh Thottingal",
+  "license": "GPLv2",
+  "home_page": "https://github.com/santhoshtr/sfst",
+  "download_filename": "sfst-1.8.0.tar.gz",
+  "download_time": "2025-08-11T04:50:33.341536",
+  "package_url": "https://pypi.org/project/sfst/"
+}

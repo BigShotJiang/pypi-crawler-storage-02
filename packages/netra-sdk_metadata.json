@@ -1,11 +1,11 @@
 {
   "name": "netra-sdk",
-  "version": "0.1.27",
+  "version": "0.1.29",
   "summary": "A Python SDK for AI application observability that provides OpenTelemetry-based monitoring, tracing, and PII protection for LLM and vector database applications. Enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems in production environments.",
   "author": "Sooraj Thomas",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netra_sdk-0.1.27.tar.gz",
-  "download_time": "2025-08-08T05:59:25.507121",
+  "download_filename": "netra_sdk-0.1.29.tar.gz",
+  "download_time": "2025-08-11T04:50:36.212660",
   "package_url": "https://pypi.org/project/netra-sdk/"
 }

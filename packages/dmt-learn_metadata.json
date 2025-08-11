@@ -1,11 +1,11 @@
 {
   "name": "dmt-learn",
-  "version": "0.0.73",
+  "version": "0.0.78",
   "summary": "dmt learn package",
   "author": "Zelin Zang",
   "license": null,
   "home_page": "https://github.com/yourusername/my_package",
-  "download_filename": "dmt_learn-0.0.73.tar.gz",
-  "download_time": "2025-08-07T12:59:27.443348",
+  "download_filename": "dmt_learn-0.0.78.tar.gz",
+  "download_time": "2025-08-11T04:50:35.584174",
   "package_url": "https://pypi.org/project/dmt-learn/"
 }
