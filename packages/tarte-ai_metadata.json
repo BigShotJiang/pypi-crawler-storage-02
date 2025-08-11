@@ -1,11 +1,11 @@
 {
   "name": "tarte-ai",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "TARTE-AI: Transformer Augmented Representation of Tabular Entries",
   "author": "Myung Jun Kim, Felix Lefebvre, Gaetan Brison, Alexandre Perez-Lebel, Gael Varoquaux",
   "license": "BSD-3-Clause license",
   "home_page": null,
-  "download_filename": "tarte_ai-0.0.4.tar.gz",
-  "download_time": "2025-08-10T22:58:46.581561",
+  "download_filename": "tarte_ai-0.0.5.tar.gz",
+  "download_time": "2025-08-11T07:57:01.020623",
   "package_url": "https://pypi.org/project/tarte-ai/"
 }

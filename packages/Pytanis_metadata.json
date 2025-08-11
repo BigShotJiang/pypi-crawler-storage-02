@@ -1,11 +1,11 @@
 {
   "name": "Pytanis",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "Utilities for the program organization of conferences using Pretalx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytanis-0.9.5.tar.gz",
-  "download_time": "2025-08-10T22:23:57.563613",
+  "download_filename": "pytanis-0.9.6.tar.gz",
+  "download_time": "2025-08-11T07:57:06.739436",
   "package_url": "https://pypi.org/project/Pytanis/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "yellowdog-python-examples",
-  "version": "7.18.5",
+  "version": "7.18.6",
   "summary": "Python CLI commands using the YellowDog Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yellowdog_python_examples-7.18.5.tar.gz",
-  "download_time": "2025-08-06T07:29:43.455323",
+  "download_filename": "yellowdog_python_examples-7.18.6.tar.gz",
+  "download_time": "2025-08-11T07:56:52.630599",
   "package_url": "https://pypi.org/project/yellowdog-python-examples/"
 }

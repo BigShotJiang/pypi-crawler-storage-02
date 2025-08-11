@@ -1,11 +1,11 @@
 {
   "name": "pyfuppes",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "A collection of tools in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfuppes-0.7.0.tar.gz",
-  "download_time": "2025-08-05T14:54:47.695963",
+  "download_filename": "pyfuppes-0.7.1.tar.gz",
+  "download_time": "2025-08-11T07:56:39.010555",
   "package_url": "https://pypi.org/project/pyfuppes/"
 }

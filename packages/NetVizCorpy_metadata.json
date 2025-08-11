@@ -1,0 +1,11 @@
+{
+  "name": "NetVizCorpy",
+  "version": "0.1.7",
+  "summary": "Visualise corporate relationships using WikiData in multi-level B2B networks",
+  "author": "Zsofia Baruwa",
+  "license": null,
+  "home_page": "https://github.com/zb15/NetVizCorpy",
+  "download_filename": "netvizcorpy-0.1.7.tar.gz",
+  "download_time": "2025-08-11T07:56:48.977857",
+  "package_url": "https://pypi.org/project/NetVizCorpy/"
+}

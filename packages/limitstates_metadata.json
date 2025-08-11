@@ -1,11 +1,11 @@
 {
   "name": "limitstates",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A structural design library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "limitstates-0.3.0.tar.gz",
-  "download_time": "2025-08-11T02:06:41.643679",
+  "download_filename": "limitstates-0.3.1.tar.gz",
+  "download_time": "2025-08-11T07:57:18.207488",
   "package_url": "https://pypi.org/project/limitstates/"
 }

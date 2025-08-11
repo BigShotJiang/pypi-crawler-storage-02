@@ -1,11 +1,11 @@
 {
   "name": "liveramp-automation",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "summary": "This is the base liveramp_automation_framework",
   "author": "Jasmine Qian",
   "license": null,
   "home_page": "https://github.com/LiveRamp/liveramp-automation",
-  "download_filename": "liveramp_automation-1.7.0.tar.gz",
-  "download_time": "2025-08-11T07:05:00.043358",
+  "download_filename": "liveramp_automation-1.7.2.tar.gz",
+  "download_time": "2025-08-11T07:56:43.178142",
   "package_url": "https://pypi.org/project/liveramp-automation/"
 }

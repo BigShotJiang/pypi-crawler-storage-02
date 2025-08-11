@@ -1,0 +1,11 @@
+{
+  "name": "slothy",
+  "version": "0.1.3",
+  "summary": "SLOTHY: Assembly superoptimization via constraint solving",
+  "author": "Hanno Becker, Amin Abdulrahman, Matthias Kannwischer, Fabien Klein",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slothy-0.1.3.tar.gz",
+  "download_time": "2025-08-11T07:56:41.096568",
+  "package_url": "https://pypi.org/project/slothy/"
+}

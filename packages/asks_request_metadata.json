@@ -1,11 +1,11 @@
 {
   "name": "asks_request",
-  "version": "0.0.1.1",
+  "version": "0.0.2",
   "summary": "asks request extension.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/asks_request",
-  "download_filename": "asks_request-0.0.1.1.tar.gz",
-  "download_time": "2025-08-10T13:34:24.956818",
+  "download_filename": "asks_request-0.0.2.tar.gz",
+  "download_time": "2025-08-11T07:56:50.538242",
   "package_url": "https://pypi.org/project/asks_request/"
 }

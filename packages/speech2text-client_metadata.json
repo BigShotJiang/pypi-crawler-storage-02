@@ -1,11 +1,11 @@
 {
   "name": "speech2text-client",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Python SDK for speech2text.ru",
-  "author": null,
-  "license": "MIT",
-  "home_page": null,
-  "download_filename": "speech2text_client-0.1.1.tar.gz",
-  "download_time": "2025-08-11T07:15:57.038068",
+  "author": "Dmitry Belov",
+  "license": null,
+  "home_page": "https://speech2text.ru/",
+  "download_filename": "speech2text_client-0.1.4.tar.gz",
+  "download_time": "2025-08-11T07:56:48.458407",
   "package_url": "https://pypi.org/project/speech2text-client/"
 }

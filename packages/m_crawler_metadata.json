@@ -1,11 +1,11 @@
 {
   "name": "m_crawler",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A base crawler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m_crawler-0.1.6.tar.gz",
-  "download_time": "2025-08-10T14:45:48.323930",
+  "download_filename": "m_crawler-0.1.7.tar.gz",
+  "download_time": "2025-08-11T07:56:53.668752",
   "package_url": "https://pypi.org/project/m_crawler/"
 }
