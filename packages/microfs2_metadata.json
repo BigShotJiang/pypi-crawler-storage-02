@@ -1,11 +1,11 @@
 {
   "name": "microfs2",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "A module and utility to work with the simple filesystem on the BBC micro:bit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microfs2-2.0.3.tar.gz",
-  "download_time": "2025-08-11T04:51:08.716633",
+  "download_filename": "microfs2-2.0.4.tar.gz",
+  "download_time": "2025-08-11T05:59:22.058661",
   "package_url": "https://pypi.org/project/microfs2/"
 }

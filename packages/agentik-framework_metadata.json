@@ -1,11 +1,11 @@
 {
   "name": "agentik-framework",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Lightweight, Modular Agent Framework for AI planning, tools, and memory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentik_framework-0.1.3.tar.gz",
-  "download_time": "2025-08-06T06:00:13.542689",
+  "download_filename": "agentik_framework-0.1.4.tar.gz",
+  "download_time": "2025-08-11T05:59:23.082769",
   "package_url": "https://pypi.org/project/agentik-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "stand-da",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stand_da-0.1.1.tar.gz",
-  "download_time": "2025-08-11T05:39:57.851906",
+  "download_filename": "stand_da-0.1.2.tar.gz",
+  "download_time": "2025-08-11T05:59:26.662453",
   "package_url": "https://pypi.org/project/stand-da/"
 }

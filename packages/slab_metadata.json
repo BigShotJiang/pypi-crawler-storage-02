@@ -1,0 +1,11 @@
+{
+  "name": "slab",
+  "version": "1.8.2",
+  "summary": "Tools for generating and manipulating digital signals, particularly sounds.",
+  "author": "Marc Schoenwiesner",
+  "license": "MIT",
+  "home_page": "http://github.com/DrMarc/slab.git",
+  "download_filename": "slab-1.8.2.tar.gz",
+  "download_time": "2025-08-11T05:59:15.379706",
+  "package_url": "https://pypi.org/project/slab/"
+}

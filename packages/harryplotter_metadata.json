@@ -1,0 +1,11 @@
+{
+  "name": "harryplotter",
+  "version": "0.1.0",
+  "summary": "A simple machine learning package using scikit-learn",
+  "author": null,
+  "license": "RahulSwami",
+  "home_page": null,
+  "download_filename": "harryplotter-0.1.0.tar.gz",
+  "download_time": "2025-08-11T05:59:26.152508",
+  "package_url": "https://pypi.org/project/harryplotter/"
+}
