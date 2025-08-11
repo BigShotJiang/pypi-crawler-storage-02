@@ -1,0 +1,11 @@
+{
+  "name": "easy-recommender",
+  "version": "0.1.1",
+  "summary": "A simple recommendation system using implicit library",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easy_recommender-0.1.1.tar.gz",
+  "download_time": "2025-08-11T14:36:15.387562",
+  "package_url": "https://pypi.org/project/easy-recommender/"
+}

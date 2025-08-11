@@ -1,11 +1,11 @@
 {
   "name": "nobitexv2",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Nobitex client for python",
   "author": "NavidP",
   "license": null,
   "home_page": "https://github.com/navidpgg/nobitexv2",
-  "download_filename": "nobitexv2-0.1.1.tar.gz",
-  "download_time": "2025-08-11T09:59:01.140220",
+  "download_filename": "nobitexv2-0.2.0.tar.gz",
+  "download_time": "2025-08-11T14:36:50.457233",
   "package_url": "https://pypi.org/project/nobitexv2/"
 }

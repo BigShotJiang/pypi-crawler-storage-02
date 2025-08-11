@@ -1,11 +1,11 @@
 {
   "name": "tk-base-utils",
-  "version": "0.2.7",
+  "version": "0.2.9",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tk_base_utils-0.2.7.tar.gz",
-  "download_time": "2025-08-11T07:57:11.417701",
+  "download_filename": "tk_base_utils-0.2.9.tar.gz",
+  "download_time": "2025-08-11T14:36:25.784312",
   "package_url": "https://pypi.org/project/tk-base-utils/"
 }

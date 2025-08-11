@@ -1,0 +1,11 @@
+{
+  "name": "pinecone-text",
+  "version": "0.11.0",
+  "summary": "Text utilities library by Pinecone.io",
+  "author": "Pinecone.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinecone_text-0.11.0.tar.gz",
+  "download_time": "2025-08-11T14:36:31.666632",
+  "package_url": "https://pypi.org/project/pinecone-text/"
+}

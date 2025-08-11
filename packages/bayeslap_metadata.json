@@ -1,0 +1,11 @@
+{
+  "name": "bayeslap",
+  "version": "0.0.1",
+  "summary": null,
+  "author": "cat-claws",
+  "license": "MIT",
+  "home_page": "https://github.com/cat-claws/bayes-error-local-averaging",
+  "download_filename": "bayeslap-0.0.1.tar.gz",
+  "download_time": "2025-08-11T14:36:44.641982",
+  "package_url": "https://pypi.org/project/bayeslap/"
+}

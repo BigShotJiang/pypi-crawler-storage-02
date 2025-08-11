@@ -1,0 +1,11 @@
+{
+  "name": "xml-iterator",
+  "version": "0.1.4",
+  "summary": "XML parser with streaming iterator interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xml_iterator-0.1.4-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-08-11T14:36:52.272772",
+  "package_url": "https://pypi.org/project/xml-iterator/"
+}
