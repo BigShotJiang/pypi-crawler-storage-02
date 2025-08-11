@@ -1,15 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T23:45:27.831280
-- **Total Packages**: 82
-- **Total Size**: 12.7 MB
+- **Download Time**: 2025-08-11T23:56:27.860495
+- **Total Packages**: 84
+- **Total Size**: 13.89 MB
 
 ## Packages List
+- lbt-dragonfly
+- mtcli
+- falyx
+- dextrades
+- phonic
+- lbt-honeybee
+- qai-hub
+- mcp-airflow-api
+- graph-games-proto
+- immersim
+- terminator-py
+- moose-lib
+- crispr-ambiguous-mapping
+- kfactory
+- tldrcli
+- dragonfly-energy
+- libzrod
+- dragonfly-uwg
+- dragonfly-radiance
+- bazel-runfiles
+- simplebroker
+- gitlake
+- toomanythreads
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- pyqrack-cpu-complex128
+- honeybee-radiance-postprocess
+- pyqrack-cpu
+- streamlit-sigmajs-component
+- pyqrack-complex128
+- pyqrack
 - aind-data-transfer-service
 - cmpl
-- tldrcli
-- crispr-ambiguous-mapping
 - ha-synthetic-sensors
 - workbench
 - custos-labs
@@ -38,7 +67,6 @@
 - pulumi-gcp
 - rose-bag
 - vidavis
-- immersim
 - conviso-cli
 - slurm-factory
 - mcp-ambari-api
@@ -62,29 +90,3 @@
 - tesla-coil-simulator
 - ExoGibbs
 - safari-sdk
-- note-to-json
-- augint-billing-lib
-- bash2gitlab
-- pgrubic
-- thoth-vdbmanager
-- quick-sentiments
-- robin-logistics-env
-- gradio-imagemeta
-- csvdir
-- hypha
-- UnOffical-TAGO-API
-- asyncdb
-- sensory-data-client
-- sqlmesh
-- dolphin
-- mcp-airflow-api
-- unpage
-- mcp-agent
-- flwr-nightly
-- mas-cli
-- abstract-ide
-- lusid-sdk
-- autocrud
-- etana-trade-mcp
-- neurograph-core
-- flash-llm-rl

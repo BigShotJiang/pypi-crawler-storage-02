@@ -1,11 +1,11 @@
 {
   "name": "tldrcli",
-  "version": "0.1.1",
+  "version": "0.2",
   "summary": "Your new CLI tool helping you learn and fix errors in Python fast!",
   "author": "Devanshu Pandya",
   "license": null,
   "home_page": null,
-  "download_filename": "tldrcli-0.1.1.tar.gz",
-  "download_time": "2025-08-11T23:44:39.784536",
+  "download_filename": "tldrcli-0.2.tar.gz",
+  "download_time": "2025-08-11T23:55:49.379257",
   "package_url": "https://pypi.org/project/tldrcli/"
 }

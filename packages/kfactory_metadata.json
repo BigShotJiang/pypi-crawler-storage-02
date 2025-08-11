@@ -1,11 +1,11 @@
 {
   "name": "kfactory",
-  "version": "1.12.2",
+  "version": "1.12.4",
   "summary": "KLayout API implementation of gdsfactory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kfactory-1.12.2.tar.gz",
-  "download_time": "2025-08-06T17:02:32.454965",
+  "download_filename": "kfactory-1.12.4.tar.gz",
+  "download_time": "2025-08-11T23:55:48.821594",
   "package_url": "https://pypi.org/project/kfactory/"
 }
