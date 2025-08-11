@@ -1,0 +1,11 @@
+{
+  "name": "travecto",
+  "version": "2025.8.11",
+  "summary": "Optimizes travel routes using Google Maps Geocoding API and the traveling salesman problem solver from OR-Tools.",
+  "author": "Inc44",
+  "license": null,
+  "home_page": null,
+  "download_filename": "travecto-2025.8.11.tar.gz",
+  "download_time": "2025-08-11T02:07:23.267368",
+  "package_url": "https://pypi.org/project/travecto/"
+}

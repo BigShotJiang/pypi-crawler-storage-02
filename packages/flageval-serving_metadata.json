@@ -1,0 +1,11 @@
+{
+  "name": "flageval-serving",
+  "version": "0.2.5",
+  "summary": null,
+  "author": "FlagEval",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flageval_serving-0.2.5.tar.gz",
+  "download_time": "2025-08-11T02:06:55.812237",
+  "package_url": "https://pypi.org/project/flageval-serving/"
+}

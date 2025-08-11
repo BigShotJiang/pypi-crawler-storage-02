@@ -1,0 +1,11 @@
+{
+  "name": "rapycontrol",
+  "version": "0.1.0",
+  "summary": "A Python library for controlling stepper motors and other devices.",
+  "author": "Muwon Lee",
+  "license": null,
+  "home_page": "https://github.com/lmwmason/rapycontrol/tree/main/rapycontrol",
+  "download_filename": "rapycontrol-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-11T02:06:44.786035",
+  "package_url": "https://pypi.org/project/rapycontrol/"
+}

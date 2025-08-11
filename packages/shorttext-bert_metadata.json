@@ -1,0 +1,11 @@
+{
+  "name": "shorttext-bert",
+  "version": "0.0.1",
+  "summary": "Short Text Mining",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shorttext_bert-0.0.1.tar.gz",
+  "download_time": "2025-08-11T02:07:18.045818",
+  "package_url": "https://pypi.org/project/shorttext-bert/"
+}

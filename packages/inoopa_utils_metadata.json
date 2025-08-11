@@ -1,11 +1,11 @@
 {
   "name": "inoopa_utils",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "summary": "Collection of utils used at Inoopa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inoopa_utils-7.0.0.tar.gz",
-  "download_time": "2025-08-07T23:25:48.449759",
+  "download_filename": "inoopa_utils-7.1.0.tar.gz",
+  "download_time": "2025-08-11T02:07:20.664670",
   "package_url": "https://pypi.org/project/inoopa_utils/"
 }

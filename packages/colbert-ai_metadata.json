@@ -1,0 +1,11 @@
+{
+  "name": "colbert-ai",
+  "version": "0.2.22",
+  "summary": "Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+  "author": "Omar Khattab",
+  "license": null,
+  "home_page": "https://github.com/stanford-futuredata/ColBERT",
+  "download_filename": "colbert_ai-0.2.22.tar.gz",
+  "download_time": "2025-08-11T02:07:13.867121",
+  "package_url": "https://pypi.org/project/colbert-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qlearn",
+  "version": "1.0.6",
+  "summary": "Python reinforcement learning library implementing Q-learning with training workflows for object search tasks in grid worlds.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qlearn-1.0.6.tar.gz",
+  "download_time": "2025-08-11T02:07:22.748779",
+  "package_url": "https://pypi.org/project/qlearn/"
+}
