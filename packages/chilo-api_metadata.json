@@ -1,0 +1,11 @@
+{
+  "name": "chilo-api",
+  "version": "2.0.0",
+  "summary": "Chilo is a lightweight, form-meets-function, opinionated (yet highly configurable) api framework.",
+  "author": "Paul Cruse III",
+  "license": null,
+  "home_page": "https://github.com/dual/chilo.git",
+  "download_filename": "chilo_api-2.0.0.tar.gz",
+  "download_time": "2025-08-11T21:44:35.926171",
+  "package_url": "https://pypi.org/project/chilo-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scors",
+  "version": "0.2.3",
+  "summary": "Binary classification scores in Rust",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/hanslovsky/scors",
+  "download_filename": "scors-0.2.3.tar.gz",
+  "download_time": "2025-08-11T21:44:07.389752",
+  "package_url": "https://pypi.org/project/scors/"
+}
