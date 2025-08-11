@@ -1,16 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T08:37:50.197802
+- **Download Time**: 2025-08-11T09:03:33.666919
 - **Total Packages**: 80
-- **Total Size**: 40.0 MB
+- **Total Size**: 19.26 MB
 
 ## Packages List
+- mcp-code-indexer
+- idvpackage
+- pyhrp
+- cubicweb-web
+- BiFuncLib
+- higgs
+- zope.minmax
+- litsense-wrapper
+- django-unfold
 - kuzu
 - pmg
+- mcp-beeper-texts
 - databricks-connect
 - hur
-- mcp-code-indexer
 - zdocker
 - omnara
 - cmk-dev-site
@@ -24,7 +33,6 @@
 - lib-azure
 - pylimer-tools
 - MeUtils
-- rknn-yolov8
 - cesnet-models
 - biomedisa
 - dtpyfw
@@ -78,11 +86,3 @@
 - mtcli
 - pyglove
 - exqalibur
-- RubigramClient
-- gllm-inference-binary
-- wassima
-- orq-ai-sdk
-- pancham
-- py5paisa
-- podsmith
-- pytacs

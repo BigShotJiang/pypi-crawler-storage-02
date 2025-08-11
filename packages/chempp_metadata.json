@@ -1,11 +1,11 @@
 {
   "name": "chempp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Chem++ for Chemical System Programming",
-  "author": "Your Name or Team",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/chempp",
-  "download_filename": "chempp-0.1.2.tar.gz",
-  "download_time": "2025-08-11T08:37:13.325276",
+  "home_page": null,
+  "download_filename": "chempp-0.1.4.tar.gz",
+  "download_time": "2025-08-11T09:02:58.539944",
   "package_url": "https://pypi.org/project/chempp/"
 }

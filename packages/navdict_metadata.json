@@ -1,11 +1,11 @@
 {
   "name": "navdict",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "A navigable dictionary with dot notation access and automatic file loading",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "navdict-0.5.3.tar.gz",
-  "download_time": "2025-08-11T08:37:21.736493",
+  "download_filename": "navdict-0.5.4.tar.gz",
+  "download_time": "2025-08-11T09:03:07.329742",
   "package_url": "https://pypi.org/project/navdict/"
 }

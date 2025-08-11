@@ -1,11 +1,11 @@
 {
   "name": "mcp-beeper-texts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A local MCP server for Beeper Texts on macOS.",
-  "author": null,
+  "author": "Tom Etminan",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_beeper_texts-0.0.1.tar.gz",
-  "download_time": "2025-08-10T14:45:40.598343",
+  "download_filename": "mcp_beeper_texts-0.0.2.tar.gz",
+  "download_time": "2025-08-11T09:02:50.082155",
   "package_url": "https://pypi.org/project/mcp-beeper-texts/"
 }

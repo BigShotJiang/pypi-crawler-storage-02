@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-web",
+  "version": "1.6.2",
+  "summary": "Legacy component for web application",
+  "author": null,
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)",
+  "home_page": null,
+  "download_filename": "cubicweb_web-1.6.2.tar.gz",
+  "download_time": "2025-08-11T09:02:44.469006",
+  "package_url": "https://pypi.org/project/cubicweb-web/"
+}
