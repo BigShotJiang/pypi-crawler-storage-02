@@ -1,11 +1,11 @@
 {
   "name": "structifyai",
-  "version": "1.135.6",
+  "version": "1.136.0",
   "summary": "The official Python library for the structify API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "structifyai-1.135.6.tar.gz",
-  "download_time": "2025-08-08T02:21:42.651885",
+  "download_filename": "structifyai-1.136.0.tar.gz",
+  "download_time": "2025-08-11T20:46:03.597378",
   "package_url": "https://pypi.org/project/structifyai/"
 }

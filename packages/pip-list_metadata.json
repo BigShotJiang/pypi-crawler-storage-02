@@ -1,11 +1,11 @@
 {
   "name": "pip-list",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "List installed pip packages with their installed size, supports sorting and filtering.",
   "author": "Mayank Kumar Poddar",
   "license": "MIT",
   "home_page": "https://github.com/mynkpdr/pip-list",
-  "download_filename": "pip_list-0.1.2.tar.gz",
-  "download_time": "2025-08-11T17:52:04.955681",
+  "download_filename": "pip_list-0.1.4.tar.gz",
+  "download_time": "2025-08-11T20:46:38.213702",
   "package_url": "https://pypi.org/project/pip-list/"
 }

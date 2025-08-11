@@ -1,0 +1,11 @@
+{
+  "name": "llm-benchmark",
+  "version": "0.4.9",
+  "summary": "LLM Benchmark",
+  "author": "Jason Chuang",
+  "license": null,
+  "home_page": "https://github.com/aidatatools/ollama-benchmark",
+  "download_filename": "llm_benchmark-0.4.9.tar.gz",
+  "download_time": "2025-08-11T20:46:12.437544",
+  "package_url": "https://pypi.org/project/llm-benchmark/"
+}

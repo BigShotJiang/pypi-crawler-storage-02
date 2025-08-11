@@ -1,0 +1,11 @@
+{
+  "name": "jinja2-library",
+  "version": "0.5.1",
+  "summary": "Library functionality for Jinja2 extensions",
+  "author": "Jens Engel",
+  "license": null,
+  "home_page": "https://github.com/jenisys/jinja2-library",
+  "download_filename": "jinja2_library-0.5.1.tar.gz",
+  "download_time": "2025-08-11T20:46:27.351645",
+  "package_url": "https://pypi.org/project/jinja2-library/"
+}

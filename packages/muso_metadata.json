@@ -1,11 +1,11 @@
 {
   "name": "muso",
-  "version": "0.0.1a69",
+  "version": "0.0.1a71",
   "summary": "A simple async JSON API-Framework based on Marshmallow / Uvicorn / Starlette / Orjson.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muso-0.0.1a69.tar.gz",
-  "download_time": "2025-08-07T17:42:42.213764",
+  "download_filename": "muso-0.0.1a71.tar.gz",
+  "download_time": "2025-08-11T20:46:37.702294",
   "package_url": "https://pypi.org/project/muso/"
 }

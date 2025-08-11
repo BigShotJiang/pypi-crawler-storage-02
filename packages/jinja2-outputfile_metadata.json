@@ -1,0 +1,11 @@
+{
+  "name": "jinja2-outputfile",
+  "version": "0.5.1",
+  "summary": "Jinja2 extension that redirects output to output file(s)",
+  "author": "Jens Engel",
+  "license": null,
+  "home_page": "https://github.com/jenisys/jinja2-outputfile",
+  "download_filename": "jinja2_outputfile-0.5.1.tar.gz",
+  "download_time": "2025-08-11T20:46:04.108259",
+  "package_url": "https://pypi.org/project/jinja2-outputfile/"
+}

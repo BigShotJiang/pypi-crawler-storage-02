@@ -1,11 +1,11 @@
 {
   "name": "termina",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/termina-ai/termina-monorepo",
-  "download_filename": "termina-0.1.6.tar.gz",
-  "download_time": "2025-08-07T22:50:26.661036",
+  "download_filename": "termina-0.1.7.tar.gz",
+  "download_time": "2025-08-11T20:46:30.494774",
   "package_url": "https://pypi.org/project/termina/"
 }

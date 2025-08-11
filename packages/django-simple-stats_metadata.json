@@ -1,0 +1,11 @@
+{
+  "name": "django-simple-stats",
+  "version": "0.7.7",
+  "summary": "A django package for creating simple stats from a query",
+  "author": "Serafeim Papastefanos",
+  "license": "MIT",
+  "home_page": "https://github.com/spapas/django-simple-stats",
+  "download_filename": "django_simple_stats-0.7.7.tar.gz",
+  "download_time": "2025-08-11T20:46:39.234468",
+  "package_url": "https://pypi.org/project/django-simple-stats/"
+}
