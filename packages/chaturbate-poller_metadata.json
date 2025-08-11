@@ -1,0 +1,11 @@
+{
+  "name": "chaturbate-poller",
+  "version": "5.1.7",
+  "summary": "Python library for interacting with the Chaturbate Events API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chaturbate_poller-5.1.7.tar.gz",
+  "download_time": "2025-08-11T23:44:49.198880",
+  "package_url": "https://pypi.org/project/chaturbate-poller/"
+}

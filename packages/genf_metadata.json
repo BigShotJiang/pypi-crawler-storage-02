@@ -1,0 +1,11 @@
+{
+  "name": "genf",
+  "version": "0.1.0",
+  "summary": "Extract file names and contents from a directory",
+  "author": "marhaendev",
+  "license": null,
+  "home_page": "https://marhaendev.com",
+  "download_filename": "genf-0.1.0.tar.gz",
+  "download_time": "2025-08-11T23:45:04.760156",
+  "package_url": "https://pypi.org/project/genf/"
+}
