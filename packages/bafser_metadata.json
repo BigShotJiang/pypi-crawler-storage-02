@@ -1,0 +1,11 @@
+{
+  "name": "bafser",
+  "version": "1.4.1",
+  "summary": "Base for flask server",
+  "author": "Mixel Te",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bafser-1.4.1.tar.gz",
+  "download_time": "2025-08-11T15:02:24.435067",
+  "package_url": "https://pypi.org/project/bafser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ini-cfg-parser",
+  "version": "0.1.8",
+  "summary": "Parser for ini files",
+  "author": "pukkunk",
+  "license": null,
+  "home_page": "https://github.com/pukkunk/ini_cfg_parser",
+  "download_filename": "ini_cfg_parser-0.1.8.tar.gz",
+  "download_time": "2025-08-11T15:02:04.238986",
+  "package_url": "https://pypi.org/project/ini-cfg-parser/"
+}

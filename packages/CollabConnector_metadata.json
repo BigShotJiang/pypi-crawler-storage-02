@@ -1,0 +1,11 @@
+{
+  "name": "CollabConnector",
+  "version": "0.1.1754923812",
+  "summary": "An attempt at a simplified API collection for Cisco Collab products",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collabconnector-0.1.1754923812.tar.gz",
+  "download_time": "2025-08-11T15:02:17.608985",
+  "package_url": "https://pypi.org/project/CollabConnector/"
+}

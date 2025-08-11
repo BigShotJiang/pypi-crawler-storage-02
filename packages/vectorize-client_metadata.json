@@ -1,0 +1,11 @@
+{
+  "name": "vectorize-client",
+  "version": "0.4.0",
+  "summary": "Python client for the Vectorize API",
+  "author": "Vectorize",
+  "license": "MIT",
+  "home_page": "https://vectorize.io",
+  "download_filename": "vectorize_client-0.4.0.tar.gz",
+  "download_time": "2025-08-11T15:02:21.174881",
+  "package_url": "https://pypi.org/project/vectorize-client/"
+}

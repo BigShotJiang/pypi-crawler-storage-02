@@ -1,0 +1,11 @@
+{
+  "name": "rl-blox",
+  "version": "0.5.1",
+  "summary": "Modular RL building blocks in JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rl_blox-0.5.1.tar.gz",
+  "download_time": "2025-08-11T15:02:07.916282",
+  "package_url": "https://pypi.org/project/rl-blox/"
+}

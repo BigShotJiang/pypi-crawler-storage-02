@@ -1,0 +1,11 @@
+{
+  "name": "nuva-sdk",
+  "version": "1.0.0",
+  "summary": "Unified Vaccine Nomenclature (NUVA) Python SDK",
+  "author": "NUVA Team",
+  "license": null,
+  "home_page": "https://github.com/nuva/nuva-libs",
+  "download_filename": "nuva_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-11T15:02:12.866262",
+  "package_url": "https://pypi.org/project/nuva-sdk/"
+}

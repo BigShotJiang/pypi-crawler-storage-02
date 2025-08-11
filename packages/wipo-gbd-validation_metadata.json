@@ -1,0 +1,11 @@
+{
+  "name": "wipo-gbd-validation",
+  "version": "2.0.5",
+  "summary": "GBD validation package",
+  "author": "WIPO GDB team",
+  "license": null,
+  "home_page": "https://github.com/GBD-Wipo/gbd-validation",
+  "download_filename": "wipo_gbd_validation-2.0.5-py3-none-any.whl",
+  "download_time": "2025-08-11T15:02:31.804971",
+  "package_url": "https://pypi.org/project/wipo-gbd-validation/"
+}

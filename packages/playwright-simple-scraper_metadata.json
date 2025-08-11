@@ -1,0 +1,11 @@
+{
+  "name": "playwright-simple-scraper",
+  "version": "0.1.5.dev0",
+  "summary": "A simple Playwright-based scraper that has simple result (based on List[str])",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playwright_simple_scraper-0.1.5.dev0.tar.gz",
+  "download_time": "2025-08-11T15:02:39.470533",
+  "package_url": "https://pypi.org/project/playwright-simple-scraper/"
+}

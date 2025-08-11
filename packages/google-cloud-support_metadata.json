@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-support",
+  "version": "0.1.19",
+  "summary": "Google Cloud Support API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-support",
+  "download_filename": "google_cloud_support-0.1.19.tar.gz",
+  "download_time": "2025-08-11T15:01:59.397531",
+  "package_url": "https://pypi.org/project/google-cloud-support/"
+}
