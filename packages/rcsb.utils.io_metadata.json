@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.io",
+  "version": "1.51",
+  "summary": "RCSB Python I/O Utility Classes",
+  "author": "John Westbrook",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-rcsb_utils_io",
+  "download_filename": "rcsb_utils_io-1.51.tar.gz",
+  "download_time": "2025-08-11T20:58:07.357023",
+  "package_url": "https://pypi.org/project/rcsb.utils.io/"
+}

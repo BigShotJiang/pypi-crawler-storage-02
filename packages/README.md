@@ -1,18 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T20:46:48.536009
-- **Total Packages**: 82
-- **Total Size**: 33.94 MB
+- **Download Time**: 2025-08-11T20:58:43.282139
+- **Total Packages**: 78
+- **Total Size**: 12.09 MB
 
 ## Packages List
+- thds.mops
+- thds.adls
+- thds.atacama
+- thds.core
+- thds.humenc
+- automagik-tools
+- algoesup
+- cjm-fasthtml-tailwind
+- mulch
+- devsecops-engine-tools
+- heaven-tree-repl
+- fastapi-agent
+- web3-wizzard-lib
+- str_sim_scorer
+- django-teamized
+- norpm
+- LeafSDK
+- rewind-reward-pytorch
+- rcsb.utils.io
+- caravan-client
+- xarm7-ik
+- turbopuffer
+- EUVpy
+- pully
+- dkist-processing-common
+- graph-games-proto
+- mcp-csv-database
+- videoipath-automation-tool
+- slurm-factory
+- rq_geo_toolkit
+- gampixpy
+- pitchoune
+- transcriptformer
+- uptimer-python-sdk
+- ratio1
+- sentry-kafka-schemas
+- tscope
 - b10-kernel
 - structifyai
 - jinja2-outputfile
 - Mopidy-Pibox
 - quantconnect-stubs
 - workforce
-- graph-games-proto
 - hla-compass
 - easycoder
 - layrz-sdk
@@ -29,7 +65,6 @@
 - picassosr
 - mcp-commander
 - ngpt
-- caravan-client
 - smoothcon
 - fromager
 - baseten-performance-client
@@ -39,52 +74,13 @@
 - WebsocketLib
 - pyapi-checker
 - espnet
-- mulch
 - insightfinderai
 - pyfino
-- slurm-factory
 - betterlinkedlists
 - crisscross-kit
 - pvevti
 - tractusx-sdk
-- cjm-fasthtml-tailwind
 - jinja2-library
 - DBConnectionPool
 - coiled
 - pysentry-rs
-- moderatelyai-sdk
-- lark-util
-- termina
-- bafser
-- upgini
-- matrice
-- dask-progress-matrix
-- gridworks
-- factorio-draftsman
-- basic-components-fpp
-- incept
-- custos-labs
-- arxiv-mcp-server
-- mapper-lib
-- aiamplitudes-common-public
-- cmd-ai
-- muso
-- pip-list
-- dmasyncwrapper
-- django-simple-stats
-- notionmanager
-- adversary-mcp-server
-- pyagentic-core
-- chutes
-- reqtracker
-- terra_ui_components
-- fitsearchcv
-- yaccounts
-- byhacker-speech-to-text
-- smart-commit-gpt
-- lbt-dragonfly
-- arize-phoenix
-- aignostics
-- starlette-msgspec
-- kpf
-- mediaComp
