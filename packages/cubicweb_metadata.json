@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb",
+  "version": "5.0.1",
+  "summary": "a repository of entities / relations for knowledge management",
+  "author": null,
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)",
+  "home_page": null,
+  "download_filename": "cubicweb-5.0.1.tar.gz",
+  "download_time": "2025-08-11T15:33:59.014945",
+  "package_url": "https://pypi.org/project/cubicweb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.aws-lambda-rust",
+  "version": "0.0.8",
+  "summary": "@cdklabs/aws-lambda-rust",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/aws-lambda-rust.git",
+  "download_filename": "cdklabs_aws_lambda_rust-0.0.8.tar.gz",
+  "download_time": "2025-08-11T15:34:22.567946",
+  "package_url": "https://pypi.org/project/cdklabs.aws-lambda-rust/"
+}

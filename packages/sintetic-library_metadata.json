@@ -1,11 +1,11 @@
 {
   "name": "sintetic-library",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "summary": "Python client for Sintetic Project. This library provides a simple interface to interact with the Sintetic API, allowing users to manage and retrieve data related to synthetic datasets. For more information, visit https://sinteticproject.eu/",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sintetic_library-0.3.6.tar.gz",
-  "download_time": "2025-08-11T14:36:36.472204",
+  "download_filename": "sintetic_library-0.4.0.tar.gz",
+  "download_time": "2025-08-11T15:33:32.664923",
   "package_url": "https://pypi.org/project/sintetic-library/"
 }

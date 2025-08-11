@@ -1,11 +1,11 @@
 {
   "name": "scribe-python-client",
-  "version": "0.2.19",
+  "version": "0.2.20",
   "summary": "A Python client for interacting with ScribeHub.",
   "author": "Daniel Nebenzahl",
   "license": null,
   "home_page": "https://github.com/scribe-security/scribe-python-client",
-  "download_filename": "scribe_python_client-0.2.19.tar.gz",
-  "download_time": "2025-08-11T12:55:10.859565",
+  "download_filename": "scribe_python_client-0.2.20.tar.gz",
+  "download_time": "2025-08-11T15:34:04.299185",
   "package_url": "https://pypi.org/project/scribe-python-client/"
 }
