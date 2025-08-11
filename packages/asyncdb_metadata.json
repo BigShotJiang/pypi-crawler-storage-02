@@ -1,0 +1,11 @@
+{
+  "name": "asyncdb",
+  "version": "2.11.10",
+  "summary": "Library for Asynchronous data source connections     Collection of asyncio drivers.",
+  "author": "Jesus Lara",
+  "license": "BSD",
+  "home_page": "https://github.com/phenobarbital/asyncdb",
+  "download_filename": "asyncdb-2.11.10-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-08-11T23:25:36.410228",
+  "package_url": "https://pypi.org/project/asyncdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ExoGibbs",
+  "version": "0.2.1",
+  "summary": "Differentiable Thermochemical Equilibrium Solver for Exoplanet Atmospheres",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exogibbs-0.2.1-py3-none-any.whl",
+  "download_time": "2025-08-11T23:25:28.439423",
+  "package_url": "https://pypi.org/project/ExoGibbs/"
+}
