@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-chapeldomain",
+  "version": "0.0.39",
+  "summary": "Chapel domain for Sphinx",
+  "author": "Chapel Team",
+  "license": "Apache License v2.0",
+  "home_page": "https://github.com/chapel-lang/sphinxcontrib-chapeldomain",
+  "download_filename": "sphinxcontrib_chapeldomain-0.0.39.tar.gz",
+  "download_time": "2025-08-11T18:39:28.665886",
+  "package_url": "https://pypi.org/project/sphinxcontrib-chapeldomain/"
+}

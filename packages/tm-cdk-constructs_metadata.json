@@ -1,11 +1,11 @@
 {
   "name": "tm-cdk-constructs",
-  "version": "0.0.46",
+  "version": "0.0.47",
   "summary": "A CDK construct library",
   "author": "Toumoro ",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/toumoro/cdk-constructs.git",
-  "download_filename": "tm_cdk_constructs-0.0.46.tar.gz",
-  "download_time": "2025-08-11T17:51:53.536088",
+  "download_filename": "tm_cdk_constructs-0.0.47.tar.gz",
+  "download_time": "2025-08-11T18:39:53.953611",
   "package_url": "https://pypi.org/project/tm-cdk-constructs/"
 }

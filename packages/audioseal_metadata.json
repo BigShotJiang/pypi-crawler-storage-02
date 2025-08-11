@@ -1,0 +1,11 @@
+{
+  "name": "audioseal",
+  "version": "0.1.8",
+  "summary": "Watermarking and detection for speech audios",
+  "author": "Facebook AI Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audioseal-0.1.8.tar.gz",
+  "download_time": "2025-08-11T18:39:35.081649",
+  "package_url": "https://pypi.org/project/audioseal/"
+}

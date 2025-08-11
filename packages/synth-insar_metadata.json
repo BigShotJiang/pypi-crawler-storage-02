@@ -1,0 +1,11 @@
+{
+  "name": "synth-insar",
+  "version": "0.1.0",
+  "summary": "Synthetic data generator for InSAR time series analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synth_insar-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-11T18:39:20.482672",
+  "package_url": "https://pypi.org/project/synth-insar/"
+}

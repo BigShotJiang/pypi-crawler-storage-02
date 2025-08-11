@@ -1,0 +1,11 @@
+{
+  "name": "fhir-aggregator-client",
+  "version": "0.2.1",
+  "summary": null,
+  "author": "walsbr",
+  "license": null,
+  "home_page": "https://github.com/FHIR-Aggregator/fhir-aggregator-client.git",
+  "download_filename": "fhir_aggregator_client-0.2.1.tar.gz",
+  "download_time": "2025-08-11T18:39:23.368084",
+  "package_url": "https://pypi.org/project/fhir-aggregator-client/"
+}

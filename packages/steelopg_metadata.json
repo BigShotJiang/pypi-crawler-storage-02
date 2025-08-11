@@ -1,0 +1,11 @@
+{
+  "name": "steelopg",
+  "version": "0.1.0",
+  "summary": "a simple oxapay payment gateway helper",
+  "author": "steeldev",
+  "license": null,
+  "home_page": "https://github.com/steeldevlol/Steel-s-Oxapay-Payment-Gateway",
+  "download_filename": "steelopg-0.1.0.tar.gz",
+  "download_time": "2025-08-11T18:39:56.246517",
+  "package_url": "https://pypi.org/project/steelopg/"
+}

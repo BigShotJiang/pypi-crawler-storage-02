@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-mcp-plugin",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "MCP server for MkDocs documentation with intelligent search and retrieval capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkdocs_mcp_plugin-0.3.0.tar.gz",
-  "download_time": "2025-08-07T07:29:56.228717",
+  "download_filename": "mkdocs_mcp_plugin-0.4.0.tar.gz",
+  "download_time": "2025-08-11T18:39:36.804183",
   "package_url": "https://pypi.org/project/mkdocs-mcp-plugin/"
 }

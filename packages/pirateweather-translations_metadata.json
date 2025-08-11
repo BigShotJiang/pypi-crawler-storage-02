@@ -1,0 +1,11 @@
+{
+  "name": "pirateweather-translations",
+  "version": "1.2.1",
+  "summary": "Translate Pirate Weather API summaries into any language",
+  "author": "Pirate-Weather",
+  "license": "BSD 2-clause",
+  "home_page": "https://github.com/Pirate-Weather/translations",
+  "download_filename": "pirateweather_translations-1.2.1.tar.gz",
+  "download_time": "2025-08-11T18:39:13.631548",
+  "package_url": "https://pypi.org/project/pirateweather-translations/"
+}

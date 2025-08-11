@@ -1,0 +1,11 @@
+{
+  "name": "tscope",
+  "version": "0.1.1",
+  "summary": "A simple Python oscilloscope for displaying 1-dim dynamic data in the command line",
+  "author": "Henrik",
+  "license": "MIT",
+  "home_page": "https://github.com/sszxc/TerminalScope",
+  "download_filename": "tscope-0.1.1.tar.gz",
+  "download_time": "2025-08-11T18:39:46.845460",
+  "package_url": "https://pypi.org/project/tscope/"
+}
