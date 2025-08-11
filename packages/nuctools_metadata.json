@@ -1,0 +1,11 @@
+{
+  "name": "nuctools",
+  "version": "1.9.0",
+  "summary": "nuclear data reduction tools",
+  "author": "Jesse Brown",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/brownjm1968/nuctools",
+  "download_filename": "nuctools-1.9.0.tar.gz",
+  "download_time": "2025-08-11T19:56:23.667899",
+  "package_url": "https://pypi.org/project/nuctools/"
+}

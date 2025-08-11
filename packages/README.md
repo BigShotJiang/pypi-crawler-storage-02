@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T19:45:08.940246
-- **Total Packages**: 86
-- **Total Size**: 31.18 MB
+- **Download Time**: 2025-08-11T19:57:12.278425
+- **Total Packages**: 91
+- **Total Size**: 11.87 MB
 
 ## Packages List
+- traffic-anomaly
+- mcp-proxy-adapter
+- django-spire
+- klotho-cac
+- wrangles
+- nuctools
+- cappa
+- traceloop-sdk
+- macmenuqbt
+- vitreaclient
+- meowda
+- opentelemetry-instrumentation-weaviate
+- opentelemetry-instrumentation-watsonx
+- opentelemetry-instrumentation-vertexai
+- opentelemetry-instrumentation-transformers
+- gentrace-py
+- opentelemetry-instrumentation-together
+- opentelemetry-instrumentation-sagemaker
+- airbyte-connector-builder-mcp
+- opentelemetry-instrumentation-replicate
+- opentelemetry-instrumentation-qdrant
+- opentelemetry-instrumentation-pinecone
+- opentelemetry-instrumentation-openai-agents
+- opentelemetry-instrumentation-openai
+- opentelemetry-instrumentation-ollama
+- opentelemetry-instrumentation-mistralai
+- opentelemetry-instrumentation-milvus
+- opentelemetry-instrumentation-mcp
+- accessible-space
+- opentelemetry-instrumentation-marqo
+- opentelemetry-instrumentation-llamaindex
+- opentelemetry-instrumentation-langchain
+- opentelemetry-instrumentation-lancedb
+- opentelemetry-instrumentation-haystack
+- opentelemetry-instrumentation-groq
+- opentelemetry-instrumentation-google-generativeai
+- opentelemetry-instrumentation-crewai
+- opentelemetry-instrumentation-cohere
+- opentelemetry-instrumentation-chromadb
+- opentelemetry-instrumentation-bedrock
+- opentelemetry-instrumentation-anthropic
+- opentelemetry-instrumentation-alephalpha
+- pvevti
+- hla-compass
+- rubik-impl
+- st-copy-button
+- ladybug-comfort
+- cookidoo-api
+- ez-wsi-dicomweb
+- honeybee-core
+- easydiffraction
+- aicostmanager
+- PyLTSpice
+- open-stocks-mcp
+- gguf-connector
+- nillanet
+- py-psscriptanalyzer
 - kececilayout
 - abstract-paths
 - inference-sdk
@@ -21,7 +78,6 @@
 - localstack-core
 - simstring-rust
 - heraldopy
-- aicostmanager
 - troposim
 - novatium
 - datasurface
@@ -41,54 +97,3 @@
 - boto3-stubs-lite
 - boto3-stubs
 - ladybug-core
-- ipyvasp
-- mulch
-- pvevti
-- MaxBridge
-- ladybug-geometry-polyskel
-- gammarers.aws-waf-ip-rate-limit-rule
-- klotho-cac
-- markdown-to-slack-mkdown
-- comet_ice_sublimation
-- bazoola
-- jipso
-- types-boto3-sso-admin
-- mypy-boto3-sso-admin
-- types-boto3-quicksight
-- mypy-boto3-quicksight
-- mypy-boto3-lambda
-- types-boto3-lambda
-- mypy-boto3-evs
-- pyjudilibre
-- marimo-base
-- mypy-boto3-ec2
-- types-boto3-evs
-- types-boto3-ec2
-- mypy-boto3-deadline
-- gammarers.aws-waf-geo-restrict-rule
-- mypy-boto3-cognito-idp
-- types-boto3-deadline
-- mypy-boto3-connect
-- mypy-boto3-bedrock
-- types-boto3-connect
-- types-boto3-cognito-idp
-- types-boto3-bedrock
-- stewbeet
-- fspin
-- cmd-ai
-- discord-py-utilities
-- gammarers.aws-waf-ip-restrict-rule
-- certus
-- ydl-podcast
-- toyaikit
-- database-mysql-local
-- quickscale
-- automagik-tools
-- easy-local-features
-- rstbuddy
-- pulumi-aws
-- ffiec-data-collector
-- fastworkflow
-- veris-ai
-- aind-metadata-upgrader
-- nrcan-etl-toolbox

@@ -1,0 +1,11 @@
+{
+  "name": "macmenuqbt",
+  "version": "0.1.0",
+  "summary": "macOS menu bar app to show qBittorrent torrents status.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "macmenuqbt-0.1.0.tar.gz",
+  "download_time": "2025-08-11T19:56:25.487832",
+  "package_url": "https://pypi.org/project/macmenuqbt/"
+}

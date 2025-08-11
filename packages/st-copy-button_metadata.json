@@ -1,0 +1,11 @@
+{
+  "name": "st-copy-button",
+  "version": "0.0.15",
+  "summary": "A simple Streamlit component for copying text to the user's clipboard with one click.",
+  "author": "James Young",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/james.young2/st-copy-button",
+  "download_filename": "st_copy_button-0.0.15.tar.gz",
+  "download_time": "2025-08-11T19:56:47.631750",
+  "package_url": "https://pypi.org/project/st-copy-button/"
+}
