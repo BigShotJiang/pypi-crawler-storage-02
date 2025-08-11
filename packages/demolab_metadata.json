@@ -1,0 +1,11 @@
+{
+  "name": "demolab",
+  "version": "0.1.0",
+  "summary": "A Flask web application for URL redirection and workspace management",
+  "author": "levin",
+  "license": null,
+  "home_page": "https://github.com/levindemo/demolab",
+  "download_filename": "demolab-0.1.0.tar.gz",
+  "download_time": "2025-08-11T16:25:24.703355",
+  "package_url": "https://pypi.org/project/demolab/"
+}

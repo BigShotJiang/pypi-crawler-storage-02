@@ -1,11 +1,11 @@
 {
   "name": "coiled",
-  "version": "1.117.1",
+  "version": "1.118.0",
   "summary": "Python client for coiled.io dask clusters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coiled-1.117.1.tar.gz",
-  "download_time": "2025-08-08T20:27:50.606571",
+  "download_filename": "coiled-1.118.0.tar.gz",
+  "download_time": "2025-08-11T16:25:07.789991",
   "package_url": "https://pypi.org/project/coiled/"
 }

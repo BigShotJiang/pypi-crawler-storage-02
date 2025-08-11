@@ -1,0 +1,11 @@
+{
+  "name": "craterpy",
+  "version": "0.9.2",
+  "summary": "Impact crater data science in Python.",
+  "author": "Christian J. Tai Udovicic",
+  "license": "MIT",
+  "home_page": "https://github.com/cjtu/craterpy",
+  "download_filename": "craterpy-0.9.2.tar.gz",
+  "download_time": "2025-08-11T16:25:26.383060",
+  "package_url": "https://pypi.org/project/craterpy/"
+}

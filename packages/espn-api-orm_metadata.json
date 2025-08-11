@@ -1,0 +1,11 @@
+{
+  "name": "espn-api-orm",
+  "version": "0.0.9",
+  "summary": "A Python interface for the ESPN API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "espn_api_orm-0.0.9.tar.gz",
+  "download_time": "2025-08-11T16:25:28.581660",
+  "package_url": "https://pypi.org/project/espn-api-orm/"
+}

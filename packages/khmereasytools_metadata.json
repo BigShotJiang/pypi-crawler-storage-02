@@ -1,11 +1,11 @@
 {
   "name": "khmereasytools",
-  "version": "0.3.2",
-  "summary": "A simple library for Khmer text processing, including keyword extraction, segmentation, OCR, and validation.",
+  "version": "0.3.7",
+  "summary": "A simple, self-contained library for Khmer text processing, with optional OCR and POS tagging support.",
   "author": "Nimol Thuon",
   "license": null,
   "home_page": "https://github.com/back-kh/khmereasytools",
-  "download_filename": "khmereasytools-0.3.2.tar.gz",
-  "download_time": "2025-08-11T15:33:31.259653",
+  "download_filename": "khmereasytools-0.3.7.tar.gz",
+  "download_time": "2025-08-11T16:24:58.947509",
   "package_url": "https://pypi.org/project/khmereasytools/"
 }

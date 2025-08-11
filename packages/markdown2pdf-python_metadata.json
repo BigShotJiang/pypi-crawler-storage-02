@@ -1,0 +1,11 @@
+{
+  "name": "markdown2pdf-python",
+  "version": "0.2.0",
+  "summary": "⚡ Python client for markdown2pdf.ai - Convert markdown to PDF with Lightning payments",
+  "author": "Serendipity AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markdown2pdf_python-0.2.0.tar.gz",
+  "download_time": "2025-08-11T16:25:18.909003",
+  "package_url": "https://pypi.org/project/markdown2pdf-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "puc8a",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Assembler and C compiler for the PUC8a processor",
   "author": "Wouter Caarls",
   "license": "GPL-3.0-or-later",
   "home_page": "http://github.com/wcaarls/puc8a",
-  "download_filename": "puc8a-0.1.5.tar.gz",
-  "download_time": "2025-08-08T19:00:42.037662",
+  "download_filename": "puc8a-0.1.6.tar.gz",
+  "download_time": "2025-08-11T16:24:59.562020",
   "package_url": "https://pypi.org/project/puc8a/"
 }
