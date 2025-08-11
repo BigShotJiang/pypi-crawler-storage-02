@@ -1,0 +1,11 @@
+{
+  "name": "parse-type",
+  "version": "0.6.6",
+  "summary": "Simplifies to build parse types based on the parse module",
+  "author": "Jens Engel",
+  "license": null,
+  "home_page": "https://github.com/jenisys/parse_type",
+  "download_filename": "parse_type-0.6.6.tar.gz",
+  "download_time": "2025-08-11T22:58:41.860302",
+  "package_url": "https://pypi.org/project/parse-type/"
+}

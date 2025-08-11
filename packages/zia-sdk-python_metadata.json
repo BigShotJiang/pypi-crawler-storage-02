@@ -1,11 +1,11 @@
 {
   "name": "zia-sdk-python",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Python SDK for Neurolabs ZIA platform",
   "author": "Neurolabs",
   "license": "MIT",
   "home_page": "https://neurolabs.com",
-  "download_filename": "zia_sdk_python-0.0.4.tar.gz",
-  "download_time": "2025-08-10T23:26:29.573457",
+  "download_filename": "zia_sdk_python-0.0.6.tar.gz",
+  "download_time": "2025-08-11T22:58:41.346875",
   "package_url": "https://pypi.org/project/zia-sdk-python/"
 }
