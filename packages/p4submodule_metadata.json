@@ -1,0 +1,11 @@
+{
+  "name": "p4submodule",
+  "version": "1.0.3",
+  "summary": "A tool for managing git repositories inside of Perforce depots",
+  "author": "Colden Cullen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/secretdimension/p4submodule",
+  "download_filename": "p4submodule-1.0.3.tar.gz",
+  "download_time": "2025-08-11T17:51:51.391681",
+  "package_url": "https://pypi.org/project/p4submodule/"
+}

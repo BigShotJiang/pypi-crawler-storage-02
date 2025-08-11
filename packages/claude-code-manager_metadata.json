@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-manager",
+  "version": "0.0.2",
+  "summary": "CLI to orchestrate claude-code runs from a Markdown TODO list",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_code_manager-0.0.2.tar.gz",
+  "download_time": "2025-08-11T17:51:54.078743",
+  "package_url": "https://pypi.org/project/claude-code-manager/"
+}

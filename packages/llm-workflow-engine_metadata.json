@@ -1,11 +1,11 @@
 {
   "name": "llm-workflow-engine",
-  "version": "0.22.14",
+  "version": "0.22.15",
   "summary": "CLI tool and workflow manager for common LLMs",
   "author": "Chad Phillips",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_workflow_engine-0.22.14.tar.gz",
-  "download_time": "2025-08-07T19:46:07.878324",
+  "download_filename": "llm_workflow_engine-0.22.15.tar.gz",
+  "download_time": "2025-08-11T17:52:05.500578",
   "package_url": "https://pypi.org/project/llm-workflow-engine/"
 }

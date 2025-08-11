@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-11T17:33:38.807467
-- **Total Packages**: 85
-- **Total Size**: 32.37 MB
+- **Download Time**: 2025-08-11T17:52:33.416156
+- **Total Packages**: 90
+- **Total Size**: 9.85 MB
 
 ## Packages List
+- pybirdsreynolds
+- meta-davinci
+- hyrex
+- RinUI
+- onebusaway
+- skale-watchdog-client
+- jsonline
+- reflex
+- graph-games-proto
+- hgraph
+- datarobot-early-access
+- dbos
+- p4submodule
+- qiskit-ionq
+- instutil
+- truss
+- tm-cdk-constructs
+- claude-code-manager
+- backupchan-cli
+- pipen-poplog
+- backupchan-presets
+- falconry
+- sigstore
+- backupchan-client-lib
+- memg-core
+- multirtc
+- transfermarkt-wrapper
+- dbt-switch
+- vitrea-client
+- tradelab
+- busylib
+- pylimen
+- hyperskill-python-portfolio
+- toto-ts
+- advanced_research
+- plugwise_usb
+- ambivo-agents
+- pip-list
+- llm-workflow-engine
+- NanoparticleAtomCounter
+- open-stocks-mcp
+- aldepyde
+- dimorphite-dl
+- dbt-autofix
+- eval-studio-client
+- earthengine-api
+- pyrefly
+- codepub
+- cml-mcp
+- mcp-mesh
 - evidence-seeker
 - fabrictestbed-extensions
 - dmasyncwrapper
@@ -23,7 +73,6 @@
 - neutrophils-classifier
 - qalita
 - mipi_datamanager
-- dbt-switch
 - pvevti
 - TheSilent
 - rhoa
@@ -47,47 +96,3 @@
 - nominal-api-protos
 - nominal-api
 - odoo-lead-manager
-- neutrophils-core
-- alibabacloud-ess20220222
-- alibabacloud-ehpcinstant20230701
-- gahto
-- pulumi-provider-boilerplate
-- troposim
-- mosaia
-- etana-trade-mcp
-- lmnr
-- sense-table
-- nillanet
-- odoo-addon-stock-picking-import-serial-number
-- heaven-tree-repl
-- replkit2
-- heaven-framework
-- shinestacker
-- kandc
-- indexify
-- sage-agent-internal
-- cwl2ogc
-- steamboat-binf
-- geoarrow-rust-io
-- wandelbots-api-client
-- superset-loggers
-- openlineage-sql
-- openlineage-python
-- openlineage-integration-common
-- openlineage-dbt
-- openlineage-dagster
-- BaleCore
-- openlineage-airflow
-- coiled
-- bittensor-drand
-- lakefs_sdk_async
-- pipen
-- meerk40t
-- esphome-mqtt-timescaledb-ingestor
-- mat-ceng
-- atla-insights
-- clio-monitoring
-- behave-parallel-runners
-- pidibble
-- finbourne-identity-sdk
-- geoarrow-rust-core

@@ -1,0 +1,11 @@
+{
+  "name": "hgraph",
+  "version": "0.4.72",
+  "summary": "A functional reactive platform used to process time-series streams. Provides support for backtest (simulation) and realtime time-series processing. Using a forward propagation graph with a microtask scheduler for the runtime engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hgraph-0.4.72-py3-none-any.whl",
+  "download_time": "2025-08-11T17:51:49.736881",
+  "package_url": "https://pypi.org/project/hgraph/"
+}

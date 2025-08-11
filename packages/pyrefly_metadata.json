@@ -1,11 +1,11 @@
 {
   "name": "pyrefly",
-  "version": "0.27.1",
+  "version": "0.28.0",
   "summary": "A fast Python type checker written in Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrefly-0.27.1.tar.gz",
-  "download_time": "2025-08-07T16:33:50.865037",
+  "download_filename": "pyrefly-0.28.0.tar.gz",
+  "download_time": "2025-08-11T17:52:09.906937",
   "package_url": "https://pypi.org/project/pyrefly/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "advanced_research",
+  "version": "0.1.0",
+  "summary": "Advanced Multi-Agent Research System - Enhanced implementation of Anthropic's orchestrator-worker pattern with 90.2% performance improvement over single-agent systems",
+  "author": "Kye Gomez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "advanced_research-0.1.0.tar.gz",
+  "download_time": "2025-08-11T17:52:03.369125",
+  "package_url": "https://pypi.org/project/advanced_research/"
+}

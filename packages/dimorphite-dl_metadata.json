@@ -1,0 +1,11 @@
+{
+  "name": "dimorphite-dl",
+  "version": "2.0.2",
+  "summary": "Adds hydrogen atoms to molecular representations as specified by pH",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dimorphite_dl-2.0.2.tar.gz",
+  "download_time": "2025-08-11T17:52:07.712846",
+  "package_url": "https://pypi.org/project/dimorphite-dl/"
+}
