@@ -1,0 +1,11 @@
+{
+  "name": "zope.structuredtext",
+  "version": "5.1",
+  "summary": "StructuredText parser",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.structuredtext",
+  "download_filename": "zope_structuredtext-5.1.tar.gz",
+  "download_time": "2025-08-11T07:04:32.920583",
+  "package_url": "https://pypi.org/project/zope.structuredtext/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zope.deferredimport",
+  "version": "5.1",
+  "summary": "zope.deferredimport allows you to perform imports names that will only be resolved when used in the code.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.deferredimport",
+  "download_filename": "zope_deferredimport-5.1.tar.gz",
+  "download_time": "2025-08-11T07:04:22.361356",
+  "package_url": "https://pypi.org/project/zope.deferredimport/"
+}

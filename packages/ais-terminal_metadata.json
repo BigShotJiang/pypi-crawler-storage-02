@@ -1,11 +1,11 @@
 {
   "name": "ais-terminal",
-  "version": "3.0.0",
+  "version": "3.2.0",
   "summary": "上下文感知的错误分析学习助手 - 让每次报错都是成长",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ais_terminal-3.0.0.tar.gz",
-  "download_time": "2025-08-11T03:51:56.250825",
+  "download_filename": "ais_terminal-3.2.0.tar.gz",
+  "download_time": "2025-08-11T07:04:56.873294",
   "package_url": "https://pypi.org/project/ais-terminal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pypjt",
-  "version": "1.19.0",
+  "version": "1.20.0",
   "summary": "A project to create python project template.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypjt-1.19.0.tar.gz",
-  "download_time": "2025-08-07T16:34:10.658015",
+  "download_filename": "pypjt-1.20.0.tar.gz",
+  "download_time": "2025-08-11T07:04:54.952528",
   "package_url": "https://pypi.org/project/pypjt/"
 }

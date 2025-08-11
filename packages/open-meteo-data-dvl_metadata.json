@@ -1,0 +1,11 @@
+{
+  "name": "open-meteo-data-dvl",
+  "version": "0.1.0",
+  "summary": "Python API client for the open meteo data V1 service, provided by Provincia autonoma di Bolzano - Informatica Alto Adige SPA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_meteo_data_dvl-0.1.0.tar.gz",
+  "download_time": "2025-08-11T07:05:00.672848",
+  "package_url": "https://pypi.org/project/open-meteo-data-dvl/"
+}

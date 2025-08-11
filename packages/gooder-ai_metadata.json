@@ -1,11 +1,11 @@
 {
   "name": "gooder-ai",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": null,
   "author": "Eric Siegel",
   "license": null,
   "home_page": null,
-  "download_filename": "gooder_ai-1.4.0.tar.gz",
-  "download_time": "2025-08-06T06:49:20.751470",
+  "download_filename": "gooder_ai-1.4.1.tar.gz",
+  "download_time": "2025-08-11T07:04:34.263075",
   "package_url": "https://pypi.org/project/gooder-ai/"
 }

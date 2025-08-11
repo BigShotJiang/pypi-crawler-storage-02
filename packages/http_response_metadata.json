@@ -1,11 +1,11 @@
 {
   "name": "http_response",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Python http response utils.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/http_response",
-  "download_filename": "http_response-0.0.7.tar.gz",
-  "download_time": "2025-08-10T14:23:08.308368",
+  "download_filename": "http_response-0.0.8.tar.gz",
+  "download_time": "2025-08-11T07:05:03.895610",
   "package_url": "https://pypi.org/project/http_response/"
 }

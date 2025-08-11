@@ -1,11 +1,11 @@
 {
   "name": "technical-analysis-mcp",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A Python package for technical analysis of financial markets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "technical_analysis_mcp-0.5.1.tar.gz",
-  "download_time": "2025-08-11T05:59:21.548169",
+  "download_filename": "technical_analysis_mcp-0.5.2.tar.gz",
+  "download_time": "2025-08-11T07:04:45.015847",
   "package_url": "https://pypi.org/project/technical-analysis-mcp/"
 }
