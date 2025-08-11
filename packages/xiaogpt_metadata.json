@@ -1,0 +1,11 @@
+{
+  "name": "xiaogpt",
+  "version": "3.22",
+  "summary": "Play ChatGPT or other LLM with xiaomi AI speaker",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xiaogpt-3.22.tar.gz",
+  "download_time": "2025-08-11T12:55:07.722983",
+  "package_url": "https://pypi.org/project/xiaogpt/"
+}

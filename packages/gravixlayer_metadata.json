@@ -1,11 +1,11 @@
 {
   "name": "gravixlayer",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "GravixLayer Python SDK - OpenAI Compatible",
   "author": "Sukrith",
   "license": "MIT",
   "home_page": "https://github.com/sukrithpvs/gravixlayer-python",
-  "download_filename": "gravixlayer-0.0.8.tar.gz",
-  "download_time": "2025-08-09T17:44:20.418770",
+  "download_filename": "gravixlayer-0.0.10.tar.gz",
+  "download_time": "2025-08-11T12:55:19.914871",
   "package_url": "https://pypi.org/project/gravixlayer/"
 }

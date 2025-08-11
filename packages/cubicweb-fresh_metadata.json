@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-fresh",
+  "version": "1.12.0",
+  "summary": "expense tracking application built on the CubicWeb framework",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "http://www.cubicweb.org/project/cubicweb-fresh",
+  "download_filename": "cubicweb_fresh-1.12.0.tar.gz",
+  "download_time": "2025-08-11T12:55:26.386276",
+  "package_url": "https://pypi.org/project/cubicweb-fresh/"
+}

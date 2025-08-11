@@ -1,0 +1,11 @@
+{
+  "name": "omg-ses-kutuphanesi",
+  "version": "1.0.0",
+  "summary": "Basit ses çalma kütüphanesi",
+  "author": "Recep",
+  "license": null,
+  "home_page": "https://github.com/kullanici/omg_ses_kutuphanesi",
+  "download_filename": "omg_ses_kutuphanesi-1.0.0.tar.gz",
+  "download_time": "2025-08-11T12:55:03.345569",
+  "package_url": "https://pypi.org/project/omg-ses-kutuphanesi/"
+}

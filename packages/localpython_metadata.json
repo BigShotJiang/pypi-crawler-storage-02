@@ -1,0 +1,11 @@
+{
+  "name": "localpython",
+  "version": "0.2.0",
+  "summary": "Run Python scripts using the local virtual environment without activating it",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localpython-0.2.0.tar.gz",
+  "download_time": "2025-08-11T12:55:31.465545",
+  "package_url": "https://pypi.org/project/localpython/"
+}

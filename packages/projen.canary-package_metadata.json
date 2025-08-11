@@ -1,11 +1,11 @@
 {
   "name": "projen.canary-package",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "@projen/canary-package",
   "author": "AWS<aws-cdk-dev@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/projen/canary-testing.git",
-  "download_filename": "projen_canary_package-0.0.13.tar.gz",
-  "download_time": "2025-08-10T16:52:58.473013",
+  "download_filename": "projen_canary_package-0.0.14.tar.gz",
+  "download_time": "2025-08-11T12:55:18.620739",
   "package_url": "https://pypi.org/project/projen.canary-package/"
 }

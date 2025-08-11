@@ -1,0 +1,11 @@
+{
+  "name": "flyplotlib",
+  "version": "0.4.0",
+  "summary": "Add flies to matplotlib plots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyplotlib-0.4.0.tar.gz",
+  "download_time": "2025-08-11T12:55:11.497919",
+  "package_url": "https://pypi.org/project/flyplotlib/"
+}

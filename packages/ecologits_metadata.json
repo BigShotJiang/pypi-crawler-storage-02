@@ -1,0 +1,11 @@
+{
+  "name": "ecologits",
+  "version": "0.8.1",
+  "summary": "EcoLogits tracks and estimates the energy consumption and environmental impacts of using generative AI models through APIs.",
+  "author": "GenAI Impact",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "ecologits-0.8.1.tar.gz",
+  "download_time": "2025-08-11T12:55:41.961038",
+  "package_url": "https://pypi.org/project/ecologits/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-scraper",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Universal MCP Application: universal_mcp_scraper",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_scraper-0.1.3.tar.gz",
-  "download_time": "2025-08-11T07:57:04.655013",
+  "download_filename": "universal_mcp_scraper-0.1.4.tar.gz",
+  "download_time": "2025-08-11T12:55:35.889669",
   "package_url": "https://pypi.org/project/universal-mcp-scraper/"
 }

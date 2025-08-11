@@ -1,0 +1,11 @@
+{
+  "name": "dmc-view",
+  "version": "0.3.3",
+  "summary": "Digital Magnatic Compass View",
+  "author": "Iso",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "dmc_view-0.3.3.tar.gz",
+  "download_time": "2025-08-11T12:55:22.475009",
+  "package_url": "https://pypi.org/project/dmc-view/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "anthropic-haystack",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "summary": "An integration of Anthropic Claude models into the Haystack framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anthropic_haystack-4.2.0.tar.gz",
-  "download_time": "2025-08-07T10:34:58.382154",
+  "download_filename": "anthropic_haystack-4.2.1.tar.gz",
+  "download_time": "2025-08-11T12:55:05.924906",
   "package_url": "https://pypi.org/project/anthropic-haystack/"
 }

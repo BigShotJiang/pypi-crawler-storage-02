@@ -1,11 +1,11 @@
 {
   "name": "manim-presentations",
-  "version": "0.1.5",
+  "version": "0.1.61",
   "summary": "A Python framework for creating composable manim-slides presentations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "manim_presentations-0.1.5.tar.gz",
-  "download_time": "2025-08-11T11:56:02.704743",
+  "download_filename": "manim_presentations-0.1.61.tar.gz",
+  "download_time": "2025-08-11T12:55:29.542043",
   "package_url": "https://pypi.org/project/manim-presentations/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "erniekit",
+  "version": "1.0.1",
+  "summary": "The official repository for ERNIE 4.5 and ERNIEKit - its industrial-grade development toolkit based on PaddlePaddle.",
+  "author": null,
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/PaddlePaddle/ERNIE",
+  "download_filename": "erniekit-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-11T12:55:39.530430",
+  "package_url": "https://pypi.org/project/erniekit/"
+}
