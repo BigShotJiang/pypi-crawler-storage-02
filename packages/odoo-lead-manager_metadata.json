@@ -1,0 +1,11 @@
+{
+  "name": "odoo-lead-manager",
+  "version": "1.3.2",
+  "summary": "Comprehensive Python package for managing Odoo leads with smart distribution",
+  "author": "Lead Management Team",
+  "license": "MIT",
+  "home_page": "https://github.com/example/odoo-lead-manager",
+  "download_filename": "odoo_lead_manager-1.3.2.tar.gz",
+  "download_time": "2025-08-11T17:33:15.133678",
+  "package_url": "https://pypi.org/project/odoo-lead-manager/"
+}

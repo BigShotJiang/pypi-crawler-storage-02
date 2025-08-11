@@ -1,11 +1,11 @@
 {
   "name": "civic-transparency-types",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Typed Python models (Pydantic v2) for the Civic Transparency specification",
   "author": "Civic Interconnect",
   "license": null,
   "home_page": null,
-  "download_filename": "civic_transparency_types-0.0.6.tar.gz",
-  "download_time": "2025-08-11T17:02:41.339317",
+  "download_filename": "civic_transparency_types-0.0.7.tar.gz",
+  "download_time": "2025-08-11T17:33:10.435157",
   "package_url": "https://pypi.org/project/civic-transparency-types/"
 }

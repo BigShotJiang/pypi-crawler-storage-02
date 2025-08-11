@@ -1,0 +1,11 @@
+{
+  "name": "troposim",
+  "version": "0.2.0",
+  "summary": "Simulate InSAR tropospheric noise",
+  "author": "scott",
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "troposim-0.2.0.tar.gz",
+  "download_time": "2025-08-11T17:33:18.258021",
+  "package_url": "https://pypi.org/project/troposim/"
+}

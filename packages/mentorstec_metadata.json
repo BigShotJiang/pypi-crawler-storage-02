@@ -1,11 +1,11 @@
 {
   "name": "mentorstec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Mentorstec - centralized event logging and monitoring",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mentorstec-1.0.0.tar.gz",
-  "download_time": "2025-08-11T15:02:17.077869",
+  "download_filename": "mentorstec-1.0.1.tar.gz",
+  "download_time": "2025-08-11T17:32:57.396622",
   "package_url": "https://pypi.org/project/mentorstec/"
 }

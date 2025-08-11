@@ -1,0 +1,11 @@
+{
+  "name": "neutrophils-classifier",
+  "version": "1.0.1",
+  "summary": "A GUI application for neutrophil classification using deep learning models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neutrophils_classifier-1.0.1.tar.gz",
+  "download_time": "2025-08-11T17:33:01.057332",
+  "package_url": "https://pypi.org/project/neutrophils-classifier/"
+}

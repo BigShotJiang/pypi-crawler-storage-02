@@ -1,0 +1,11 @@
+{
+  "name": "superset-loggers",
+  "version": "0.1.3",
+  "summary": "Custom logger package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superset_loggers-0.1.3.tar.gz",
+  "download_time": "2025-08-11T17:33:27.771750",
+  "package_url": "https://pypi.org/project/superset-loggers/"
+}
