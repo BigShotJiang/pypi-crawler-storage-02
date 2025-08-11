@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.LAWVSolidFoundations",
+  "version": "0.0.5",
+  "summary": "A docassemble extension.",
+  "author": "System Administrator",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://docassemble.org",
+  "download_filename": "docassemble_lawvsolidfoundations-0.0.5.tar.gz",
+  "download_time": "2025-08-11T17:02:22.734733",
+  "package_url": "https://pypi.org/project/docassemble.LAWVSolidFoundations/"
+}

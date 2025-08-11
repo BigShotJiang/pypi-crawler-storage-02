@@ -1,11 +1,11 @@
 {
   "name": "barangay",
-  "version": "0.2.0",
-  "summary": "Nested dictionary of Philippine barangay. Updated as of 2025.",
+  "version": "0.2.1",
+  "summary": "Philippines Standard Geographic Code (PSGC) 2025 Python package.",
   "author": "bendlikeabamboo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "barangay-0.2.0.tar.gz",
-  "download_time": "2025-08-10T18:59:11.665049",
+  "download_filename": "barangay-0.2.1.tar.gz",
+  "download_time": "2025-08-11T17:02:26.843347",
   "package_url": "https://pypi.org/project/barangay/"
 }

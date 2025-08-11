@@ -1,11 +1,11 @@
 {
   "name": "vibe-soren-n",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A CLI tool for vibe coding with intelligent workflow orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_soren_n-0.5.0.tar.gz",
-  "download_time": "2025-08-11T16:34:22.621916",
+  "download_filename": "vibe_soren_n-0.5.1.tar.gz",
+  "download_time": "2025-08-11T17:02:47.520156",
   "package_url": "https://pypi.org/project/vibe-soren-n/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "delfino",
+  "version": "4.0.0",
+  "summary": "A collection of command line helper scripts wrapping tools used during Python development.",
+  "author": "Radek Lát",
+  "license": "MIT",
+  "home_page": "https://github.com/radeklat/delfino",
+  "download_filename": "delfino-4.0.0.tar.gz",
+  "download_time": "2025-08-11T17:02:48.590684",
+  "package_url": "https://pypi.org/project/delfino/"
+}

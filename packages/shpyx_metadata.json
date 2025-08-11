@@ -1,0 +1,11 @@
+{
+  "name": "shpyx",
+  "version": "0.0.34",
+  "summary": "Run shell commands in Python",
+  "author": "Yossi Rozantsev",
+  "license": "MIT",
+  "home_page": "https://github.com/Apakottur/shpyx",
+  "download_filename": "shpyx-0.0.34.tar.gz",
+  "download_time": "2025-08-11T17:02:19.079755",
+  "package_url": "https://pypi.org/project/shpyx/"
+}

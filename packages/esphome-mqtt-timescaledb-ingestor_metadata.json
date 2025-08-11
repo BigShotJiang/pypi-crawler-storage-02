@@ -1,11 +1,11 @@
 {
   "name": "esphome-mqtt-timescaledb-ingestor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A robust Python service to ingest ESPHome MQTT data into a TimescaleDB multi-table schema.",
   "author": "Ankur Kumar Pandey",
   "license": "MIT",
   "home_page": "https://i-dacs.com",
-  "download_filename": "esphome_mqtt_timescaledb_ingestor-0.1.0.tar.gz",
-  "download_time": "2025-08-11T16:34:15.296851",
+  "download_filename": "esphome_mqtt_timescaledb_ingestor-0.2.0.tar.gz",
+  "download_time": "2025-08-11T17:02:34.120648",
   "package_url": "https://pypi.org/project/esphome-mqtt-timescaledb-ingestor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "onshape",
+  "version": "0.2.37",
+  "summary": "K-Scale's library for programmatically interacting with OnShape",
+  "author": "Benjamin Bolte",
+  "license": null,
+  "home_page": "https://github.com/kscalelabs/onshape",
+  "download_filename": "onshape-0.2.37.tar.gz",
+  "download_time": "2025-08-11T17:02:13.922675",
+  "package_url": "https://pypi.org/project/onshape/"
+}

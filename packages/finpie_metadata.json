@@ -1,0 +1,11 @@
+{
+  "name": "finpie",
+  "version": "0.1.32",
+  "summary": "A comprehensive Python library for Brazilian financial data analysis and quantitative research",
+  "author": "Enzo Mendonça",
+  "license": null,
+  "home_page": "https://github.com/enzobjmendonca/finpie",
+  "download_filename": "finpie-0.1.32.tar.gz",
+  "download_time": "2025-08-11T17:02:29.411903",
+  "package_url": "https://pypi.org/project/finpie/"
+}

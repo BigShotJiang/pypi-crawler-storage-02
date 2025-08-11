@@ -1,11 +1,11 @@
 {
   "name": "taktile-auth",
-  "version": "1.1.53",
+  "version": "1.1.54",
   "summary": "Auth Package for Taktile",
   "author": "Taktile GmbH",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "taktile_auth-1.1.53.tar.gz",
-  "download_time": "2025-08-11T16:34:03.089899",
+  "download_filename": "taktile_auth-1.1.54.tar.gz",
+  "download_time": "2025-08-11T17:02:32.572344",
   "package_url": "https://pypi.org/project/taktile-auth/"
 }
