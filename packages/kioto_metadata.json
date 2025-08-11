@@ -1,0 +1,11 @@
+{
+  "name": "kioto",
+  "version": "0.1.13",
+  "summary": "Async utilities library inspired by Tokio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kioto-0.1.13.tar.gz",
+  "download_time": "2025-08-11T22:47:43.942433",
+  "package_url": "https://pypi.org/project/kioto/"
+}

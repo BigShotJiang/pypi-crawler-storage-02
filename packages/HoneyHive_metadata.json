@@ -1,0 +1,11 @@
+{
+  "name": "HoneyHive",
+  "version": "0.2.57",
+  "summary": "The HoneyHive SDK for Python",
+  "author": "HoneyHive",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/honeyhiveai/python-sdk.git",
+  "download_filename": "honeyhive-0.2.57.tar.gz",
+  "download_time": "2025-08-11T22:47:30.377278",
+  "package_url": "https://pypi.org/project/HoneyHive/"
+}

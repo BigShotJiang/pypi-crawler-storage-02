@@ -1,11 +1,11 @@
 {
   "name": "ctxinject",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Context-based dependency injection for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctxinject-0.1.6.tar.gz",
-  "download_time": "2025-08-07T19:32:09.644032",
+  "download_filename": "ctxinject-0.1.7.tar.gz",
+  "download_time": "2025-08-11T22:47:09.453603",
   "package_url": "https://pypi.org/project/ctxinject/"
 }

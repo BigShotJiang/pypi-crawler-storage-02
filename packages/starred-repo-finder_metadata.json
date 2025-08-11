@@ -1,0 +1,11 @@
+{
+  "name": "starred-repo-finder",
+  "version": "1.7.0",
+  "summary": "A simple command line tool to find and explore GitHub repositories through stargazers for a given repository.",
+  "author": "Tyler Hanway",
+  "license": "MIT",
+  "home_page": "https://github.com/tylercb/starred_repo_finder",
+  "download_filename": "starred_repo_finder-1.7.0.tar.gz",
+  "download_time": "2025-08-11T22:47:04.762621",
+  "package_url": "https://pypi.org/project/starred-repo-finder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "image-array-and-histogram",
+  "version": "1.1.1",
+  "summary": "Utilities to get arrays & histograms from grayscale images and build images from arrays.",
+  "author": "Rishi Raj Singh Chauhan",
+  "license": "MIT",
+  "home_page": "https://github.com/rishi-chauhan/my-packages.git",
+  "download_filename": "image_array_and_histogram-1.1.1.tar.gz",
+  "download_time": "2025-08-11T22:47:08.934053",
+  "package_url": "https://pypi.org/project/image-array-and-histogram/"
+}
