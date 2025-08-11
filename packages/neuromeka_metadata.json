@@ -1,0 +1,11 @@
+{
+  "name": "neuromeka",
+  "version": "3.4.0.1",
+  "summary": "Neuromeka client protocols for IndyDCP3, IndyEye, Moby, Ecat, and Motor",
+  "author": "Neuromeka",
+  "license": null,
+  "home_page": "https://github.com/neuromeka-robotics/neuromeka-package",
+  "download_filename": "neuromeka-3.4.0.1-py3-none-any.whl",
+  "download_time": "2025-08-11T16:34:21.057027",
+  "package_url": "https://pypi.org/project/neuromeka/"
+}

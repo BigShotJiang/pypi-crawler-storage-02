@@ -1,11 +1,11 @@
 {
   "name": "cerebrium",
-  "version": "1.46.3",
+  "version": "1.47.0",
   "summary": null,
   "author": "Elijah Roussos",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "cerebrium-1.46.3-py3-none-any.whl",
-  "download_time": "2025-08-05T20:47:32.296296",
+  "download_filename": "cerebrium-1.47.0-py3-none-any.whl",
+  "download_time": "2025-08-11T16:34:20.535875",
   "package_url": "https://pypi.org/project/cerebrium/"
 }
