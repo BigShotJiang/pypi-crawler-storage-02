@@ -1,0 +1,11 @@
+{
+  "name": "cnparser",
+  "version": "1.7.0",
+  "summary": "cnparser is a parser library of Corporate Number Publication Site data.",
+  "author": "new-village",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/new-village/cnparser",
+  "download_filename": "cnparser-1.7.0.tar.gz",
+  "download_time": "2025-08-11T13:45:06.623524",
+  "package_url": "https://pypi.org/project/cnparser/"
+}

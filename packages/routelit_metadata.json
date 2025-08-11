@@ -1,11 +1,11 @@
 {
   "name": "routelit",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Project to build easy user interfaces, agnostic for http frameworks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "routelit-0.5.1-py3-none-any.whl",
-  "download_time": "2025-08-11T05:40:07.672472",
+  "download_filename": "routelit-0.5.2-py3-none-any.whl",
+  "download_time": "2025-08-11T13:44:53.655329",
   "package_url": "https://pypi.org/project/routelit/"
 }

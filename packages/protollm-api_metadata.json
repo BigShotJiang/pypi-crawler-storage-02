@@ -1,11 +1,11 @@
 {
   "name": "protollm-api",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": null,
   "author": "aimclub",
   "license": null,
   "home_page": null,
-  "download_filename": "protollm_api-1.1.1.tar.gz",
-  "download_time": "2025-08-06T15:28:59.244388",
+  "download_filename": "protollm_api-1.1.2.tar.gz",
+  "download_time": "2025-08-11T13:45:02.824597",
   "package_url": "https://pypi.org/project/protollm-api/"
 }

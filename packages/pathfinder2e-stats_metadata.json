@@ -1,11 +1,11 @@
 {
   "name": "pathfinder2e-stats",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Statistical tools for Pathfinder 2nd edition",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pathfinder2e_stats-0.1.0.tar.gz",
-  "download_time": "2025-08-08T14:59:29.394534",
+  "download_filename": "pathfinder2e_stats-0.1.1.tar.gz",
+  "download_time": "2025-08-11T13:44:56.401616",
   "package_url": "https://pypi.org/project/pathfinder2e-stats/"
 }

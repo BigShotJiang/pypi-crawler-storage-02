@@ -1,0 +1,11 @@
+{
+  "name": "axolotl",
+  "version": "0.12.1",
+  "summary": "LLM Trainer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "axolotl-0.12.1.tar.gz",
+  "download_time": "2025-08-11T13:44:22.381481",
+  "package_url": "https://pypi.org/project/axolotl/"
+}

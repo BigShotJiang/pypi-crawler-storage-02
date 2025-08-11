@@ -1,11 +1,11 @@
 {
   "name": "memory-agent",
-  "version": "1.1.23",
+  "version": "1.1.27",
   "summary": "A Python library for advanced memory management in AI agent applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memory_agent-1.1.23.tar.gz",
-  "download_time": "2025-08-11T12:55:43.884637",
+  "download_filename": "memory_agent-1.1.27.tar.gz",
+  "download_time": "2025-08-11T13:45:04.770567",
   "package_url": "https://pypi.org/project/memory-agent/"
 }

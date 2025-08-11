@@ -1,0 +1,11 @@
+{
+  "name": "pyintegrate",
+  "version": "1.2.0",
+  "summary": "Definedge Securities Integrate API Python Client",
+  "author": "Definedge Securities",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyintegrate-1.2.0.tar.gz",
+  "download_time": "2025-08-11T13:44:47.308339",
+  "package_url": "https://pypi.org/project/pyintegrate/"
+}

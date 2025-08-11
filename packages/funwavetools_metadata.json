@@ -1,0 +1,11 @@
+{
+  "name": "funwavetools",
+  "version": "0.2.1",
+  "summary": "Pre/Post processing code for FUNWAVE simulations",
+  "author": "Michael-Angelo Y.-H. Lam",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "funwavetools-0.2.1.tar.gz",
+  "download_time": "2025-08-11T13:45:03.463488",
+  "package_url": "https://pypi.org/project/funwavetools/"
+}

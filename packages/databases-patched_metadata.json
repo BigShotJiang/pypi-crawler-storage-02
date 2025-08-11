@@ -1,0 +1,11 @@
+{
+  "name": "databases-patched",
+  "version": "0.9.2",
+  "summary": "Async database support for Python. (Custom Patched version, this is not the original version.)",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "databases_patched-0.9.2.tar.gz",
+  "download_time": "2025-08-11T13:44:18.104954",
+  "package_url": "https://pypi.org/project/databases-patched/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openai-is-even",
+  "version": "1.0.0",
+  "summary": "A Python package that uses OpenAI to check if numbers are even",
+  "author": "d-costa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openai_is_even-1.0.0.tar.gz",
+  "download_time": "2025-08-11T13:44:21.097808",
+  "package_url": "https://pypi.org/project/openai-is-even/"
+}
