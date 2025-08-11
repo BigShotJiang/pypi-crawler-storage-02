@@ -1,0 +1,11 @@
+{
+  "name": "pysolbase",
+  "version": "3.11.1",
+  "summary": "Set of python helpers to ease development",
+  "author": "Laurent Champagnac",
+  "license": "GPLv3",
+  "home_page": "https://knock.center",
+  "download_filename": "pysolbase-3.11.1.tar.gz",
+  "download_time": "2025-08-11T11:26:42.256205",
+  "package_url": "https://pypi.org/project/pysolbase/"
+}

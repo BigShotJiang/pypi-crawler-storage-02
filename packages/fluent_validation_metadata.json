@@ -1,11 +1,11 @@
 {
   "name": "fluent_validation",
-  "version": "4.3.24",
+  "version": "4.3.25",
   "summary": "A popular .NET validation library developed by 'Jeremy Skinner' for building strongly-typed validation rules, rewritten in python by 'Pablo Hernández'",
   "author": "p-hzamora",
   "license": "Apache",
   "home_page": null,
-  "download_filename": "fluent_validation-4.3.24.tar.gz",
-  "download_time": "2025-08-10T12:49:00.504299",
+  "download_filename": "fluent_validation-4.3.25.tar.gz",
+  "download_time": "2025-08-11T11:26:48.776051",
   "package_url": "https://pypi.org/project/fluent_validation/"
 }

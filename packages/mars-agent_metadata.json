@@ -1,11 +1,11 @@
 {
   "name": "mars-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Mars Agent - 基于主副代理架构的AI代理系统，支持MCP协议和流式处理",
   "author": "MingGuang Tian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Shy2593666979/Mars-Agent",
-  "download_filename": "mars_agent-0.1.0.tar.gz",
-  "download_time": "2025-08-11T09:43:57.354334",
+  "download_filename": "mars_agent-0.1.1.tar.gz",
+  "download_time": "2025-08-11T11:26:04.874669",
   "package_url": "https://pypi.org/project/mars-agent/"
 }
