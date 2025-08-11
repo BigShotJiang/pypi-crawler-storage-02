@@ -1,11 +1,11 @@
 {
   "name": "pmpt-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "CLI tool for AI-powered prompt enhancement",
   "author": "hawier-dev",
   "license": null,
   "home_page": "https://github.com/hawier-dev/pmpt-cli",
-  "download_filename": "pmpt_cli-0.1.4.tar.gz",
-  "download_time": "2025-08-11T11:44:26.836347",
+  "download_filename": "pmpt_cli-0.1.5.tar.gz",
+  "download_time": "2025-08-11T11:56:06.332189",
   "package_url": "https://pypi.org/project/pmpt-cli/"
 }

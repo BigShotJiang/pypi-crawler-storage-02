@@ -1,0 +1,11 @@
+{
+  "name": "keepassfunctions",
+  "version": "1.0",
+  "summary": "A collection of functions to operate with a KeePass-database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keepassfunctions-1.0.tar.gz",
+  "download_time": "2025-08-11T11:56:06.850126",
+  "package_url": "https://pypi.org/project/keepassfunctions/"
+}

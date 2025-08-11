@@ -1,0 +1,11 @@
+{
+  "name": "zmkj-rknn-tools",
+  "version": "0.1.0",
+  "summary": "瑞芯微端侧的辅助快速验证工具",
+  "author": "壹世朱名",
+  "license": null,
+  "home_page": "https://github.com/xuntee/rknn-tools",
+  "download_filename": "zmkj_rknn_tools-0.1.0.tar.gz",
+  "download_time": "2025-08-11T11:56:21.411034",
+  "package_url": "https://pypi.org/project/zmkj-rknn-tools/"
+}

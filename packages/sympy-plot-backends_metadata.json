@@ -1,0 +1,11 @@
+{
+  "name": "sympy-plot-backends",
+  "version": "3.4.5",
+  "summary": "Backends for plotting with SymPy",
+  "author": "Davide Sandona",
+  "license": "BSD License",
+  "home_page": "https://github.com/Davide-sd/sympy-plot-backends",
+  "download_filename": "sympy_plot_backends-3.4.5.tar.gz",
+  "download_time": "2025-08-11T11:56:15.146819",
+  "package_url": "https://pypi.org/project/sympy-plot-backends/"
+}

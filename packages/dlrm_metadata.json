@@ -1,11 +1,11 @@
 {
   "name": "dlrm",
-  "version": "0.2.10",
+  "version": "0.2.13",
   "summary": "resource management with file system in deep learning research",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dlrm-0.2.10.tar.gz",
-  "download_time": "2025-08-11T05:40:00.822979",
+  "download_filename": "dlrm-0.2.13.tar.gz",
+  "download_time": "2025-08-11T11:56:27.651021",
   "package_url": "https://pypi.org/project/dlrm/"
 }

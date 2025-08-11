@@ -1,11 +1,11 @@
 {
   "name": "gr",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "summary": "Python visualization framework",
   "author": "Scientific IT Systems",
   "license": "MIT License",
   "home_page": "http://gr-framework.org",
-  "download_filename": "gr-1.28.0.tar.gz",
-  "download_time": "2025-08-07T19:58:05.841673",
+  "download_filename": "gr-1.29.0.tar.gz",
+  "download_time": "2025-08-11T11:55:53.763459",
   "package_url": "https://pypi.org/project/gr/"
 }

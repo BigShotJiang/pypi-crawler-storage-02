@@ -1,0 +1,11 @@
+{
+  "name": "multimelt",
+  "version": "0.5",
+  "summary": "Regroupment of the main existing ice shelf basal melt parameterisations",
+  "author": "Clara Burgard",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ClimateClara/multimelt",
+  "download_filename": "multimelt-0.5.tar.gz",
+  "download_time": "2025-08-11T11:56:27.133407",
+  "package_url": "https://pypi.org/project/multimelt/"
+}

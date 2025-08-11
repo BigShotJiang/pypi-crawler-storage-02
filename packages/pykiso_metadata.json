@@ -1,0 +1,11 @@
+{
+  "name": "pykiso",
+  "version": "1.6.0",
+  "summary": "Embedded integration testing framework.",
+  "author": "Sebastian Fischer",
+  "license": "Eclipse Public License - v 2.0",
+  "home_page": "https://pypi.org/project/pykiso/",
+  "download_filename": "pykiso-1.6.0.tar.gz",
+  "download_time": "2025-08-11T11:55:55.380159",
+  "package_url": "https://pypi.org/project/pykiso/"
+}

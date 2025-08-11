@@ -1,0 +1,11 @@
+{
+  "name": "antinature",
+  "version": "0.1.2",
+  "summary": "Quantum chemistry package for antimatter simulations",
+  "author": "Mukul Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/mk0dz/antinature",
+  "download_filename": "antinature-0.1.2.tar.gz",
+  "download_time": "2025-08-11T11:56:22.450357",
+  "package_url": "https://pypi.org/project/antinature/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ida-domain",
-  "version": "0.1.0rc12",
+  "version": "0.1.0rc16",
   "summary": "IDA Domain API - Python interface for IDA Pro reverse engineering platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ida_domain-0.1.0rc12.tar.gz",
-  "download_time": "2025-08-07T11:45:45.971779",
+  "download_filename": "ida_domain-0.1.0rc16.tar.gz",
+  "download_time": "2025-08-11T11:56:19.847383",
   "package_url": "https://pypi.org/project/ida-domain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "textual-fspicker",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "A simple Textual filesystem picker dialog library.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "textual_fspicker-0.4.3.tar.gz",
-  "download_time": "2025-08-08T08:35:34.509823",
+  "download_filename": "textual_fspicker-0.5.0.tar.gz",
+  "download_time": "2025-08-11T11:56:30.790533",
   "package_url": "https://pypi.org/project/textual-fspicker/"
 }
