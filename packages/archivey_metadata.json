@@ -1,0 +1,11 @@
+{
+  "name": "archivey",
+  "version": "0.1.0a4",
+  "summary": "Python library for reading zip, tar, rar, 7z and other archives",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "archivey-0.1.0a4-py3-none-any.whl",
+  "download_time": "2025-08-11T03:52:18.299350",
+  "package_url": "https://pypi.org/project/archivey/"
+}

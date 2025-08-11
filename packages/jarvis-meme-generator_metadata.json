@@ -1,0 +1,11 @@
+{
+  "name": "jarvis-meme-generator",
+  "version": "1.0.4",
+  "summary": "Generate Jarvis meme images with custom text",
+  "author": "Joey Bejjani",
+  "license": "MIT",
+  "home_page": "https://github.com/jbejjani2022/jarvis-meme-generator",
+  "download_filename": "jarvis_meme_generator-1.0.4.tar.gz",
+  "download_time": "2025-08-11T03:52:33.817203",
+  "package_url": "https://pypi.org/project/jarvis-meme-generator/"
+}

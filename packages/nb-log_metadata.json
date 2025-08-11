@@ -1,11 +1,11 @@
 {
   "name": "nb-log",
-  "version": "13.8",
+  "version": "13.9",
   "summary": "very sharp color display,monkey patch bulitin print  and high-performance multiprocess safe roating file handler,other handlers includeing dintalk ,email,kafka,elastic and so on",
   "author": "bfzs",
   "license": "BSD License",
   "home_page": "https://github.com/ydf0509/nb_log",
-  "download_filename": "nb_log-13.8.tar.gz",
-  "download_time": "2025-08-06T03:54:14.120506",
+  "download_filename": "nb_log-13.9.tar.gz",
+  "download_time": "2025-08-11T03:52:00.998377",
   "package_url": "https://pypi.org/project/nb-log/"
 }

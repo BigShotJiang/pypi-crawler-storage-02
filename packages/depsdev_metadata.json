@@ -1,11 +1,11 @@
 {
   "name": "depsdev",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python wrapper for https://deps.dev/ API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depsdev-0.0.3.tar.gz",
-  "download_time": "2025-08-10T09:25:41.853521",
+  "download_filename": "depsdev-0.0.4.tar.gz",
+  "download_time": "2025-08-11T03:51:58.364518",
   "package_url": "https://pypi.org/project/depsdev/"
 }

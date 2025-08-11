@@ -1,0 +1,11 @@
+{
+  "name": "apigw-manager",
+  "version": "4.1.1",
+  "summary": "The SDK for managing blueking gateway resource.",
+  "author": "blueking",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apigw_manager-4.1.1-py3-none-any.whl",
+  "download_time": "2025-08-11T03:52:06.376538",
+  "package_url": "https://pypi.org/project/apigw-manager/"
+}

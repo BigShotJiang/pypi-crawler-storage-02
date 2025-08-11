@@ -1,11 +1,11 @@
 {
   "name": "agentic-cli-coder",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Open source, cheap, and premier coding agent",
   "author": null,
   "license": "ISC",
   "home_page": null,
-  "download_filename": "agentic_cli_coder-1.2.0.tar.gz",
-  "download_time": "2025-08-09T13:33:49.266375",
+  "download_filename": "agentic_cli_coder-1.2.1.tar.gz",
+  "download_time": "2025-08-11T03:52:06.888759",
   "package_url": "https://pypi.org/project/agentic-cli-coder/"
 }

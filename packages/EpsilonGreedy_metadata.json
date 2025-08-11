@@ -1,0 +1,11 @@
+{
+  "name": "EpsilonGreedy",
+  "version": "0.1.0",
+  "summary": "A simple Epsilon-Greedy multi-armed bandit implementation",
+  "author": "Priyanshi Furiya",
+  "license": null,
+  "home_page": "https://github.com/priyanshi-furiya/epsilon-greedy",
+  "download_filename": "epsilongreedy-0.1.0.tar.gz",
+  "download_time": "2025-08-11T03:51:51.028403",
+  "package_url": "https://pypi.org/project/EpsilonGreedy/"
+}

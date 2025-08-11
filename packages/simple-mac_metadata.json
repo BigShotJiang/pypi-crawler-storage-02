@@ -1,0 +1,11 @@
+{
+  "name": "simple-mac",
+  "version": "0.0.1",
+  "summary": "An educational, non-secure MAC implementation using simple XOR.",
+  "author": "Harshil Bhatnagar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_mac-0.0.1.tar.gz",
+  "download_time": "2025-08-11T03:52:10.718677",
+  "package_url": "https://pypi.org/project/simple-mac/"
+}
