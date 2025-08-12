@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-mcp-client",
+  "version": "1.0.0",
+  "summary": "Cliente para conectar modelos DeepSeek con servidores MCP",
+  "author": "Carlos Ruiz",
+  "license": null,
+  "home_page": "https://github.com/CarlosMaroRuiz/deepseek-mcp-client",
+  "download_filename": "deepseek_mcp_client-1.0.0.tar.gz",
+  "download_time": "2025-08-12T04:45:59.255996",
+  "package_url": "https://pypi.org/project/deepseek-mcp-client/"
+}

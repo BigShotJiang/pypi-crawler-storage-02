@@ -1,11 +1,11 @@
 {
   "name": "jipso",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "JIPSO framework for prompt orchestration and comparison",
   "author": "JIPSO Foundation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jipso-0.1.30.tar.gz",
-  "download_time": "2025-08-11T19:44:41.799770",
+  "download_filename": "jipso-0.1.31.tar.gz",
+  "download_time": "2025-08-12T04:46:23.238786",
   "package_url": "https://pypi.org/project/jipso/"
 }

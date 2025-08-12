@@ -1,0 +1,11 @@
+{
+  "name": "noWeirdUtils",
+  "version": "0.1.1",
+  "summary": "Lightweight, fun named utilities for number formatting, unit conversions and unix time handling.",
+  "author": "Santiago Matta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "noweirdutils-0.1.1.tar.gz",
+  "download_time": "2025-08-12T04:46:01.456007",
+  "package_url": "https://pypi.org/project/noWeirdUtils/"
+}

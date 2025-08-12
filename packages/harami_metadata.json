@@ -1,0 +1,11 @@
+{
+  "name": "harami",
+  "version": "0.0.8",
+  "summary": "A lightweight 'Event' and 'Observable' library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harami-0.0.8.tar.gz",
+  "download_time": "2025-08-12T04:46:07.988734",
+  "package_url": "https://pypi.org/project/harami/"
+}

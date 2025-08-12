@@ -1,11 +1,11 @@
 {
   "name": "neo4j-mcp-memory-scccy",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "MCP Neo4j Knowledge Graph Memory Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neo4j_mcp_memory_scccy-0.2.1.tar.gz",
-  "download_time": "2025-08-11T07:04:36.827629",
+  "download_filename": "neo4j_mcp_memory_scccy-0.2.2.tar.gz",
+  "download_time": "2025-08-12T04:46:12.356307",
   "package_url": "https://pypi.org/project/neo4j-mcp-memory-scccy/"
 }

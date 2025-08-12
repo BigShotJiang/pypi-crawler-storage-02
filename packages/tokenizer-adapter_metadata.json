@@ -1,0 +1,11 @@
+{
+  "name": "tokenizer-adapter",
+  "version": "0.2.0",
+  "summary": "A simple to adapt a pretrained language model to a new vocabulary",
+  "author": "Charles Condevaux",
+  "license": null,
+  "home_page": "https://github.com/ccdv-ai/tokenizer-adapter",
+  "download_filename": "tokenizer_adapter-0.2.0.tar.gz",
+  "download_time": "2025-08-12T04:46:09.089196",
+  "package_url": "https://pypi.org/project/tokenizer-adapter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cohesity-management-sdk",
+  "version": "1.14.1",
+  "summary": "This SDK provides operations for interfacing with the Cohesity Cluster.",
+  "author": "Cohesity Inc.",
+  "license": null,
+  "home_page": "https://github.com/cohesity/management-sdk-python",
+  "download_filename": "cohesity_management_sdk-1.14.1.tar.gz",
+  "download_time": "2025-08-12T04:46:22.155588",
+  "package_url": "https://pypi.org/project/cohesity-management-sdk/"
+}

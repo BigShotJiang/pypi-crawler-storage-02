@@ -1,0 +1,11 @@
+{
+  "name": "cloudbulkupload",
+  "version": "1.1.3",
+  "summary": "Python package for fast and parallel transferring a bulk of files to S3 based on boto3",
+  "author": "Dynamic Deploy. Credit: Amir Masoud Sefidian",
+  "license": null,
+  "home_page": "https://github.com/dynamicdeploy/cloudbulkupload",
+  "download_filename": "cloudbulkupload-1.1.3.tar.gz",
+  "download_time": "2025-08-12T04:46:07.451063",
+  "package_url": "https://pypi.org/project/cloudbulkupload/"
+}
