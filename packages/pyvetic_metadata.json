@@ -1,0 +1,11 @@
+{
+  "name": "pyvetic",
+  "version": "0.34.0",
+  "summary": "Internal package for common utils",
+  "author": "Vetic",
+  "license": null,
+  "home_page": "https://github.com/vetic-in/pyvetic",
+  "download_filename": "pyvetic-0.34.0.tar.gz",
+  "download_time": "2025-08-12T06:38:04.552947",
+  "package_url": "https://pypi.org/project/pyvetic/"
+}

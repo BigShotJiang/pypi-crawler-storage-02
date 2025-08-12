@@ -1,0 +1,11 @@
+{
+  "name": "gira",
+  "version": "0.2.0",
+  "summary": "Git-based project management for developers and AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gira-0.2.0.tar.gz",
+  "download_time": "2025-08-12T06:38:42.263003",
+  "package_url": "https://pypi.org/project/gira/"
+}

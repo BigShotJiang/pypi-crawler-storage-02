@@ -1,0 +1,11 @@
+{
+  "name": "keyboardsounds",
+  "version": "5.9.9",
+  "summary": "Adds the ability to play sounds while typing on any system.",
+  "author": "Nathan Fiscaletti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keyboardsounds-5.9.9.tar.gz",
+  "download_time": "2025-08-12T06:38:08.189247",
+  "package_url": "https://pypi.org/project/keyboardsounds/"
+}

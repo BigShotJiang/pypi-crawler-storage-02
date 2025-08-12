@@ -1,11 +1,11 @@
 {
   "name": "ncpy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for numerical computing, including root-finding, interpolation, integration, differentiation, and linear system solvers.",
   "author": "M. Almas",
-  "license": null,
-  "home_page": null,
-  "download_filename": "ncpy-0.1.1.tar.gz",
-  "download_time": "2025-08-10T17:21:24.003457",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ncpy",
+  "download_filename": "ncpy-0.1.2.tar.gz",
+  "download_time": "2025-08-12T06:38:06.107190",
   "package_url": "https://pypi.org/project/ncpy/"
 }
