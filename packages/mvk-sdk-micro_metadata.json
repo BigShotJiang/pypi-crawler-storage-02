@@ -1,0 +1,11 @@
+{
+  "name": "mvk-sdk-micro",
+  "version": "1.0.4",
+  "summary": "MVK SDK Micro - Ultralight OpenTelemetry-compatible SDK for AI Observability",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mvk_sdk_micro-1.0.4.tar.gz",
+  "download_time": "2025-08-12T16:57:31.697903",
+  "package_url": "https://pypi.org/project/mvk-sdk-micro/"
+}

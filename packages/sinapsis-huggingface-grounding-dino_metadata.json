@@ -1,11 +1,11 @@
 {
   "name": "sinapsis-huggingface-grounding-dino",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Templates for GroundingDINO with HuggingFace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sinapsis_huggingface_grounding_dino-0.1.6.tar.gz",
-  "download_time": "2025-08-05T21:24:29.813915",
+  "download_filename": "sinapsis_huggingface_grounding_dino-0.1.7.tar.gz",
+  "download_time": "2025-08-12T16:58:03.629106",
   "package_url": "https://pypi.org/project/sinapsis-huggingface-grounding-dino/"
 }

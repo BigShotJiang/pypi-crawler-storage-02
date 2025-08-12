@@ -1,11 +1,11 @@
 {
   "name": "automagik-hive",
-  "version": "0.1.0a57",
+  "version": "0.1.0a60",
   "summary": "Automagik Multi-Agent Framework - Extensible Agent Creation System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automagik_hive-0.1.0a57.tar.gz",
-  "download_time": "2025-08-06T17:57:38.847727",
+  "download_filename": "automagik_hive-0.1.0a60.tar.gz",
+  "download_time": "2025-08-12T16:58:11.435651",
   "package_url": "https://pypi.org/project/automagik-hive/"
 }

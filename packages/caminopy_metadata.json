@@ -1,0 +1,11 @@
+{
+  "name": "caminopy",
+  "version": "0.1.4",
+  "summary": "Collection of Algorithms for Mixed-Integer Nonlinear Optimization",
+  "author": "Andrea Ghezzi, Wim Van Roy",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/minlp-toolbox/CAMINO",
+  "download_filename": "caminopy-0.1.4.tar.gz",
+  "download_time": "2025-08-12T16:57:53.195428",
+  "package_url": "https://pypi.org/project/caminopy/"
+}

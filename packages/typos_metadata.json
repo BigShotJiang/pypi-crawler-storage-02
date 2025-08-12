@@ -1,11 +1,11 @@
 {
   "name": "typos",
-  "version": "1.35.3",
+  "version": "1.35.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typos-1.35.3.tar.gz",
-  "download_time": "2025-08-08T20:28:14.311804",
+  "download_filename": "typos-1.35.4.tar.gz",
+  "download_time": "2025-08-12T16:58:01.548987",
   "package_url": "https://pypi.org/project/typos/"
 }

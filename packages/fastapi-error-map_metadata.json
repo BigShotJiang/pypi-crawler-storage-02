@@ -1,11 +1,11 @@
 {
   "name": "fastapi-error-map",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "Elegant per-endpoint error handling in FastAPI with OpenAPI schema generation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fastapi_error_map-0.9.3.tar.gz",
-  "download_time": "2025-08-09T22:58:46.185966",
+  "download_filename": "fastapi_error_map-0.9.4.tar.gz",
+  "download_time": "2025-08-12T16:57:57.888322",
   "package_url": "https://pypi.org/project/fastapi-error-map/"
 }

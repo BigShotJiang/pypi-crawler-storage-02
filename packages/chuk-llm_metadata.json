@@ -1,11 +1,11 @@
 {
   "name": "chuk-llm",
-  "version": "0.9",
+  "version": "0.9.3",
   "summary": "A unified, production-ready Python library for Large Language Model (LLM) providers with real-time streaming, function calling, middleware support, automatic session tracking, dynamic model discovery, and intelligent system prompt generation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_llm-0.9.tar.gz",
-  "download_time": "2025-08-07T23:25:40.016685",
+  "download_filename": "chuk_llm-0.9.3.tar.gz",
+  "download_time": "2025-08-12T16:58:06.765667",
   "package_url": "https://pypi.org/project/chuk-llm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "DataversePython",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "summary": "A Dataverse client for Python",
   "author": "fabipfr",
   "license": null,
   "home_page": "https://github.com/fabipfr/DataversePython",
-  "download_filename": "dataversepython-0.1.4.tar.gz",
-  "download_time": "2025-08-12T10:51:39.682822",
+  "download_filename": "dataversepython-1.0.0.tar.gz",
+  "download_time": "2025-08-12T16:57:27.438591",
   "package_url": "https://pypi.org/project/DataversePython/"
 }

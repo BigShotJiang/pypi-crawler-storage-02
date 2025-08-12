@@ -1,0 +1,11 @@
+{
+  "name": "crypto-com-sdk",
+  "version": "0.0.80",
+  "summary": "cryptocom crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crypto_com_sdk-0.0.80.tar.gz",
+  "download_time": "2025-08-12T16:57:44.240903",
+  "package_url": "https://pypi.org/project/crypto-com-sdk/"
+}

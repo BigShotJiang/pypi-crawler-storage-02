@@ -1,0 +1,11 @@
+{
+  "name": "openedx-ltistore",
+  "version": "1.1.1",
+  "summary": "An app for storing LTI provider configurations centrally.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/openedx-ltistore",
+  "download_filename": "openedx_ltistore-1.1.1.tar.gz",
+  "download_time": "2025-08-12T16:57:55.801675",
+  "package_url": "https://pypi.org/project/openedx-ltistore/"
+}
