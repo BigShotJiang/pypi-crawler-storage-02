@@ -1,0 +1,11 @@
+{
+  "name": "pdf2urls-tools-service",
+  "version": "0.1.0",
+  "summary": "Convert each page of PDF into an image, output base64 encoding, and support uploading to Tencent Cloud OSS to obtain URL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf2urls_tools_service-0.1.0.tar.gz",
+  "download_time": "2025-08-12T09:34:54.254411",
+  "package_url": "https://pypi.org/project/pdf2urls-tools-service/"
+}

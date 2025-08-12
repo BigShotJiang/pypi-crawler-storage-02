@@ -1,0 +1,11 @@
+{
+  "name": "flask-simple-tsdb",
+  "version": "2.1.3.0",
+  "summary": "Python code for accessing simple_tsdb databases from flask <= 2.1.3.",
+  "author": "Terry Greeniaus",
+  "license": "MIT",
+  "home_page": "https://github.com/tgree/simple_tsdb",
+  "download_filename": "flask_simple_tsdb-2.1.3.0.tar.gz",
+  "download_time": "2025-08-12T09:34:34.735433",
+  "package_url": "https://pypi.org/project/flask-simple-tsdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tplus",
+  "version": "0.1.9.4",
+  "summary": "Torchplus is a utilities library that extends pytorch and torchvision",
+  "author": "Zeping Zhang",
+  "license": "GPL-v3",
+  "home_page": "https://github.com/zhangzp9970/torchplus",
+  "download_filename": "tplus-0.1.9.4.tar.gz",
+  "download_time": "2025-08-12T09:34:35.246767",
+  "package_url": "https://pypi.org/project/tplus/"
+}
