@@ -1,11 +1,11 @@
 {
   "name": "smolorm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "SmolORM is a small ORM for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smolorm-0.0.1.tar.gz",
-  "download_time": "2025-08-12T05:01:49.942988",
+  "download_filename": "smolorm-0.0.2.tar.gz",
+  "download_time": "2025-08-12T05:32:21.469171",
   "package_url": "https://pypi.org/project/smolorm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "replicate-batch-process",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Intelligent batch processing tool for Replicate models with automatic fallback mechanisms",
   "author": "preangelleo",
   "license": "MIT",
   "home_page": "https://github.com/preangelleo/replicate_batch_process",
-  "download_filename": "replicate_batch_process-1.0.6.tar.gz",
-  "download_time": "2025-08-12T05:01:43.230930",
+  "download_filename": "replicate_batch_process-1.0.7.tar.gz",
+  "download_time": "2025-08-12T05:32:13.511430",
   "package_url": "https://pypi.org/project/replicate-batch-process/"
 }

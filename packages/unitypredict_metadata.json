@@ -1,11 +1,11 @@
 {
   "name": "unitypredict",
-  "version": "1.1.74",
+  "version": "1.1.75",
   "summary": null,
   "author": "UnityPredict",
   "license": null,
   "home_page": "https://unitypredict.com",
-  "download_filename": "unitypredict-1.1.74.tar.gz",
-  "download_time": "2025-08-12T05:01:47.122658",
+  "download_filename": "unitypredict-1.1.75.tar.gz",
+  "download_time": "2025-08-12T05:32:18.251975",
   "package_url": "https://pypi.org/project/unitypredict/"
 }

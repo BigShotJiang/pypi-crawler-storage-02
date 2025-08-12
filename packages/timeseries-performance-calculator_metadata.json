@@ -1,11 +1,11 @@
 {
   "name": "timeseries-performance-calculator",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "A Python package for calculating and analyzing time series performance metrics",
   "author": "June Young Park",
   "license": null,
   "home_page": null,
-  "download_filename": "timeseries_performance_calculator-0.3.4.tar.gz",
-  "download_time": "2025-08-12T01:55:44.697785",
+  "download_filename": "timeseries_performance_calculator-0.3.5.tar.gz",
+  "download_time": "2025-08-12T05:32:10.371888",
   "package_url": "https://pypi.org/project/timeseries-performance-calculator/"
 }

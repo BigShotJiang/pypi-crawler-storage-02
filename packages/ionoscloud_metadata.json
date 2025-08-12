@@ -1,0 +1,11 @@
+{
+  "name": "ionoscloud",
+  "version": "6.1.13",
+  "summary": "Python SDK for the Ionos Cloud API",
+  "author": "Ionos Cloud",
+  "license": null,
+  "home_page": "https://github.com/ionos-cloud/ionos-cloud-sdk-python",
+  "download_filename": "ionoscloud-6.1.13.tar.gz",
+  "download_time": "2025-08-12T05:32:03.000885",
+  "package_url": "https://pypi.org/project/ionoscloud/"
+}
