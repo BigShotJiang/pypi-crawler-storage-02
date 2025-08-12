@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-wasm-bridge",
+  "version": "1.0.0",
+  "summary": "Convert media files using FFmpeg WebAssembly and a local server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_wasm_bridge-1.0.0.tar.gz",
+  "download_time": "2025-08-12T15:48:40.301030",
+  "package_url": "https://pypi.org/project/ffmpeg-wasm-bridge/"
+}

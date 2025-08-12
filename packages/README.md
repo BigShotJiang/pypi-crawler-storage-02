@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T15:39:32.133803
-- **Total Packages**: 89
-- **Total Size**: 36.16 MB
+- **Download Time**: 2025-08-12T15:49:18.654817
+- **Total Packages**: 90
+- **Total Size**: 18.62 MB
 
 ## Packages List
+- shura
+- itwinai
+- pylint-sort-functions
+- ScandEval
+- fastpluggy-tasks-worker
+- EuroEval
+- ocf-data-sampler
+- vacancycalculator
+- selenium
+- ferrobus
+- sthg-ontology-base
+- asksageclient
+- TB2J
+- opentrons-shared-data
+- earthcarekit
+- lib-sudoku
+- QuackOSM
+- anime-sama-apis
+- django-accounts-api
+- tavily-mcp-server
+- fastapi-extra
+- ffmpeg-wasm-bridge
+- mapper-lib
+- rypi
+- opensearch-demos-utils
+- comdab
+- tsx
+- almanack
+- chalkpy
+- centaur-nrn
+- importspy
+- holcstore
+- karellen-llvm-toolchain-tools
+- wandelbots-api-client
+- karellen-llvm-lldb
 - nucliadb-admin-assets
 - verahession
 - ncatbot
@@ -61,37 +96,3 @@
 - torchrl-nightly
 - python-code-changed
 - dataset-with-logits
-- HowdenLLMManager
-- datasurface
-- coords-nsga2
-- eodc-faas-openeo
-- openfl-nightly
-- irispreppy
-- ilovemadpussy9
-- unstructured-ingest
-- cmpl
-- sgf-parser
-- image-filename-ai
-- ayz-auth
-- coiled
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- django-future-tasks
-- dataclassabc
-- flexget
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- tai-jaix
-- cgse-coordinates
-- cgse-common
-- cgse
-- ftmq
-- talkcode
-- discord-selfbot-v1422
-- e-dome
-- mammos-analysis

@@ -1,0 +1,11 @@
+{
+  "name": "opensearch-demos-utils",
+  "version": "1.0.0",
+  "summary": "Utilities for OpenSearch demonstrations and educational content",
+  "author": "OpenSearch Demos Team",
+  "license": null,
+  "home_page": "https://github.com/opensearch-project/opensearch-demos",
+  "download_filename": "opensearch_demos_utils-1.0.0.tar.gz",
+  "download_time": "2025-08-12T15:48:41.843422",
+  "package_url": "https://pypi.org/project/opensearch-demos-utils/"
+}
