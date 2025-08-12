@@ -1,11 +1,11 @@
 {
   "name": "tavily-mcp-server",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Tavily搜索MCP服务智能体 - 为AI智能体提供强大的网络搜索能力",
   "author": "MCP Team",
   "license": "MIT",
   "home_page": "https://github.com/mcp-team/tavily-mcp-server",
-  "download_filename": "tavily_mcp_server-1.0.6.tar.gz",
-  "download_time": "2025-08-12T17:48:27.947139",
+  "download_filename": "tavily_mcp_server-1.0.8.tar.gz",
+  "download_time": "2025-08-12T23:25:41.772197",
   "package_url": "https://pypi.org/project/tavily-mcp-server/"
 }

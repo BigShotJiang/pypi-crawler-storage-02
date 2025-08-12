@@ -1,0 +1,11 @@
+{
+  "name": "jc-cybersec-hack4u",
+  "version": "0.1.1",
+  "summary": "Una biblioteca para consultar cursos de hack4u.",
+  "author": "Javier Criado",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "jc_cybersec_hack4u-0.1.1.tar.gz",
+  "download_time": "2025-08-12T23:25:44.448508",
+  "package_url": "https://pypi.org/project/jc-cybersec-hack4u/"
+}

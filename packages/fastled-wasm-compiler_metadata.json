@@ -1,0 +1,11 @@
+{
+  "name": "fastled-wasm-compiler",
+  "version": "1.1.6",
+  "summary": "Fastled Wasm Compiler",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/zackees/fastled-wasm-compiler",
+  "download_filename": "fastled_wasm_compiler-1.1.6-py3-none-any.whl",
+  "download_time": "2025-08-12T23:25:44.977881",
+  "package_url": "https://pypi.org/project/fastled-wasm-compiler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "genesis-mcp-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Genesis MCP Core - A powerful Model Context Protocol server SDK with built-in connector support",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/your-org/genesis-mcp-core",
-  "download_filename": "genesis_mcp_core-0.0.2.tar.gz",
-  "download_time": "2025-08-12T22:48:40.505321",
+  "download_filename": "genesis_mcp_core-0.0.3.tar.gz",
+  "download_time": "2025-08-12T23:25:58.609555",
   "package_url": "https://pypi.org/project/genesis-mcp-core/"
 }

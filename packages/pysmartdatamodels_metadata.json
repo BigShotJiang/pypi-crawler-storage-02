@@ -1,0 +1,11 @@
+{
+  "name": "pysmartdatamodels",
+  "version": "0.8.0.2",
+  "summary": "Open-licensed and free data models to model your digital twins, share data in data spaces or develop smart applications",
+  "author": "aabella",
+  "license": null,
+  "home_page": "https://github.com/smart-data-models/data-models/tree/master/pysmartdatamodels",
+  "download_filename": "pysmartdatamodels-0.8.0.2.tar.gz",
+  "download_time": "2025-08-12T23:26:02.332968",
+  "package_url": "https://pypi.org/project/pysmartdatamodels/"
+}

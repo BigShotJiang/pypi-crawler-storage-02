@@ -1,0 +1,11 @@
+{
+  "name": "fluent-chaining",
+  "version": "0.1.0",
+  "summary": "A Python package for pure functional programming with fluent chaining that reads like prose",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluent_chaining-0.1.0.tar.gz",
+  "download_time": "2025-08-12T23:25:46.543795",
+  "package_url": "https://pypi.org/project/fluent-chaining/"
+}
