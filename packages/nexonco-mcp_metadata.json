@@ -1,11 +1,11 @@
 {
   "name": "nexonco-mcp",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "An advanced MCP Server for accessing and analyzing clinical evidence data, with flexible search options to support precision medicine and oncology research.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexonco_mcp-0.1.15.tar.gz",
-  "download_time": "2025-08-12T10:50:56.595172",
+  "download_filename": "nexonco_mcp-0.1.17.tar.gz",
+  "download_time": "2025-08-12T11:24:57.253637",
   "package_url": "https://pypi.org/project/nexonco-mcp/"
 }

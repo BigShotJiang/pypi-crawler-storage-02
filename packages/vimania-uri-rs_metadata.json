@@ -1,11 +1,11 @@
 {
   "name": "vimania-uri-rs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Advanced URI handling for Vim with Rust performance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vimania_uri_rs-2.0.2-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2025-08-10T15:24:58.310527",
+  "download_filename": "vimania_uri_rs-2.0.3-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-12T11:24:43.831077",
   "package_url": "https://pypi.org/project/vimania-uri-rs/"
 }

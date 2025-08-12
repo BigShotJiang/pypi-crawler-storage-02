@@ -1,0 +1,11 @@
+{
+  "name": "ipython-polypheny",
+  "version": "0.1.3",
+  "summary": "Access Polypheny via IPython magics",
+  "author": "The Polypheny Project",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://polypheny.org/",
+  "download_filename": "ipython_polypheny-0.1.3.tar.gz",
+  "download_time": "2025-08-12T11:25:04.044458",
+  "package_url": "https://pypi.org/project/ipython-polypheny/"
+}

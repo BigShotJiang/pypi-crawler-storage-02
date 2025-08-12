@@ -1,0 +1,11 @@
+{
+  "name": "rbv-package",
+  "version": "2.0.0",
+  "summary": "Un package de fonction utiles pour la Vérification basée sur les risques",
+  "author": "Hubinont Jean-Philippe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rbv_package-2.0.0.tar.gz",
+  "download_time": "2025-08-12T11:24:24.798424",
+  "package_url": "https://pypi.org/project/rbv-package/"
+}

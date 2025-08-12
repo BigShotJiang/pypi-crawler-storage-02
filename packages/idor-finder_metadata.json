@@ -1,0 +1,11 @@
+{
+  "name": "idor-finder",
+  "version": "0.1.0",
+  "summary": "Powerful IDOR discovery tool with UUID-aware fuzzing and async engine",
+  "author": "Ashutosh Kumar Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/ashutosh0x/idor-finder",
+  "download_filename": "idor_finder-0.1.0.tar.gz",
+  "download_time": "2025-08-12T11:24:22.223172",
+  "package_url": "https://pypi.org/project/idor-finder/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "get-5c-cdr",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": "6vi7ms",
   "license": null,
   "home_page": null,
-  "download_filename": "get_5c_cdr-0.1.3.tar.gz",
-  "download_time": "2025-08-12T09:34:40.363990",
+  "download_filename": "get_5c_cdr-0.1.4.tar.gz",
+  "download_time": "2025-08-12T11:25:00.159703",
   "package_url": "https://pypi.org/project/get-5c-cdr/"
 }
