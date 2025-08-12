@@ -1,0 +1,11 @@
+{
+  "name": "channel3-sdk",
+  "version": "1.0.0",
+  "summary": "The official Python SDK for Channel3",
+  "author": "Channel3",
+  "license": "MIT",
+  "home_page": "https://github.com/channel3-ai/sdk-python",
+  "download_filename": "channel3_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-12T23:44:44.672051",
+  "package_url": "https://pypi.org/project/channel3-sdk/"
+}

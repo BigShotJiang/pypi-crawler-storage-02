@@ -1,0 +1,11 @@
+{
+  "name": "moneywiz-api",
+  "version": "1.0.6",
+  "summary": "A Python api to access moneywiz sqlite database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moneywiz_api-1.0.6.tar.gz",
+  "download_time": "2025-08-12T23:44:37.442629",
+  "package_url": "https://pypi.org/project/moneywiz-api/"
+}

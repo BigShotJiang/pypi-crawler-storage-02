@@ -1,0 +1,11 @@
+{
+  "name": "kinyarwanda",
+  "version": "0.1.0",
+  "summary": "A simple command-line tool that leverages cookiecutter scaffolding package",
+  "author": "Asaph Irabaruta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kinyarwanda-0.1.0.tar.gz",
+  "download_time": "2025-08-12T23:44:46.722939",
+  "package_url": "https://pypi.org/project/kinyarwanda/"
+}

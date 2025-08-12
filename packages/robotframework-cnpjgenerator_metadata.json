@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-cnpjgenerator",
+  "version": "1.0.0",
+  "summary": "Biblioteca Robot Framework para geração e validação de CNPJs",
+  "author": "Seu Nome",
+  "license": null,
+  "home_page": "https://github.com/seu-usuario/robotframework-cnpjgenerator",
+  "download_filename": "robotframework_cnpjgenerator-1.0.0.tar.gz",
+  "download_time": "2025-08-12T23:44:48.263681",
+  "package_url": "https://pypi.org/project/robotframework-cnpjgenerator/"
+}
