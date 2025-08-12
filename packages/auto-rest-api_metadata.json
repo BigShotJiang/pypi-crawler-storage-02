@@ -1,0 +1,11 @@
+{
+  "name": "auto-rest-api",
+  "version": "0.1.9",
+  "summary": "Automatically map database schemas and deploy per-table REST API endpoints.",
+  "author": "Better HPC LLC",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "auto_rest_api-0.1.9.tar.gz",
+  "download_time": "2025-08-12T05:49:27.671642",
+  "package_url": "https://pypi.org/project/auto-rest-api/"
+}

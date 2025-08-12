@@ -1,11 +1,11 @@
 {
   "name": "novatium",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Novatium — Cosmic-Grade Machine Learning with NovaAutoRegressor and NovaAutoClassifier for Tabular Data",
   "author": "Praneeth Kumar Palepu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "novatium-1.1.6.tar.gz",
-  "download_time": "2025-08-12T05:32:15.613116",
+  "download_filename": "novatium-1.1.7.tar.gz",
+  "download_time": "2025-08-12T05:49:32.416650",
   "package_url": "https://pypi.org/project/novatium/"
 }

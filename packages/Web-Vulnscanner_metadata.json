@@ -1,0 +1,11 @@
+{
+  "name": "Web-Vulnscanner",
+  "version": "0.1.3",
+  "summary": "A Simple CLI python tool to scan a website for common vulns.",
+  "author": "Randomguy",
+  "license": null,
+  "home_page": "https://github.com/randomguy6407/Vulnscanner",
+  "download_filename": "web_vulnscanner-0.1.3.tar.gz",
+  "download_time": "2025-08-12T05:49:26.616130",
+  "package_url": "https://pypi.org/project/Web-Vulnscanner/"
+}

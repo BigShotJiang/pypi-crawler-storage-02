@@ -1,11 +1,11 @@
 {
   "name": "clipd",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": "Yadhnika Wakde",
   "license": null,
   "home_page": "https://github.com/SuzanTurner/clipd",
-  "download_filename": "clipd-0.1.3.tar.gz",
-  "download_time": "2025-08-12T04:04:29.376791",
+  "download_filename": "clipd-0.1.4.tar.gz",
+  "download_time": "2025-08-12T05:49:29.265087",
   "package_url": "https://pypi.org/project/clipd/"
 }

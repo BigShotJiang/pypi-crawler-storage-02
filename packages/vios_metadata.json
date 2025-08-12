@@ -1,11 +1,11 @@
 {
   "name": "vios",
-  "version": "3.5.5",
+  "version": "3.5.6",
   "summary": "QuarkStudio-Based Experimental Runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vios-3.5.5-py3-none-any.whl",
-  "download_time": "2025-08-05T07:29:37.286444",
+  "download_filename": "vios-3.5.6-py3-none-any.whl",
+  "download_time": "2025-08-12T05:49:24.487679",
   "package_url": "https://pypi.org/project/vios/"
 }
