@@ -1,11 +1,11 @@
 {
   "name": "filter-optical-character-recognition",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filter_optical_character_recognition-0.1.4-py3-none-any.whl",
-  "download_time": "2025-08-06T23:45:26.805276",
+  "download_filename": "filter_optical_character_recognition-0.1.5-py3-none-any.whl",
+  "download_time": "2025-08-12T18:42:02.062951",
   "package_url": "https://pypi.org/project/filter-optical-character-recognition/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jaccard-concentration-index",
+  "version": "1.0.5",
+  "summary": "A library for clustering evaluation based on the distribution of predicted cluster mass across true clusters.",
+  "author": "Randolph Wiredu-Aidoo",
+  "license": "MIT",
+  "home_page": "https://github.com/RandyWAidoo/Jaccard-Concentration-Index",
+  "download_filename": "jaccard_concentration_index-1.0.5.tar.gz",
+  "download_time": "2025-08-12T18:42:25.432500",
+  "package_url": "https://pypi.org/project/jaccard-concentration-index/"
+}

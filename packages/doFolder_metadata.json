@@ -1,11 +1,11 @@
 {
   "name": "doFolder",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "Manage files more easily",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dofolder-2.2.3.tar.gz",
-  "download_time": "2025-08-07T17:42:39.895818",
+  "download_filename": "dofolder-2.2.4.tar.gz",
+  "download_time": "2025-08-12T18:42:14.534188",
   "package_url": "https://pypi.org/project/doFolder/"
 }

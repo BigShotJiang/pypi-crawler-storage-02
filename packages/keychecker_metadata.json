@@ -1,0 +1,11 @@
+{
+  "name": "keychecker",
+  "version": "1.0.0",
+  "summary": "A comprehensive key reconnaissance framework for red team activities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keychecker-1.0.0.tar.gz",
+  "download_time": "2025-08-12T18:42:11.870718",
+  "package_url": "https://pypi.org/project/keychecker/"
+}
