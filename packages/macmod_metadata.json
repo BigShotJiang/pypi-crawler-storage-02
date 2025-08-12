@@ -1,11 +1,11 @@
 {
   "name": "macmod",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A simple command-line tool to format MAC addresses in standard styles.",
   "author": "Maksym Ototiuk",
   "license": null,
   "home_page": "https://github.com/Maksym-Ototiuk/macmod",
-  "download_filename": "macmod-0.2.1.tar.gz",
-  "download_time": "2025-08-12T21:25:23.823422",
+  "download_filename": "macmod-0.2.2.tar.gz",
+  "download_time": "2025-08-12T21:44:57.227258",
   "package_url": "https://pypi.org/project/macmod/"
 }

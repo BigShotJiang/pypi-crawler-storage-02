@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T21:25:27.402073
-- **Total Packages**: 91
-- **Total Size**: 16.41 MB
+- **Download Time**: 2025-08-12T21:45:25.229959
+- **Total Packages**: 90
+- **Total Size**: 23.51 MB
 
 ## Packages List
+- skinport.py
+- ape-tokens
+- MIOFlow
+- ultrazoom
+- conda-project
+- kaiserlift
+- sensory-data-client
+- uvify
+- schemathesis
+- openseries
+- mrx-runway
+- matrice
+- claude-mpm
+- cendat
+- ECOv002-calval-tables
+- nominal-api-protos
+- nominal-api
+- azure-ai-agents
+- OOTS-CS-Query-Validator
+- tricahue
+- datarobot-pulumi-utils
+- freeflock-contraptions
+- ipsdk
+- hla-compass
+- primfunctions
+- fulcrum-cli
+- probotanki-lib
+- galaxy-peach
+- koi-net
+- dj-redis-panel
+- text-cleaner-for-py
+- airbyte-source-netsuite
+- gui-goals-app
+- ragl
+- toomanycells
+- calfem-python
+- cloud-sql-python-connector
+- macmod
+- HoloLink
+- structifyai
+- mgo-prwrkpi
+- copepodTCR
 - diagnosticism
 - SkillLink
 - slurm-factory
@@ -19,7 +61,6 @@
 - mastui
 - cleanlab-tlm
 - qiskit-experiments
-- sensory-data-client
 - dadi-cli
 - rfsyncer
 - whisper-eval-serbian
@@ -47,8 +88,6 @@
 - ylhc-print-manager-base
 - sdominanta-mcp
 - halox
-- nominal-api-protos
-- nominal-api
 - intake-coops
 - devsecops-engine-tools
 - awslabs.openapi-mcp-server
@@ -57,43 +96,3 @@
 - leanup
 - awslabs.lambda-tool-mcp-server
 - awslabs.memcached-mcp-server
-- awslabs.mysql-mcp-server
-- galaxy-peach
-- awslabs.nova-canvas-mcp-server
-- neuro-san
-- awslabs.frontend-mcp-server
-- awslabs.git-repo-research-mcp-server
-- awslabs.finch-mcp-server
-- awslabs.elasticache-mcp-server
-- awslabs.iam-mcp-server
-- conviso-cli
-- spikeble
-- ECOv002-calval-tables
-- MIOFlow
-- momovu
-- py-gitea-opensuse-org
-- deasy-client
-- atlan-application-sdk
-- famly-fetch
-- pokedex-python
-- awslabs.ecs-mcp-server
-- awslabs.dynamodb-mcp-server
-- awslabs.eks-mcp-server
-- awslabs.documentdb-mcp-server
-- awslabs.cost-explorer-mcp-server
-- awslabs.core-mcp-server
-- awslabs.code-doc-gen-mcp-server
-- gongy
-- autora-experiment-runner-experimentation-manager-firebase
-- discord-py-help-lib
-- hla-compass
-- agent-cli
-- dspy-ai
-- dspy
-- macmod
-- lc-reconstruction-analysis
-- proxy2vpn
-- awslabs.cloudwatch-mcp-server
-- awslabs.cloudwatch-logs-mcp-server
-- awslabs.cloudwatch-appsignals-mcp-server
-- sheshe

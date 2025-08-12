@@ -1,11 +1,11 @@
 {
   "name": "diagnosticism",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "summary": "Basic diagnostic facilities, for Python",
   "author": "Matt Wilson",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/synesissoftware/diagnosticism.Python",
-  "download_filename": "diagnosticism-0.14.1.tar.gz",
-  "download_time": "2025-08-12T21:24:39.111498",
+  "download_filename": "diagnosticism-0.15.0.tar.gz",
+  "download_time": "2025-08-12T21:44:59.846107",
   "package_url": "https://pypi.org/project/diagnosticism/"
 }

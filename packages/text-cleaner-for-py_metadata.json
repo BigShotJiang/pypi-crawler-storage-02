@@ -1,0 +1,11 @@
+{
+  "name": "text-cleaner-for-py",
+  "version": "1.5.0",
+  "summary": "​💬​ Uma biblioteca Python para limpeza e processamento de texto",
+  "author": "Roberto Lima",
+  "license": "MIT",
+  "home_page": "https://github.com/seu-usuario/text_cleaner",
+  "download_filename": "text_cleaner_for_py-1.5.0.tar.gz",
+  "download_time": "2025-08-12T21:44:53.601779",
+  "package_url": "https://pypi.org/project/text-cleaner-for-py/"
+}
