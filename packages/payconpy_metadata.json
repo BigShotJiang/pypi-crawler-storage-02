@@ -1,0 +1,11 @@
+{
+  "name": "payconpy",
+  "version": "5.8.1",
+  "summary": "Funções Para Melhorar Desenvolvimento de Robôs com Selenium",
+  "author": "Paycon Automações",
+  "license": "MIT License",
+  "home_page": "https://github.com/Paycon-Automacoes/payconpy",
+  "download_filename": "payconpy-5.8.1.tar.gz",
+  "download_time": "2025-08-12T19:26:14.551331",
+  "package_url": "https://pypi.org/project/payconpy/"
+}

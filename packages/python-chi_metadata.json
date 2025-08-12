@@ -1,0 +1,11 @@
+{
+  "name": "python-chi",
+  "version": "1.2.6",
+  "summary": "Helper library for Chameleon Infrastructure (CHI) testbed",
+  "author": "University of Chicago",
+  "license": null,
+  "home_page": "https://www.chameleoncloud.org",
+  "download_filename": "python_chi-1.2.6.tar.gz",
+  "download_time": "2025-08-12T19:26:41.379525",
+  "package_url": "https://pypi.org/project/python-chi/"
+}

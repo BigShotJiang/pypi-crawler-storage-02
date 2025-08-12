@@ -1,0 +1,11 @@
+{
+  "name": "erpbrasil.base",
+  "version": "2.4.0",
+  "summary": "Base",
+  "author": "Luis Felipe Mileo",
+  "license": "MIT license",
+  "home_page": "https://github.com/erpbrasil/erpbrasil.base",
+  "download_filename": "erpbrasil_base-2.4.0.tar.gz",
+  "download_time": "2025-08-12T19:26:37.681715",
+  "package_url": "https://pypi.org/project/erpbrasil.base/"
+}
