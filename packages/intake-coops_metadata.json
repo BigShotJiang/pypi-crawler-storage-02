@@ -1,0 +1,11 @@
+{
+  "name": "intake-coops",
+  "version": "0.4.2",
+  "summary": "Intake interface to NOAA CO-OPS data",
+  "author": "Axiom Data Science",
+  "license": "MIT",
+  "home_page": "https://github.com/axiom-data-science/intake-coops",
+  "download_filename": "intake_coops-0.4.2.tar.gz",
+  "download_time": "2025-08-12T21:25:02.315702",
+  "package_url": "https://pypi.org/project/intake-coops/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slurm-factory",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Slurm builder project by Vantage Compute",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slurm_factory-0.1.5.tar.gz",
-  "download_time": "2025-08-11T23:44:59.571964",
+  "download_filename": "slurm_factory-0.1.8.tar.gz",
+  "download_time": "2025-08-12T21:24:40.647259",
   "package_url": "https://pypi.org/project/slurm-factory/"
 }

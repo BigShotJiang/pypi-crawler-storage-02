@@ -1,0 +1,11 @@
+{
+  "name": "pokedex-python",
+  "version": "0.0.2",
+  "summary": "A simple Python Pokédex implementation.",
+  "author": "Ishan Karpe",
+  "license": null,
+  "home_page": "https://github.com/Ishan-Karpe/Pokedex",
+  "download_filename": "pokedex_python-0.0.2.tar.gz",
+  "download_time": "2025-08-12T21:25:15.637977",
+  "package_url": "https://pypi.org/project/pokedex-python/"
+}
