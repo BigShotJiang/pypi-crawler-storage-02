@@ -1,11 +1,11 @@
 {
   "name": "aiokafka-acgi",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Add your description here",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "aiokafka_acgi-0.7.0.tar.gz",
-  "download_time": "2025-08-10T16:52:47.980622",
+  "download_filename": "aiokafka_acgi-0.8.0.tar.gz",
+  "download_time": "2025-08-12T17:47:56.333616",
   "package_url": "https://pypi.org/project/aiokafka-acgi/"
 }

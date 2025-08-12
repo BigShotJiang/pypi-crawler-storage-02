@@ -1,0 +1,11 @@
+{
+  "name": "LockFileSemaphore",
+  "version": "3.0.2",
+  "summary": "Robust file-based semaphore with stale lock recovery and context manager support.",
+  "author": "Marcin Kowalczyk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lockfilesemaphore-3.0.2.tar.gz",
+  "download_time": "2025-08-12T17:47:48.554376",
+  "package_url": "https://pypi.org/project/LockFileSemaphore/"
+}

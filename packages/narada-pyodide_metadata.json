@@ -1,11 +1,11 @@
 {
   "name": "narada-pyodide",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Pyodide-compatible Python client SDK for Narada",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "narada_pyodide-0.0.14.tar.gz",
-  "download_time": "2025-08-12T01:55:37.301784",
+  "download_filename": "narada_pyodide-0.0.15.tar.gz",
+  "download_time": "2025-08-12T17:47:52.194058",
   "package_url": "https://pypi.org/project/narada-pyodide/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ai-code-forge",
-  "version": "0.2.0",
+  "version": "2.92.0",
   "summary": "Configuration management tool for AI Code Forge",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_code_forge-0.2.0.tar.gz",
-  "download_time": "2025-08-09T18:59:22.489092",
+  "download_filename": "ai_code_forge-2.92.0.tar.gz",
+  "download_time": "2025-08-12T17:48:12.846041",
   "package_url": "https://pypi.org/project/ai-code-forge/"
 }

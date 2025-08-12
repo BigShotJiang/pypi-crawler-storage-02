@@ -1,11 +1,11 @@
 {
   "name": "botorch",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "Bayesian Optimization in PyTorch",
   "author": "Meta Platforms, Inc.",
   "license": "MIT",
   "home_page": "https://botorch.org",
-  "download_filename": "botorch-0.15.0.tar.gz",
-  "download_time": "2025-08-05T20:47:24.931559",
+  "download_filename": "botorch-0.15.1.tar.gz",
+  "download_time": "2025-08-12T17:48:30.022323",
   "package_url": "https://pypi.org/project/botorch/"
 }

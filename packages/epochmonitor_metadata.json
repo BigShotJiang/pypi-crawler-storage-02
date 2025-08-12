@@ -1,0 +1,11 @@
+{
+  "name": "epochmonitor",
+  "version": "1.0.0",
+  "summary": "A simple and versatile monitor/profiler for model training loops.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epochmonitor-1.0.0.tar.gz",
+  "download_time": "2025-08-12T17:48:07.181647",
+  "package_url": "https://pypi.org/project/epochmonitor/"
+}
