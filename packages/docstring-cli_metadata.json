@@ -1,0 +1,11 @@
+{
+  "name": "docstring-cli",
+  "version": "1.0.0",
+  "summary": "Simple CLI to add docstrings to Python code",
+  "author": "Vijaysurya",
+  "license": null,
+  "home_page": "https://github.com/vijasuryabaka/Docstring_CLI",
+  "download_filename": "docstring_cli-1.0.0.tar.gz",
+  "download_time": "2025-08-12T09:01:35.477612",
+  "package_url": "https://pypi.org/project/docstring-cli/"
+}

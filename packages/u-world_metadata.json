@@ -1,0 +1,11 @@
+{
+  "name": "u-world",
+  "version": "0.0.0",
+  "summary": "U-World: Exploring the World with AI Agents Powered by Large Language Models",
+  "author": "wangxingjun778",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wangxingjun778/u-world",
+  "download_filename": "u_world-0.0.0.tar.gz",
+  "download_time": "2025-08-12T09:01:30.308270",
+  "package_url": "https://pypi.org/project/u-world/"
+}

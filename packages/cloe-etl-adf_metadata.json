@@ -1,0 +1,11 @@
+{
+  "name": "cloe-etl-adf",
+  "version": "1.0.10",
+  "summary": "Generates the orchestration pipelines for the job template package based on metadata.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloe_etl_adf-1.0.10-py3-none-any.whl",
+  "download_time": "2025-08-12T09:01:34.447994",
+  "package_url": "https://pypi.org/project/cloe-etl-adf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-typed-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Async cache library for Pydantic models without FastAPI dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydantic_typed_cache-1.0.1.tar.gz",
-  "download_time": "2025-08-12T07:32:11.290832",
+  "download_filename": "pydantic_typed_cache-1.0.2.tar.gz",
+  "download_time": "2025-08-12T09:01:53.135840",
   "package_url": "https://pypi.org/project/pydantic-typed-cache/"
 }

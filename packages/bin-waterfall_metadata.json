@@ -1,0 +1,11 @@
+{
+  "name": "bin-waterfall",
+  "version": "0.1.0",
+  "summary": "A Python library for waterfall chart generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bin_waterfall-0.1.0.tar.gz",
+  "download_time": "2025-08-12T09:01:55.191791",
+  "package_url": "https://pypi.org/project/bin-waterfall/"
+}

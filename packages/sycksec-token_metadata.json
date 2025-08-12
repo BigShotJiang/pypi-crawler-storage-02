@@ -1,0 +1,11 @@
+{
+  "name": "sycksec-token",
+  "version": "1.0.0",
+  "summary": "Secure token generation and verification engine with rate limiting",
+  "author": "Arjun Mani",
+  "license": null,
+  "home_page": "https://github.com/sycksec/sycksec-core",
+  "download_filename": "sycksec_token-1.0.0.tar.gz",
+  "download_time": "2025-08-12T09:01:39.738614",
+  "package_url": "https://pypi.org/project/sycksec-token/"
+}

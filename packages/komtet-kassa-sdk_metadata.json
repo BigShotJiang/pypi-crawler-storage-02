@@ -1,11 +1,11 @@
 {
   "name": "komtet-kassa-sdk",
-  "version": "7.4.0",
+  "version": "7.4.1",
   "summary": "Python SDK for KOMTET Kassa",
   "author": "Motmom",
   "license": "MIT",
   "home_page": "https://github.com/Komtet/komtet-kassa-python-sdk",
-  "download_filename": "komtet_kassa_sdk-7.4.0.tar.gz",
-  "download_time": "2025-08-05T14:29:12.154400",
+  "download_filename": "komtet_kassa_sdk-7.4.1.tar.gz",
+  "download_time": "2025-08-12T09:01:39.147950",
   "package_url": "https://pypi.org/project/komtet-kassa-sdk/"
 }
