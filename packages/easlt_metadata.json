@@ -1,0 +1,11 @@
+{
+  "name": "easlt",
+  "version": "0.1.0",
+  "summary": "Enhanced Automatic Shifted Log Transformer with Monte Carlo optimization",
+  "author": "Muhammad Akmal Husain",
+  "license": "MIT",
+  "home_page": "https://github.com/AkmalHusain2003/enhanced-automatic-shifted-log",
+  "download_filename": "easlt-0.1.0.tar.gz",
+  "download_time": "2025-08-12T05:01:52.155031",
+  "package_url": "https://pypi.org/project/easlt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zepben.evolve",
+  "version": "0.48.0",
+  "summary": "Python SDK for interacting with the Evolve platform",
+  "author": "Kurt Greaves",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/zepben/evolve-sdk-python",
+  "download_filename": "zepben_evolve-0.48.0-py3-none-any.whl",
+  "download_time": "2025-08-12T05:01:54.921147",
+  "package_url": "https://pypi.org/project/zepben.evolve/"
+}

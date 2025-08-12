@@ -1,0 +1,11 @@
+{
+  "name": "Rolling-Imax-Processor",
+  "version": "0.1.0",
+  "summary": "This script processes raw intensity measurement data stored in a nested Year to Month to Day folder structure. It reads data in millimeters per second (mm/sec) from Excel files, calculates rolling maximum values for intensity classes, and outputs results in millimeters per minute (mm/min) for intensity classes I1 to I60.",
+  "author": "Akshar Singh Rawat, Dr Sadikul Islam, Dr M Muruganandam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rolling_imax_processor-0.1.0.tar.gz",
+  "download_time": "2025-08-12T05:01:48.754956",
+  "package_url": "https://pypi.org/project/Rolling-Imax-Processor/"
+}

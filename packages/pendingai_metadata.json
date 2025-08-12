@@ -1,0 +1,11 @@
+{
+  "name": "pendingai",
+  "version": "0.4.4",
+  "summary": "Python SDK and CLI for the Pending AI API",
+  "author": "Pending AI",
+  "license": "MIT",
+  "home_page": "https://pending.ai",
+  "download_filename": "pendingai-0.4.4.tar.gz",
+  "download_time": "2025-08-12T05:01:51.050253",
+  "package_url": "https://pypi.org/project/pendingai/"
+}

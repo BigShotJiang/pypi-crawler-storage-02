@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-sitemap",
+  "version": "2.8.0",
+  "summary": "Sitemap generator for Sphinx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_sitemap-2.8.0.tar.gz",
+  "download_time": "2025-08-12T05:01:50.485627",
+  "package_url": "https://pypi.org/project/sphinx-sitemap/"
+}

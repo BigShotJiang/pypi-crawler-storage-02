@@ -1,19 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T04:46:33.876942
-- **Total Packages**: 64
-- **Total Size**: 28.8 MB
+- **Download Time**: 2025-08-12T05:02:17.566902
+- **Total Packages**: 71
+- **Total Size**: 10.65 MB
 
 ## Packages List
-- sunagent-app
+- flui-tui
+- mlx-openai-server
+- fiftyone-devicedetection-onpremise
+- fiftyone-devicedetection
+- fiftyone-devicedetection-shared
+- skapp
+- fiftyone-devicedetection-cloud
 - replicate-batch-process
+- circremote
+- multimodal-sdk
+- lchdemo
+- cxglearner
+- repomix
+- msal
+- unitypredict
+- unitypredict-engines
+- vipaxel
+- Rolling-Imax-Processor
+- gllm-agents-binary
+- smolorm
+- sphinx-sitemap
+- pendingai
+- arbok-driver
+- easlt
+- overfitting
+- advanced_research
+- hanzo-net
+- StoryForge
+- zepben.evolve
+- pymammotion
+- harami
+- nominal-api-protos
+- nominal-api
+- crisscross-kit
+- sunagent-app
 - deepseek-mcp-client
 - hybrid-vectorizer
 - truedriver
 - noWeirdUtils
 - momovu
-- enhanced-automatic-shifted-log
 - kececilayout
 - omnipkg
 - voxcity
@@ -23,13 +55,10 @@
 - nonebot-plugin-delta-helper
 - fyuneru
 - cloudbulkupload
-- harami
 - piegy
 - tokenizer-adapter
 - pylitex
-- skapp
 - urarovite
-- crisscross-kit
 - firetrack-py-lib
 - neo4j-mcp-memory-scccy
 - pact-python
@@ -48,25 +77,3 @@
 - cdktf-cdktf-provider-spotinst
 - pdfkb-mcp
 - meetcap
-- cohesity-management-sdk
-- otlmow-model
-- jipso
-- notebook-intelligence
-- odoo14-addons-oca-wms
-- chromedriver-binary
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- alibabacloud-bailian20231229
-- servi-tenant-resolver
-- clipd
-- robhan-cdk-lib.utils
-- iflow-mcp_nexonco-mcp
-- planet-auth
-- pchjlib
-- daisy-cli
-- looptick
-- keras-nightly
-- odoo-addon-stock-picking-import-serial-number
-- biopipen
-- pulumi-spotinst
-- wass2s
