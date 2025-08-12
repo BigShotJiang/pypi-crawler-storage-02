@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-device-manager",
+  "version": "0.1.5",
+  "summary": "A plugin for whitebox to manage devices",
+  "author": "Milos",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_device_manager-0.1.5.tar.gz",
+  "download_time": "2025-08-12T14:54:11.859652",
+  "package_url": "https://pypi.org/project/whitebox-plugin-device-manager/"
+}

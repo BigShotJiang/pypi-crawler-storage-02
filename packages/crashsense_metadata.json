@@ -1,0 +1,11 @@
+{
+  "name": "crashsense",
+  "version": "1.0.0",
+  "summary": "AI-powered crash log analyzer with memory and automated setup for local/API LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crashsense-1.0.0.tar.gz",
+  "download_time": "2025-08-12T14:54:28.783168",
+  "package_url": "https://pypi.org/project/crashsense/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-payments-blockbee",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "BlockBee Checkout backend for django-payments.",
   "author": "BlockBee",
   "license": "MIT",
   "home_page": "https://github.com/blockbee-io/django-payments-blockbee",
-  "download_filename": "django_payments_blockbee-1.0.1.tar.gz",
-  "download_time": "2025-08-12T11:43:56.428712",
+  "download_filename": "django_payments_blockbee-1.0.3.tar.gz",
+  "download_time": "2025-08-12T14:53:58.593568",
   "package_url": "https://pypi.org/project/django-payments-blockbee/"
 }

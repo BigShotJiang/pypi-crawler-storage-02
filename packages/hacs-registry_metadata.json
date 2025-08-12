@@ -1,11 +1,11 @@
 {
   "name": "hacs-registry",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "HACS Registry - Model, prompt, and workflow definitions for healthcare AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hacs_registry-0.4.0.tar.gz",
-  "download_time": "2025-08-10T17:21:40.676440",
+  "download_filename": "hacs_registry-0.4.3.tar.gz",
+  "download_time": "2025-08-12T14:54:36.934310",
   "package_url": "https://pypi.org/project/hacs-registry/"
 }

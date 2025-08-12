@@ -1,11 +1,11 @@
 {
   "name": "universal-llm-service",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "Библиотека для работы с языковыми моделями",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "universal_llm_service-1.0.12.tar.gz",
-  "download_time": "2025-08-11T12:55:59.515709",
+  "download_filename": "universal_llm_service-1.0.13.tar.gz",
+  "download_time": "2025-08-12T14:54:17.783005",
   "package_url": "https://pypi.org/project/universal-llm-service/"
 }

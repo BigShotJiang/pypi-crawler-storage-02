@@ -1,0 +1,11 @@
+{
+  "name": "napari-filaments",
+  "version": "0.4.0",
+  "summary": "Plugin for filament analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_filaments-0.4.0.tar.gz",
+  "download_time": "2025-08-12T14:54:00.318650",
+  "package_url": "https://pypi.org/project/napari-filaments/"
+}

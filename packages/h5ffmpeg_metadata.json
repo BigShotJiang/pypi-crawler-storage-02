@@ -1,11 +1,11 @@
 {
   "name": "h5ffmpeg",
-  "version": "2.2.8",
+  "version": "2.3.0",
   "summary": "HDF5 filter plugin for FFMPEG video codec compression",
   "author": "Bin Duan@Cailab, University of Michigan",
   "license": "MIT",
   "home_page": "https://github.com/Cai-Lab-at-University-of-Michigan/ffmpeg_HDF5_filter",
-  "download_filename": "h5ffmpeg-2.2.8.tar.gz",
-  "download_time": "2025-08-09T21:55:02.694804",
+  "download_filename": "h5ffmpeg-2.3.0.tar.gz",
+  "download_time": "2025-08-12T14:54:04.357387",
   "package_url": "https://pypi.org/project/h5ffmpeg/"
 }

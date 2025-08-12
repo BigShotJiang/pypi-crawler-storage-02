@@ -1,0 +1,11 @@
+{
+  "name": "sqla-utils",
+  "version": "0.7.0",
+  "summary": "Opinionated utilities for working with SQLAlchemy",
+  "author": "Sebastian Rittau",
+  "license": "MIT",
+  "home_page": "https://github.com/srittau/sqla-utils",
+  "download_filename": "sqla_utils-0.7.0.tar.gz",
+  "download_time": "2025-08-12T14:54:26.019928",
+  "package_url": "https://pypi.org/project/sqla-utils/"
+}
