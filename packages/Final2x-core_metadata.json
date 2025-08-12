@@ -1,0 +1,11 @@
+{
+  "name": "Final2x-core",
+  "version": "3.1.1",
+  "summary": "core library for Final2x",
+  "author": "Tohrusky",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Tohrusky/Final2x-core",
+  "download_filename": "final2x_core-3.1.1-py3-none-any.whl",
+  "download_time": "2025-08-12T07:58:43.272456",
+  "package_url": "https://pypi.org/project/Final2x-core/"
+}

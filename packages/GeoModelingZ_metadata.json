@@ -1,11 +1,11 @@
 {
   "name": "GeoModelingZ",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "地理建模与可视化工具库",
   "author": "Zhoums",
   "license": null,
   "home_page": "https://github.com/Zhoums396/GeoModelingZ",
-  "download_filename": "geomodelingz-0.0.5.tar.gz",
-  "download_time": "2025-08-12T07:32:10.204983",
+  "download_filename": "geomodelingz-0.0.6.tar.gz",
+  "download_time": "2025-08-12T07:58:50.051616",
   "package_url": "https://pypi.org/project/GeoModelingZ/"
 }

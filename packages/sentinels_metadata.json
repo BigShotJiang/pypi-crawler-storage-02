@@ -1,11 +1,11 @@
 {
   "name": "sentinels",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Various objects to denote special meanings in python",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "sentinels-1.1.0.tar.gz",
-  "download_time": "2025-08-12T07:46:44.664232",
+  "download_filename": "sentinels-1.1.1.tar.gz",
+  "download_time": "2025-08-12T07:58:41.206457",
   "package_url": "https://pypi.org/project/sentinels/"
 }
