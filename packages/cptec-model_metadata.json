@@ -1,0 +1,11 @@
+{
+  "name": "cptec-model",
+  "version": "0.1.11",
+  "summary": "Módulo para distribuição de Modelos Numéricos.",
+  "author": "Framework",
+  "license": "MIT",
+  "home_page": "https://cptec-model.readthedocs.io/en/latest/",
+  "download_filename": "cptec-model-0.1.11.tar.gz",
+  "download_time": "2025-08-12T18:07:38.552684",
+  "package_url": "https://pypi.org/project/cptec-model/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netconf-client",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "summary": "A Python NETCONF client",
   "author": "ADTRAN, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ADTRAN/netconf_client",
-  "download_filename": "netconf_client-3.4.0.tar.gz",
-  "download_time": "2025-08-04T20:48:40.021753",
+  "download_filename": "netconf_client-3.5.0.tar.gz",
+  "download_time": "2025-08-12T18:07:15.938159",
   "package_url": "https://pypi.org/project/netconf-client/"
 }

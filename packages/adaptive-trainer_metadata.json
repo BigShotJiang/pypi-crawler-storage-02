@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-trainer",
+  "version": "0.0.6",
+  "summary": "A Hugging Face Trainer extension for adaptive loss and ideas learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_trainer-0.0.6.tar.gz",
+  "download_time": "2025-08-12T18:07:07.842533",
+  "package_url": "https://pypi.org/project/adaptive-trainer/"
+}

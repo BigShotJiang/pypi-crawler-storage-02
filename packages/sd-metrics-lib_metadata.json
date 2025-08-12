@@ -1,0 +1,11 @@
+{
+  "name": "sd-metrics-lib",
+  "version": "2.0",
+  "summary": "Library to calculate various metrics of software development process",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sd_metrics_lib-2.0.tar.gz",
+  "download_time": "2025-08-12T18:07:24.129264",
+  "package_url": "https://pypi.org/project/sd-metrics-lib/"
+}

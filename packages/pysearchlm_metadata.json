@@ -1,0 +1,11 @@
+{
+  "name": "pysearchlm",
+  "version": "1.0.1",
+  "summary": "LLM-powered PDF academic paper summarizer with LaTeX output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysearchlm-1.0.1.tar.gz",
+  "download_time": "2025-08-12T18:07:31.853477",
+  "package_url": "https://pypi.org/project/pysearchlm/"
+}
