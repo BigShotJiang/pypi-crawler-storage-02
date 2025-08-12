@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T23:45:12.944410
-- **Total Packages**: 80
-- **Total Size**: 21.86 MB
+- **Download Time**: 2025-08-12T23:57:40.998790
+- **Total Packages**: 87
+- **Total Size**: 24.65 MB
 
 ## Packages List
+- uppercase-my-file
+- pyrend
+- pcf8574-webapp
+- aiwaf
+- microsoft-agents-storage-cosmos
+- microsoft-agents-storage-blob
+- microsoft-agents-hosting-teams
+- microsoft-agents-hosting-core
+- microsoft-agents-hosting-aiohttp
+- microsoft-agents-copilotstudio-client
+- microsoft-agents-authentication-msal
+- microsoft-agents-activity
+- mcp-jupyter
+- fastled-wasm-compiler
+- langchain-oci
+- arize-phoenix
+- run-mcp-servers-with-aws-lambda
+- sphinx-filter-tabs
+- pymatgen-analysis-alloys
+- project-x-py
+- leann-core
+- deriva-ml
+- tachyon-api
+- leann-backend-hnsw
+- spei-python
+- leann-backend-diskann
+- leann
+- chuk-llm
 - ivybloom
 - cjm-fasthtml-daisyui
 - anatools
@@ -27,14 +55,12 @@
 - hume
 - ragl
 - epok-toolkit
-- pyrend
 - proxy2vpn
 - heaserver
 - ytplay
 - channel3-sdk
 - thoth-qdrant
 - tavily-mcp-server
-- google-keep-mcp
 - kinyarwanda
 - complexint
 - multidecoder
@@ -52,7 +78,6 @@
 - my-cookiecutter-cli
 - cdk-factory
 - jc-cybersec-hack4u
-- fastled-wasm-compiler
 - surya-ocr
 - fastgps
 - fluent-chaining
@@ -68,21 +93,3 @@
 - pydantic-ai-slim
 - pydantic-ai-examples
 - pydantic-ai
-- clai
-- m24842-ml
-- skyrelis
-- git-rebase-branches
-- workforce
-- pulumi-provider-boilerplate
-- asana
-- eval-protocol
-- kaiserlift
-- genesis-mcp-core
-- busylight-for-humans
-- pulumi-xyz
-- holamundoplayerabelgp
-- kgw
-- vicon
-- pysmartdatamodels
-- molde
-- deprecated-params

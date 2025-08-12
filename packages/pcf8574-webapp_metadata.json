@@ -1,11 +1,11 @@
 {
   "name": "pcf8574-webapp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "This is a Python library designed to be able to easily control your PCF8574 I/O expanders over a Web interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pcf8574_webapp-0.1.1.tar.gz",
-  "download_time": "2025-08-12T22:48:57.341173",
+  "download_filename": "pcf8574_webapp-0.1.2.tar.gz",
+  "download_time": "2025-08-12T23:56:53.276402",
   "package_url": "https://pypi.org/project/pcf8574-webapp/"
 }
