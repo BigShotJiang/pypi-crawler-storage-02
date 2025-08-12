@@ -1,0 +1,11 @@
+{
+  "name": "bk-plugin-framework",
+  "version": "2.2.13",
+  "summary": "bk plugin python framework",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bk_plugin_framework-2.2.13.tar.gz",
+  "download_time": "2025-08-12T11:44:08.356048",
+  "package_url": "https://pypi.org/project/bk-plugin-framework/"
+}

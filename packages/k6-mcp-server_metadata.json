@@ -1,11 +1,11 @@
 {
   "name": "k6-mcp-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "K6 Load Testing MCP Server for performance testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "k6_mcp_server-1.0.0.tar.gz",
-  "download_time": "2025-08-12T04:04:40.852464",
+  "download_filename": "k6_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-08-12T11:44:07.290211",
   "package_url": "https://pypi.org/project/k6-mcp-server/"
 }

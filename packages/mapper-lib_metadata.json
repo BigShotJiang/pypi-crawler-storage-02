@@ -1,11 +1,11 @@
 {
   "name": "mapper-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Uma biblioteca C++ para mapeamento e transformação de dados",
-  "author": "Seu Nome",
+  "author": "Gustavo de Oliveira",
   "license": "MIT",
   "home_page": "https://github.com/compre-sua-peca/csp_mapper",
-  "download_filename": "mapper_lib-1.0.0.tar.gz",
-  "download_time": "2025-08-11T20:46:36.168240",
+  "download_filename": "mapper_lib-1.0.1-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-08-12T11:44:18.381673",
   "package_url": "https://pypi.org/project/mapper-lib/"
 }

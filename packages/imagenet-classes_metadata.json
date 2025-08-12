@@ -1,0 +1,11 @@
+{
+  "name": "imagenet-classes",
+  "version": "0.1.1",
+  "summary": "A Python package for managing and retrieving ImageNet-1k mappings among integer class IDs, string class IDs, and human-readable class names.",
+  "author": "Illia Volkov, Nikita Kisel",
+  "license": "MIT",
+  "home_page": "https://github.com/gonikisgo/imagenet-classes",
+  "download_filename": "imagenet_classes-0.1.1.tar.gz",
+  "download_time": "2025-08-12T11:44:05.726607",
+  "package_url": "https://pypi.org/project/imagenet-classes/"
+}

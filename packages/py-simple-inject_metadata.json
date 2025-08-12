@@ -1,0 +1,11 @@
+{
+  "name": "py-simple-inject",
+  "version": "0.8.0",
+  "summary": "A lightweight dependency injection library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_simple_inject-0.8.0.tar.gz",
+  "download_time": "2025-08-12T11:44:01.608711",
+  "package_url": "https://pypi.org/project/py-simple-inject/"
+}
