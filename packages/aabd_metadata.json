@@ -1,11 +1,11 @@
 {
   "name": "aabd",
-  "version": "0.3.17",
+  "version": "0.3.18",
   "summary": "wdx tools",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aabd-0.3.17.tar.gz",
-  "download_time": "2025-08-09T14:45:29.954071",
+  "download_filename": "aabd-0.3.18-py3-none-any.whl",
+  "download_time": "2025-08-12T10:50:54.961192",
   "package_url": "https://pypi.org/project/aabd/"
 }

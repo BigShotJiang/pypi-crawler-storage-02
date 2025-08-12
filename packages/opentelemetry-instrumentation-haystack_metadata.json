@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-haystack",
-  "version": "0.44.2",
+  "version": "0.44.3",
   "summary": "OpenTelemetry Haystack instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_haystack-0.44.2.tar.gz",
-  "download_time": "2025-08-11T19:56:40.059031",
+  "download_filename": "opentelemetry_instrumentation_haystack-0.44.3.tar.gz",
+  "download_time": "2025-08-12T10:51:34.360002",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-haystack/"
 }

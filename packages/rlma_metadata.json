@@ -1,11 +1,11 @@
 {
   "name": "rlma",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Robust Linear Matching Algorithm (RLMA) for variable association detection",
   "author": "Francis Jemisiham Amofa",
   "license": null,
   "home_page": "https://github.com/francisamofa/rlma",
-  "download_filename": "rlma-0.1.0.tar.gz",
-  "download_time": "2025-08-12T09:34:43.435067",
+  "download_filename": "rlma-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-12T10:51:02.554441",
   "package_url": "https://pypi.org/project/rlma/"
 }

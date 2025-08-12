@@ -1,0 +1,11 @@
+{
+  "name": "medcat",
+  "version": "1.16.5",
+  "summary": "Concept annotation tool for Electronic Health Records",
+  "author": "w-is-h",
+  "license": null,
+  "home_page": "https://github.com/CogStack/MedCAT",
+  "download_filename": "medcat-1.16.5-py3-none-any.whl",
+  "download_time": "2025-08-12T10:51:15.982606",
+  "package_url": "https://pypi.org/project/medcat/"
+}

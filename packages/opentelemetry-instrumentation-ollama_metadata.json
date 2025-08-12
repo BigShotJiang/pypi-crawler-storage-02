@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-ollama",
-  "version": "0.44.2",
+  "version": "0.44.3",
   "summary": "OpenTelemetry Ollama instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_ollama-0.44.2.tar.gz",
-  "download_time": "2025-08-11T19:56:34.541011",
+  "download_filename": "opentelemetry_instrumentation_ollama-0.44.3.tar.gz",
+  "download_time": "2025-08-12T10:51:30.077569",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-ollama/"
 }

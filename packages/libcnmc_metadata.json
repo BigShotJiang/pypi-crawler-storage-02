@@ -1,0 +1,11 @@
+{
+  "name": "libcnmc",
+  "version": "24.24.0",
+  "summary": "Generació fitxers CNMC",
+  "author": "GISCE-TI, S.L.",
+  "license": "General Public Licence 2",
+  "home_page": "http://www.gisce.net",
+  "download_filename": "libcnmc-24.24.0.tar.gz",
+  "download_time": "2025-08-12T10:51:18.125998",
+  "package_url": "https://pypi.org/project/libcnmc/"
+}
