@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T07:32:22.902462
-- **Total Packages**: 70
-- **Total Size**: 18.17 MB
+- **Download Time**: 2025-08-12T07:47:30.206207
+- **Total Packages**: 84
+- **Total Size**: 29.27 MB
 
 ## Packages List
+- sentinels
+- fast-agent-mcp
+- playmolecule
+- influxdb3-python
+- cli-executor-mcp
+- stigg-api-client
+- stum-ai-gateway
+- optimum-rbln
+- twgy
+- pulumi-gcp
+- python-can
+- jira-dev-tools
+- turbobt
+- mbnpy
+- myxagent
+- kui
+- gs2
+- bridgecrew
+- jobqueues
+- monkeyutil
+- elastic-apm
+- odoo-addon-stock-financial-risk
+- localstack-core
+- nlabapi
+- p2d2
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- nonebot-plugin-arkguesser
+- commonroad-sumo
+- victron-mqtt
+- yunhu_usdk
+- orchestrator-core
+- youtrack-sdk
+- supply-chain-graph
+- youtube-thumbnail-generator
+- spec2sdk
+- edaflow
+- matrice
+- undine
+- checkov
+- openaleph-procrastinate
+- BayesMCDM
+- pyportable-crypto
 - gomyck-tools
 - q-migrator
 - rozie
@@ -28,7 +77,6 @@
 - ara-cli
 - django-cast
 - bafser
-- nonebot-plugin-arkguesser
 - 77-MyFirst-HwWo-Lib-77-2025-11-8
 - mblt-model-zoo
 - serverless-builder
@@ -42,37 +90,3 @@
 - odoo-addon-project-group
 - hla-compass
 - geo-explorer
-- turbobt
-- timeseries-performance-calculator
-- skyledge-sdk
-- netkiller-chart
-- datalakesurfer
-- myxagent
-- monkeyutil
-- lumipy
-- gq-python2
-- tf-models-nightly
-- gq-python1
-- iqm-pulse
-- odoo-addon-l10n-es-aeat-partner-check
-- augint-billing-lib
-- GeoModelingZ
-- localstack-core
-- pydantic-typed-cache
-- pulumi-vault
-- sonolus.py
-- dtx-models
-- rpa-config
-- zepben.ewb
-- dataeval
-- teams-alerter
-- linuxpy
-- antchain-collabinv
-- odoo-addon-fieldservice-kanban-info
-- halib
-- cloud-governance
-- karrio-veho
-- karrio-tge
-- karrio-shipengine
-- dbrepo
-- karrio-seko

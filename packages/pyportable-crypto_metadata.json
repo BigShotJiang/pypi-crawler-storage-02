@@ -1,0 +1,11 @@
+{
+  "name": "pyportable-crypto",
+  "version": "1.5.0",
+  "summary": "Crypto plugin for pyportable-installer project.",
+  "author": "Likianta",
+  "license": "MIT",
+  "home_page": "https://github.com/likianta/pyportable-crypto",
+  "download_filename": "pyportable_crypto-1.5.0-py3-none-any.whl",
+  "download_time": "2025-08-12T07:47:11.263595",
+  "package_url": "https://pypi.org/project/pyportable-crypto/"
+}

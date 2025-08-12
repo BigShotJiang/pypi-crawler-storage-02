@@ -1,0 +1,11 @@
+{
+  "name": "twgy",
+  "version": "3.0.0",
+  "summary": "Taiwan Mandarin Phonetic Similarity Processor - 台灣國語語音相似性處理系統",
+  "author": "TWGY Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/twgy",
+  "download_filename": "twgy-3.0.0-py3-none-any.whl",
+  "download_time": "2025-08-12T07:46:48.882190",
+  "package_url": "https://pypi.org/project/twgy/"
+}

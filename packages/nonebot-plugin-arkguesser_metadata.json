@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-arkguesser",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "明日方舟猜干员游戏 - 支持多种游戏模式和题库设置",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_arkguesser-0.1.5.tar.gz",
-  "download_time": "2025-08-12T07:31:54.095421",
+  "download_filename": "nonebot_plugin_arkguesser-0.1.7.tar.gz",
+  "download_time": "2025-08-12T07:47:02.646823",
   "package_url": "https://pypi.org/project/nonebot-plugin-arkguesser/"
 }
