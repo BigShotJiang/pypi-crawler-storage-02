@@ -1,0 +1,11 @@
+{
+  "name": "mcp-forge",
+  "version": "0.3.0",
+  "summary": "Scaffolding tool for Model Context Protocol (MCP) servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_forge-0.3.0.tar.gz",
+  "download_time": "2025-08-12T15:39:08.631000",
+  "package_url": "https://pypi.org/project/mcp-forge/"
+}

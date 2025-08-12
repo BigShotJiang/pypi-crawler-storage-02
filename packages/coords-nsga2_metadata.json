@@ -1,11 +1,11 @@
 {
   "name": "coords-nsga2",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "A Python library implementing a coordinate-based NSGA-II for multi-objective optimization.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coords_nsga2-0.0.3.tar.gz",
-  "download_time": "2025-08-12T11:43:53.668114",
+  "download_filename": "coords_nsga2-0.0.6.tar.gz",
+  "download_time": "2025-08-12T15:39:13.208682",
   "package_url": "https://pypi.org/project/coords-nsga2/"
 }

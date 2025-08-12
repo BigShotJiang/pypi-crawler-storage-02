@@ -1,0 +1,11 @@
+{
+  "name": "pyvolleydata",
+  "version": "0.1.1",
+  "summary": "Extract and analyze volleyball data from the pvf and lovb volleyball leagues.",
+  "author": "Ryan Du",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvolleydata-0.1.1.tar.gz",
+  "download_time": "2025-08-12T15:39:04.638438",
+  "package_url": "https://pypi.org/project/pyvolleydata/"
+}

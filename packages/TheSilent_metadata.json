@@ -1,11 +1,11 @@
 {
   "name": "TheSilent",
-  "version": "0.1.17",
-  "summary": "TheSilent is a subdomain enumeration tool!",
+  "version": "0.1.21",
+  "summary": "TheSilent is a data science library",
   "author": "Invizabel",
   "license": null,
   "home_page": null,
-  "download_filename": "thesilent-0.1.17.tar.gz",
-  "download_time": "2025-08-11T19:28:57.399336",
+  "download_filename": "thesilent-0.1.21.tar.gz",
+  "download_time": "2025-08-12T15:39:02.903167",
   "package_url": "https://pypi.org/project/TheSilent/"
 }

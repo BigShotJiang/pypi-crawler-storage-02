@@ -1,0 +1,11 @@
+{
+  "name": "unsatfit",
+  "version": "5.4",
+  "summary": "Fit soil water retention and unsaturated hydraulic conductivity functions",
+  "author": "Katsutoshi Seki",
+  "license": "MIT",
+  "home_page": "https://sekika.github.io/unsatfit/",
+  "download_filename": "unsatfit-5.4.tar.gz",
+  "download_time": "2025-08-12T15:38:38.798126",
+  "package_url": "https://pypi.org/project/unsatfit/"
+}

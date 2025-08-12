@@ -1,0 +1,11 @@
+{
+  "name": "dataclassabc",
+  "version": "0.0.17",
+  "summary": "A Python library that allows you to define abstract properties for dataclasses, bridging the gap between abstract base classes (ABCs) and dataclasses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataclassabc-0.0.17.tar.gz",
+  "download_time": "2025-08-12T15:39:22.764053",
+  "package_url": "https://pypi.org/project/dataclassabc/"
+}

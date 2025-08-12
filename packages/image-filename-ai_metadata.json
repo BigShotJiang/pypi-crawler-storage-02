@@ -1,0 +1,11 @@
+{
+  "name": "image-filename-ai",
+  "version": "0.1.0",
+  "summary": "AI-powered image filename generator using Google Gemini - Transform generic image files into descriptive, SEO-friendly names",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "image_filename_ai-0.1.0.tar.gz",
+  "download_time": "2025-08-12T15:39:17.955401",
+  "package_url": "https://pypi.org/project/image-filename-ai/"
+}

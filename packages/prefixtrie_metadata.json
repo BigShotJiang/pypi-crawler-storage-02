@@ -1,11 +1,11 @@
 {
   "name": "prefixtrie",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "A cython implementation of a read-only prefix trie data structure.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prefixtrie-0.1.2.tar.gz",
-  "download_time": "2025-08-12T13:59:58.875247",
+  "download_filename": "prefixtrie-0.2.1.tar.gz",
+  "download_time": "2025-08-12T15:38:48.450081",
   "package_url": "https://pypi.org/project/prefixtrie/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "discord-selfbot-v1422",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "wrd",
   "author": "auth",
   "license": null,
   "home_page": null,
-  "download_filename": "discord_selfbot_v1422-0.1.1.tar.gz",
-  "download_time": "2025-08-12T14:54:14.868999",
+  "download_filename": "discord_selfbot_v1422-0.1.4.tar.gz",
+  "download_time": "2025-08-12T15:39:30.479752",
   "package_url": "https://pypi.org/project/discord-selfbot-v1422/"
 }
