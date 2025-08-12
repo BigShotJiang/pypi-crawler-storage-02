@@ -1,0 +1,11 @@
+{
+  "name": "MQTTNetLyzer",
+  "version": "0.1.0",
+  "summary": "The MQTT Layer Session Analyzer",
+  "author": "Aditya Raj",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ed21b006/MQTTNetLyzer",
+  "download_filename": "mqttnetlyzer-0.1.0.tar.gz",
+  "download_time": "2025-08-12T19:01:35.178392",
+  "package_url": "https://pypi.org/project/MQTTNetLyzer/"
+}

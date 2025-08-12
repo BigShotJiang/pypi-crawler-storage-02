@@ -1,0 +1,11 @@
+{
+  "name": "dster",
+  "version": "1.0.0",
+  "summary": "一个在Windows桌面上显示动态卡通贴纸的Python程序",
+  "author": "ylicen",
+  "license": null,
+  "home_page": "https://github.com/ylicen/desktop-stickers",
+  "download_filename": "dster-1.0.0.tar.gz",
+  "download_time": "2025-08-12T19:02:06.272458",
+  "package_url": "https://pypi.org/project/dster/"
+}

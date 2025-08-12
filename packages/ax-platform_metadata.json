@@ -1,0 +1,11 @@
+{
+  "name": "ax-platform",
+  "version": "1.1.0",
+  "summary": "Adaptive Experimentation",
+  "author": "Facebook, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/facebook/Ax",
+  "download_filename": "ax_platform-1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-12T19:01:46.538888",
+  "package_url": "https://pypi.org/project/ax-platform/"
+}
