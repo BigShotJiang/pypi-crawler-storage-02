@@ -1,0 +1,11 @@
+{
+  "name": "bellman-filter-dfsv",
+  "version": "1.0.0",
+  "summary": "High-performance JAX-based filtering for Dynamic Factor Stochastic Volatility (DFSV) models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bellman_filter_dfsv-1.0.0.tar.gz",
+  "download_time": "2025-08-12T01:55:55.184707",
+  "package_url": "https://pypi.org/project/bellman-filter-dfsv/"
+}

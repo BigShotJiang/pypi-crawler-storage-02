@@ -1,0 +1,11 @@
+{
+  "name": "py2dmath",
+  "version": "1.0.0",
+  "summary": "Simple calculation",
+  "author": "wood",
+  "license": "BSD",
+  "home_page": "https://github.com/Rin-Wood/py2dmath",
+  "download_filename": "py2dmath-1.0.0.tar.gz",
+  "download_time": "2025-08-12T01:56:11.132902",
+  "package_url": "https://pypi.org/project/py2dmath/"
+}

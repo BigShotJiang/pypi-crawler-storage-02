@@ -1,11 +1,11 @@
 {
   "name": "molingtools",
-  "version": "1.1.3",
+  "version": "1.1.6",
   "summary": "多功能工具包",
   "author": "mengling",
   "license": null,
   "home_page": "https://www.python.org",
-  "download_filename": "molingtools-1.1.3.tar.gz",
-  "download_time": "2025-08-08T08:35:52.525771",
+  "download_filename": "molingtools-1.1.6.tar.gz",
+  "download_time": "2025-08-12T01:55:57.602177",
   "package_url": "https://pypi.org/project/molingtools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "libzrod",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Sucker Rod Design Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "libzrod-0.1.9-py3-none-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-08-11T23:55:50.748712",
+  "download_filename": "libzrod-0.1.10-py3-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-12T01:56:04.583870",
   "package_url": "https://pypi.org/project/libzrod/"
 }

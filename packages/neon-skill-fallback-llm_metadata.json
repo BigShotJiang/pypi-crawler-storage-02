@@ -1,0 +1,11 @@
+{
+  "name": "neon-skill-fallback-llm",
+  "version": "2.1.0",
+  "summary": null,
+  "author": "Neongecko",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NeonGeckoCom/skill-fallback_llm",
+  "download_filename": "neon-skill-fallback_llm-2.1.0.tar.gz",
+  "download_time": "2025-08-12T01:55:39.219466",
+  "package_url": "https://pypi.org/project/neon-skill-fallback-llm/"
+}

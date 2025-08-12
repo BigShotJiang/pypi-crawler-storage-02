@@ -1,0 +1,11 @@
+{
+  "name": "rsoup",
+  "version": "3.1.8",
+  "summary": "A library for web scraper that handles text correctly and is very fast (Rust backend)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsoup-3.1.8.tar.gz",
+  "download_time": "2025-08-12T01:55:34.745091",
+  "package_url": "https://pypi.org/project/rsoup/"
+}

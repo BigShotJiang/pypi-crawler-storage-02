@@ -1,0 +1,11 @@
+{
+  "name": "djstruct-savane",
+  "version": "0.0.1",
+  "summary": "Générateur automatique de structure templates/static pour projet Django",
+  "author": "SAVANE Mouhamed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djstruct_savane-0.0.1.tar.gz",
+  "download_time": "2025-08-12T01:55:52.624532",
+  "package_url": "https://pypi.org/project/djstruct-savane/"
+}
