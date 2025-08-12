@@ -1,11 +1,11 @@
 {
   "name": "cnhkmcp",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "summary": "A comprehensive Model Context Protocol (MCP) server for quantitative trading platform integration",
   "author": "CNHK",
   "license": null,
   "home_page": "https://github.com/cnhk/cnhkmcp",
-  "download_filename": "cnhkmcp-1.2.4.tar.gz",
-  "download_time": "2025-08-11T07:05:06.599607",
+  "download_filename": "cnhkmcp-1.2.6.tar.gz",
+  "download_time": "2025-08-12T19:55:11.606480",
   "package_url": "https://pypi.org/project/cnhkmcp/"
 }

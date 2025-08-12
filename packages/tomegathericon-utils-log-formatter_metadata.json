@@ -1,0 +1,11 @@
+{
+  "name": "tomegathericon-utils-log-formatter",
+  "version": "0.0.2",
+  "summary": "Formatter to be used with tomegatherion-utils-logger",
+  "author": "Abhishek Kapoor",
+  "license": "Software License Agreement",
+  "home_page": null,
+  "download_filename": "tomegathericon_utils_log_formatter-0.0.2.tar.gz",
+  "download_time": "2025-08-12T19:55:21.040059",
+  "package_url": "https://pypi.org/project/tomegathericon-utils-log-formatter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "unpage",
-  "version": "0.1.0a22",
+  "version": "0.1.0a24",
   "summary": "An agent framework for production engineering",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unpage-0.1.0a22.tar.gz",
-  "download_time": "2025-08-11T23:25:39.153637",
+  "download_filename": "unpage-0.1.0a24.tar.gz",
+  "download_time": "2025-08-12T19:55:03.776065",
   "package_url": "https://pypi.org/project/unpage/"
 }

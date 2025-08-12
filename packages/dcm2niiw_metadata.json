@@ -1,0 +1,11 @@
+{
+  "name": "dcm2niiw",
+  "version": "0.1.0",
+  "summary": "Thin dcm2niix wrapper with Python and CLI interfaces.",
+  "author": "Fernando Pérez-García",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcm2niiw-0.1.0.tar.gz",
+  "download_time": "2025-08-12T19:55:23.148444",
+  "package_url": "https://pypi.org/project/dcm2niiw/"
+}

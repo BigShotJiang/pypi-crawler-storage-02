@@ -1,0 +1,11 @@
+{
+  "name": "zvc",
+  "version": "0.1.6",
+  "summary": "static blog generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zvc-0.1.6.tar.gz",
+  "download_time": "2025-08-12T19:55:19.473819",
+  "package_url": "https://pypi.org/project/zvc/"
+}

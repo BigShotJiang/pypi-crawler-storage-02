@@ -1,0 +1,11 @@
+{
+  "name": "lizeur",
+  "version": "0.1.0",
+  "summary": "Lizeur is a MCP server to be able to get content from PDFs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lizeur-0.1.0.tar.gz",
+  "download_time": "2025-08-12T19:55:01.177893",
+  "package_url": "https://pypi.org/project/lizeur/"
+}

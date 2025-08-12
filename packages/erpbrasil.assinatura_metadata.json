@@ -1,0 +1,11 @@
+{
+  "name": "erpbrasil.assinatura",
+  "version": "1.8.0",
+  "summary": "Assinatura de documentos com certificados digitais A1 e A3",
+  "author": "Luis Felipe Mileo",
+  "license": "MIT license",
+  "home_page": "https://github.com/erpbrasil/erpbrasil.assinatura",
+  "download_filename": "erpbrasil_assinatura-1.8.0.tar.gz",
+  "download_time": "2025-08-12T19:54:55.065126",
+  "package_url": "https://pypi.org/project/erpbrasil.assinatura/"
+}
