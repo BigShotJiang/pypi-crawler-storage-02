@@ -1,0 +1,11 @@
+{
+  "name": "muldataframe",
+  "version": "0.1.2",
+  "summary": "Towards a more intuitive multi-index DataFrame",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muldataframe-0.1.2.tar.gz",
+  "download_time": "2025-08-12T04:04:54.855178",
+  "package_url": "https://pypi.org/project/muldataframe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caption-flow",
+  "version": "0.1.0",
+  "summary": "Self-contained distributed community captioning system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "caption_flow-0.1.0.tar.gz",
+  "download_time": "2025-08-12T04:04:57.262865",
+  "package_url": "https://pypi.org/project/caption-flow/"
+}

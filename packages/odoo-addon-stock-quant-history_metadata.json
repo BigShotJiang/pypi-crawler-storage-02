@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-quant-history",
+  "version": "17.0.1.0.0.5",
+  "summary": "Re-generate stock quants for given date",
+  "author": "Pierre Verkest <pierreverkest84@gmail.com>, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reporting",
+  "download_filename": "odoo_addon_stock_quant_history-17.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-08-12T04:04:43.791922",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-quant-history/"
+}
