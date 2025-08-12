@@ -1,11 +1,11 @@
 {
   "name": "sdominanta-mcp",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Autonomous MCP server for Sdominanta.net (seed/schema/validators/wall signatures)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdominanta_mcp-0.1.1.tar.gz",
-  "download_time": "2025-08-12T21:25:00.247340",
+  "download_filename": "sdominanta_mcp-0.1.3.tar.gz",
+  "download_time": "2025-08-12T22:48:50.850270",
   "package_url": "https://pypi.org/project/sdominanta-mcp/"
 }

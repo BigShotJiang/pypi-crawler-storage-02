@@ -1,20 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T22:25:12.748834
-- **Total Packages**: 79
-- **Total Size**: 24.18 MB
+- **Download Time**: 2025-08-12T22:49:31.382428
+- **Total Packages**: 86
+- **Total Size**: 5.38 MB
 
 ## Packages List
+- genesis-mcp-core
+- hessra-py
+- hatch-adder
+- review-tally
+- no-llm
+- holamundoplayer-AbeL
+- synqly
+- truss-transfer
+- streamlit-rockyroad-tools
+- glean-api-client
+- cjm-fasthtml-tailwind
+- appodus-utils
+- datacontract-helper
+- whatsplay
+- cendat
+- letta-client
+- wynntilsresolver
+- sdominanta-mcp
+- interpretablefa
+- inframe
+- trackio
+- dayspan
+- cocorum
+- luminescent
+- rpi-servo-pwm
+- deadline-cloud-for-cinema-4d
+- pypomes-sob
+- busylight-core
+- pcf8574-webapp
+- rrq
+- check-pfda
+- writer-sdk
+- unpage
+- polars-splitters
+- nominal-api-protos
+- nominal-api
 - vidavis
 - quadcopter-sim
-- cjm-fasthtml-tailwind
 - cuti
 - dara-components
 - dara-core
 - create-dara-app
 - dayhoff-tools
-- genesis-mcp-core
 - a42-proto
 - kotadb-client
 - omserv
@@ -29,14 +63,12 @@
 - pycarlo
 - OOTS-CS-Query-Validator
 - finqual
-- cendat
 - runnable
 - lbt-dragonfly
 - workbench
 - total-time-formatter
 - sentry-protos
 - kaqing
-- thoth-qdrant
 - nnsight
 - clifpy
 - drfgen
@@ -51,7 +83,6 @@
 - tecton
 - galaxy-peach
 - truss
-- polars-splitters
 - dragonfly-uwg
 - dragonfly-radiance
 - arelle-release
@@ -61,27 +92,3 @@
 - pyxtxt
 - honeybee-radiance-postprocess
 - simple-botmaker
-- cppm
-- dayspan
-- betty
-- file-keeper
-- dragonfly-core
-- cli-for-tools
-- honeybee-energy
-- honeybee-radiance
-- chatmap-py
-- jipso
-- canary-wm
-- claude-mpm
-- wsignals
-- db-contrib-tool
-- databento
-- t-nextgen
-- idtap
-- mistral-ocr-cli
-- vibepython
-- guv-calcs
-- mcp-airflow-api
-- py-psscriptanalyzer
-- mastui
-- sensory-data-client
