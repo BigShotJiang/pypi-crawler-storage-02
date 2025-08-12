@@ -1,0 +1,11 @@
+{
+  "name": "promethiite",
+  "version": "0.2.0",
+  "summary": "Promethiite Ingests Prometheus metrics, converts them to Graphite metrics, and sends them to a configured Graphite server over TCP",
+  "author": "cspeterson",
+  "license": null,
+  "home_page": "https://github.com/cspeterson/promethiite",
+  "download_filename": "promethiite-0.2.0.tar.gz",
+  "download_time": "2025-08-12T16:33:28.476211",
+  "package_url": "https://pypi.org/project/promethiite/"
+}

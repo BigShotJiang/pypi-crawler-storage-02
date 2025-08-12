@@ -1,0 +1,11 @@
+{
+  "name": "seqfold",
+  "version": "0.9.0",
+  "summary": "Predict the minimum free energy structure of nucleic acids",
+  "author": "JJTimmons",
+  "license": "mit",
+  "home_page": "https://github.com/Lattice-Automation/seqfold",
+  "download_filename": "seqfold-0.9.0.tar.gz",
+  "download_time": "2025-08-12T16:33:02.843542",
+  "package_url": "https://pypi.org/project/seqfold/"
+}

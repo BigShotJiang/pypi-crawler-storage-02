@@ -1,0 +1,11 @@
+{
+  "name": "brief-survey",
+  "version": "0.2.3",
+  "summary": "Dynamic survey/dialog with aiogram_dialog and Pydantic support",
+  "author": "Fugguri",
+  "license": null,
+  "home_page": "https://github.com/Fugguri/brief_survey",
+  "download_filename": "brief_survey-0.2.3.tar.gz",
+  "download_time": "2025-08-12T16:33:34.141464",
+  "package_url": "https://pypi.org/project/brief-survey/"
+}

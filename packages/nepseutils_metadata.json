@@ -1,0 +1,11 @@
+{
+  "name": "nepseutils",
+  "version": "0.4.9",
+  "summary": "Collection of scripts to interact with NEPSE related websites!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nepseutils-0.4.9.tar.gz",
+  "download_time": "2025-08-12T16:33:31.053132",
+  "package_url": "https://pypi.org/project/nepseutils/"
+}

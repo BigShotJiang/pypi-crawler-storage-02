@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-watsonx",
-  "version": "0.44.3",
+  "version": "0.45.0",
   "summary": "OpenTelemetry IBM Watsonx Instrumentation",
   "author": "Guangya Liu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_watsonx-0.44.3.tar.gz",
-  "download_time": "2025-08-12T10:51:24.768888",
+  "download_filename": "opentelemetry_instrumentation_watsonx-0.45.0.tar.gz",
+  "download_time": "2025-08-12T16:33:35.170478",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-watsonx/"
 }

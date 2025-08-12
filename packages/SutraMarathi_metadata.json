@@ -1,0 +1,11 @@
+{
+  "name": "SutraMarathi",
+  "version": "1.0.0",
+  "summary": "Marathi-based programming language interpreter",
+  "author": "Kishor Bhagwat",
+  "license": "MIT",
+  "home_page": "https://sutramarathi.in",
+  "download_filename": "sutramarathi-1.0.0.tar.gz",
+  "download_time": "2025-08-12T16:33:13.327385",
+  "package_url": "https://pypi.org/project/SutraMarathi/"
+}
