@@ -1,11 +1,11 @@
 {
   "name": "bosa-core-binary",
-  "version": "0.7.5",
+  "version": "0.8.0",
   "summary": "BOSA Core Library",
   "author": "Samuel Lusandi",
   "license": null,
   "home_page": null,
-  "download_filename": "bosa_core_binary-0.7.5-cp311-cp311-macosx_13_0_arm64.macosx_15_0_arm64.whl",
-  "download_time": "2025-08-12T11:24:52.777490",
+  "download_filename": "bosa_core_binary-0.8.0-cp311-cp311-macosx_13_0_arm64.macosx_15_0_arm64.whl",
+  "download_time": "2025-08-12T11:55:56.491325",
   "package_url": "https://pypi.org/project/bosa-core-binary/"
 }

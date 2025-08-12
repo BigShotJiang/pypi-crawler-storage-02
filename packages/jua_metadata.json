@@ -1,11 +1,11 @@
 {
   "name": "jua",
-  "version": "0.8.5",
+  "version": "0.9.0",
   "summary": "Easy access to Jua's weather & power services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jua-0.8.5.tar.gz",
-  "download_time": "2025-08-07T09:03:18.056274",
+  "download_filename": "jua-0.9.0.tar.gz",
+  "download_time": "2025-08-12T11:55:59.642543",
   "package_url": "https://pypi.org/project/jua/"
 }
