@@ -1,11 +1,11 @@
 {
   "name": "aioskybellgen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Skybell Gen5 API Python library running on Python 3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aioskybellgen-0.1.2.tar.gz",
-  "download_time": "2025-08-08T22:48:27.433215",
+  "download_filename": "aioskybellgen-0.1.3.tar.gz",
+  "download_time": "2025-08-12T12:52:17.880208",
   "package_url": "https://pypi.org/project/aioskybellgen/"
 }

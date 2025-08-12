@@ -1,0 +1,11 @@
+{
+  "name": "ipasnmatcher",
+  "version": "0.0.1",
+  "summary": "A Python package that allows you to verify if an IP address belongs to a specific ASN's network ranges.",
+  "author": "Monazir Muhammad Doha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipasnmatcher-0.0.1.tar.gz",
+  "download_time": "2025-08-12T12:52:07.602190",
+  "package_url": "https://pypi.org/project/ipasnmatcher/"
+}

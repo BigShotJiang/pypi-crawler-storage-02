@@ -1,0 +1,11 @@
+{
+  "name": "augmenta",
+  "version": "0.1.1",
+  "summary": "AI-powered library for data enrichment using search results",
+  "author": "Nicu Calcea",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "augmenta-0.1.1.tar.gz",
+  "download_time": "2025-08-12T12:52:29.174654",
+  "package_url": "https://pypi.org/project/augmenta/"
+}

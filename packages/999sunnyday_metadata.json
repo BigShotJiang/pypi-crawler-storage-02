@@ -1,0 +1,11 @@
+{
+  "name": "999sunnyday",
+  "version": "1.0.0",
+  "summary": "Weather forecast data",
+  "author": "Bill Johnson",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "999sunnyday-1.0.0.tar.gz",
+  "download_time": "2025-08-12T12:52:23.029952",
+  "package_url": "https://pypi.org/project/999sunnyday/"
+}

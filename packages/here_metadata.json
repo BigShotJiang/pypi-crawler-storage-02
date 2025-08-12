@@ -1,11 +1,11 @@
 {
   "name": "here",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Python package that replicates the R package called 'here'.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "here-1.4.0.tar.gz",
-  "download_time": "2025-08-11T19:02:46.318678",
+  "download_filename": "here-1.4.1.tar.gz",
+  "download_time": "2025-08-12T12:52:11.710634",
   "package_url": "https://pypi.org/project/here/"
 }

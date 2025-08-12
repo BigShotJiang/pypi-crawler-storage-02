@@ -1,11 +1,11 @@
 {
   "name": "lib50",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "summary": "This is lib50, CS50's own internal library used in many of its tools.",
   "author": "CS50",
   "license": "GPLv3",
   "home_page": "https://github.com/cs50/lib50",
-  "download_filename": "lib50-3.1.3.tar.gz",
-  "download_time": "2025-08-08T19:00:28.726041",
+  "download_filename": "lib50-3.1.4.tar.gz",
+  "download_time": "2025-08-12T12:52:19.418952",
   "package_url": "https://pypi.org/project/lib50/"
 }

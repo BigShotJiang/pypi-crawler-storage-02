@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "1.6.5",
-  "summary": "A versatile Python toolkit for mathematical operations and string processing, including prime numbers, Fibonacci sequences, and Caesar ciphers.",
+  "version": "1.7.0",
+  "summary": "A Python toolkit for mathematical operations and string processing, including prime numbers, Fibonacci sequences, and Caesar ciphers.",
   "author": "Joesifer",
   "license": null,
   "home_page": null,
-  "download_filename": "pchjlib-1.6.5.tar.gz",
-  "download_time": "2025-08-12T04:04:32.544876",
+  "download_filename": "pchjlib-1.7.0.tar.gz",
+  "download_time": "2025-08-12T12:52:15.312744",
   "package_url": "https://pypi.org/project/pchjlib/"
 }

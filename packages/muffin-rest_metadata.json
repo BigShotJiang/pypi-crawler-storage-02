@@ -1,0 +1,11 @@
+{
+  "name": "muffin-rest",
+  "version": "13.0.2",
+  "summary": "The package provides enhanced support for writing REST APIs with Muffin framework",
+  "author": "Kirill Klenov",
+  "license": "MIT",
+  "home_page": "https://github.com/klen/muffin-rest",
+  "download_filename": "muffin_rest-13.0.2.tar.gz",
+  "download_time": "2025-08-12T12:52:18.907667",
+  "package_url": "https://pypi.org/project/muffin-rest/"
+}
