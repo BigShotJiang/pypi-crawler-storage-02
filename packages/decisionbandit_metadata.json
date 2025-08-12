@@ -1,0 +1,11 @@
+{
+  "name": "decisionbandit",
+  "version": "0.1.1",
+  "summary": "A collection of exploration–exploitation strategies for reinforcement learning, including ε-greedy and related policies",
+  "author": "Adit Punamiya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decisionbandit-0.1.1.tar.gz",
+  "download_time": "2025-08-12T09:56:15.252950",
+  "package_url": "https://pypi.org/project/decisionbandit/"
+}

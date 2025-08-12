@@ -1,0 +1,11 @@
+{
+  "name": "batchstats",
+  "version": "0.5",
+  "summary": "Efficient batch statistics computation library for Python.",
+  "author": "Cyril Joly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "batchstats-0.5.tar.gz",
+  "download_time": "2025-08-12T09:57:02.980578",
+  "package_url": "https://pypi.org/project/batchstats/"
+}

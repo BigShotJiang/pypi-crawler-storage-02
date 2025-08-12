@@ -1,0 +1,11 @@
+{
+  "name": "ddquint",
+  "version": "0.1.0",
+  "summary": "Droplet Digital PCR Multiplex Analysis for chromosomal copy number detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddquint-0.1.0.tar.gz",
+  "download_time": "2025-08-12T09:56:21.041134",
+  "package_url": "https://pypi.org/project/ddquint/"
+}

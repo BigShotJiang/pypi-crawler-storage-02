@@ -1,0 +1,11 @@
+{
+  "name": "tadqeeq",
+  "version": "1.12.0",
+  "summary": "An interactive PyQt5 image annotation tool for segmentation masks and bounding boxes.",
+  "author": "Mohamed Behery",
+  "license": null,
+  "home_page": "https://github.com/orbits-it/tadqeeq",
+  "download_filename": "tadqeeq-1.12.0.tar.gz",
+  "download_time": "2025-08-12T09:56:50.342636",
+  "package_url": "https://pypi.org/project/tadqeeq/"
+}
