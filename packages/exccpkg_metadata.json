@@ -1,0 +1,11 @@
+{
+  "name": "exccpkg",
+  "version": "3.0.0",
+  "summary": "An explicit C++ package builder.",
+  "author": "AdjWang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exccpkg-3.0.0.tar.gz",
+  "download_time": "2025-08-12T03:22:14.393298",
+  "package_url": "https://pypi.org/project/exccpkg/"
+}

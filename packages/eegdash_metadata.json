@@ -1,11 +1,11 @@
 {
   "name": "eegdash",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "EEG data for machine learning",
   "author": null,
   "license": "GNU General Public License\n        \n        Copyright (C) 2024-2025\n        \n        Young Truong, UCSD, dt.young112@gmail.com\n        Arnaud Delorme, UCSD, adelorme@ucsd.edu\n        Bruno Aristimunha, b.aristimunha@gmail.com\n        \n        This program is free software; you can redistribute it and/or modify\n        it under the terms of the GNU General Public License as published by\n        the Free Software Foundation; either version 2 of the License, or\n        (at your option) any later version.\n        \n        This program is distributed in the hope that it will be useful,\n        but WITHOUT ANY WARRANTY; without even the implied warranty of\n        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n        GNU General Public License for more details.\n        \n        You should have received a copy of the GNU General Public License\n        along with this program; if not, write to the Free Software\n        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1.07  USA\n        ",
   "home_page": null,
-  "download_filename": "eegdash-0.3.0.tar.gz",
-  "download_time": "2025-08-11T22:47:09.972311",
+  "download_filename": "eegdash-0.3.1.tar.gz",
+  "download_time": "2025-08-12T03:22:18.054024",
   "package_url": "https://pypi.org/project/eegdash/"
 }

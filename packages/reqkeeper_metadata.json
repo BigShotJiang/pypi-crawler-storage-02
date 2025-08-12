@@ -1,0 +1,11 @@
+{
+  "name": "reqkeeper",
+  "version": "1.0.0",
+  "summary": "一个功能强大的HTTP会话持久化工具",
+  "author": "Flikify",
+  "license": "MIT",
+  "home_page": "https://github.com/Flikify/reqkeeper",
+  "download_filename": "reqkeeper-1.0.0.tar.gz",
+  "download_time": "2025-08-12T03:21:54.242668",
+  "package_url": "https://pypi.org/project/reqkeeper/"
+}

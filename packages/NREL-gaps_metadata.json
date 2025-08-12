@@ -1,0 +1,11 @@
+{
+  "name": "NREL-gaps",
+  "version": "0.8.11",
+  "summary": "National Renewable Energy Laboratory's (NREL's) Geospatial Analysis Pipelines (GAPs) framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrel_gaps-0.8.11.tar.gz",
+  "download_time": "2025-08-12T03:22:04.602668",
+  "package_url": "https://pypi.org/project/NREL-gaps/"
+}

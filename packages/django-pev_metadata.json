@@ -1,0 +1,11 @@
+{
+  "name": "django-pev",
+  "version": "1.0.2",
+  "summary": "Context manager to upload explain plans to https://explain.dalibo.com/",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pev-1.0.2.tar.gz",
+  "download_time": "2025-08-12T03:22:23.732281",
+  "package_url": "https://pypi.org/project/django-pev/"
+}

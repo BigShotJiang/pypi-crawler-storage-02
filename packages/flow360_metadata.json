@@ -1,11 +1,11 @@
 {
   "name": "flow360",
-  "version": "25.6.4",
+  "version": "25.6.5",
   "summary": null,
   "author": "Flexcompute",
   "license": null,
   "home_page": null,
-  "download_filename": "flow360-25.6.4.tar.gz",
-  "download_time": "2025-08-08T21:23:39.564859",
+  "download_filename": "flow360-25.6.5.tar.gz",
+  "download_time": "2025-08-12T03:22:05.123877",
   "package_url": "https://pypi.org/project/flow360/"
 }

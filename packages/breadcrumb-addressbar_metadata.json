@@ -1,11 +1,11 @@
 {
   "name": "breadcrumb-addressbar",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A breadcrumb-style address bar for PySide6/PyQt6 file managers with theme support",
   "author": "scottlz0310",
   "license": "MIT",
   "home_page": "https://github.com/scottlz0310/BreadcrumbAddressbar",
-  "download_filename": "breadcrumb_addressbar-0.2.5.tar.gz",
-  "download_time": "2025-08-09T10:25:26.104567",
+  "download_filename": "breadcrumb_addressbar-0.2.6.tar.gz",
+  "download_time": "2025-08-12T03:21:52.682608",
   "package_url": "https://pypi.org/project/breadcrumb-addressbar/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "daybetter-local-api",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "summary": "Library to communicate with daybetter local API",
-  "author": "Galorhallen",
+  "author": "DayBetter",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "daybetter_local_api-1.0.1.tar.gz",
-  "download_time": "2025-08-11T07:56:59.469320",
+  "download_filename": "daybetter_local_api-1.0.6.tar.gz",
+  "download_time": "2025-08-12T03:22:12.854277",
   "package_url": "https://pypi.org/project/daybetter-local-api/"
 }
