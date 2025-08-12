@@ -1,11 +1,11 @@
 {
   "name": "plotly-presentation",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Python library to make it easier to plot using plotly",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plotly_presentation-0.11.1.tar.gz",
-  "download_time": "2025-08-10T15:44:42.078189",
+  "download_filename": "plotly_presentation-0.11.2.tar.gz",
+  "download_time": "2025-08-12T08:35:43.661285",
   "package_url": "https://pypi.org/project/plotly-presentation/"
 }

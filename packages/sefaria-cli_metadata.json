@@ -1,0 +1,11 @@
+{
+  "name": "sefaria-cli",
+  "version": "0.1.0",
+  "summary": "Command-line browser for Sefaria texts (Heb/Eng, fuzzy search, categories).",
+  "author": "Luke Jamison",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sefaria_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-12T08:36:13.901056",
+  "package_url": "https://pypi.org/project/sefaria-cli/"
+}

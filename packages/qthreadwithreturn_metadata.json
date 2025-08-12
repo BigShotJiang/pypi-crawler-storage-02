@@ -1,0 +1,11 @@
+{
+  "name": "qthreadwithreturn",
+  "version": "1.1.0",
+  "summary": "PySide6 高级线程工具库 - 带返回值的线程类和线程池执行器",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qthreadwithreturn-1.1.0.tar.gz",
+  "download_time": "2025-08-12T08:36:08.569161",
+  "package_url": "https://pypi.org/project/qthreadwithreturn/"
+}

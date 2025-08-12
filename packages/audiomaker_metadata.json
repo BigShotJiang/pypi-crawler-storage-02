@@ -1,0 +1,11 @@
+{
+  "name": "audiomaker",
+  "version": "1.0.0",
+  "summary": "Unlimited text-to-speech generation with chunking and seamless merging",
+  "author": "Ankush Rathour",
+  "license": "MIT",
+  "home_page": "https://github.com/AnkushRathour/AudioMaker",
+  "download_filename": "audiomaker-1.0.0.tar.gz",
+  "download_time": "2025-08-12T08:36:17.565994",
+  "package_url": "https://pypi.org/project/audiomaker/"
+}

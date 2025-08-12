@@ -1,11 +1,11 @@
 {
   "name": "PyFeishuGroupBot",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Python的飞书群组机器人调用方法集合",
   "author": "Moxin",
   "license": "MIT License",
   "home_page": "https://github.com/Moxin1044/Py-FeishuGroupBot",
-  "download_filename": "pyfeishugroupbot-0.0.6.tar.gz",
-  "download_time": "2025-08-04T05:52:57.552254",
+  "download_filename": "pyfeishugroupbot-0.0.7.tar.gz",
+  "download_time": "2025-08-12T08:36:07.522651",
   "package_url": "https://pypi.org/project/PyFeishuGroupBot/"
 }

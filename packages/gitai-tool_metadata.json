@@ -1,11 +1,11 @@
 {
   "name": "gitai-tool",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Generate summaries and code reviews for GitLab Merge Requests or GitHub Pull Requests using LLM",
   "author": "Aleksandar Farkov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitai_tool-0.3.0.tar.gz",
-  "download_time": "2025-08-10T19:54:33.858490",
+  "download_filename": "gitai_tool-0.4.0.tar.gz",
+  "download_time": "2025-08-12T08:35:45.775400",
   "package_url": "https://pypi.org/project/gitai-tool/"
 }
