@@ -1,0 +1,11 @@
+{
+  "name": "rebotics-sdk",
+  "version": "0.31.1",
+  "summary": "API client and CLI tools for working with SymphonyAI Store Intelligence platform",
+  "author": "Malik Sulaimanov",
+  "license": null,
+  "home_page": "http://retechlabs.com/rebotics/",
+  "download_filename": "rebotics_sdk-0.31.1-py2.py3-none-any.whl",
+  "download_time": "2025-08-12T07:31:57.601378",
+  "package_url": "https://pypi.org/project/rebotics-sdk/"
+}

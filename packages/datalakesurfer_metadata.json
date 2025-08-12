@@ -1,0 +1,11 @@
+{
+  "name": "datalakesurfer",
+  "version": "0.1.0",
+  "summary": "A Python package for Azure Datalake Storage and Microsoft Fabric Lakehouse, enables format detection and schema retrieval for Iceberg, Delta, and Parquet formats.It also helps identify paritioned columns for parquet datasets.",
+  "author": "Keshav Kant Singh",
+  "license": null,
+  "home_page": "https://github.com/keshavksingh/datalakesurfer",
+  "download_filename": "datalakesurfer-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-12T07:32:04.523498",
+  "package_url": "https://pypi.org/project/datalakesurfer/"
+}

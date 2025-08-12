@@ -1,11 +1,11 @@
 {
   "name": "ara-cli",
-  "version": "0.1.9.91",
+  "version": "0.1.9.92",
   "summary": "Powerful, open source command-line tool for managing, structuring and automating software development artifacts in line with Business-Driven Development (BDD) and AI-assisted processes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ara_cli-0.1.9.91.tar.gz",
-  "download_time": "2025-08-11T11:00:15.761695",
+  "download_filename": "ara_cli-0.1.9.92.tar.gz",
+  "download_time": "2025-08-12T07:31:52.234102",
   "package_url": "https://pypi.org/project/ara-cli/"
 }

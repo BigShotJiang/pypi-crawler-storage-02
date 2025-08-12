@@ -1,11 +1,11 @@
 {
   "name": "karrio-seko",
-  "version": "2025.5rc12",
+  "version": "2025.5rc13",
   "summary": "Karrio - SEKO Logistics Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_seko-2025.5rc12-py3-none-any.whl",
-  "download_time": "2025-08-06T07:50:40.284205",
+  "download_filename": "karrio_seko-2025.5rc13-py3-none-any.whl",
+  "download_time": "2025-08-12T07:32:22.401513",
   "package_url": "https://pypi.org/project/karrio-seko/"
 }

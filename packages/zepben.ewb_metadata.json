@@ -1,0 +1,11 @@
+{
+  "name": "zepben.ewb",
+  "version": "1.0.0b3",
+  "summary": "Python SDK for interacting with the Energy Workbench platform",
+  "author": "Kurt Greaves",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/zepben/evolve-sdk-python",
+  "download_filename": "zepben_ewb-1.0.0b3-py3-none-any.whl",
+  "download_time": "2025-08-12T07:32:14.398390",
+  "package_url": "https://pypi.org/project/zepben.ewb/"
+}

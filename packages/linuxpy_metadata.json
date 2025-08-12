@@ -1,0 +1,11 @@
+{
+  "name": "linuxpy",
+  "version": "0.22.0",
+  "summary": "Human friendly interface to linux subsystems using python",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "linuxpy-0.22.0.tar.gz",
+  "download_time": "2025-08-12T07:32:16.062342",
+  "package_url": "https://pypi.org/project/linuxpy/"
+}

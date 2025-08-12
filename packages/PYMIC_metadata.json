@@ -1,0 +1,11 @@
+{
+  "name": "PYMIC",
+  "version": "0.5.4",
+  "summary": "An open-source deep learning platform for annotation-efficient medical image computing",
+  "author": "PyMIC Consortium",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/HiLab-git/PyMIC",
+  "download_filename": "pymic-0.5.4.tar.gz",
+  "download_time": "2025-08-12T07:31:57.024788",
+  "package_url": "https://pypi.org/project/PYMIC/"
+}

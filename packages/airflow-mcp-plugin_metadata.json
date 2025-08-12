@@ -1,11 +1,11 @@
 {
   "name": "airflow-mcp-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Apache Airflow 3 plugin that mounts airflow-mcp-server as a Streamable HTTP endpoint at /mcp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airflow_mcp_plugin-0.1.1.tar.gz",
-  "download_time": "2025-08-10T13:57:03.019842",
+  "download_filename": "airflow_mcp_plugin-0.1.2.tar.gz",
+  "download_time": "2025-08-12T07:31:51.657975",
   "package_url": "https://pypi.org/project/airflow-mcp-plugin/"
 }
