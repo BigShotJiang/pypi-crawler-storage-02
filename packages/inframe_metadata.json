@@ -1,11 +1,11 @@
 {
   "name": "inframe",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Screen Context Recording and Querying SDK",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "inframe-0.2.5.tar.gz",
-  "download_time": "2025-08-12T01:56:00.120422",
+  "download_filename": "inframe-0.2.7.tar.gz",
+  "download_time": "2025-08-12T21:56:34.243469",
   "package_url": "https://pypi.org/project/inframe/"
 }

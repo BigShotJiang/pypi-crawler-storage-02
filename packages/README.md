@@ -1,24 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T21:45:25.229959
-- **Total Packages**: 90
-- **Total Size**: 23.51 MB
+- **Download Time**: 2025-08-12T21:57:12.085701
+- **Total Packages**: 89
+- **Total Size**: 3.23 MB
 
 ## Packages List
+- claude-mpm
+- simple-botmaker
+- wsignals
+- drfgen
+- db-contrib-tool
+- databento
+- t-nextgen
+- idtap
+- mistral-ocr-cli
+- vibepython
+- guv-calcs
+- mcp-airflow-api
+- py-psscriptanalyzer
+- galaxy-peach
+- mastui
+- sensory-data-client
+- truss
+- quickslurm
+- inframe
+- django-inscode
+- nbsync
+- payloop
+- silly-voice-lab
+- no-llm
+- usnan
+- pytiger
+- dataforge-sdk
+- truss-transfer
+- stytch
+- graphsignal
+- system-initiative-api-client
+- certcc-ssvc
+- honeybee-core
+- pybirdsreynolds
+- hpc-connect
+- modern-treasury
+- gumnut-sdk
 - skinport.py
 - ape-tokens
 - MIOFlow
 - ultrazoom
 - conda-project
 - kaiserlift
-- sensory-data-client
 - uvify
 - schemathesis
 - openseries
 - mrx-runway
 - matrice
-- claude-mpm
 - cendat
 - ECOv002-calval-tables
 - nominal-api-protos
@@ -33,7 +68,6 @@
 - primfunctions
 - fulcrum-cli
 - probotanki-lib
-- galaxy-peach
 - koi-net
 - dj-redis-panel
 - text-cleaner-for-py
@@ -58,41 +92,6 @@
 - sob
 - dara-core
 - create-dara-app
-- mastui
 - cleanlab-tlm
 - qiskit-experiments
 - dadi-cli
-- rfsyncer
-- whisper-eval-serbian
-- benchling-api-client
-- awslabs.timestream-for-influxdb-mcp-server
-- authentik-client
-- awslabs.terraform-mcp-server
-- awslabs.valkey-mcp-server
-- cube-utils
-- syndatagenyolo
-- cfn-lint
-- entity-query-language
-- data-ai
-- awslabs.redshift-mcp-server
-- awslabs.stepfunctions-tool-mcp-server
-- awslabs.syntheticdata-mcp-server
-- awslabs.prometheus-mcp-server
-- awslabs.s3-tables-mcp-server
-- awslabs.postgres-mcp-server
-- katana-openapi-client
-- omnara
-- nfl-data-loader
-- resemble
-- dmasyncwrapper
-- ylhc-print-manager-base
-- sdominanta-mcp
-- halox
-- intake-coops
-- devsecops-engine-tools
-- awslabs.openapi-mcp-server
-- polars-splitters
-- payloop
-- leanup
-- awslabs.lambda-tool-mcp-server
-- awslabs.memcached-mcp-server

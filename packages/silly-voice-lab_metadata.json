@@ -1,11 +1,11 @@
 {
   "name": "silly-voice-lab",
-  "version": "0.0.9",
+  "version": "0.2.3",
   "summary": "Dialogues voice generator using ElevenLabs (AI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "silly_voice_lab-0.0.9.tar.gz",
-  "download_time": "2025-08-10T21:55:30.559843",
+  "download_filename": "silly_voice_lab-0.2.3.tar.gz",
+  "download_time": "2025-08-12T21:56:36.393500",
   "package_url": "https://pypi.org/project/silly-voice-lab/"
 }
