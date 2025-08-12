@@ -1,0 +1,11 @@
+{
+  "name": "inspire-schemas",
+  "version": "61.6.19",
+  "summary": "Inspire JSON schemas and utilities to use them.",
+  "author": "CERN",
+  "license": "GPLv2",
+  "home_page": "https://github.com/inspirehep/inspire-schemas",
+  "download_filename": "inspire-schemas-61.6.19.tar.gz",
+  "download_time": "2025-08-12T13:39:11.296947",
+  "package_url": "https://pypi.org/project/inspire-schemas/"
+}

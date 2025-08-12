@@ -1,0 +1,11 @@
+{
+  "name": "scikit-ferm",
+  "version": "0.1.1",
+  "summary": "A scikit-learn compatible package for fermentations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_ferm-0.1.1.tar.gz",
+  "download_time": "2025-08-12T13:39:09.236003",
+  "package_url": "https://pypi.org/project/scikit-ferm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "teaser",
+  "version": "1.2.1",
+  "summary": "Tool for Energy Analysis and Simulation for Efficient Retrofit ",
+  "author": "RWTH Aachen University, E.ON Energy Research Center, Institute of Energy Efficient Buildings and Indoor Climate",
+  "license": "MIT",
+  "home_page": "https://github.com/RWTH-EBC/TEASER",
+  "download_filename": "teaser-1.2.1.tar.gz",
+  "download_time": "2025-08-12T13:39:19.574660",
+  "package_url": "https://pypi.org/project/teaser/"
+}

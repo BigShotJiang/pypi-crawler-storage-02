@@ -1,11 +1,11 @@
 {
   "name": "xlin",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "toolbox for LinXueyuan",
   "author": "LinXueyuanStdio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xlin-0.2.7.tar.gz",
-  "download_time": "2025-08-04T11:55:18.611095",
+  "download_filename": "xlin-0.2.8.tar.gz",
+  "download_time": "2025-08-12T13:38:59.482786",
   "package_url": "https://pypi.org/project/xlin/"
 }

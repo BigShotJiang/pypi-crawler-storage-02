@@ -1,0 +1,11 @@
+{
+  "name": "dagster-kafka",
+  "version": "1.2.0",
+  "summary": "Complete Kafka integration for Dagster with enterprise DLQ tooling and JSON Schema validation",
+  "author": "Kingsley Okonkwo",
+  "license": null,
+  "home_page": "https://github.com/kingsley-123/dagster-kafka-integration",
+  "download_filename": "dagster_kafka-1.2.0.tar.gz",
+  "download_time": "2025-08-12T13:39:25.763607",
+  "package_url": "https://pypi.org/project/dagster-kafka/"
+}

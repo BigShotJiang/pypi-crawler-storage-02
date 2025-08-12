@@ -1,11 +1,11 @@
 {
   "name": "hiscanner",
-  "version": "1.5",
+  "version": "1.6",
   "summary": "High-resolution single-cell copy number analysis.",
   "author": "Yifan Zhao",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hiscanner-1.5.tar.gz",
-  "download_time": "2025-08-12T04:05:08.307601",
+  "download_filename": "hiscanner-1.6.tar.gz",
+  "download_time": "2025-08-12T13:39:32.157523",
   "package_url": "https://pypi.org/project/hiscanner/"
 }

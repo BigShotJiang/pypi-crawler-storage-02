@@ -1,11 +1,11 @@
 {
   "name": "jvcli",
-  "version": "2.1.9",
+  "version": "2.1.11",
   "summary": "CLI tool for Jivas Package Repository",
   "author": "TrueSelph Inc.",
   "license": null,
   "home_page": "https://github.com/TrueSelph/jvcli",
-  "download_filename": "jvcli-2.1.9.tar.gz",
-  "download_time": "2025-08-11T04:50:58.274868",
+  "download_filename": "jvcli-2.1.11.tar.gz",
+  "download_time": "2025-08-12T13:39:20.087289",
   "package_url": "https://pypi.org/project/jvcli/"
 }
