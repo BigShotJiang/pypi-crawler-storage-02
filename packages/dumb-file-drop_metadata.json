@@ -1,0 +1,11 @@
+{
+  "name": "dumb-file-drop",
+  "version": "0.1.1",
+  "summary": "A simple webserver-based drop box which allows file uploads. Good for sending files to another device on your local network.",
+  "author": "Fastily",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dumb_file_drop-0.1.1.tar.gz",
+  "download_time": "2025-08-12T10:28:53.243510",
+  "package_url": "https://pypi.org/project/dumb-file-drop/"
+}

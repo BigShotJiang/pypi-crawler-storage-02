@@ -1,11 +1,11 @@
 {
   "name": "gardener-cicd-cli",
-  "version": "1.2679.0",
+  "version": "1.2681.0",
   "summary": "Gardener CI/CD Command Line Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gardener_cicd_cli-1.2679.0-py3-none-any.whl",
-  "download_time": "2025-08-05T10:35:33.439468",
+  "download_filename": "gardener_cicd_cli-1.2681.0-py3-none-any.whl",
+  "download_time": "2025-08-12T10:28:51.138159",
   "package_url": "https://pypi.org/project/gardener-cicd-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gardener-ocm",
-  "version": "1.2679.0",
+  "version": "1.2681.0",
   "summary": "Open-Component-Model (OCM) language bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gardener_ocm-1.2679.0-py3-none-any.whl",
-  "download_time": "2025-08-05T10:35:30.788176",
+  "download_filename": "gardener_ocm-1.2681.0-py3-none-any.whl",
+  "download_time": "2025-08-12T10:28:48.542785",
   "package_url": "https://pypi.org/project/gardener-ocm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xlgcid",
+  "version": "0.1.4",
+  "summary": "XunLei GCID hash algorithm",
+  "author": "Cologler",
+  "license": "MIT",
+  "home_page": "https://github.com/Cologler/xlgcid-python",
+  "download_filename": "xlgcid-0.1.4.tar.gz",
+  "download_time": "2025-08-12T10:29:17.999373",
+  "package_url": "https://pypi.org/project/xlgcid/"
+}

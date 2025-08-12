@@ -1,11 +1,11 @@
 {
   "name": "genericache",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A thread-safe, process-safe cache for slow data fetching operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genericache-0.5.1.tar.gz",
-  "download_time": "2025-08-11T22:47:20.073071",
+  "download_filename": "genericache-0.5.2.tar.gz",
+  "download_time": "2025-08-12T10:28:31.199677",
   "package_url": "https://pypi.org/project/genericache/"
 }

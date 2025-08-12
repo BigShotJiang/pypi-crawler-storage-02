@@ -1,11 +1,11 @@
 {
   "name": "python-navitia-client",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Python library to use with Navitia APIs",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "python_navitia_client-1.2.2.tar.gz",
-  "download_time": "2025-08-12T07:58:45.870450",
+  "download_filename": "python_navitia_client-1.2.3.tar.gz",
+  "download_time": "2025-08-12T10:29:14.266099",
   "package_url": "https://pypi.org/project/python-navitia-client/"
 }
