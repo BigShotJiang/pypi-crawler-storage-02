@@ -1,11 +1,11 @@
 {
   "name": "thds.core",
-  "version": "1.45.20250812184447",
+  "version": "1.45.20250812195720",
   "summary": "Core utilities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "thds_core-1.45.20250812184447-py3-none-any.whl",
-  "download_time": "2025-08-12T19:02:04.202854",
+  "download_filename": "thds_core-1.45.20250812195720-py3-none-any.whl",
+  "download_time": "2025-08-12T20:49:06.925178",
   "package_url": "https://pypi.org/project/thds.core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "molecule-plugins",
+  "version": "25.8.12",
+  "summary": "Molecule Plugins",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "molecule_plugins-25.8.12.tar.gz",
+  "download_time": "2025-08-12T20:49:05.758495",
+  "package_url": "https://pypi.org/project/molecule-plugins/"
+}

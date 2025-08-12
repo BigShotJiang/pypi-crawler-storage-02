@@ -1,11 +1,11 @@
 {
   "name": "dexray-insight",
-  "version": "0.1.1.6",
+  "version": "0.2.5.9",
   "summary": "This project is part of the dynamic Sandbox Sandroid. Its purpose is to do static analysis to grasp a basic understanding of an Android application. It also allows security analysis of an APK.",
   "author": "Jan-Niclas Hilgert, Jannis Finn Borg-Olivier",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "dexray_insight-0.1.1.6.tar.gz",
-  "download_time": "2025-08-08T07:29:48.062361",
+  "download_filename": "dexray_insight-0.2.5.9.tar.gz",
+  "download_time": "2025-08-12T20:48:58.424853",
   "package_url": "https://pypi.org/project/dexray-insight/"
 }

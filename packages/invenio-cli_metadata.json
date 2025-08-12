@@ -1,0 +1,11 @@
+{
+  "name": "invenio-cli",
+  "version": "1.9.2",
+  "summary": "\"Invenio module to ease the creation and management of applications.\"",
+  "author": "CERN & Northwestern University",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-cli",
+  "download_filename": "invenio_cli-1.9.2.tar.gz",
+  "download_time": "2025-08-12T20:49:10.324328",
+  "package_url": "https://pypi.org/project/invenio-cli/"
+}

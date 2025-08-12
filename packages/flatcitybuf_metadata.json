@@ -1,0 +1,11 @@
+{
+  "name": "flatcitybuf",
+  "version": "0.1.2",
+  "summary": "Python bindings for FlatCityBuf - a cloud-optimized binary format for 3D city models",
+  "author": "HideBa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flatcitybuf-0.1.2.tar.gz",
+  "download_time": "2025-08-12T20:48:41.649784",
+  "package_url": "https://pypi.org/project/flatcitybuf/"
+}
