@@ -1,11 +1,11 @@
 {
   "name": "simple-botmaker",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "summary": "A package that simplifies the creation of bots that react to the screen in real time",
-  "author": "Simple Botmaker Team",
-  "license": "MIT",
+  "author": "Jayden Clarke",
+  "license": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
   "home_page": "https://github.com/yourusername/simple-botmaker",
-  "download_filename": "simple_botmaker-1.0.0.tar.gz",
-  "download_time": "2025-08-12T21:56:25.329799",
+  "download_filename": "simple_botmaker-0.0.2.tar.gz",
+  "download_time": "2025-08-12T22:24:59.419956",
   "package_url": "https://pypi.org/project/simple-botmaker/"
 }

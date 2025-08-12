@@ -1,0 +1,11 @@
+{
+  "name": "cli-for-tools",
+  "version": "0.3.0",
+  "summary": "Cli for traps team tools",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/cli_guadalupe_data",
+  "download_filename": "cli_for_tools-0.3.0.tar.gz",
+  "download_time": "2025-08-12T22:25:02.523074",
+  "package_url": "https://pypi.org/project/cli-for-tools/"
+}

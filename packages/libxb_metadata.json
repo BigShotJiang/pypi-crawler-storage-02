@@ -1,0 +1,11 @@
+{
+  "name": "libxb",
+  "version": "0.2.0",
+  "summary": "A library for the ClapHanz XB archive format",
+  "author": "Kiwi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libxb-0.2.0.tar.gz",
+  "download_time": "2025-08-12T22:24:38.116631",
+  "package_url": "https://pypi.org/project/libxb/"
+}

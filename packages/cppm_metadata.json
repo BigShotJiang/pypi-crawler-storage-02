@@ -1,0 +1,11 @@
+{
+  "name": "cppm",
+  "version": "0.1.2",
+  "summary": "A CLI helper tool for managing C++ projects",
+  "author": "Kape",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cppm-0.1.2.tar.gz",
+  "download_time": "2025-08-12T22:24:59.937273",
+  "package_url": "https://pypi.org/project/cppm/"
+}

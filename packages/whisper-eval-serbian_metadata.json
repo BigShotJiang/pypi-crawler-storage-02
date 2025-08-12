@@ -1,11 +1,11 @@
 {
   "name": "whisper-eval-serbian",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "An evaluation framework for Serbian Whisper models.",
   "author": "Dejan Čugalj",
   "license": "Apache-2.0",
   "home_page": "https://aida.guru",
-  "download_filename": "whisper_eval_serbian-0.0.29.tar.gz",
-  "download_time": "2025-08-12T21:24:47.896074",
+  "download_filename": "whisper_eval_serbian-0.0.30.tar.gz",
+  "download_time": "2025-08-12T22:24:52.146674",
   "package_url": "https://pypi.org/project/whisper-eval-serbian/"
 }
