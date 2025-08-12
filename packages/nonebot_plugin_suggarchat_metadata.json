@@ -1,11 +1,11 @@
 {
   "name": "nonebot_plugin_suggarchat",
-  "version": "3.3.1",
+  "version": "3.3.1.1",
   "summary": "SuggarChat chat framework",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "nonebot_plugin_suggarchat-3.3.1.tar.gz",
-  "download_time": "2025-08-12T14:00:03.003971",
+  "download_filename": "nonebot_plugin_suggarchat-3.3.1.1.tar.gz",
+  "download_time": "2025-08-12T14:30:18.660188",
   "package_url": "https://pypi.org/project/nonebot_plugin_suggarchat/"
 }

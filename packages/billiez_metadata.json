@@ -1,11 +1,11 @@
 {
   "name": "billiez",
-  "version": "0.1.5",
+  "version": "0.2.2",
   "summary": "NVIDIA API wrapper for AI text generation",
   "author": "billiez",
   "license": null,
   "home_page": null,
-  "download_filename": "billiez-0.1.5.tar.gz",
-  "download_time": "2025-08-12T13:59:55.773885",
+  "download_filename": "billiez-0.2.2.tar.gz",
+  "download_time": "2025-08-12T14:30:09.324721",
   "package_url": "https://pypi.org/project/billiez/"
 }

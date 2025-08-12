@@ -1,31 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-12T14:00:10.263919
-- **Total Packages**: 88
-- **Total Size**: 46.66 MB
+- **Download Time**: 2025-08-12T14:30:35.730313
+- **Total Packages**: 85
+- **Total Size**: 4.61 MB
 
 ## Packages List
-- pylocc
-- google-sheets-local
-- ac-py-template
-- dbt-yamer
-- graph-games-proto
-- sparkfly
-- gt4py
-- connector-sdk-types
-- connector-py
-- pydra-tasks-ants
-- tensordict-nightly
-- talentro-definitions
-- vital
-- diffpy.srfit
-- gbp-purge
-- datadog-api-client
-- glgrpa
-- aait
-- code-speaks-arithmetic
-- sato-ble-vision
 - vacancycalculator
 - myapp-betrand1999
 - videosdk-plugins-turn-detector
@@ -59,6 +39,7 @@
 - videosdk-plugins-deepgram
 - claude-chat-extractor
 - localstack-core
+- aait
 - videosdk-plugins-cerebras
 - videosdk-plugins-cartesia
 - videosdk-plugins-aws
@@ -68,6 +49,7 @@
 - videosdk-agents
 - billiez
 - v-magic-code-review
+- graph-games-proto
 - superlinked-server
 - dagster-kafka
 - matrice
@@ -79,6 +61,7 @@
 - fbgemm-gpu-nightly-cpu
 - prime
 - stss
+- code-speaks-arithmetic
 - gitlab-projects-migrate
 - nonebot_plugin_suggarchat
 - redactyl
@@ -94,3 +77,17 @@
 - sage-agent-internal
 - oarepo-runtime
 - php-framework-scaffolder
+- proxy2vpn
+- opentelemetry-distro-odoo
+- agentle
+- pixi-sync-environment
+- xlin
+- Dynamic-DateTime
+- del-fem-numpy
+- quantinuum-schemas
+- odp-sdk
+- yunhu_usdk
+- inocloudreve
+- bt-ddos-shield-client
+- sqs-workers
+- haiku.rag
