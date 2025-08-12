@@ -1,0 +1,11 @@
+{
+  "name": "sato-ble-vision",
+  "version": "1.0.0",
+  "summary": "MQTT Broker Control and IoT Data Management Tool",
+  "author": "Dylan Barnett",
+  "license": null,
+  "home_page": "https://github.com/dylanbarnett99/sato-ble",
+  "download_filename": "sato-ble-vision-1.0.0.tar.gz",
+  "download_time": "2025-08-12T13:59:34.707301",
+  "package_url": "https://pypi.org/project/sato-ble-vision/"
+}

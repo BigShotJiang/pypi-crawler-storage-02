@@ -1,0 +1,11 @@
+{
+  "name": "ac-py-template",
+  "version": "0.2.0",
+  "summary": "Simple agent summarize user preferences.",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/user-preferences-agent",
+  "download_filename": "ac_py_template-0.2.0.tar.gz",
+  "download_time": "2025-08-12T13:59:25.822424",
+  "package_url": "https://pypi.org/project/ac-py-template/"
+}
