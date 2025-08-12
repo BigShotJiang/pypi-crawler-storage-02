@@ -1,11 +1,11 @@
 {
   "name": "mlb-odds-scraper",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "A package for scraping MLB odds data from OddsPortal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlb_odds_scraper-0.1.14.tar.gz",
-  "download_time": "2025-08-07T02:19:55.415454",
+  "download_filename": "mlb_odds_scraper-0.1.16.tar.gz",
+  "download_time": "2025-08-12T17:24:52.148874",
   "package_url": "https://pypi.org/project/mlb-odds-scraper/"
 }

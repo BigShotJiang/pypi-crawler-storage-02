@@ -1,11 +1,11 @@
 {
   "name": "braze-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Braze MCP Server - Model Context Protocol server for Braze REST API Read-Only access",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "braze_mcp_server-1.0.0.tar.gz",
-  "download_time": "2025-08-07T19:32:05.443273",
+  "download_filename": "braze_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-08-12T17:25:26.254957",
   "package_url": "https://pypi.org/project/braze-mcp-server/"
 }

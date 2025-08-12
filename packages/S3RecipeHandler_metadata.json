@@ -1,0 +1,11 @@
+{
+  "name": "S3RecipeHandler",
+  "version": "1.2.0",
+  "summary": "A Custom Skate 3 Recipe File Library",
+  "author": "S4M",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "s3recipehandler-1.2.0.tar.gz",
+  "download_time": "2025-08-12T17:25:00.615431",
+  "package_url": "https://pypi.org/project/S3RecipeHandler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superqt",
+  "version": "0.7.6",
+  "summary": "Missing widgets and components for PyQt/PySide",
+  "author": "superqt community",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "superqt-0.7.6.tar.gz",
+  "download_time": "2025-08-12T17:25:27.320962",
+  "package_url": "https://pypi.org/project/superqt/"
+}

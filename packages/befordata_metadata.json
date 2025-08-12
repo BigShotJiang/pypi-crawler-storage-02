@@ -1,11 +1,11 @@
 {
   "name": "befordata",
-  "version": "0.3.8",
+  "version": "0.4.1",
   "summary": "BeForData: Python data structures for handling behavioural force data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "befordata-0.3.8.tar.gz",
-  "download_time": "2025-08-07T22:26:59.477905",
+  "download_filename": "befordata-0.4.1.tar.gz",
+  "download_time": "2025-08-12T17:25:24.168954",
   "package_url": "https://pypi.org/project/befordata/"
 }

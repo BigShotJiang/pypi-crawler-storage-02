@@ -1,11 +1,11 @@
 {
   "name": "pretix-uic-barcode",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "UIC Barcodes for Pretix tickets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pretix_uic_barcode-1.4.2.tar.gz",
-  "download_time": "2025-08-09T13:33:39.294916",
+  "download_filename": "pretix_uic_barcode-1.5.0.tar.gz",
+  "download_time": "2025-08-12T17:25:26.784923",
   "package_url": "https://pypi.org/project/pretix-uic-barcode/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "e-dome",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "DOME - Natural Language Programming",
   "author": "e-dome.dev",
   "license": null,
   "home_page": "https://github.com/yourusername/dome",
-  "download_filename": "e_dome-2.0.0.tar.gz",
-  "download_time": "2025-08-12T15:39:31.058042",
+  "download_filename": "e_dome-2.0.2.tar.gz",
+  "download_time": "2025-08-12T17:25:02.744076",
   "package_url": "https://pypi.org/project/e-dome/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ohmy-sql",
+  "version": "0.1.4",
+  "summary": "A powerful Model Context Protocol (MCP) server that provides universal SQL database connectivity with intelligent query optimization, schema introspection, and built-in safety features for AI assistants.",
+  "author": "Sanhe Hu, Jiazhen Zhu",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mcp_ohmy_sql-0.1.4.tar.gz",
+  "download_time": "2025-08-12T17:25:21.553871",
+  "package_url": "https://pypi.org/project/mcp-ohmy-sql/"
+}

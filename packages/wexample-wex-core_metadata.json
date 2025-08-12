@@ -1,11 +1,11 @@
 {
   "name": "wexample-wex-core",
-  "version": "6.0.38",
+  "version": "6.0.39",
   "summary": "Wex core",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_wex_core-6.0.38.tar.gz",
-  "download_time": "2025-08-11T14:36:17.672377",
+  "download_filename": "wexample_wex_core-6.0.39.tar.gz",
+  "download_time": "2025-08-12T17:24:57.455906",
   "package_url": "https://pypi.org/project/wexample-wex-core/"
 }
