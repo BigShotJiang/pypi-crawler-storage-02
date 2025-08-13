@@ -1,11 +1,11 @@
 {
   "name": "truss-transfer",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": "Speed up file transfers with the baseten.co + baseten_fs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truss_transfer-0.0.22.tar.gz",
-  "download_time": "2025-08-12T21:56:39.069036",
+  "download_filename": "truss_transfer-0.0.23.tar.gz",
+  "download_time": "2025-08-13T16:59:14.101308",
   "package_url": "https://pypi.org/project/truss-transfer/"
 }

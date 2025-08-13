@@ -1,11 +1,11 @@
 {
   "name": "redactyl",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Fast, deterministic PII redaction using type-preserving tokens ([NAME_1], [EMAIL_2]) with perfect reversibility",
   "author": "screensailor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "redactyl-0.1.4.tar.gz",
-  "download_time": "2025-08-13T14:01:03.695775",
+  "download_filename": "redactyl-0.2.0.tar.gz",
+  "download_time": "2025-08-13T16:59:09.626673",
   "package_url": "https://pypi.org/project/redactyl/"
 }

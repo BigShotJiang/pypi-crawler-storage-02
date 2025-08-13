@@ -1,0 +1,11 @@
+{
+  "name": "pyrecli",
+  "version": "0.1.0",
+  "summary": "Command line utilities for DiamondFire templates",
+  "author": "Amp",
+  "license": "MIT",
+  "home_page": "https://github.com/Amp63/pyrecli",
+  "download_filename": "pyrecli-0.1.0.tar.gz",
+  "download_time": "2025-08-13T16:59:26.135021",
+  "package_url": "https://pypi.org/project/pyrecli/"
+}

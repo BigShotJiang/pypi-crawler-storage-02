@@ -1,11 +1,11 @@
 {
   "name": "acacia-s2s-toolkit",
-  "version": "0.3.4",
+  "version": "0.4.1.6",
   "summary": "A python package to support download and analysis of forecasts from WMO sub-seasonal lead centre.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "acacia_s2s_toolkit-0.3.4.tar.gz",
-  "download_time": "2025-08-13T16:29:12.069790",
+  "download_filename": "acacia_s2s_toolkit-0.4.1.6.tar.gz",
+  "download_time": "2025-08-13T16:58:45.058424",
   "package_url": "https://pypi.org/project/acacia-s2s-toolkit/"
 }

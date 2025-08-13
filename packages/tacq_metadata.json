@@ -1,0 +1,11 @@
+{
+  "name": "tacq",
+  "version": "0.0.3",
+  "summary": "A framework for learning compact representations of constraint networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacq-0.0.3.tar.gz",
+  "download_time": "2025-08-13T16:58:59.490882",
+  "package_url": "https://pypi.org/project/tacq/"
+}
