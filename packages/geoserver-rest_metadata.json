@@ -1,0 +1,11 @@
+{
+  "name": "geoserver-rest",
+  "version": "2.10.0",
+  "summary": "Package for GeoServer rest API",
+  "author": "Tek Kshetri",
+  "license": "MIT License",
+  "home_page": "https://github.com/iamtekson/geoserver-rest-python",
+  "download_filename": "geoserver_rest-2.10.0.tar.gz",
+  "download_time": "2025-08-13T22:46:44.415250",
+  "package_url": "https://pypi.org/project/geoserver-rest/"
+}

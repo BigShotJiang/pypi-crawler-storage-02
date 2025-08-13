@@ -1,0 +1,11 @@
+{
+  "name": "scBoolSeq",
+  "version": "2.3",
+  "summary": "scBoolSeq: Linking scRNA-Seq Statistics and Boolean Dynamics.",
+  "author": "Gustavo Magaña López",
+  "license": "BSD-3",
+  "home_page": "https://github.com/bnediction/scBoolSeq",
+  "download_filename": "scboolseq-2.3.tar.gz",
+  "download_time": "2025-08-13T22:46:35.419002",
+  "package_url": "https://pypi.org/project/scBoolSeq/"
+}

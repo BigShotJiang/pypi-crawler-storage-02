@@ -1,0 +1,11 @@
+{
+  "name": "minibot",
+  "version": "0.1.0",
+  "summary": "Librería de utilerías para automatizaciones RPA con Microsoft Graph y otras herramientas.",
+  "author": "Raul Sanz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minibot-0.1.0.tar.gz",
+  "download_time": "2025-08-13T22:46:38.625589",
+  "package_url": "https://pypi.org/project/minibot/"
+}

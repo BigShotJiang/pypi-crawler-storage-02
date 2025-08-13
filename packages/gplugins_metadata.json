@@ -1,11 +1,11 @@
 {
   "name": "gplugins",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "gdsfactory plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gplugins-1.4.1.tar.gz",
-  "download_time": "2025-08-09T16:52:37.260323",
+  "download_filename": "gplugins-1.4.2.tar.gz",
+  "download_time": "2025-08-13T22:46:59.172535",
   "package_url": "https://pypi.org/project/gplugins/"
 }

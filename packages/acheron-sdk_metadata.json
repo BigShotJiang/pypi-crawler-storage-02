@@ -1,0 +1,11 @@
+{
+  "name": "acheron-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Acheron AI Governance Platform",
+  "author": "Acheron AI",
+  "license": null,
+  "home_page": "https://github.com/acheron-ai/acheron-python-sdk",
+  "download_filename": "acheron_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-13T22:46:54.996745",
+  "package_url": "https://pypi.org/project/acheron-sdk/"
+}

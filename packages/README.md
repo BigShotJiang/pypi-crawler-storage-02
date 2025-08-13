@@ -1,12 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T22:26:15.864907
-- **Total Packages**: 85
-- **Total Size**: 19.49 MB
+- **Download Time**: 2025-08-13T22:47:20.269138
+- **Total Packages**: 84
+- **Total Size**: 31.72 MB
 
 ## Packages List
+- hdn-research-environment
+- scBoolSeq
+- jpy-sync-db-lite
+- letta-client
+- vitessce
+- folio-migration-tools
+- liman
+- minibot
+- ya-json-server-pd
+- cml-mcp
+- profe
+- flarchitect
+- aind-metadata-manager
+- zrb
+- upkie
+- umepr
+- geoserver-rest
+- sentry-relay
+- thds.mops
+- thds.adls
+- thds.atacama
+- thds.core
+- thds.humenc
+- pydsstools
+- cloud-files
+- blackhole-io
+- quantconnect-stubs
+- datacontract-helper
+- omserv
+- ommlds
+- omlish
+- ominfra
+- cortical-tools
+- omdev
+- omdev-cli
+- omdev-cext
+- acheron-sdk
+- osbot-utils
+- openrouter-inspector
+- cjm-nbdev-docments
+- openint
+- appodus-utils
+- pipeloom
+- chattr
+- gplugins
+- sam-url-cache
 - cjm-nbdev-overview
+- hostinger-cli
+- contextgem
 - opencc-purepy
 - sagemaker-gen-ai-jupyterlab-extension
 - MinsarPlotData
@@ -18,7 +66,6 @@
 - pydantic-ai-examples
 - pydantic-ai
 - clai
-- hdn-research-environment
 - spotrod
 - kaiserlift
 - maisaedu-poormans-dms
@@ -27,7 +74,6 @@
 - mcp-agent
 - t-nextgen
 - pulumi-aws
-- datacontract-helper
 - aind-dynamic-foraging-models
 - ovault
 - ultralytics
@@ -44,50 +90,3 @@
 - ggpyscraper
 - discminer
 - torch-sim-atomistic
-- regula-documentreader-webclient
-- gamewave-unreal-mcp
-- shady-island
-- pymammotion
-- llm-markdownify
-- sentry-kafka-schemas
-- pulumi
-- rxfoundry.clients.p2rx-api
-- cloud-files
-- git-star-percentile
-- neurograd
-- tmux-popup
-- auto-di-tag
-- nomad-media-pip
-- truss
-- pypi-package-updater
-- etracer
-- tinytag
-- pydap
-- langchain-recallio
-- olmocr
-- pulumi-formal
-- wikinator
-- scim2-tester
-- zut
-- edk2-pytool-library
-- figma-mcp-tools
-- torchcomms
-- CTkFileDialog
-- clairvoyance-feature-selection
-- arize-phoenix-client
-- botoprune
-- git-branches
-- earth2-api-wrapper
-- archgw
-- archgw_modelserver
-- foundry-compute-modules
-- baloon
-- bbot
-- antares-client
-- truss-transfer
-- donodo
-- luminescent
-- memory-tools-client
-- adafruit-circuitpython-uc8253
-- atef
-- ladybug-rhino
