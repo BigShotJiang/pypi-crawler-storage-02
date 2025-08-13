@@ -1,11 +1,11 @@
 {
   "name": "hyrex",
-  "version": "0.10.13",
+  "version": "0.10.14",
   "summary": "Hyrex is the open-source COLD task orchestration framework built on Postgres.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyrex-0.10.13.tar.gz",
-  "download_time": "2025-08-13T15:55:12.310287",
+  "download_filename": "hyrex-0.10.14.tar.gz",
+  "download_time": "2025-08-13T17:22:17.614203",
   "package_url": "https://pypi.org/project/hyrex/"
 }

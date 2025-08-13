@@ -1,11 +1,11 @@
 {
   "name": "cps-impress",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "summary": "CPS Impress",
   "author": "Darron Broad",
   "license": null,
   "home_page": null,
-  "download_filename": "cps_impress-1.0.1.tar.gz",
-  "download_time": "2025-08-12T11:44:13.630321",
+  "download_filename": "cps_impress-1.0.5.tar.gz",
+  "download_time": "2025-08-13T17:22:01.279661",
   "package_url": "https://pypi.org/project/cps-impress/"
 }

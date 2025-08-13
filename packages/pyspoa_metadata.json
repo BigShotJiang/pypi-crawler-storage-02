@@ -1,0 +1,11 @@
+{
+  "name": "pyspoa",
+  "version": "0.3.0",
+  "summary": "Python bindings to spoa",
+  "author": "Oxford Nanoporetech Technologies, Ltd.",
+  "license": null,
+  "home_page": "https://github.com/nanoporetech/pyspoa",
+  "download_filename": "pyspoa-0.3.0.tar.gz",
+  "download_time": "2025-08-13T17:22:21.829029",
+  "package_url": "https://pypi.org/project/pyspoa/"
+}

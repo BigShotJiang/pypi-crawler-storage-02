@@ -1,0 +1,11 @@
+{
+  "name": "kreuzberg",
+  "version": "3.11.1",
+  "summary": "Document intelligence framework for Python - Extract text, metadata, and structured data from diverse file formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kreuzberg-3.11.1.tar.gz",
+  "download_time": "2025-08-13T17:22:16.565179",
+  "package_url": "https://pypi.org/project/kreuzberg/"
+}
