@@ -1,11 +1,11 @@
 {
   "name": "wikinator",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Convert Google docs to markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wikinator-0.6.1.tar.gz",
-  "download_time": "2025-08-13T21:24:38.159862",
+  "download_filename": "wikinator-0.6.2.tar.gz",
+  "download_time": "2025-08-13T21:56:42.484524",
   "package_url": "https://pypi.org/project/wikinator/"
 }

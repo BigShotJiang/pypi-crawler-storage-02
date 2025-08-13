@@ -1,0 +1,11 @@
+{
+  "name": "foundry-compute-modules",
+  "version": "0.28.0",
+  "summary": "The official Python library for creating Compute Modules",
+  "author": "Palantir Technologies, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/palantir/python-compute-module",
+  "download_filename": "foundry_compute_modules-0.28.0.tar.gz",
+  "download_time": "2025-08-13T21:56:52.150802",
+  "package_url": "https://pypi.org/project/foundry-compute-modules/"
+}
