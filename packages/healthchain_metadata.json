@@ -1,0 +1,11 @@
+{
+  "name": "healthchain",
+  "version": "0.10.0",
+  "summary": "Python toolkit that makes it easier to connect your AI/ML pipelines to healthcare systems",
+  "author": "Jennifer Jiang-Kells",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "healthchain-0.10.0.tar.gz",
+  "download_time": "2025-08-13T17:44:13.689834",
+  "package_url": "https://pypi.org/project/healthchain/"
+}

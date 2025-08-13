@@ -1,0 +1,11 @@
+{
+  "name": "hl-gaming-official-ff-data",
+  "version": "2.3.8",
+  "summary": "Python client for HL Gaming Official Free Fire API",
+  "author": "Haroon Brokha",
+  "license": "MIT",
+  "home_page": "https://www.hlgamingofficial.com/p/api.html",
+  "download_filename": "hl_gaming_official_ff_data-2.3.8.tar.gz",
+  "download_time": "2025-08-13T17:44:23.657535",
+  "package_url": "https://pypi.org/project/hl-gaming-official-ff-data/"
+}

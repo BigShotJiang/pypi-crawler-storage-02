@@ -1,0 +1,11 @@
+{
+  "name": "pyttd",
+  "version": "1.0.0",
+  "summary": "OpenTTD Client Library",
+  "author": "mssc89",
+  "license": "MIT",
+  "home_page": "https://github.com/mssc89/pyttd",
+  "download_filename": "pyttd-1.0.0.tar.gz",
+  "download_time": "2025-08-13T17:44:40.549546",
+  "package_url": "https://pypi.org/project/pyttd/"
+}

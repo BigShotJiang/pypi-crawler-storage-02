@@ -1,0 +1,11 @@
+{
+  "name": "abcdf-toolkit",
+  "version": "0.0.1",
+  "summary": "This is a library for summarizing the results of ab tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abcdf_toolkit-0.0.1.tar.gz",
+  "download_time": "2025-08-13T17:44:04.442526",
+  "package_url": "https://pypi.org/project/abcdf-toolkit/"
+}

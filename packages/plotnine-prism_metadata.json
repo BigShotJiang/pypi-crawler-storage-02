@@ -1,0 +1,11 @@
+{
+  "name": "plotnine-prism",
+  "version": "0.3.3",
+  "summary": "Prism themes for plotnine, inspired by ggprism",
+  "author": "pwwang",
+  "license": "GNU General Public License v2.0",
+  "home_page": null,
+  "download_filename": "plotnine_prism-0.3.3.tar.gz",
+  "download_time": "2025-08-13T17:44:21.049027",
+  "package_url": "https://pypi.org/project/plotnine-prism/"
+}
