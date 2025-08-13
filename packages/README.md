@@ -1,14 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T05:27:33.880547
-- **Total Packages**: 77
-- **Total Size**: 23.78 MB
+- **Download Time**: 2025-08-13T05:50:23.965818
+- **Total Packages**: 78
+- **Total Size**: 20.7 MB
 
 ## Packages List
 - ansnp
-- SearchLibrium
+- sqlspec
+- dirflex
+- truefoundry
+- RubigramClient
+- pulumi-dbtcloud
+- mipx
+- pyhydrology
+- fastapi-casbin-auth
+- apis-core-rdf
 - gerador-api-segura-v3
+- pulumi-confluentcloud
+- omnara
+- dify-oapi2
+- ATmulti-file-handler
+- nerfbaselines
+- fastshell
+- textpy
+- pulumi-cloudinit
+- qrpa
+- ubo-app-raw-bindings
+- ubo-app-assistant
+- ubo-app
+- django-vastbase-backend
+- matrice
+- pulumi-azuread
+- nonebot-plugin-witff
+- slide-tyler
+- py3-http-utils
+- parseur-py
+- leaguemanager
+- tavily-mcp-server
+- django-dmf
+- astx-transpilers
+- astx
+- heaven-tree-repl
+- h5io-browser
+- truss-transfer
+- slide-narrator
+- albumentations-mcp
+- logwrapper
+- bojango
+- pulumi-artifactory
+- wattleflow
+- SearchLibrium
 - circuit-synth
 - tenduke-core
 - edaflow
@@ -42,44 +84,3 @@
 - roshambo2
 - hcc-topbar-buttons
 - e6data-python-connector
-- kuavo-humanoid-sdk-ws
-- kuavo-humanoid-sdk
-- modusa
-- mermaid-ascii
-- eDoping
-- canonmap
-- mcp-databend
-- chia-rs
-- iinfer
-- WrenchCL
-- cmdbox
-- aclib.builtins
-- omserv
-- ommlds
-- omlish
-- ominfra
-- omdev
-- omdev-cli
-- omdev-cext
-- PySFS
-- re-extensions
-- uglad
-- langgraph-runtime-inmem
-- contact
-- lvm-tools
-- burntool
-- BOSlib
-- basicsec
-- 77-MyFirst-HwWo-Lib-77-2025-11-8
-- fastled-wasm-server
-- ros-cdk-cxapi
-- sphinx-parser
-- publicity-idl
-- maleo-soma
-- fsai-vision-utils
-- json-file-split
-- tfads-o-builder
-- fsai-shared-funcs
-- geopix
-- awpr
-- cvat-manifest-builder

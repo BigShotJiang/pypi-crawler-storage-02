@@ -1,0 +1,11 @@
+{
+  "name": "django-vastbase-backend",
+  "version": "0.1.1",
+  "summary": "django backend for vastbase",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_vastbase_backend-0.1.1.tar.gz",
+  "download_time": "2025-08-13T05:49:51.372278",
+  "package_url": "https://pypi.org/project/django-vastbase-backend/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "textpy",
+  "version": "0.2.1",
+  "summary": "Reads a python module and statically analyzes it.",
+  "author": "Chitaoji",
+  "license": "BSD",
+  "home_page": "https://github.com/Chitaoji/textpy/",
+  "download_filename": "textpy-0.2.1-py2.py3-none-any.whl",
+  "download_time": "2025-08-13T05:49:47.731930",
+  "package_url": "https://pypi.org/project/textpy/"
+}

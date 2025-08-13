@@ -1,0 +1,11 @@
+{
+  "name": "pyhydrology",
+  "version": "0.1.0",
+  "summary": "Tools for hydrology: ERA5 downloader and NetCDF point extractor.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyhydrology-0.1.0.tar.gz",
+  "download_time": "2025-08-13T05:49:41.768319",
+  "package_url": "https://pypi.org/project/pyhydrology/"
+}

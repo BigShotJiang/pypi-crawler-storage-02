@@ -1,0 +1,11 @@
+{
+  "name": "logwrapper",
+  "version": "0.1.7",
+  "summary": "Python log wrapper",
+  "author": "YJ",
+  "license": null,
+  "home_page": "https://github.com/YHYJ/LogWrapper",
+  "download_filename": "logwrapper-0.1.7.tar.gz",
+  "download_time": "2025-08-13T05:50:03.226701",
+  "package_url": "https://pypi.org/project/logwrapper/"
+}

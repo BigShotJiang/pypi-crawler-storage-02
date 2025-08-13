@@ -1,11 +1,11 @@
 {
   "name": "ansnp",
-  "version": "0.1.0.post1",
-  "summary": "A Python package with C++ extensions using pybind11",
-  "author": "Wei Jiang",
-  "license": "MIT",
-  "home_page": "https://github.com/yourusername/ansnp",
-  "download_filename": "ansnp-0.1.0.post1.tar.gz",
-  "download_time": "2025-08-13T05:26:52.547592",
+  "version": "0.1.0.post2",
+  "summary": "A Python package with C++ extensions using pybind11 developed by Zhihao Duan",
+  "author": "Zhihao Duan",
+  "license": null,
+  "home_page": "https://github.com/duanzhiihao/ans-numpy/",
+  "download_filename": "ansnp-0.1.0.post2.tar.gz",
+  "download_time": "2025-08-13T05:49:37.598111",
   "package_url": "https://pypi.org/project/ansnp/"
 }
