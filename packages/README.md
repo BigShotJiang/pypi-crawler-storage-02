@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T15:26:01.757641
-- **Total Packages**: 89
-- **Total Size**: 19.96 MB
+- **Download Time**: 2025-08-13T15:43:54.375301
+- **Total Packages**: 91
+- **Total Size**: 6.95 MB
 
 ## Packages List
+- nvidia-nat-redis
+- nvidia-nat-zep-cloud
+- fediverse-pasture
+- rapidllm
+- duvc-ctl
+- nvidia-nat-mem0ai
+- openfl-nightly
+- nvidia-nat-test
+- dshellInterpreter
+- ros-cdk-nas
+- nvidia-nat-s3
+- matrice
+- nvidia-nat-llama-index
+- nvidia-nat-mysql
+- lawaf
+- vulkan-object
+- nvidia-nat-weave
+- cpsat-logutils
+- nvidia-nat-langchain
+- dataiku-scoring
 - rypi
 - nvidia-nat
 - arize-phoenix-evals
@@ -32,7 +52,6 @@
 - maxai-mcp
 - mkstd
 - HS-TasNet
-- matrice
 - nominal-api-protos
 - standardbots
 - nominal-api
@@ -78,20 +97,3 @@
 - randrctl
 - biomcp-python
 - ros-cdk-alb
-- animesub
-- can-i-park
-- kensho-kfinance
-- insight-plugin
-- trops
-- oa
-- actuation
-- ros-cdk-ebs
-- akpub
-- fngen
-- nonebot-plugin-datastore
-- openDVP
-- no-llm
-- nonebot-plugin-picstatus
-- dbt-yamer
-- yamkix
-- brillouin-imaging

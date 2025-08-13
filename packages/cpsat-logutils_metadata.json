@@ -1,11 +1,11 @@
 {
   "name": "cpsat-logutils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Utils for parsing the logs of OR-Tools' CP-SAT solver.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpsat_logutils-0.0.2.tar.gz",
-  "download_time": "2025-08-11T10:59:37.416316",
+  "download_filename": "cpsat_logutils-0.0.3.tar.gz",
+  "download_time": "2025-08-13T15:43:12.214313",
   "package_url": "https://pypi.org/project/cpsat-logutils/"
 }

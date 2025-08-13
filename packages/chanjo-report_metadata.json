@@ -1,11 +1,11 @@
 {
   "name": "chanjo-report",
-  "version": "4.11.4",
+  "version": "4.11.5",
   "summary": "Automatically render coverage reports from Chanjo ouput",
   "author": "Robin Andeer",
   "license": "MIT",
   "home_page": "https://github.com/robinandeer/chanjo-report",
-  "download_filename": "chanjo-report-4.11.4.tar.gz",
-  "download_time": "2025-08-13T15:25:32.794974",
+  "download_filename": "chanjo_report-4.11.5.tar.gz",
+  "download_time": "2025-08-13T15:43:35.598152",
   "package_url": "https://pypi.org/project/chanjo-report/"
 }
