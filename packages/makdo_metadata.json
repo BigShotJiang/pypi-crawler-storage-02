@@ -1,0 +1,11 @@
+{
+  "name": "makdo",
+  "version": "8.15",
+  "summary": "MS WordのファイルをMarkdownで作成・編集します",
+  "author": "Seiichiro HATA",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/hata48915b/makdo/",
+  "download_filename": "makdo-8.15.tar.gz",
+  "download_time": "2025-08-13T04:07:27.153467",
+  "package_url": "https://pypi.org/project/makdo/"
+}

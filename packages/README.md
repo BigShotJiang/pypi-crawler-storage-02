@@ -1,22 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T03:26:04.928964
-- **Total Packages**: 81
-- **Total Size**: 38.73 MB
+- **Download Time**: 2025-08-13T04:07:52.921309
+- **Total Packages**: 72
+- **Total Size**: 4.42 MB
 
 ## Packages List
+- ivybloom
+- mat3ra-made
+- pympebm
+- iflow-mcp_minimax-mcp
+- json-file-split
+- awpr
+- iwx-manifest-builder
+- tfads-o-builder
+- geopix
+- cvat-manifest-builder
+- fsai-shared-funcs
+- anti-gaslightning
+- agent-types
+- git-star-percentile
 - binimage
+- gerador-api-segura-v3
+- bsv-sdk
+- deltachat-rpc-server
+- pulumi-venafi
+- final_project_shopping_list
+- llama-index-retrievers-bm25
+- keras-rs-nightly
+- datacompose
+- GANDLF
+- odoo-addon-sale-exception-stock-prebook
+- makdo
+- cmdlm
+- xiangxinai
+- odoo-addon-report-py3o
+- semchunk
+- kuroboros
+- pygsfit
+- odoo-addon-procurement-purchase-requisition-generation-dropshipping
+- maleo-soma
+- kpf
+- pinetext
+- trex-model
+- iflow-mcp_schemdraw-mcp-server
+- crewplus
+- autowt
+- trex-conf
+- jndataset-down
+- trex-program
+- BBAWSLightsailMiniAIV1a
 - momovu
 - xl-docx
 - tablestore
-- gerador-api-segura-v3
-- logis-sdk
 - spotdl
-- pygsfit
 - purechainlib
 - exsited
-- siem-hkm-ai-smartcore
 - mipx
 - odoo-addon-payroll-contract-advantages
 - get-cover-mcp
@@ -32,58 +71,10 @@
 - types-yt-dlp
 - bakong-khqr
 - types-fpdf2
-- ivybloom
 - CTkFileDialog
 - file-search-tk
-- maleo-soma
 - nlb-legacy
 - bpcode
 - pyrotgfork
 - experiment-generator
 - pyouter
-- apollo-io-mcp
-- git-star-percentile
-- sqlspec
-- system-monitor-mcp
-- agentsociety
-- hyundai-kia-connect-api
-- tencent-wedata-feature-engineering
-- yu-terms-mcp-server
-- hubmap-search-sdk
-- mgi-alphatool
-- exodus-calendar
-- upoqa
-- gradio-topbar
-- penny-ante
-- kpf
-- ludi
-- tavily-mcp-server
-- sciv
-- mcp-weather-buding
-- pyStrint
-- odoo14-addon-l10n-br-sped-base
-- flex-evals
-- prefixtrie
-- aiodabpumps
-- rust-pyfunc
-- lms-ubitraq
-- matrice
-- final_project_shopping_list
-- lms-hikvision
-- autoblocksai
-- lms-geotool
-- onecite
-- iamenumerate
-- bookup-fuse
-- pyrend
-- brain-proxy
-- naif-eop-high-prec
-- paapi5
-- bosa-core-binary
-- aisuite4cn
-- odoo-addon-fieldservice
-- iflow-mcp_powerpoint
-- WhisperDriver
-- odoo-addon-edi-exchange-template-oca
-- odoo-addon-edi-oca
-- velocity-python

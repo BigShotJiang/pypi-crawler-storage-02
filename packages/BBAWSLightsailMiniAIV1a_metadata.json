@@ -1,0 +1,11 @@
+{
+  "name": "BBAWSLightsailMiniAIV1a",
+  "version": "1.0.2",
+  "summary": "Buzzerboy Architecture for Deploying AI-Enhanced Web Applications on AWS LightSail with Bedrock",
+  "author": "Buzzerboy Inc",
+  "license": null,
+  "home_page": "https://www.buzzerboy.com/",
+  "download_filename": "bbawslightsailminiaiv1a-1.0.2.tar.gz",
+  "download_time": "2025-08-13T04:07:37.435435",
+  "package_url": "https://pypi.org/project/BBAWSLightsailMiniAIV1a/"
+}
