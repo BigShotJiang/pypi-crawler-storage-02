@@ -1,0 +1,11 @@
+{
+  "name": "gptme",
+  "version": "0.28.0",
+  "summary": "Personal AI assistant in your terminal that can use the shell, run code, edit files, browse the web, and use vision. An unconstrained local alternative to ChatGPT's Code Interpreter.",
+  "author": "Erik Bjäreholt",
+  "license": "MIT",
+  "home_page": "https://gptme.org/",
+  "download_filename": "gptme-0.28.0.tar.gz",
+  "download_time": "2025-08-13T11:24:01.753930",
+  "package_url": "https://pypi.org/project/gptme/"
+}

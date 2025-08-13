@@ -1,0 +1,11 @@
+{
+  "name": "NPhish",
+  "version": "0.2.1",
+  "summary": "Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.",
+  "author": "CodingSangh",
+  "license": null,
+  "home_page": "https://github.com/CodingSangh/NPhish",
+  "download_filename": "nphish-0.2.1.tar.gz",
+  "download_time": "2025-08-13T11:24:00.715100",
+  "package_url": "https://pypi.org/project/NPhish/"
+}

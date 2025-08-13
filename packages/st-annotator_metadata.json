@@ -1,0 +1,11 @@
+{
+  "name": "st-annotator",
+  "version": "0.1.2",
+  "summary": "Component for annotating text for Argument Mining and NLP resolution",
+  "author": "Ettore Caputo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "st_annotator-0.1.2.tar.gz",
+  "download_time": "2025-08-13T11:23:54.354343",
+  "package_url": "https://pypi.org/project/st-annotator/"
+}

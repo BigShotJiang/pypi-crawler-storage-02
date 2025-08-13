@@ -1,11 +1,11 @@
 {
   "name": "colour-cxf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Library to parse and create CxF files.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "colour_cxf-0.1.0.tar.gz",
-  "download_time": "2025-08-08T11:28:03.313154",
+  "download_filename": "colour_cxf-0.1.1.tar.gz",
+  "download_time": "2025-08-13T11:24:13.271282",
   "package_url": "https://pypi.org/project/colour-cxf/"
 }

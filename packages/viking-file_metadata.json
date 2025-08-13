@@ -1,11 +1,11 @@
 {
   "name": "viking-file",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "API Wrapper for ViKiNG FiLE API (https://vikingfile.com)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viking_file-1.0.2.tar.gz",
-  "download_time": "2025-08-12T11:25:05.960021",
+  "download_filename": "viking_file-1.0.3.tar.gz",
+  "download_time": "2025-08-13T11:24:16.923921",
   "package_url": "https://pypi.org/project/viking-file/"
 }

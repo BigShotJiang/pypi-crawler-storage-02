@@ -1,0 +1,11 @@
+{
+  "name": "bguploaderlocal",
+  "version": "0.0.27",
+  "summary": "CLI to upload JUnit .xml files.",
+  "author": "pathik-appachhi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bguploaderlocal-0.0.27.tar.gz",
+  "download_time": "2025-08-13T11:24:10.661115",
+  "package_url": "https://pypi.org/project/bguploaderlocal/"
+}
