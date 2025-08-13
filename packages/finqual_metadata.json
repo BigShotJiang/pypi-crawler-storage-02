@@ -1,11 +1,11 @@
 {
   "name": "finqual",
-  "version": "3.3.9",
+  "version": "3.4.4",
   "summary": "A Python package to help investors to conduct financial research, analysis and comparable company analysis.",
   "author": "Harry",
   "license": null,
   "home_page": "https://github.com/harryy-he/finqual",
-  "download_filename": "finqual-3.3.9.tar.gz",
-  "download_time": "2025-08-12T22:24:42.787515",
+  "download_filename": "finqual-3.4.4.tar.gz",
+  "download_time": "2025-08-13T08:35:41.180162",
   "package_url": "https://pypi.org/project/finqual/"
 }

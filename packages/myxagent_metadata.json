@@ -1,11 +1,11 @@
 {
   "name": "myxagent",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Multi-Modal AI Agent System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myxagent-0.1.9.tar.gz",
-  "download_time": "2025-08-12T11:55:45.883193",
+  "download_filename": "myxagent-0.1.11.tar.gz",
+  "download_time": "2025-08-13T08:35:55.124719",
   "package_url": "https://pypi.org/project/myxagent/"
 }

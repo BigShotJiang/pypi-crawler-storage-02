@@ -1,0 +1,11 @@
+{
+  "name": "PixelSymbols",
+  "version": "1.0.0",
+  "summary": "Tkinter symbol/image loader for pixel-style icons",
+  "author": "Kenzo Basar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pixelsymbols-1.0.0.tar.gz",
+  "download_time": "2025-08-13T08:35:50.001246",
+  "package_url": "https://pypi.org/project/PixelSymbols/"
+}

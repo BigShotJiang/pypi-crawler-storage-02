@@ -1,0 +1,11 @@
+{
+  "name": "dcmfetch",
+  "version": "0.3.2",
+  "summary": "DICOM query retrieve tools",
+  "author": "Ron Hartley-Davies",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/rtrhd/dcmfetch",
+  "download_filename": "dcmfetch-0.3.2.tar.gz",
+  "download_time": "2025-08-13T08:35:37.078511",
+  "package_url": "https://pypi.org/project/dcmfetch/"
+}

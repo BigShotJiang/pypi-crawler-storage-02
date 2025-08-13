@@ -1,11 +1,11 @@
 {
   "name": "xenoslib",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Xenos' common lib",
   "author": "Xenocider",
   "license": "MIT License",
   "home_page": "https://github.com/XenosLu/xenoslib.git",
-  "download_filename": "xenoslib-0.2.0.tar.gz",
-  "download_time": "2025-08-12T08:35:51.530427",
+  "download_filename": "xenoslib-0.3.2.tar.gz",
+  "download_time": "2025-08-13T08:35:28.861296",
   "package_url": "https://pypi.org/project/xenoslib/"
 }

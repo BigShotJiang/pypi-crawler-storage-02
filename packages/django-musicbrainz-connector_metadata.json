@@ -1,11 +1,11 @@
 {
   "name": "django-musicbrainz-connector",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "A Django app that connects to a replica of the MusicBrainz database.",
   "author": "Marios Zindilis",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/mneia-gr/django-musicbrainz-connector",
-  "download_filename": "django_musicbrainz_connector-0.0.9.tar.gz",
-  "download_time": "2025-08-08T20:28:14.833410",
+  "download_filename": "django_musicbrainz_connector-0.0.10.tar.gz",
+  "download_time": "2025-08-13T08:36:01.322608",
   "package_url": "https://pypi.org/project/django-musicbrainz-connector/"
 }

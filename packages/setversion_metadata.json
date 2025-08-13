@@ -1,0 +1,11 @@
+{
+  "name": "setversion",
+  "version": "1.0.1",
+  "summary": "Quickly change the version of stack by adjusting the compose file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "setversion-1.0.1.tar.gz",
+  "download_time": "2025-08-13T08:35:33.993647",
+  "package_url": "https://pypi.org/project/setversion/"
+}

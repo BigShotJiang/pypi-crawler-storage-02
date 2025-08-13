@@ -1,11 +1,11 @@
 {
   "name": "easy-requests",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A Python library for simplified HTTP requests, featuring rate limiting, browser-like headers, and automatic retries. Built on the official `requests` library for reliability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_requests-1.1.0.tar.gz",
-  "download_time": "2025-08-12T11:55:55.944476",
+  "download_filename": "easy_requests-1.1.1.tar.gz",
+  "download_time": "2025-08-13T08:35:40.663763",
   "package_url": "https://pypi.org/project/easy-requests/"
 }

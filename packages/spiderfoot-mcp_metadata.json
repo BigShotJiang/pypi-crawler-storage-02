@@ -1,0 +1,11 @@
+{
+  "name": "spiderfoot-mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol server for SpiderFoot OSINT automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spiderfoot_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-13T08:35:51.534624",
+  "package_url": "https://pypi.org/project/spiderfoot-mcp/"
+}
