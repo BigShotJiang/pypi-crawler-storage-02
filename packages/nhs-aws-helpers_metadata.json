@@ -1,0 +1,11 @@
+{
+  "name": "nhs-aws-helpers",
+  "version": "0.7.25",
+  "summary": null,
+  "author": "spinecore",
+  "license": "MIT",
+  "home_page": "https://github.com/NHSDigital/nhs-aws-helpers",
+  "download_filename": "nhs_aws_helpers-0.7.25.tar.gz",
+  "download_time": "2025-08-13T10:51:30.674025",
+  "package_url": "https://pypi.org/project/nhs-aws-helpers/"
+}

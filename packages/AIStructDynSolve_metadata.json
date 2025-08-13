@@ -1,11 +1,11 @@
 {
   "name": "AIStructDynSolve",
-  "version": "1.13",
+  "version": "1.14",
   "summary": "AI-powered framework to solve both forward and inverse problems in structural dynamics",
   "author": "Ke Du(杜轲)",
   "license": null,
   "home_page": "https://github.com/duke-iem/AIStructDynSolve.git",
-  "download_filename": "aistructdynsolve-1.13.tar.gz",
-  "download_time": "2025-08-05T11:28:15.327540",
+  "download_filename": "aistructdynsolve-1.14.tar.gz",
+  "download_time": "2025-08-13T10:51:36.888797",
   "package_url": "https://pypi.org/project/AIStructDynSolve/"
 }

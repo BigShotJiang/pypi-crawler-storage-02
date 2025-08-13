@@ -1,11 +1,11 @@
 {
   "name": "thoth-qdrant",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Native Qdrant implementation for Thoth Vector Database",
   "author": "Marco Pancotti",
   "license": null,
   "home_page": null,
-  "download_filename": "thoth_qdrant-0.1.1.tar.gz",
-  "download_time": "2025-08-12T23:44:45.184374",
+  "download_filename": "thoth_qdrant-0.1.3.tar.gz",
+  "download_time": "2025-08-13T10:51:52.349594",
   "package_url": "https://pypi.org/project/thoth-qdrant/"
 }

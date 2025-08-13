@@ -1,11 +1,11 @@
 {
   "name": "thoth-dbmanager",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A Python library for managing SQL databases with support for multiple database types, LSH-based similarity search, and a modern plugin architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thoth_dbmanager-0.5.2.tar.gz",
-  "download_time": "2025-08-09T21:43:15.274740",
+  "download_filename": "thoth_dbmanager-0.5.3.tar.gz",
+  "download_time": "2025-08-13T10:51:56.968682",
   "package_url": "https://pypi.org/project/thoth-dbmanager/"
 }

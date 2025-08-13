@@ -1,0 +1,11 @@
+{
+  "name": "chartmogul-mcp-server",
+  "version": "0.3.1",
+  "summary": "ChartMogul's MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chartmogul_mcp_server-0.3.1.tar.gz",
+  "download_time": "2025-08-13T10:51:31.185473",
+  "package_url": "https://pypi.org/project/chartmogul-mcp-server/"
+}
