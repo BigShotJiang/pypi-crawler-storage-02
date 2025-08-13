@@ -1,11 +1,11 @@
 {
   "name": "srvp-fd",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Fréchet distance calculator for video datasets using SRVP encoder",
   "author": "Naoki Kiyohara",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "srvp_fd-0.4.0.tar.gz",
-  "download_time": "2025-08-08T20:47:41.923656",
+  "download_filename": "srvp_fd-0.4.1.tar.gz",
+  "download_time": "2025-08-13T14:53:29.140495",
   "package_url": "https://pypi.org/project/srvp-fd/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "libro-book",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A command-line tool to track books read",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "libro_book-0.3.1.tar.gz",
-  "download_time": "2025-08-10T13:57:05.633584",
+  "download_filename": "libro_book-0.4.0.tar.gz",
+  "download_time": "2025-08-13T14:53:37.515736",
   "package_url": "https://pypi.org/project/libro-book/"
 }

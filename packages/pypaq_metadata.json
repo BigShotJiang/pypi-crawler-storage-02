@@ -1,0 +1,11 @@
+{
+  "name": "pypaq",
+  "version": "1.13.0",
+  "summary": "little Python tools",
+  "author": "Piotr Niewinski",
+  "license": "MIT",
+  "home_page": "https://github.com/piteren/pypaq.git",
+  "download_filename": "pypaq-1.13.0.tar.gz",
+  "download_time": "2025-08-13T14:53:44.826090",
+  "package_url": "https://pypi.org/project/pypaq/"
+}

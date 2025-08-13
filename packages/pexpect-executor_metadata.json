@@ -1,0 +1,11 @@
+{
+  "name": "pexpect-executor",
+  "version": "4.3.1",
+  "summary": "Automate interactive CLI tools actions",
+  "author": "Adrian DC",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/RadianDevCore/tools/pexpect-executor",
+  "download_filename": "pexpect_executor-4.3.1.tar.gz",
+  "download_time": "2025-08-13T14:53:39.592961",
+  "package_url": "https://pypi.org/project/pexpect-executor/"
+}

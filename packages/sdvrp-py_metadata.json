@@ -1,11 +1,11 @@
 {
   "name": "sdvrp-py",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "Python binding of Alkaid-SDVRP: An Efficient Open-Source Solver for the Vehicle Routing Problem with Split Deliveries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdvrp_py-0.1.0-cp39-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-08-09T13:55:06.674321",
+  "download_filename": "sdvrp_py-0.1.1.tar.gz",
+  "download_time": "2025-08-13T14:53:16.002449",
   "package_url": "https://pypi.org/project/sdvrp-py/"
 }

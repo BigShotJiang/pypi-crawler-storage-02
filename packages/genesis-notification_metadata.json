@@ -1,0 +1,11 @@
+{
+  "name": "genesis-notification",
+  "version": "0.3.0",
+  "summary": "The Platform Notification summary",
+  "author": "Genesis Corporation",
+  "license": null,
+  "home_page": "https://github.com/infraguys/genesis_notification/",
+  "download_filename": "genesis_notification-0.3.0.tar.gz",
+  "download_time": "2025-08-13T14:53:24.399362",
+  "package_url": "https://pypi.org/project/genesis-notification/"
+}

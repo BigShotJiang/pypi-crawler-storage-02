@@ -1,0 +1,11 @@
+{
+  "name": "mdolab-baseclasses",
+  "version": "1.8.3",
+  "summary": "base classes that are used together with the rest of MDO Lab tools.",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/mdolab/baseclasses",
+  "download_filename": "mdolab_baseclasses-1.8.3-py3-none-any.whl",
+  "download_time": "2025-08-13T14:53:31.750223",
+  "package_url": "https://pypi.org/project/mdolab-baseclasses/"
+}

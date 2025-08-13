@@ -1,0 +1,11 @@
+{
+  "name": "cli-chatbot",
+  "version": "0.1.0",
+  "summary": "A Python project for generating and using S3 presigned URLs with a chat interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_chatbot-0.1.0.tar.gz",
+  "download_time": "2025-08-13T14:53:03.957087",
+  "package_url": "https://pypi.org/project/cli-chatbot/"
+}

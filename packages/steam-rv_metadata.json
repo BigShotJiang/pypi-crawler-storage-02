@@ -1,0 +1,11 @@
+{
+  "name": "steam-rv",
+  "version": "1.5.0",
+  "summary": "Module for interacting with various Steam features",
+  "author": "Rossen Georgiev, CFTools Software GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/CFTools-Software-GmbH/ValvePython-steam",
+  "download_filename": "steam-rv-1.5.0.tar.gz",
+  "download_time": "2025-08-13T14:53:06.070618",
+  "package_url": "https://pypi.org/project/steam-rv/"
+}

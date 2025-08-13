@@ -1,0 +1,11 @@
+{
+  "name": "django-querylizer",
+  "version": "0.1.0",
+  "summary": "Automatic Django query performance analyzer and logger",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_querylizer-0.1.0.tar.gz",
+  "download_time": "2025-08-13T14:53:22.831102",
+  "package_url": "https://pypi.org/project/django-querylizer/"
+}
