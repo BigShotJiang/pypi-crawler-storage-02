@@ -1,0 +1,11 @@
+{
+  "name": "refget",
+  "version": "0.9.0",
+  "summary": "Python client for refget",
+  "author": "Nathan Sheffield, Michal Stolarczyk",
+  "license": "BSD2",
+  "home_page": "https://github.com/refgenie/refget",
+  "download_filename": "refget-0.9.0.tar.gz",
+  "download_time": "2025-08-13T20:30:13.103082",
+  "package_url": "https://pypi.org/project/refget/"
+}

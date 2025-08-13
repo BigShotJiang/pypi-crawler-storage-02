@@ -1,0 +1,11 @@
+{
+  "name": "pyroherd",
+  "version": "0.1.7",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": "OnTheHerd",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/OnTheHerd",
+  "download_filename": "pyroherd-0.1.7.tar.gz",
+  "download_time": "2025-08-13T20:29:54.440860",
+  "package_url": "https://pypi.org/project/pyroherd/"
+}

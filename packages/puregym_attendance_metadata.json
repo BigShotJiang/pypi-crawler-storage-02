@@ -1,0 +1,11 @@
+{
+  "name": "puregym_attendance",
+  "version": "0.1.0",
+  "summary": "A python client to query the PureGym mobile API for live gym attendance",
+  "author": "Tom Hollingsworth",
+  "license": null,
+  "home_page": "https://github.com/2t6h/puregym-attendance",
+  "download_filename": "puregym_attendance-0.1.0.tar.gz",
+  "download_time": "2025-08-13T20:29:28.187853",
+  "package_url": "https://pypi.org/project/puregym_attendance/"
+}

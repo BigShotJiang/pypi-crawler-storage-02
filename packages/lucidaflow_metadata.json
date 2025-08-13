@@ -1,11 +1,11 @@
 {
   "name": "lucidaflow",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Uma linguagem de script moderna, extensível e com tipagem gradual, implementada em Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lucidaflow-1.0.5.tar.gz",
-  "download_time": "2025-08-13T19:01:49.486060",
+  "download_filename": "lucidaflow-1.0.7.tar.gz",
+  "download_time": "2025-08-13T20:29:33.189636",
   "package_url": "https://pypi.org/project/lucidaflow/"
 }

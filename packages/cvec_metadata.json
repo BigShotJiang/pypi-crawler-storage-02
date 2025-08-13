@@ -1,0 +1,11 @@
+{
+  "name": "cvec",
+  "version": "1.0.1",
+  "summary": "SDK for CVector Energy",
+  "author": "CVector",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvec-1.0.1.tar.gz",
+  "download_time": "2025-08-13T20:29:56.091398",
+  "package_url": "https://pypi.org/project/cvec/"
+}

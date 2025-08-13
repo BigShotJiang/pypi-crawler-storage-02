@@ -1,0 +1,11 @@
+{
+  "name": "mc_diag_boat",
+  "version": "0.3.0",
+  "summary": "A set of functions for building diagonal boat roads in Minecraft",
+  "author": "Ribqah",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/ribqahisabsent/mc-diag-boat.git",
+  "download_filename": "mc_diag_boat-0.3.0.tar.gz",
+  "download_time": "2025-08-13T20:29:47.420580",
+  "package_url": "https://pypi.org/project/mc_diag_boat/"
+}

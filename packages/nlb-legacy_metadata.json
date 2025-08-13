@@ -1,11 +1,11 @@
 {
   "name": "nlb-legacy",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Ryan's fever dreams",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nlb_legacy-0.7.0-py3-none-any.whl",
-  "download_time": "2025-08-13T03:25:38.167556",
+  "download_filename": "nlb_legacy-0.7.1-py3-none-any.whl",
+  "download_time": "2025-08-13T20:29:57.154986",
   "package_url": "https://pypi.org/project/nlb-legacy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcp-commander",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Cross-platform command-line tool for managing MCP (Model Context Protocol) servers across editors",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_commander-0.1.1.tar.gz",
-  "download_time": "2025-08-12T19:02:09.868333",
+  "download_filename": "mcp_commander-0.1.2.tar.gz",
+  "download_time": "2025-08-13T20:29:32.639822",
   "package_url": "https://pypi.org/project/mcp-commander/"
 }

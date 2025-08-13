@@ -1,0 +1,11 @@
+{
+  "name": "django-pgwatch",
+  "version": "1.0.0",
+  "summary": "Django app for PostgreSQL LISTEN/NOTIFY with persistence and playback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_pgwatch-1.0.0.tar.gz",
+  "download_time": "2025-08-13T20:29:56.633970",
+  "package_url": "https://pypi.org/project/django-pgwatch/"
+}

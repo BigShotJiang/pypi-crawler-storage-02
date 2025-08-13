@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.db",
+  "version": "1.805",
+  "summary": "RCSB Python Database Access and Loading Utility Classes",
+  "author": "John Westbrook",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-rcsb_db",
+  "download_filename": "rcsb_db-1.805.tar.gz",
+  "download_time": "2025-08-13T20:29:27.650912",
+  "package_url": "https://pypi.org/project/rcsb.db/"
+}
