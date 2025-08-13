@@ -1,0 +1,11 @@
+{
+  "name": "basicsec-mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol server for DNS and email security scanning using basicsec",
+  "author": "Vlatko Kosturjak",
+  "license": "MIT",
+  "home_page": "https://github.com/marlinkcyber/basicsec-mcp",
+  "download_filename": "basicsec_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-13T05:27:09.521155",
+  "package_url": "https://pypi.org/project/basicsec-mcp/"
+}

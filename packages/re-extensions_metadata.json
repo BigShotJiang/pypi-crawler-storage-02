@@ -1,0 +1,11 @@
+{
+  "name": "re-extensions",
+  "version": "0.0.7",
+  "summary": "Extensions for the `re` package.",
+  "author": "Chitaoji",
+  "license": "BSD",
+  "home_page": "https://github.com/Chitaoji/re-extensions/",
+  "download_filename": "re_extensions-0.0.7-py2.py3-none-any.whl",
+  "download_time": "2025-08-13T05:27:22.594537",
+  "package_url": "https://pypi.org/project/re-extensions/"
+}

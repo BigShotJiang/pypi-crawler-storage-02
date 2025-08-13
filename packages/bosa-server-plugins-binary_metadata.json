@@ -1,11 +1,11 @@
 {
   "name": "bosa-server-plugins-binary",
-  "version": "0.9.3",
+  "version": "0.10.2",
   "summary": "BOSA Server Plugins",
   "author": "Bosa Engineers",
   "license": null,
   "home_page": null,
-  "download_filename": "bosa_server_plugins_binary-0.9.3-cp311-cp311-manylinux_2_31_x86_64.whl",
-  "download_time": "2025-08-08T09:44:13.106480",
+  "download_filename": "bosa_server_plugins_binary-0.10.2-cp311-cp311-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-08-13T05:26:58.226422",
   "package_url": "https://pypi.org/project/bosa-server-plugins-binary/"
 }

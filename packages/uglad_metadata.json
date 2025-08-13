@@ -1,0 +1,11 @@
+{
+  "name": "uglad",
+  "version": "2.0.0",
+  "summary": "A deep unrolled architecture to recover conditional independence graphs. A better alternative to BCD and other graphical lasso solvers.",
+  "author": null,
+  "license": "uGLAD Non-Commercial License  \n        Copyright © 2021 Harsh Shrivastava\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the “Software”), to use,\n        copy, modify, merge, publish, and distribute the Software **for non-commercial\n        purposes only**, subject to the following conditions:\n        \n        1. **Non-Commercial Use** — Use of the Software, in whole or in part, for\n           commercial purposes is prohibited without prior written permission from the\n           copyright holder.\n        \n        2. **Attribution** — You must give appropriate credit to the original author(s)\n           in any public use of this Software.\n        \n        3. **Commercial Licensing** — To obtain a commercial license, please contact:\n           harshshrivastava111@gmail.com\n        \n        4. **No Warranty** — The Software is provided “as is,” without warranty of any\n           kind, express or implied, including but not limited to the warranties of\n           merchantability, fitness for a particular purpose, and noninfringement. In\n           no event shall the authors or copyright holders be liable for any claim,\n           damages, or other liability, whether in an action of contract, tort, or\n           otherwise, arising from, out of, or in connection with the Software or the\n           use or other dealings in the Software.",
+  "home_page": null,
+  "download_filename": "uglad-2.0.0.tar.gz",
+  "download_time": "2025-08-13T05:27:23.108681",
+  "package_url": "https://pypi.org/project/uglad/"
+}

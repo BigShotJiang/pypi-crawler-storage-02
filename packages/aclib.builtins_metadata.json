@@ -1,0 +1,11 @@
+{
+  "name": "aclib.builtins",
+  "version": "0.0.7",
+  "summary": "extend functions for python builtins",
+  "author": "AnsChaser",
+  "license": "MIT",
+  "home_page": "https://github.com/AnsChaser/aclib.builtins",
+  "download_filename": "aclib_builtins-0.0.7.tar.gz",
+  "download_time": "2025-08-13T05:27:17.849045",
+  "package_url": "https://pypi.org/project/aclib.builtins/"
+}
