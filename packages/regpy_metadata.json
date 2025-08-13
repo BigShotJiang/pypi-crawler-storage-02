@@ -1,0 +1,11 @@
+{
+  "name": "regpy",
+  "version": "0.4.2",
+  "summary": "A python library to solve Inverse and Ill-Posed problems by regularization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regpy-0.4.2.tar.gz",
+  "download_time": "2025-08-13T09:36:39.220306",
+  "package_url": "https://pypi.org/project/regpy/"
+}

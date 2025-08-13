@@ -1,11 +1,11 @@
 {
   "name": "llm-optimizer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Optimize LLM outputs and track emissions",
   "author": "Vijayalakshmi",
   "license": "MIT",
   "home_page": "https://github.com/viji123450/llm_optimizer",
-  "download_filename": "llm_optimizer-0.1.2.tar.gz",
-  "download_time": "2025-08-13T09:03:51.151183",
+  "download_filename": "llm_optimizer-0.1.3.tar.gz",
+  "download_time": "2025-08-13T09:36:24.134002",
   "package_url": "https://pypi.org/project/llm-optimizer/"
 }

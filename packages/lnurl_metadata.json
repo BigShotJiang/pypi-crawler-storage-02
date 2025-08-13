@@ -1,0 +1,11 @@
+{
+  "name": "lnurl",
+  "version": "0.7.0",
+  "summary": "LNURL implementation for Python.",
+  "author": "Alan Bits",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lnurl-0.7.0.tar.gz",
+  "download_time": "2025-08-13T09:36:37.140271",
+  "package_url": "https://pypi.org/project/lnurl/"
+}

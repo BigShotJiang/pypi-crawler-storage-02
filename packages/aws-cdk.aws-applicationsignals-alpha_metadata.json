@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-applicationsignals-alpha",
-  "version": "2.209.0a0",
+  "version": "2.211.0a0",
   "summary": "The CDK Construct Library for AWS::Amplify",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_applicationsignals_alpha-2.209.0a0.tar.gz",
-  "download_time": "2025-08-05T21:25:01.426021",
+  "download_filename": "aws_cdk_aws_applicationsignals_alpha-2.211.0a0.tar.gz",
+  "download_time": "2025-08-13T09:36:18.290985",
   "package_url": "https://pypi.org/project/aws-cdk.aws-applicationsignals-alpha/"
 }

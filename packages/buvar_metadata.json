@@ -1,11 +1,11 @@
 {
   "name": "buvar",
-  "version": "0.44.4",
+  "version": "0.44.7",
   "summary": "Asyncio plugins, components, dependency injection and configs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buvar-0.44.4.tar.gz",
-  "download_time": "2025-08-13T09:04:22.472551",
+  "download_filename": "buvar-0.44.7.tar.gz",
+  "download_time": "2025-08-13T09:36:29.863458",
   "package_url": "https://pypi.org/project/buvar/"
 }

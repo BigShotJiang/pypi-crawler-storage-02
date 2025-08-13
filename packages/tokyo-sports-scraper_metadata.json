@@ -1,11 +1,11 @@
 {
   "name": "tokyo-sports-scraper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "東京スポーツのオートレース情報をスクレイピングするライブラリ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokyo_sports_scraper-0.1.1.tar.gz",
-  "download_time": "2025-08-12T16:33:06.030610",
+  "download_filename": "tokyo_sports_scraper-0.1.2.tar.gz",
+  "download_time": "2025-08-13T09:35:55.688569",
   "package_url": "https://pypi.org/project/tokyo-sports-scraper/"
 }

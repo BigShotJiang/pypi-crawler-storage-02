@@ -1,11 +1,11 @@
 {
   "name": "kgrag-store",
-  "version": "1.0.67",
+  "version": "1.0.69",
   "summary": "A Python library for knowledge graph management and retrieval with advanced memory capabilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kgrag_store-1.0.67.tar.gz",
-  "download_time": "2025-08-08T10:34:05.553898",
+  "download_filename": "kgrag_store-1.0.69.tar.gz",
+  "download_time": "2025-08-13T09:36:30.382707",
   "package_url": "https://pypi.org/project/kgrag-store/"
 }

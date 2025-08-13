@@ -1,0 +1,11 @@
+{
+  "name": "cloth-simulation-filter",
+  "version": "1.1.6",
+  "summary": "CSF: Ground Filtering based on Cloth Simulation",
+  "author": "Jianbo Qi",
+  "license": "Apache-2.0",
+  "home_page": "http://ramm.bnu.edu.cn/projects/CSF/",
+  "download_filename": "cloth_simulation_filter-1.1.6.tar.gz",
+  "download_time": "2025-08-13T09:36:24.653790",
+  "package_url": "https://pypi.org/project/cloth-simulation-filter/"
+}

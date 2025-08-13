@@ -1,11 +1,11 @@
 {
   "name": "template2",
-  "version": "6.0.0rc6",
+  "version": "6.0.0rc7",
   "summary": null,
   "author": "James Pic",
   "license": "MIT",
   "home_page": "https://yourlabs.io/oss/cli2",
-  "download_filename": "template2-6.0.0rc6.tar.gz",
-  "download_time": "2025-08-13T09:03:34.417530",
+  "download_filename": "template2-6.0.0rc7.tar.gz",
+  "download_time": "2025-08-13T09:36:23.052870",
   "package_url": "https://pypi.org/project/template2/"
 }
