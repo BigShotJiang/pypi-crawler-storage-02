@@ -1,11 +1,11 @@
 {
   "name": "craft-archives",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "craft_archives-2.1.1.tar.gz",
-  "download_time": "2025-08-13T17:56:25.080445",
+  "download_filename": "craft_archives-2.2.0.tar.gz",
+  "download_time": "2025-08-13T20:47:27.038507",
   "package_url": "https://pypi.org/project/craft-archives/"
 }

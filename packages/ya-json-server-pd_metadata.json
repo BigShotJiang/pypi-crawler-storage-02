@@ -1,11 +1,11 @@
 {
   "name": "ya-json-server-pd",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": null,
   "author": "Adriano Vieira",
   "license": null,
   "home_page": null,
-  "download_filename": "ya_json_server_pd-0.3.0.tar.gz",
-  "download_time": "2025-08-13T20:29:40.424505",
+  "download_filename": "ya_json_server_pd-0.4.0.tar.gz",
+  "download_time": "2025-08-13T20:47:18.918057",
   "package_url": "https://pypi.org/project/ya-json-server-pd/"
 }
