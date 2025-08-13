@@ -1,11 +1,11 @@
 {
   "name": "strapi-client",
-  "version": "4.2.0",
+  "version": "5.0.0",
   "summary": "Interact with Strapi from Python using the REST API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strapi_client-4.2.0.tar.gz",
-  "download_time": "2025-08-06T10:35:37.492955",
+  "download_filename": "strapi_client-5.0.0.tar.gz",
+  "download_time": "2025-08-13T23:46:15.629935",
   "package_url": "https://pypi.org/project/strapi-client/"
 }

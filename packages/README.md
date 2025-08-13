@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T23:25:56.400616
-- **Total Packages**: 81
-- **Total Size**: 15.32 MB
+- **Download Time**: 2025-08-13T23:46:47.728376
+- **Total Packages**: 85
+- **Total Size**: 12.2 MB
 
 ## Packages List
+- langgraph
+- pulumi-formal
+- adversary-mcp-server
+- openrouter-inspector
+- pypi-package-updater
+- google-vizier-dev
+- sqlmesh
+- superoptix
+- customErrorMessagesToSaveYourMentalHealth
+- emailtoolkit
+- pylumen
+- greetsub
+- mtcli
+- yt-dlp
+- google-shopping-type
+- senselab
+- mini-swe-agent
+- syllable-sdk
+- nv-ingest-client
+- logsentinelai
+- django-eose
+- claude-mpm
+- openrubricrl
+- rust-pgn-reader-python-binding
+- machbaseAPI
+- pyxtxt
+- pysdm-examples
+- pysdm
+- evalassist
+- strapi-client
+- appodus-utils
+- hub-sdk
+- delayed-rm
+- heaven-framework
+- polars-u256-plugin
+- flow-compute
+- pulumi-provider-boilerplate
+- sutro
+- sportsball
+- apicurioregistrysdk
+- spectracles
+- gotty-py
 - StarChecker
 - graphql-mcp
 - flwr-nightly
@@ -28,9 +70,7 @@
 - llm-invoker
 - maisaedu-utilities-prefect
 - mrx-runway
-- emailtoolkit
 - pulumi-xyz
-- pypi-package-updater
 - canonmap
 - xglove
 - ivybloom
@@ -48,42 +88,6 @@
 - ansible-compat
 - scBoolSeq
 - dapr-agents
-- sqlmesh
 - sense-table
 - safety-gridworlds-gymnasium
 - cvalaval
-- sf2utils13
-- sportsball
-- owasp-schema
-- appodus-utils
-- dasl-client
-- hub-sdk
-- truss-transfer
-- opendental-sdk
-- langguard
-- tap-planetscaleapi
-- thds.mops
-- thds.adls
-- thds.atacama
-- thds.core
-- thds.humenc
-- sauce-api-mcp
-- bakabakabaka
-- superoptix
-- osa-tool
-- augint-billing-lib
-- promptguru
-- ya-json-server-pd
-- pyInjection
-- figma-mcp-tools
-- pycarlo
-- customErrorMessagesToSaveYourMentalHealth
-- beadclust
-- jpy-sync-db-lite
-- vitessce
-- folio-migration-tools
-- liman
-- minibot
-- cml-mcp
-- profe
-- flarchitect

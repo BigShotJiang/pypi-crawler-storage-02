@@ -1,11 +1,11 @@
 {
   "name": "spectracles",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Unified spectrospatial models: glasses for your spectra.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spectracles-0.5.3.tar.gz",
-  "download_time": "2025-08-13T07:02:51.167505",
+  "download_filename": "spectracles-0.5.4.tar.gz",
+  "download_time": "2025-08-13T23:46:22.050339",
   "package_url": "https://pypi.org/project/spectracles/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pypi-package-updater",
-  "version": "0.2.10",
+  "version": "0.2.15",
   "summary": "A tool to update Python package dependencies across multiple file formats",
   "author": "Adam Birds",
   "license": "MIT",
   "home_page": "https://github.com/adambirds/pypi-package-updater",
-  "download_filename": "pypi_package_updater-0.2.10.tar.gz",
-  "download_time": "2025-08-13T17:22:06.505734",
+  "download_filename": "pypi_package_updater-0.2.15.tar.gz",
+  "download_time": "2025-08-13T23:46:00.976953",
   "package_url": "https://pypi.org/project/pypi-package-updater/"
 }
