@@ -1,0 +1,11 @@
+{
+  "name": "gdvc-mini",
+  "version": "1.0.0",
+  "summary": "Lightweight Google Drive version control tool",
+  "author": "VSrivatsa",
+  "license": null,
+  "home_page": "https://github.com/VSrivatsa/gdvc-mini",
+  "download_filename": "gdvc_mini-1.0.0.tar.gz",
+  "download_time": "2025-08-13T23:57:21.646973",
+  "package_url": "https://pypi.org/project/gdvc-mini/"
+}

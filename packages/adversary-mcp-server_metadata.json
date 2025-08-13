@@ -1,11 +1,11 @@
 {
   "name": "adversary-mcp-server",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "summary": "MCP server for security vulnerability scanning and detection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adversary_mcp_server-1.10.4.tar.gz",
-  "download_time": "2025-08-13T04:49:13.364017",
+  "download_filename": "adversary_mcp_server-1.10.5.tar.gz",
+  "download_time": "2025-08-13T23:57:31.089553",
   "package_url": "https://pypi.org/project/adversary-mcp-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gotty-py",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A generic Python client for interacting with gotty terminal interfaces",
   "author": "Thomas Wentworth",
   "license": "MIT",
   "home_page": "https://github.com/twentworth/gotty-py",
-  "download_filename": "gotty_py-1.0.1.tar.gz",
-  "download_time": "2025-08-13T23:46:22.701379",
+  "download_filename": "gotty_py-1.0.2.tar.gz",
+  "download_time": "2025-08-13T23:57:23.345047",
   "package_url": "https://pypi.org/project/gotty-py/"
 }

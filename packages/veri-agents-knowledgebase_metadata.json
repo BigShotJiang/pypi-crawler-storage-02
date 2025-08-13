@@ -1,11 +1,11 @@
 {
   "name": "veri-agents-knowledgebase",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Veritone Agents Toolkit: Knowledge bases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "veri_agents_knowledgebase-0.1.9.tar.gz",
-  "download_time": "2025-08-13T21:24:59.619214",
+  "download_filename": "veri_agents_knowledgebase-0.1.10.tar.gz",
+  "download_time": "2025-08-13T23:57:18.707891",
   "package_url": "https://pypi.org/project/veri-agents-knowledgebase/"
 }
