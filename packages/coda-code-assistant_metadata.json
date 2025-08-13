@@ -1,11 +1,11 @@
 {
   "name": "coda-code-assistant",
-  "version": "2025.8.13.939",
+  "version": "2025.8.13.2318",
   "summary": "A CLI-focused code assistant for AI-assisted development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coda_code_assistant-2025.8.13.939.tar.gz",
-  "download_time": "2025-08-13T10:30:15.447080",
+  "download_filename": "coda_code_assistant-2025.8.13.2318.tar.gz",
+  "download_time": "2025-08-13T23:25:19.252985",
   "package_url": "https://pypi.org/project/coda-code-assistant/"
 }

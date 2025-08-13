@@ -1,11 +1,11 @@
 {
   "name": "sauce-api-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP server for Sauce Labs API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sauce_api_mcp-1.0.0.tar.gz",
-  "download_time": "2025-08-08T17:56:46.794214",
+  "download_filename": "sauce_api_mcp-1.0.1.tar.gz",
+  "download_time": "2025-08-13T23:25:45.605476",
   "package_url": "https://pypi.org/project/sauce-api-mcp/"
 }

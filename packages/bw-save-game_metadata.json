@@ -1,0 +1,11 @@
+{
+  "name": "bw-save-game",
+  "version": "1.6.0",
+  "summary": "Editor for Dragon Age: The Veilguard saves.",
+  "author": "Tim Niederhausen",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/timniederhausen/bw_save_game",
+  "download_filename": "bw_save_game-1.6.0.tar.gz",
+  "download_time": "2025-08-13T23:25:21.303654",
+  "package_url": "https://pypi.org/project/bw-save-game/"
+}

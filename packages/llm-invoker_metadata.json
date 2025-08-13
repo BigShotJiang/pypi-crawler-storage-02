@@ -1,0 +1,11 @@
+{
+  "name": "llm-invoker",
+  "version": "0.1.0",
+  "summary": "A Python library for managing multi-agent model invocation with automatic failover strategies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_invoker-0.1.0.tar.gz",
+  "download_time": "2025-08-13T23:25:23.362375",
+  "package_url": "https://pypi.org/project/llm-invoker/"
+}

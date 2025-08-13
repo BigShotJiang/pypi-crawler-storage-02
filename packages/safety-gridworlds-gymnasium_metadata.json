@@ -1,0 +1,11 @@
+{
+  "name": "safety-gridworlds-gymnasium",
+  "version": "2.0.4",
+  "summary": "Safety Gridworlds from Gymnasium",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safety_gridworlds_gymnasium-2.0.4.tar.gz",
+  "download_time": "2025-08-13T23:25:36.359163",
+  "package_url": "https://pypi.org/project/safety-gridworlds-gymnasium/"
+}

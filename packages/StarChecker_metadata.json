@@ -1,11 +1,11 @@
 {
   "name": "StarChecker",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "A project that sends you SMS notifications via ntfy.sh when someone stars one of your devlogs!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "starchecker-1.0.tar.gz",
-  "download_time": "2025-08-11T22:47:07.360830",
+  "download_filename": "starchecker-1.1.tar.gz",
+  "download_time": "2025-08-13T23:25:12.942737",
   "package_url": "https://pypi.org/project/StarChecker/"
 }
