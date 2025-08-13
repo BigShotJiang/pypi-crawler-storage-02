@@ -1,0 +1,11 @@
+{
+  "name": "etracer",
+  "version": "0.1.0",
+  "summary": "Enhanced Python tracer with AI-powered stack trace analysis",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "etracer-0.1.0.tar.gz",
+  "download_time": "2025-08-13T15:25:34.961786",
+  "package_url": "https://pypi.org/project/etracer/"
+}

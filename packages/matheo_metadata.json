@@ -1,11 +1,11 @@
 {
   "name": "matheo",
-  "version": "0.1.4",
-  "summary": "Matheo is a python package with mathematical algorithms for use in earth observation data and tools",
+  "version": "0.1.6",
+  "summary": "Matheo is a python package with mathematical algorithms for use in Earth observation data and tools",
   "author": "Sam Hunt, Pieter De Vis",
   "license": "None",
-  "home_page": "https://gitlab.npl.co.uk/eco/tools/matheo",
-  "download_filename": "matheo-0.1.4.tar.gz",
-  "download_time": "2025-08-12T09:34:31.122874",
+  "home_page": "https://github.com/meteor-toolkit/matheo",
+  "download_filename": "matheo-0.1.6.tar.gz",
+  "download_time": "2025-08-13T15:25:33.878685",
   "package_url": "https://pypi.org/project/matheo/"
 }
