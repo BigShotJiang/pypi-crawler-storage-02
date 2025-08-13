@@ -1,11 +1,11 @@
 {
   "name": "lms-geotool",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "LMS的地理信息工具集",
   "author": "MrYuGoui",
   "license": "MIT",
   "home_page": "https://github.com/mryugoui/django_plugin_geotool",
-  "download_filename": "lms_geotool-1.1.1.tar.gz",
-  "download_time": "2025-08-05T07:29:42.930987",
+  "download_filename": "lms_geotool-1.2.0.tar.gz",
+  "download_time": "2025-08-13T01:58:40.214611",
   "package_url": "https://pypi.org/project/lms-geotool/"
 }

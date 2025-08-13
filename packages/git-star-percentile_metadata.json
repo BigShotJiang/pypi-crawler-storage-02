@@ -1,0 +1,11 @@
+{
+  "name": "git-star-percentile",
+  "version": "0.5",
+  "summary": "A simple tool to quantify your GitHub repo star percentile.",
+  "author": "Chen Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenLiu-1996/GitStarPercentile",
+  "download_filename": "git-star-percentile-0.5.tar.gz",
+  "download_time": "2025-08-13T01:57:59.051121",
+  "package_url": "https://pypi.org/project/git-star-percentile/"
+}

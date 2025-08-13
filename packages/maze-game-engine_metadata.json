@@ -1,0 +1,11 @@
+{
+  "name": "maze-game-engine",
+  "version": "0.1",
+  "summary": "A basic engine for basic maze games.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maze_game_engine-0.1.tar.gz",
+  "download_time": "2025-08-13T01:58:17.390385",
+  "package_url": "https://pypi.org/project/maze-game-engine/"
+}

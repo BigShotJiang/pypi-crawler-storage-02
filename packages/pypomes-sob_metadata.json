@@ -1,11 +1,11 @@
 {
   "name": "pypomes-sob",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "A collection of Python pomes, penyeach (simple object module)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_sob-0.5.7.tar.gz",
-  "download_time": "2025-08-12T23:26:07.551111",
+  "download_filename": "pypomes_sob-0.5.8.tar.gz",
+  "download_time": "2025-08-13T01:58:30.230252",
   "package_url": "https://pypi.org/project/pypomes-sob/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pygsfit",
+  "version": "1.0.10",
+  "summary": "Python GUI for spectral fitting of radio spectral imaging data",
+  "author": "Bin Chen, Sijie Yu, Yuqian Wei, Surajit Mondal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygsfit-1.0.10.tar.gz",
+  "download_time": "2025-08-13T01:58:04.811611",
+  "package_url": "https://pypi.org/project/pygsfit/"
+}

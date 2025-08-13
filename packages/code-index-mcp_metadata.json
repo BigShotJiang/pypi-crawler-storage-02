@@ -1,11 +1,11 @@
 {
   "name": "code-index-mcp",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "Code indexing and analysis tools for LLMs using MCP",
   "author": "johnhuang316",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_index_mcp-2.0.1.tar.gz",
-  "download_time": "2025-08-11T05:40:00.244247",
+  "download_filename": "code_index_mcp-2.1.0.tar.gz",
+  "download_time": "2025-08-13T01:58:17.916397",
   "package_url": "https://pypi.org/project/code-index-mcp/"
 }

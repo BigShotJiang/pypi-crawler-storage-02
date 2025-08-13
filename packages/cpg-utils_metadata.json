@@ -1,0 +1,11 @@
+{
+  "name": "cpg-utils",
+  "version": "5.4.2",
+  "summary": "Library of convenience functions specific to the CPG",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/populationgenomics/cpg-utils",
+  "download_filename": "cpg_utils-5.4.2.tar.gz",
+  "download_time": "2025-08-13T01:57:57.438987",
+  "package_url": "https://pypi.org/project/cpg-utils/"
+}
