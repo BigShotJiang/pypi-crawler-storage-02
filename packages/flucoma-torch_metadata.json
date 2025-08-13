@@ -1,11 +1,11 @@
 {
   "name": "flucoma-torch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flucoma_torch-0.1.1.tar.gz",
-  "download_time": "2025-08-12T19:55:27.774958",
+  "download_filename": "flucoma_torch-0.1.2.tar.gz",
+  "download_time": "2025-08-13T12:53:33.822273",
   "package_url": "https://pypi.org/project/flucoma-torch/"
 }

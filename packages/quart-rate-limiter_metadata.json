@@ -1,0 +1,11 @@
+{
+  "name": "quart-rate-limiter",
+  "version": "0.12.1",
+  "summary": "A Quart extension to provide rate limiting support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quart_rate_limiter-0.12.1.tar.gz",
+  "download_time": "2025-08-13T12:53:16.972964",
+  "package_url": "https://pypi.org/project/quart-rate-limiter/"
+}

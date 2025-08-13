@@ -1,11 +1,11 @@
 {
   "name": "HowdenConfig",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "A simple configuration manager with Pydantic and JSON export.",
   "author": "JesperThoftIllemannJ",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/config",
-  "download_filename": "howdenconfig-0.1.12.tar.gz",
-  "download_time": "2025-08-11T19:02:51.102579",
+  "download_filename": "howdenconfig-0.1.13.tar.gz",
+  "download_time": "2025-08-13T12:53:22.184301",
   "package_url": "https://pypi.org/project/HowdenConfig/"
 }

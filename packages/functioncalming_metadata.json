@@ -1,11 +1,11 @@
 {
   "name": "functioncalming",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "Robust and reliable OpenAI tool calling",
   "author": "Philipp Dowling",
   "license": "MIT",
   "home_page": "https://github.com/phdowling/functioncalming",
-  "download_filename": "functioncalming-0.0.19.tar.gz",
-  "download_time": "2025-08-11T09:44:17.264573",
+  "download_filename": "functioncalming-0.0.20.tar.gz",
+  "download_time": "2025-08-13T12:53:40.078814",
   "package_url": "https://pypi.org/project/functioncalming/"
 }

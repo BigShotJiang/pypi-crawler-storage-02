@@ -1,11 +1,11 @@
 {
   "name": "can-data-2024-explorer",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Library for viewing CAN bus data from HSM research machines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "can_data_2024_explorer-0.4.1.tar.gz",
-  "download_time": "2025-08-07T09:03:32.697432",
+  "download_filename": "can_data_2024_explorer-0.4.2.tar.gz",
+  "download_time": "2025-08-13T12:53:16.454896",
   "package_url": "https://pypi.org/project/can-data-2024-explorer/"
 }

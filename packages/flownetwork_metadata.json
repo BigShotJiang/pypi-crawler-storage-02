@@ -1,0 +1,11 @@
+{
+  "name": "flownetwork",
+  "version": "3.3",
+  "summary": "flownetwork Python project",
+  "author": "chengjun",
+  "license": "MIT",
+  "home_page": "https://github.com/chengjun/flownetwork/",
+  "download_filename": "flownetwork-3.3.tar.gz",
+  "download_time": "2025-08-13T12:53:43.237830",
+  "package_url": "https://pypi.org/project/flownetwork/"
+}

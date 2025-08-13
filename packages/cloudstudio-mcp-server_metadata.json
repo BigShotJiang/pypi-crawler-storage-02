@@ -1,11 +1,11 @@
 {
   "name": "cloudstudio-mcp-server",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Cloud Studio MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudstudio_mcp_server-1.0.5.tar.gz",
-  "download_time": "2025-08-13T11:56:57.486913",
+  "download_filename": "cloudstudio_mcp_server-1.0.6.tar.gz",
+  "download_time": "2025-08-13T12:52:59.735775",
   "package_url": "https://pypi.org/project/cloudstudio-mcp-server/"
 }
