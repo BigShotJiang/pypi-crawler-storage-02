@@ -1,0 +1,11 @@
+{
+  "name": "hh-api",
+  "version": "0.1.0",
+  "summary": "Async Python client for the HeadHunter (hh.ru) API with token refresh and typing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hh_api-0.1.0.tar.gz",
+  "download_time": "2025-08-13T09:03:29.884401",
+  "package_url": "https://pypi.org/project/hh-api/"
+}

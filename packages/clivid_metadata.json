@@ -1,11 +1,11 @@
 {
   "name": "clivid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "CLI Video Assistant - AI-powered video processing with natural language interface",
   "author": "Donald Duck",
   "license": "MIT",
   "home_page": "https://github.com/localhost969/clivid",
-  "download_filename": "clivid-1.0.1.tar.gz",
-  "download_time": "2025-08-13T08:35:43.236127",
+  "download_filename": "clivid-1.0.2.tar.gz",
+  "download_time": "2025-08-13T09:04:25.606896",
   "package_url": "https://pypi.org/project/clivid/"
 }

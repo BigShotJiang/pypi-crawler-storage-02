@@ -1,0 +1,11 @@
+{
+  "name": "clara-viz",
+  "version": "0.4.2",
+  "summary": "A toolkit to provide GPU accelerated visualization of medical data.",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NVIDIA/clara-viz",
+  "download_filename": "clara_viz-0.4.2-py2.py3-none-any.whl",
+  "download_time": "2025-08-13T09:04:15.260172",
+  "package_url": "https://pypi.org/project/clara-viz/"
+}

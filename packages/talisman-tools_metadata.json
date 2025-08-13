@@ -1,0 +1,11 @@
+{
+  "name": "talisman-tools",
+  "version": "0.11.1",
+  "summary": "Talisman applications",
+  "author": "ISPRAS Talisman NLP team",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "talisman_tools-0.11.1.tar.gz",
+  "download_time": "2025-08-13T09:03:45.376083",
+  "package_url": "https://pypi.org/project/talisman-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "maleo-cds",
-  "version": "0.1.23",
+  "version": "0.1.26",
   "summary": "MaleoCDS service package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maleo_cds-0.1.23.tar.gz",
-  "download_time": "2025-08-12T03:21:57.840384",
+  "download_filename": "maleo_cds-0.1.26.tar.gz",
+  "download_time": "2025-08-13T09:03:37.282314",
   "package_url": "https://pypi.org/project/maleo-cds/"
 }

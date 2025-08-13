@@ -1,11 +1,11 @@
 {
   "name": "quantdb",
-  "version": "2.2.10",
+  "version": "2.2.12",
   "summary": "Intelligent caching wrapper for AKShare with 90%+ performance boost - 100% English codebase (import as 'qdb')",
   "author": "Ye Sun",
   "license": "MIT",
   "home_page": "https://github.com/franksunye/quantdb",
-  "download_filename": "quantdb-2.2.10.tar.gz",
-  "download_time": "2025-08-13T08:35:20.660770",
+  "download_filename": "quantdb-2.2.12.tar.gz",
+  "download_time": "2025-08-13T09:03:59.210104",
   "package_url": "https://pypi.org/project/quantdb/"
 }

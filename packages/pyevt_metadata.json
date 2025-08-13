@@ -1,0 +1,11 @@
+{
+  "name": "pyevt",
+  "version": "0.2.1",
+  "summary": "API for EVT-2 USB devices",
+  "author": "Eise Hoekstra",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/MartinStokroos/pyevt",
+  "download_filename": "pyevt-0.2.1.tar.gz",
+  "download_time": "2025-08-13T09:03:30.526726",
+  "package_url": "https://pypi.org/project/pyevt/"
+}

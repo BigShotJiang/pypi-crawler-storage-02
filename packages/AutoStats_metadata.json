@@ -1,11 +1,11 @@
 {
   "name": "AutoStats",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for automatic statistical analysis and imputation",
   "author": "iMaatin",
   "license": null,
   "home_page": "https://https://github.com/iMaatin/AutoStats",
-  "download_filename": "autostats-0.1.1.tar.gz",
-  "download_time": "2025-08-13T07:33:02.822449",
+  "download_filename": "autostats-0.1.2.tar.gz",
+  "download_time": "2025-08-13T09:03:41.515773",
   "package_url": "https://pypi.org/project/AutoStats/"
 }
