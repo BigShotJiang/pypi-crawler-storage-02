@@ -1,0 +1,11 @@
+{
+  "name": "analyzeMFT",
+  "version": "3.1.1",
+  "summary": "Analyze the $MFT from a NTFS filesystem.",
+  "author": "Benjamin Cance",
+  "license": "LICENSE.txt",
+  "home_page": "http://github.com/rowingdude/analyzeMFT",
+  "download_filename": "analyzemft-3.1.1.tar.gz",
+  "download_time": "2025-08-13T15:55:31.788660",
+  "package_url": "https://pypi.org/project/analyzeMFT/"
+}

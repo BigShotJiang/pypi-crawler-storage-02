@@ -1,0 +1,11 @@
+{
+  "name": "plunk",
+  "version": "0.2.2",
+  "summary": "A Python utility hub for those homeless code snippets",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/thorwhalen/plunk",
+  "download_filename": "plunk-0.2.2.tar.gz",
+  "download_time": "2025-08-13T15:55:21.344981",
+  "package_url": "https://pypi.org/project/plunk/"
+}

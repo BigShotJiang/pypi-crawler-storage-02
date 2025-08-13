@@ -1,0 +1,11 @@
+{
+  "name": "maleo-identity",
+  "version": "0.0.77",
+  "summary": "MaleoIdentity service package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maleo_identity-0.0.77.tar.gz",
+  "download_time": "2025-08-13T15:55:28.120814",
+  "package_url": "https://pypi.org/project/maleo-identity/"
+}

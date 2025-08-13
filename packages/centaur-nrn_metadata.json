@@ -1,11 +1,11 @@
 {
   "name": "centaur-nrn",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A PyTorch framework for rapidly developing Neural Reasoning Networks.NRN module under Centaur organization",
   "author": "Centaur Team",
   "license": null,
   "home_page": "https://github.com/centaur/nrn",
-  "download_filename": "centaur_nrn-0.1.2.tar.gz",
-  "download_time": "2025-08-12T15:48:44.940352",
+  "download_filename": "centaur_nrn-0.1.3.tar.gz",
+  "download_time": "2025-08-13T15:55:40.204803",
   "package_url": "https://pypi.org/project/centaur-nrn/"
 }

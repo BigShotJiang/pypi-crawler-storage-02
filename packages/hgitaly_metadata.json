@@ -1,11 +1,11 @@
 {
   "name": "hgitaly",
-  "version": "18.2.2",
+  "version": "18.2.3",
   "summary": "Server-side implementation of Gitaly protocol for Mercurial",
   "author": "Georges Racinet",
   "license": "GPLv2+",
   "home_page": "https://foss.heptapod.net/heptapod/hgitaly",
-  "download_filename": "hgitaly-18.2.2.tar.gz",
-  "download_time": "2025-08-09T21:55:00.017098",
+  "download_filename": "hgitaly-18.2.3.tar.gz",
+  "download_time": "2025-08-13T15:55:36.503525",
   "package_url": "https://pypi.org/project/hgitaly/"
 }

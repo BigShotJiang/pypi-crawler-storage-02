@@ -1,11 +1,11 @@
 {
   "name": "memg-core",
-  "version": "1.0.0",
-  "summary": "Core memory system library with dual storage (Qdrant + Kuzu) and AI integration",
+  "version": "0.3.0",
+  "summary": "Lightweight memory system for AI agents with vector search and graph storage",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "memg_core-1.0.0.tar.gz",
-  "download_time": "2025-08-09T07:54:39.137751",
+  "download_filename": "memg_core-0.3.0.tar.gz",
+  "download_time": "2025-08-13T15:55:42.797587",
   "package_url": "https://pypi.org/project/memg-core/"
 }
