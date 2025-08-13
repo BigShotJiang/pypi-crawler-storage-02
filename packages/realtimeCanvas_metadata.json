@@ -1,0 +1,11 @@
+{
+  "name": "realtimeCanvas",
+  "version": "0.1.1",
+  "summary": "A Python package for real-time image display and manipulation with Tkinter and PIL.",
+  "author": "Charles Chaotic (Volburaal)",
+  "license": null,
+  "home_page": "https://github.com/Volburaal/realtimeCanvas",
+  "download_filename": "realtimecanvas-0.1.1.tar.gz",
+  "download_time": "2025-08-13T04:49:09.231481",
+  "package_url": "https://pypi.org/project/realtimeCanvas/"
+}

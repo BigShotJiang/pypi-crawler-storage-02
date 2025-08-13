@@ -1,0 +1,11 @@
+{
+  "name": "doipclient",
+  "version": "1.1.7",
+  "summary": "A Diagnostic over IP (DoIP) client implementing ISO-13400-2.",
+  "author": "Jacob Schaer",
+  "license": null,
+  "home_page": "https://github.com/jacobschaer/python-doipclient",
+  "download_filename": "doipclient-1.1.7.tar.gz",
+  "download_time": "2025-08-13T04:48:36.383801",
+  "package_url": "https://pypi.org/project/doipclient/"
+}

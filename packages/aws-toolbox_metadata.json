@@ -1,0 +1,11 @@
+{
+  "name": "aws-toolbox",
+  "version": "0.0.6",
+  "summary": "AWS Toolbox",
+  "author": "Giacomo Marciani",
+  "license": "MIT License",
+  "home_page": "https://github.com/gmarciani/aws-toolbox",
+  "download_filename": "aws_toolbox-0.0.6.tar.gz",
+  "download_time": "2025-08-13T04:49:15.956959",
+  "package_url": "https://pypi.org/project/aws-toolbox/"
+}

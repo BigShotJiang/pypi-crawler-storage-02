@@ -1,11 +1,11 @@
 {
   "name": "system-monitor-mcp",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "summary": "System Monitor MCP Server - 系统监控MCP服务器",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "system_monitor_mcp-1.1.1.tar.gz",
-  "download_time": "2025-08-13T03:25:42.330161",
+  "download_filename": "system_monitor_mcp-1.1.4.tar.gz",
+  "download_time": "2025-08-13T04:49:17.492280",
   "package_url": "https://pypi.org/project/system-monitor-mcp/"
 }

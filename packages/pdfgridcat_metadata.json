@@ -1,0 +1,11 @@
+{
+  "name": "pdfgridcat",
+  "version": "1.0.0",
+  "summary": "Arrange multiple PDF pages into a grid without scaling or margins",
+  "author": "Katsutoshi Seki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdfgridcat-1.0.0.tar.gz",
+  "download_time": "2025-08-13T04:48:52.784175",
+  "package_url": "https://pypi.org/project/pdfgridcat/"
+}
