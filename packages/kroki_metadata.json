@@ -1,0 +1,11 @@
+{
+  "name": "kroki",
+  "version": "0.1.5",
+  "summary": "Access kroki from python",
+  "author": "Thor Whalen",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/thorwhalen/kroki",
+  "download_filename": "kroki-0.1.5.tar.gz",
+  "download_time": "2025-08-13T13:40:46.729569",
+  "package_url": "https://pypi.org/project/kroki/"
+}

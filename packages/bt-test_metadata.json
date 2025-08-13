@@ -1,0 +1,11 @@
+{
+  "name": "bt-test",
+  "version": "0.1.0",
+  "summary": "Một mô tả ngắn về package của bạn",
+  "author": "Tran Quoc Dat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bt_test-0.1.0.tar.gz",
+  "download_time": "2025-08-13T13:40:51.491552",
+  "package_url": "https://pypi.org/project/bt-test/"
+}

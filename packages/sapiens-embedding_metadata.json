@@ -1,0 +1,11 @@
+{
+  "name": "sapiens-embedding",
+  "version": "1.1.1",
+  "summary": null,
+  "author": "SAPIENS TECHNOLOGY",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/SapiensEmbedding",
+  "download_filename": "sapiens_embedding-1.1.1.tar.gz",
+  "download_time": "2025-08-13T13:40:52.010341",
+  "package_url": "https://pypi.org/project/sapiens-embedding/"
+}

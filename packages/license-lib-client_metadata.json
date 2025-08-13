@@ -1,0 +1,11 @@
+{
+  "name": "license-lib-client",
+  "version": "0.1.0",
+  "summary": "A comprehensive license validation library with hardware binding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "license_lib_client-0.1.0.tar.gz",
+  "download_time": "2025-08-13T13:40:45.689150",
+  "package_url": "https://pypi.org/project/license-lib-client/"
+}

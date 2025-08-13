@@ -1,11 +1,11 @@
 {
   "name": "zbq",
-  "version": "0.2.9",
+  "version": "0.3.2",
   "summary": "A lightweight, wrapper around Google Cloud BigQuery with Polars integration. Simplifies querying and data ingestion with a unified interface, supporting read, write, insert, and delete operations on BigQuery tables.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zbq-0.2.9.tar.gz",
-  "download_time": "2025-08-13T12:53:25.307607",
+  "download_filename": "zbq-0.3.2.tar.gz",
+  "download_time": "2025-08-13T13:40:34.003427",
   "package_url": "https://pypi.org/project/zbq/"
 }

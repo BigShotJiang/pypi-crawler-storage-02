@@ -1,0 +1,11 @@
+{
+  "name": "vinted-downloader",
+  "version": "2.6.0",
+  "summary": "Download full size images and descriptions from Vinted",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vinted_downloader-2.6.0.tar.gz",
+  "download_time": "2025-08-13T13:40:58.827841",
+  "package_url": "https://pypi.org/project/vinted-downloader/"
+}

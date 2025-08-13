@@ -1,0 +1,11 @@
+{
+  "name": "grizli",
+  "version": "1.13",
+  "summary": "Grism redshift and line analysis software",
+  "author": "G. Brammer",
+  "license": "MIT",
+  "home_page": "https://github.com/gbrammer/grizli",
+  "download_filename": "grizli-1.13.tar.gz",
+  "download_time": "2025-08-13T13:40:35.668411",
+  "package_url": "https://pypi.org/project/grizli/"
+}
