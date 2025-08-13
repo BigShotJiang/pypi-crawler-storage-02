@@ -1,11 +1,11 @@
 {
   "name": "anaio",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "summary": "Python library for ANA f0 file I/O",
   "author": "Johannes Hoelken",
   "license": "MIT",
   "home_page": "https://gitlab.gwdg.de/hoelken/anaio",
-  "download_filename": "anaio-1.1.4.tar.gz",
-  "download_time": "2025-08-13T11:57:05.610725",
+  "download_filename": "anaio-2.0.0.tar.gz",
+  "download_time": "2025-08-13T14:32:54.208220",
   "package_url": "https://pypi.org/project/anaio/"
 }

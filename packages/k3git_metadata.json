@@ -1,0 +1,11 @@
+{
+  "name": "k3git",
+  "version": "0.1.12",
+  "summary": "wrapper of git command-line",
+  "author": "Zhang Yanpo",
+  "license": "MIT",
+  "home_page": "https://github.com/pykit3/k3git",
+  "download_filename": "k3git-0.1.12.tar.gz",
+  "download_time": "2025-08-13T14:32:32.552460",
+  "package_url": "https://pypi.org/project/k3git/"
+}

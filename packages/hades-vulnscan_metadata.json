@@ -1,0 +1,11 @@
+{
+  "name": "hades-vulnscan",
+  "version": "8.1",
+  "summary": "HADES is an advanced bug bounty framework designed to automate reconnaissance, vulnerability scanning, and security testing processes. Built with efficiency and comprehensive coverage in mind, it integrates multiple industry-standard tools to provide a unified platform for security researchers and bug bounty hunters.",
+  "author": "Joel Indra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hades_vulnscan-8.1.tar.gz",
+  "download_time": "2025-08-13T14:32:19.616521",
+  "package_url": "https://pypi.org/project/hades-vulnscan/"
+}

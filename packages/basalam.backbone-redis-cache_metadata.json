@@ -1,0 +1,11 @@
+{
+  "name": "basalam.backbone-redis-cache",
+  "version": "0.0.13",
+  "summary": "Python Utilities & Basalam Micro-Services SDK",
+  "author": "Mojtabaa Habibain",
+  "license": null,
+  "home_page": "https://github.com/basalam/backbone-redis-cache",
+  "download_filename": "basalam_backbone_redis_cache-0.0.13.tar.gz",
+  "download_time": "2025-08-13T14:32:57.057295",
+  "package_url": "https://pypi.org/project/basalam.backbone-redis-cache/"
+}

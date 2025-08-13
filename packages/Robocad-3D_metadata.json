@@ -1,0 +1,11 @@
+{
+  "name": "Robocad-3D",
+  "version": "6.6.6.6",
+  "summary": "python lib for real and virtual robots",
+  "author": "Studica Robotics",
+  "license": "MIT",
+  "home_page": "https://github.com/SoFt-V/robced-py",
+  "download_filename": "robocad_3d-6.6.6.6-py3-none-any.whl",
+  "download_time": "2025-08-13T14:32:13.222627",
+  "package_url": "https://pypi.org/project/Robocad-3D/"
+}

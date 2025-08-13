@@ -1,0 +1,11 @@
+{
+  "name": "ts-protocol-virtual-machine",
+  "version": "1.8.1",
+  "summary": "tetrascience protocol compiler",
+  "author": "tetrascience",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ts_protocol_virtual_machine-1.8.1.tar.gz",
+  "download_time": "2025-08-13T14:32:42.847394",
+  "package_url": "https://pypi.org/project/ts-protocol-virtual-machine/"
+}

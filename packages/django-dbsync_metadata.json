@@ -1,0 +1,11 @@
+{
+  "name": "django-dbsync",
+  "version": "1.2.4",
+  "summary": "Intelligent database synchronization tool for Django projects",
+  "author": "love dazzell",
+  "license": "MIT",
+  "home_page": "https://github.com/Lovedazzell/django-dbsync",
+  "download_filename": "django_dbsync-1.2.4.tar.gz",
+  "download_time": "2025-08-13T14:32:20.166584",
+  "package_url": "https://pypi.org/project/django-dbsync/"
+}

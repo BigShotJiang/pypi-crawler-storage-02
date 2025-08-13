@@ -1,0 +1,11 @@
+{
+  "name": "exasol-script-languages-container-ci",
+  "version": "4.0.1",
+  "summary": "Implements CI builds for script-language-container.",
+  "author": "Thomas Uebensee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exasol_script_languages_container_ci-4.0.1.tar.gz",
+  "download_time": "2025-08-13T14:32:53.122670",
+  "package_url": "https://pypi.org/project/exasol-script-languages-container-ci/"
+}
