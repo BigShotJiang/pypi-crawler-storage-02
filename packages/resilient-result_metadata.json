@@ -1,11 +1,11 @@
 {
   "name": "resilient-result",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Resilient decorators that return Result types instead of throwing exceptions",
   "author": "resilient-result contributors",
   "license": "MIT",
   "home_page": "https://github.com/iteebz/resilient-result",
-  "download_filename": "resilient_result-0.4.0.tar.gz",
-  "download_time": "2025-08-13T07:48:54.579398",
+  "download_filename": "resilient_result-0.4.1.tar.gz",
+  "download_time": "2025-08-13T09:57:52.845391",
   "package_url": "https://pypi.org/project/resilient-result/"
 }

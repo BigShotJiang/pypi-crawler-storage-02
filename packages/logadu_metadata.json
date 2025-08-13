@@ -1,11 +1,11 @@
 {
   "name": "logadu",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Log Anomaly Detection Ultimate: A package for log parsing, feature representation, and model training.",
   "author": "Ahmed BARGADY",
   "license": null,
   "home_page": "https://github.com/AhmedCoolProjects/logadu-py",
-  "download_filename": "logadu-0.2.10.tar.gz",
-  "download_time": "2025-08-13T09:04:04.121634",
+  "download_filename": "logadu-0.2.11.tar.gz",
+  "download_time": "2025-08-13T09:58:05.508776",
   "package_url": "https://pypi.org/project/logadu/"
 }

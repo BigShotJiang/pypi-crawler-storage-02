@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ffmpeg-detector",
+  "version": "1.0.0",
+  "summary": "A simple MCP tool to detect and install FFmpeg",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ffmpeg_detector-1.0.0.tar.gz",
+  "download_time": "2025-08-13T09:58:10.041828",
+  "package_url": "https://pypi.org/project/mcp-ffmpeg-detector/"
+}

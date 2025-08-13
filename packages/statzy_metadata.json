@@ -1,11 +1,11 @@
 {
   "name": "statzy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Lightweight statistical utilities for data analysis and visualization",
   "author": "aaron",
   "license": null,
   "home_page": null,
-  "download_filename": "statzy-0.1.2.tar.gz",
-  "download_time": "2025-08-10T19:40:58.166720",
+  "download_filename": "statzy-0.1.3.tar.gz",
+  "download_time": "2025-08-13T09:57:40.198768",
   "package_url": "https://pypi.org/project/statzy/"
 }

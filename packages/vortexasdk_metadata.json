@@ -1,0 +1,11 @@
+{
+  "name": "vortexasdk",
+  "version": "1.0.11",
+  "summary": "Vortexa SDK",
+  "author": "Vortexa Developers",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/vortechsa/python-sdk",
+  "download_filename": "vortexasdk-1.0.11.tar.gz",
+  "download_time": "2025-08-13T09:58:01.611450",
+  "package_url": "https://pypi.org/project/vortexasdk/"
+}

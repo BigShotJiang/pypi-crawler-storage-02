@@ -1,11 +1,11 @@
 {
   "name": "dcchbot",
-  "version": "1.8.4",
+  "version": "1.9",
   "summary": "一個簡單的中文 Discord 管理機器人，支援 GUI 按鈕封鎖/禁言/警告",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcchbot-1.8.4.tar.gz",
-  "download_time": "2025-08-04T11:22:29.986630",
+  "download_filename": "dcchbot-1.9.tar.gz",
+  "download_time": "2025-08-13T09:57:48.211807",
   "package_url": "https://pypi.org/project/dcchbot/"
 }

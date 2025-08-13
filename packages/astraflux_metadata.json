@@ -1,11 +1,11 @@
 {
   "name": "astraflux",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "AstraFlux Description",
   "author": "YanPing",
   "license": "MIT License",
   "home_page": "https://gitee.com/ZYPH/astra-flux",
-  "download_filename": "astraflux-1.0.3.tar.gz",
-  "download_time": "2025-08-13T08:36:03.393332",
+  "download_filename": "astraflux-1.0.4.tar.gz",
+  "download_time": "2025-08-13T09:57:37.716398",
   "package_url": "https://pypi.org/project/astraflux/"
 }
