@@ -1,11 +1,11 @@
 {
   "name": "igbot-implementation",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": "Implementation of concrete classes for igbot",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "igbot_implementation-0.0.22.tar.gz",
-  "download_time": "2025-08-07T06:48:58.797050",
+  "download_filename": "igbot_implementation-0.0.23.tar.gz",
+  "download_time": "2025-08-13T07:02:38.350665",
   "package_url": "https://pypi.org/project/igbot-implementation/"
 }

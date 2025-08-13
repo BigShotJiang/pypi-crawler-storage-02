@@ -1,0 +1,11 @@
+{
+  "name": "django-zero-migrations-commands",
+  "version": "1.0.3",
+  "summary": "Management commands for creating and applying zero migrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_zero_migrations_commands-1.0.3.tar.gz",
+  "download_time": "2025-08-13T07:02:50.147554",
+  "package_url": "https://pypi.org/project/django-zero-migrations-commands/"
+}

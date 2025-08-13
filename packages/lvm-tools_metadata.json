@@ -1,11 +1,11 @@
 {
   "name": "lvm-tools",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Lazily read/encapsulate LVM DRP data in a modular way",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lvm_tools-0.0.6.tar.gz",
-  "download_time": "2025-08-13T06:38:53.076288",
+  "download_filename": "lvm_tools-0.0.7.tar.gz",
+  "download_time": "2025-08-13T07:02:47.600885",
   "package_url": "https://pypi.org/project/lvm-tools/"
 }

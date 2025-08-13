@@ -1,11 +1,11 @@
 {
   "name": "randomity",
-  "version": "0.5",
+  "version": "0.5.1",
   "summary": "A package for generating and assessing randomness.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "randomity-0.5.tar.gz",
-  "download_time": "2025-08-13T06:38:55.168133",
+  "download_filename": "randomity-0.5.1.tar.gz",
+  "download_time": "2025-08-13T07:02:54.759900",
   "package_url": "https://pypi.org/project/randomity/"
 }

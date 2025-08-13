@@ -1,0 +1,11 @@
+{
+  "name": "hyperloglog",
+  "version": "0.1.2",
+  "summary": "HyperLogLog cardinality counter",
+  "author": "Vasily Evseenko",
+  "license": "LGPL 2.1 or later",
+  "home_page": "https://github.com/svpcom/hyperloglog",
+  "download_filename": "hyperloglog-0.1.2.tar.gz",
+  "download_time": "2025-08-13T07:02:35.254883",
+  "package_url": "https://pypi.org/project/hyperloglog/"
+}

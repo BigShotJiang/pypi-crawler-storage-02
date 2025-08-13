@@ -1,0 +1,11 @@
+{
+  "name": "clic-inference-extensions",
+  "version": "0.1.0.post1",
+  "summary": "PyTorch CUDA extension for fast inference of DCVC-RT",
+  "author": "Zhaoyang Jia, Bin Li, Jiahao Li, Wenxuan Xie, Linfeng Qi, Houqiang Li, Yan Lu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clic_inference_extensions-0.1.0.post1.tar.gz",
+  "download_time": "2025-08-13T07:02:32.694409",
+  "package_url": "https://pypi.org/project/clic-inference-extensions/"
+}
