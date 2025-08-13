@@ -1,0 +1,11 @@
+{
+  "name": "HRProfiler",
+  "version": "0.0.2",
+  "summary": "HRD Prediction from WGS and WES samples",
+  "author": "Ammal Abbasi",
+  "license": "UCSD",
+  "home_page": "https://github.com/AlexandrovLab/HRProfiler.git",
+  "download_filename": "hrprofiler-0.0.2.tar.gz",
+  "download_time": "2025-08-13T21:24:42.891519",
+  "package_url": "https://pypi.org/project/HRProfiler/"
+}

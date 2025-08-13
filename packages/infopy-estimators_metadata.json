@@ -1,11 +1,11 @@
 {
   "name": "infopy-estimators",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Information theory related estimators",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infopy_estimators-0.1.0.tar.gz",
-  "download_time": "2025-08-13T20:58:40.022274",
+  "download_filename": "infopy_estimators-0.1.1.tar.gz",
+  "download_time": "2025-08-13T21:25:01.857043",
   "package_url": "https://pypi.org/project/infopy-estimators/"
 }

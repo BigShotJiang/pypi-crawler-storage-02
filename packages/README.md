@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T20:59:27.237046
-- **Total Packages**: 84
-- **Total Size**: 26.17 MB
+- **Download Time**: 2025-08-13T21:25:28.074040
+- **Total Packages**: 89
+- **Total Size**: 22.29 MB
 
 ## Packages List
+- vantage-agent
+- excloud
+- wikinator
+- media-agent-mcp
+- AoE2ScenarioParser
+- lucidaflow
+- ida-hcli
+- ministats
+- charmcraft
+- terminal-bench
+- HRProfiler
+- ndimage-enaml
+- datupapi
+- gradio-tokenizertextbox
+- fabricatio-diff
+- fabricatio-translate
+- fabricatio-team
+- fabricatio
+- dwave-experimental
+- fabricatio-core
+- fabricatio-improve
+- fabricatio-rule
+- fabricatio-tool
+- fabricatio-plot
+- fabricatio-anki
+- fabricatio-capabilities
+- fabricatio-judge
+- fabricatio-typst
+- fabricatio-actions
+- custodian
+- kensho-kfinance
+- mamood-django-admin-log-viewer
+- radboy
+- verma-net-radiation
+- discminer
+- conviso-cli
+- practicum-billing-shared
+- plixlab
+- throttlebuster
+- veri-agents-knowledgebase
+- splurge-sql-generator
+- mcp-tts
 - mati
 - infopy-estimators
 - milkpay.cryptomus
@@ -18,7 +60,6 @@
 - datacontract-helper
 - wayland-automation
 - aind-anatomical-utils
-- veri-agents-knowledgebase
 - gong-mcp
 - ivybloom
 - emailtoolkit
@@ -27,13 +68,11 @@
 - abstractrepo
 - kotadb-client
 - truss
-- lucidaflow
 - eventometrics
 - bernn
 - lu77U-MobileSec
 - polyswarm-api
 - stollen
-- pyinitor
 - fitsearchcv
 - py-sarvcrm-api
 - simile
@@ -47,7 +86,6 @@
 - pytest-run-parallel
 - connector-sdk-types
 - poetry-setuptools-scm-support
-- excloud
 - connector-py
 - GameSentenceMiner
 - has-blue-color
@@ -57,36 +95,3 @@
 - siga-mcp
 - llmq
 - rda-python-metrics
-- milkpay.xrocket
-- pyorbx
-- vacancycalculator
-- shinestacker
-- ftmq
-- unboil-sqlalchemy-mixins
-- pysynthbio
-- hyperspell
-- gongy
-- OntoLearner
-- prime
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- tethys-dataset-services
-- puregym_attendance
-- uv
-- matplotloom
-- uv-build
-- claude-mpm
-- django-manifeststaticfiles-enhanced
-- pyrecli
-- swe-ai-agent
-- pytorch-lightning
-- lightning-fabric
-- klyne
-- lightning
-- gammarers.aws-rds-database-running-schedule-stack
-- github-lib
-- rcsb.db
-- amberflow
-- repo-mapper-rs
-- isubrip

@@ -1,0 +1,11 @@
+{
+  "name": "fabricatio-diff",
+  "version": "0.1.1",
+  "summary": "An extension of fabricatio, which brings up the diff edit capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabricatio_diff-0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-13T21:24:45.161722",
+  "package_url": "https://pypi.org/project/fabricatio-diff/"
+}
