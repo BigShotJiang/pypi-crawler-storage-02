@@ -1,11 +1,11 @@
 {
   "name": "python-amcards",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "summary": "A wrapper for the AMcards API.",
   "author": "Simone Sestili",
   "license": null,
   "home_page": "https://github.com/simonesestili/python-amcards",
-  "download_filename": "python_amcards-1.6.1.tar.gz",
-  "download_time": "2025-08-12T19:01:33.624791",
+  "download_filename": "python_amcards-1.7.0.tar.gz",
+  "download_time": "2025-08-13T19:01:34.878615",
   "package_url": "https://pypi.org/project/python-amcards/"
 }

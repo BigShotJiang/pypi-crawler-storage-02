@@ -1,11 +1,11 @@
 {
   "name": "ai-spine-sdk",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "Python SDK for AI Spine - The Stripe for AI Agent Orchestration",
   "author": "AI Spine Team",
   "license": null,
   "home_page": "https://github.com/Dataframe-Consulting/ai-spine-sdk-python",
-  "download_filename": "ai_spine_sdk-2.2.1.tar.gz",
-  "download_time": "2025-08-13T18:36:39.563554",
+  "download_filename": "ai_spine_sdk-2.2.2.tar.gz",
+  "download_time": "2025-08-13T19:01:48.959012",
   "package_url": "https://pypi.org/project/ai-spine-sdk/"
 }

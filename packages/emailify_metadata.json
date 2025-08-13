@@ -1,11 +1,11 @@
 {
   "name": "emailify",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Emailify is a library for creating email templates in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emailify-0.1.2.tar.gz",
-  "download_time": "2025-08-13T17:56:25.640814",
+  "download_filename": "emailify-0.1.4.tar.gz",
+  "download_time": "2025-08-13T19:01:19.624895",
   "package_url": "https://pypi.org/project/emailify/"
 }

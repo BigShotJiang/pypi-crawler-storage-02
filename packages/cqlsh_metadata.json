@@ -1,0 +1,11 @@
+{
+  "name": "cqlsh",
+  "version": "6.2.1",
+  "summary": "cqlsh is a Python-based command-line client for running CQL commands on a cassandra cluster.",
+  "author": "Brad Schoening",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cqlsh-6.2.1.tar.gz",
+  "download_time": "2025-08-13T19:01:42.209568",
+  "package_url": "https://pypi.org/project/cqlsh/"
+}
