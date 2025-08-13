@@ -1,0 +1,11 @@
+{
+  "name": "FindBadwords",
+  "version": "1.2.0",
+  "summary": "Find any word in a sentence",
+  "author": "BOXER",
+  "license": null,
+  "home_page": null,
+  "download_filename": "findbadwords-1.2.0.tar.gz",
+  "download_time": "2025-08-13T22:25:46.962999",
+  "package_url": "https://pypi.org/project/FindBadwords/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "datacontract-helper",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datacontract_helper-0.1.10.tar.gz",
-  "download_time": "2025-08-13T21:56:46.272765",
+  "download_filename": "datacontract_helper-0.1.13.tar.gz",
+  "download_time": "2025-08-13T22:25:40.591296",
   "package_url": "https://pypi.org/project/datacontract-helper/"
 }

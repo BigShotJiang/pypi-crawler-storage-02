@@ -1,0 +1,11 @@
+{
+  "name": "MinsarPlotData",
+  "version": "0.1.1",
+  "summary": "A package for plotting InSAR and Seismicity data",
+  "author": "Giacomo Di Silvestro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minsarplotdata-0.1.1.tar.gz",
+  "download_time": "2025-08-13T22:25:31.193389",
+  "package_url": "https://pypi.org/project/MinsarPlotData/"
+}

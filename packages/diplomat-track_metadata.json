@@ -1,11 +1,11 @@
 {
   "name": "diplomat-track",
-  "version": "0.3.15",
+  "version": "0.3.16",
   "summary": "Deep learning-based Identity Preserving Labeled-Object Multi-Animal Tracking.",
   "author": "Isaac Robinson",
   "license": null,
   "home_page": "https://diplomattrack.org",
-  "download_filename": "diplomat_track-0.3.15.tar.gz",
-  "download_time": "2025-08-07T22:26:56.251380",
+  "download_filename": "diplomat_track-0.3.16.tar.gz",
+  "download_time": "2025-08-13T22:25:47.498279",
   "package_url": "https://pypi.org/project/diplomat-track/"
 }

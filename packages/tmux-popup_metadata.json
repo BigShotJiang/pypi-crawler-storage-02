@@ -1,11 +1,11 @@
 {
   "name": "tmux-popup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Composable tmux popup system with gum UI components",
   "author": "Fredrik Angelsen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tmux_popup-0.1.1.tar.gz",
-  "download_time": "2025-08-11T10:33:03.812742",
+  "download_filename": "tmux_popup-0.1.2.tar.gz",
+  "download_time": "2025-08-13T22:25:57.131708",
   "package_url": "https://pypi.org/project/tmux-popup/"
 }

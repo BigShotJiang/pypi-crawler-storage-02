@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T21:57:29.515255
-- **Total Packages**: 92
-- **Total Size**: 5.39 MB
+- **Download Time**: 2025-08-13T22:26:15.864907
+- **Total Packages**: 85
+- **Total Size**: 19.49 MB
 
 ## Packages List
+- cjm-nbdev-overview
+- opencc-purepy
+- sagemaker-gen-ai-jupyterlab-extension
+- MinsarPlotData
+- aind-metadata-mapper
+- pydantic-graph
+- pydantic-evals
+- pixalate-open-mcp
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- hdn-research-environment
+- spotrod
+- kaiserlift
+- maisaedu-poormans-dms
+- maisaedu-utilities-prefect
+- deep-breath-cli
+- mcp-agent
+- t-nextgen
+- pulumi-aws
+- datacontract-helper
+- aind-dynamic-foraging-models
+- ovault
+- ultralytics
+- pbi-core
+- fromager
+- sera-2
+- GluonixDesigner
+- openedx-learning
+- plaid-python
+- translatron
+- FindBadwords
+- diplomat-track
+- arthur-client
+- ggpyscraper
+- discminer
+- torch-sim-atomistic
+- regula-documentreader-webclient
+- gamewave-unreal-mcp
+- shady-island
+- pymammotion
+- llm-markdownify
+- sentry-kafka-schemas
+- pulumi
+- rxfoundry.clients.p2rx-api
+- cloud-files
+- git-star-percentile
+- neurograd
+- tmux-popup
+- auto-di-tag
+- nomad-media-pip
+- truss
+- pypi-package-updater
+- etracer
 - tinytag
 - pydap
 - langchain-recallio
@@ -14,11 +69,9 @@
 - wikinator
 - scim2-tester
 - zut
-- ggpyscraper
 - edk2-pytool-library
 - figma-mcp-tools
 - torchcomms
-- datacontract-helper
 - CTkFileDialog
 - clairvoyance-feature-selection
 - arize-phoenix-client
@@ -38,63 +91,3 @@
 - adafruit-circuitpython-uc8253
 - atef
 - ladybug-rhino
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- flekspy
-- coiled
-- gamewave-unreal-mcp
-- sagemaker-jupyterlab-emr-extension
-- sagemaker-jupyterlab-extension-common
-- cortical-tools
-- lucidaflow
-- cliframe
-- mig-dx-api
-- system-initiative-api-client
-- omega-match
-- detl
-- RevealPack
-- curies-processing
-- classy-blocks
-- git-star-percentile
-- cowdao-cowpy
-- mrx-runway
-- relkit
-- fastchat-mcp
-- syncwave
-- dar-tool
-- ansys-fluent-core
-- nwb-mcp-server
-- truss
-- greetsub
-- cryptocom-agent-plugin-telegram
-- methodnetworkscan
-- tobiko-cloud-api-client
-- tobiko-cloud-pydantic
-- tobiko-cloud-helpers
-- geo-explorer
-- Thermostatsupervisor
-- appserver-sdk-python-ai
-- asltk
-- ndonnx
-- waldur-api-client
-- toomanycells
-- terminator-py
-- practicum-billing-shared
-- emailtoolkit
-- google-cloud-aiplatform
-- solace-agent-mesh
-- ipasnmatcher
-- SAMBA-ilum
-- animesub
-- torii-boards
-- llama-index-embeddings-openai-like
-- llama-index-multi-modal-llms-nvidia
-- cpauger
-- llama-index-llms-nvidia
-- dbt-mcp
-- llama-index-embeddings-nvidia
-- aws-solutions-constructs.resources
-- aws-solutions-constructs.core
-- aws-solutions-constructs.aws-wafwebacl-cloudfront
-- aws-solutions-constructs.aws-wafwebacl-appsync
-- aws-solutions-constructs.aws-wafwebacl-apigateway
