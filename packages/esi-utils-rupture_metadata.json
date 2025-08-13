@@ -1,0 +1,11 @@
+{
+  "name": "esi-utils-rupture",
+  "version": "1.0.8",
+  "summary": "USGS Earthquake Impact Utilities for Ruptures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esi_utils_rupture-1.0.8.tar.gz",
+  "download_time": "2025-08-13T16:29:09.403524",
+  "package_url": "https://pypi.org/project/esi-utils-rupture/"
+}

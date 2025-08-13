@@ -1,11 +1,11 @@
 {
   "name": "ai-rulez",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "⚡ Lightning-fast CLI tool (written in Go) for managing AI assistant rules - generate configuration files for Claude, Cursor, Windsurf and more",
   "author": "Na'aman Hirschfeld",
   "license": null,
   "home_page": "https://github.com/Goldziher/ai-rulez",
-  "download_filename": "ai_rulez-1.4.3.tar.gz",
-  "download_time": "2025-08-13T14:53:34.389215",
+  "download_filename": "ai_rulez-1.4.4.tar.gz",
+  "download_time": "2025-08-13T16:29:15.204864",
   "package_url": "https://pypi.org/project/ai-rulez/"
 }

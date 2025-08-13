@@ -1,11 +1,11 @@
 {
   "name": "uqlm",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "UQLM (Uncertainty Quantification for Language Models) is a Python package for UQ-based LLM hallucination detection.",
   "author": "Dylan Bouchard",
   "license": null,
   "home_page": null,
-  "download_filename": "uqlm-0.2.3.tar.gz",
-  "download_time": "2025-08-05T15:49:15.737267",
+  "download_filename": "uqlm-0.2.4.tar.gz",
+  "download_time": "2025-08-13T16:29:23.600301",
   "package_url": "https://pypi.org/project/uqlm/"
 }

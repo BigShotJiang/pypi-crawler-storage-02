@@ -1,0 +1,11 @@
+{
+  "name": "fw-gear-dcm2niix",
+  "version": "2.1.9",
+  "summary": "A Flywheel Gear for implementing Chris Rorden's dcm2niix for converting DICOM (or PAR/REC) to NIfTI (or NRRD).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_gear_dcm2niix-2.1.9-py3-none-any.whl",
+  "download_time": "2025-08-13T16:29:16.771249",
+  "package_url": "https://pypi.org/project/fw-gear-dcm2niix/"
+}

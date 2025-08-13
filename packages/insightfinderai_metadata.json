@@ -1,11 +1,11 @@
 {
   "name": "insightfinderai",
-  "version": "2.4.13",
+  "version": "2.4.14",
   "summary": "A Python SDK for interfacing with the InsightFinder API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insightfinderai-2.4.13.tar.gz",
-  "download_time": "2025-08-12T22:24:51.122678",
+  "download_filename": "insightfinderai-2.4.14.tar.gz",
+  "download_time": "2025-08-13T16:29:45.603190",
   "package_url": "https://pypi.org/project/insightfinderai/"
 }

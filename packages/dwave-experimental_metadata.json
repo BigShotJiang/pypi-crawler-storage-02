@@ -1,0 +1,11 @@
+{
+  "name": "dwave-experimental",
+  "version": "2025.8.13rc1",
+  "summary": "Ocean utilities to support advanced QPU prototype features.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dwave_experimental-2025.8.13rc1.tar.gz",
+  "download_time": "2025-08-13T16:29:36.699868",
+  "package_url": "https://pypi.org/project/dwave-experimental/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "firexapp",
-  "version": "5.7.123",
+  "version": "5.7.124",
   "summary": "Core firex application libraries",
   "author": "Core FireX Team",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/FireXStuff/firexapp",
-  "download_filename": "firexapp-5.7.123.tar.gz",
-  "download_time": "2025-08-12T20:48:50.306719",
+  "download_filename": "firexapp-5.7.124.tar.gz",
+  "download_time": "2025-08-13T16:29:37.745977",
   "package_url": "https://pypi.org/project/firexapp/"
 }
