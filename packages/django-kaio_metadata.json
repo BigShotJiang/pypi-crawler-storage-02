@@ -1,0 +1,11 @@
+{
+  "name": "django-kaio",
+  "version": "1.7.0",
+  "summary": "Class based settings for Django projects that can be read from multiple sources",
+  "author": "APSL",
+  "license": "BSD",
+  "home_page": "https://github.com/APSL/django-kaio",
+  "download_filename": "django_kaio-1.7.0.tar.gz",
+  "download_time": "2025-08-13T10:30:10.281019",
+  "package_url": "https://pypi.org/project/django-kaio/"
+}

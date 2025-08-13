@@ -1,0 +1,11 @@
+{
+  "name": "bonsai-dataio",
+  "version": "4.8.15",
+  "summary": "\"Python package dataio of the util workflow stage of the BONSAI database\"",
+  "author": "admin_bonsai",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/bonsamurais/bonsai/util/dataio",
+  "download_filename": "bonsai_dataio-4.8.15.tar.gz",
+  "download_time": "2025-08-13T10:29:41.507405",
+  "package_url": "https://pypi.org/project/bonsai-dataio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-image-seededit",
+  "version": "0.3.1",
+  "summary": "MCP服务器，提供火山引擎SeedEdit 3.0图像指令编辑和人物写真生成功能",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_image_seededit-0.3.1.tar.gz",
+  "download_time": "2025-08-13T10:30:14.196601",
+  "package_url": "https://pypi.org/project/mcp-image-seededit/"
+}

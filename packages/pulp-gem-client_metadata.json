@@ -1,0 +1,11 @@
+{
+  "name": "pulp-gem-client",
+  "version": "0.7.2",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "pulp_gem-client-0.7.2.tar.gz",
+  "download_time": "2025-08-13T10:30:19.135727",
+  "package_url": "https://pypi.org/project/pulp-gem-client/"
+}

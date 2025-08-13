@@ -1,0 +1,11 @@
+{
+  "name": "modulo-vki",
+  "version": "2.1.4",
+  "summary": "MODULO (MODal mULtiscale pOd) is a software developed at the von Karman Institute to perform Multiscale Modal Analysis of numerical and experimental data.",
+  "author": "['R. Poletti', 'L. Schena', 'D. Ninni', 'M. A. Mendez']",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/mendezVKI/MODULO/tree/master/modulo_python_package/",
+  "download_filename": "modulo_vki-2.1.4.tar.gz",
+  "download_time": "2025-08-13T10:30:02.121388",
+  "package_url": "https://pypi.org/project/modulo-vki/"
+}
