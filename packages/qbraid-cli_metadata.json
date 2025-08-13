@@ -1,0 +1,11 @@
+{
+  "name": "qbraid-cli",
+  "version": "0.10.7",
+  "summary": "Command Line Interface for interacting with all parts of the qBraid platform.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "qbraid_cli-0.10.7.tar.gz",
+  "download_time": "2025-08-13T18:36:49.764183",
+  "package_url": "https://pypi.org/project/qbraid-cli/"
+}

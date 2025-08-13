@@ -1,0 +1,11 @@
+{
+  "name": "databricks-mcp",
+  "version": "0.3.0",
+  "summary": "MCP helpers for Databricks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_mcp-0.3.0-py3-none-any.whl",
+  "download_time": "2025-08-13T18:36:39.026746",
+  "package_url": "https://pypi.org/project/databricks-mcp/"
+}

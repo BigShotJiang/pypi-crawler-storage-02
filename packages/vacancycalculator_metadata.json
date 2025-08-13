@@ -1,11 +1,11 @@
 {
   "name": "vacancycalculator",
-  "version": "0.4.0.6",
+  "version": "0.4.0.8",
   "summary": "Defect analysis and vacancy calculation for materials science",
   "author": "E.Bringa-S.Bergamin-SiMaF",
   "license": "MIT",
   "home_page": "https://github.com/TiagoBe0/VFScript-SiMaF",
-  "download_filename": "vacancycalculator-0.4.0.6-py3-none-any.whl",
-  "download_time": "2025-08-13T17:55:57.347042",
+  "download_filename": "vacancycalculator-0.4.0.8.tar.gz",
+  "download_time": "2025-08-13T18:36:16.427967",
   "package_url": "https://pypi.org/project/vacancycalculator/"
 }

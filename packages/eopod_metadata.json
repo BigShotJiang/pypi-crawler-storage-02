@@ -1,0 +1,11 @@
+{
+  "name": "eopod",
+  "version": "0.0.30",
+  "summary": "eopod is a streamlined command execution tool designed to run and manage operations on Google Cloud Pods efficiently",
+  "author": "Erfan Zare Chavoshi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eopod-0.0.30.tar.gz",
+  "download_time": "2025-08-13T18:36:20.123748",
+  "package_url": "https://pypi.org/project/eopod/"
+}

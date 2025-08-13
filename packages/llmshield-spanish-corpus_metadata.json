@@ -1,0 +1,11 @@
+{
+  "name": "llmshield-spanish-corpus",
+  "version": "1.0.2",
+  "summary": "Spanish language corpus for LLMShield entity detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmshield_spanish_corpus-1.0.2.tar.gz",
+  "download_time": "2025-08-13T18:36:17.497708",
+  "package_url": "https://pypi.org/project/llmshield-spanish-corpus/"
+}

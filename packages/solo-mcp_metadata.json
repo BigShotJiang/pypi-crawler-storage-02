@@ -1,0 +1,11 @@
+{
+  "name": "solo-mcp",
+  "version": "0.1.1",
+  "summary": "智能代理协作平台 - 基于 MCP 协议的多角色任务编排系统",
+  "author": "Solo MCP Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/your-username/solo-mcp",
+  "download_filename": "solo_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-13T18:36:50.812225",
+  "package_url": "https://pypi.org/project/solo-mcp/"
+}

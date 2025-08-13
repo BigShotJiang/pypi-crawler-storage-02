@@ -1,11 +1,11 @@
 {
   "name": "pylimen",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "C++ style access control for Python classes with friend relationships and inheritance control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylimen-1.0.2.tar.gz",
-  "download_time": "2025-08-11T21:44:34.900242",
+  "download_filename": "pylimen-1.1.0.tar.gz",
+  "download_time": "2025-08-13T18:36:22.697474",
   "package_url": "https://pypi.org/project/pylimen/"
 }

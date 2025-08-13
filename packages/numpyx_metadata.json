@@ -1,11 +1,11 @@
 {
   "name": "numpyx",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Utility functions for numpy, written in cython",
   "author": "eduardo moguillansky",
   "license": "GPL v3",
   "home_page": "https://github.com/gesellkammer/numpyx",
-  "download_filename": "numpyx-1.5.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-13T11:23:40.778981",
+  "download_filename": "numpyx-1.5.2-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-13T18:36:48.176777",
   "package_url": "https://pypi.org/project/numpyx/"
 }

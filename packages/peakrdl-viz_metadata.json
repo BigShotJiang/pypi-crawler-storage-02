@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl-viz",
+  "version": "1.0.2",
+  "summary": "Generate visualization code for MakerChip VIZ framework.",
+  "author": "Ali Mohsen",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "peakrdl_viz-1.0.2.tar.gz",
+  "download_time": "2025-08-13T18:36:32.123883",
+  "package_url": "https://pypi.org/project/peakrdl-viz/"
+}

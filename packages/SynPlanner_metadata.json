@@ -1,0 +1,11 @@
+{
+  "name": "SynPlanner",
+  "version": "1.2.0",
+  "summary": "Toolbox for chemical synthesis planning",
+  "author": "Laboratoire de Chemoinformatique",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synplanner-1.2.0-py3-none-any.whl",
+  "download_time": "2025-08-13T18:36:47.637162",
+  "package_url": "https://pypi.org/project/SynPlanner/"
+}
