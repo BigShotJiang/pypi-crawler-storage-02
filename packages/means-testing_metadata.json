@@ -1,11 +1,11 @@
 {
   "name": "means-testing",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "A simple library to compare the means of two or more independent samples and check for statistical differences.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "means_testing-0.0.3.tar.gz",
-  "download_time": "2025-08-13T11:23:53.833688",
+  "download_filename": "means_testing-0.0.5.tar.gz",
+  "download_time": "2025-08-13T11:56:52.459513",
   "package_url": "https://pypi.org/project/means-testing/"
 }

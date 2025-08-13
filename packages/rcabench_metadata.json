@@ -1,11 +1,11 @@
 {
   "name": "rcabench",
-  "version": "1.1.32",
+  "version": "1.1.33",
   "summary": "RCABench SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rcabench-1.1.32.tar.gz",
-  "download_time": "2025-08-13T10:29:51.243859",
+  "download_filename": "rcabench-1.1.33.tar.gz",
+  "download_time": "2025-08-13T11:57:18.921150",
   "package_url": "https://pypi.org/project/rcabench/"
 }

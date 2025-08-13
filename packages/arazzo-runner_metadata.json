@@ -1,11 +1,11 @@
 {
   "name": "arazzo-runner",
-  "version": "0.8.21",
+  "version": "0.8.22",
   "summary": "Execution libraries and test tools for Arazzo workflows and Open API operations",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "arazzo_runner-0.8.21.tar.gz",
-  "download_time": "2025-08-13T08:35:36.545554",
+  "download_filename": "arazzo_runner-0.8.22.tar.gz",
+  "download_time": "2025-08-13T11:56:53.751729",
   "package_url": "https://pypi.org/project/arazzo-runner/"
 }

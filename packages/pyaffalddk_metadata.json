@@ -1,11 +1,11 @@
 {
   "name": "pyaffalddk",
-  "version": "2.12.6",
+  "version": "2.12.7",
   "summary": "Gets garbage collection data from danish Municipalities",
   "author": "briis",
   "license": "MIT",
   "home_page": "https://github.com/briis/pyaffalddk",
-  "download_filename": "pyaffalddk-2.12.6.tar.gz",
-  "download_time": "2025-08-10T21:44:41.382223",
+  "download_filename": "pyaffalddk-2.12.7.tar.gz",
+  "download_time": "2025-08-13T11:56:56.722205",
   "package_url": "https://pypi.org/project/pyaffalddk/"
 }

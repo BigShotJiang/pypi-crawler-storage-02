@@ -1,0 +1,11 @@
+{
+  "name": "wxc_sdk",
+  "version": "1.26.0",
+  "summary": "SDK for Webex APIs with special focus on Webex Calling specific endpoints",
+  "author": "Johannes Krohn",
+  "license": "MIT",
+  "home_page": "https://github.com/jeokrohn/wxc_sdk",
+  "download_filename": "wxc_sdk-1.26.0.tar.gz",
+  "download_time": "2025-08-13T11:57:20.704727",
+  "package_url": "https://pypi.org/project/wxc_sdk/"
+}
