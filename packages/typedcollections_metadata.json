@@ -1,0 +1,11 @@
+{
+  "name": "typedcollections",
+  "version": "0.1.0",
+  "summary": "Typed collections for Python with coercion and validation.",
+  "author": "Dev Khurana",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typedcollections-0.1.0.tar.gz",
+  "download_time": "2025-08-13T07:32:49.922356",
+  "package_url": "https://pypi.org/project/typedcollections/"
+}

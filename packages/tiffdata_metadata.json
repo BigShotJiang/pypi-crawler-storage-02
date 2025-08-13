@@ -1,11 +1,11 @@
 {
   "name": "tiffdata",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Streamlined TIFF image metadata parsing and updating.",
   "author": "Daniel Sissman",
   "license": null,
   "home_page": null,
-  "download_filename": "tiffdata-0.5.2.tar.gz",
-  "download_time": "2025-08-07T09:59:12.869787",
+  "download_filename": "tiffdata-0.5.3.tar.gz",
+  "download_time": "2025-08-13T07:33:01.796219",
   "package_url": "https://pypi.org/project/tiffdata/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adstoolbox",
+  "version": "2025.8.13",
+  "summary": "Generic functions",
+  "author": "Olivier Siguré",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adstoolbox-2025.8.13.tar.gz",
+  "download_time": "2025-08-13T07:32:53.026666",
+  "package_url": "https://pypi.org/project/adstoolbox/"
+}

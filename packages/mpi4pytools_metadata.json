@@ -1,0 +1,11 @@
+{
+  "name": "mpi4pytools",
+  "version": "0.2.0",
+  "summary": "Simple decorators and utilities for MPI parallel computing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpi4pytools-0.2.0.tar.gz",
+  "download_time": "2025-08-13T07:32:56.090458",
+  "package_url": "https://pypi.org/project/mpi4pytools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polygeohasher",
+  "version": "1.1.0",
+  "summary": "A complete package to work with polygons and geohashes. Optimisation of Geohash levels to cover and area with % error controlled by user. Also allows to convert geohases to polygons.",
+  "author": "krishna khadka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polygeohasher-1.1.0.tar.gz",
+  "download_time": "2025-08-13T07:32:30.876649",
+  "package_url": "https://pypi.org/project/polygeohasher/"
+}

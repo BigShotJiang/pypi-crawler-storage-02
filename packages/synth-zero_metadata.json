@@ -1,0 +1,11 @@
+{
+  "name": "synth-zero",
+  "version": "0.0.0",
+  "summary": "Synth-Zero: Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+  "author": "wangxingjun778",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wangxingjun778/Synth-Zero",
+  "download_filename": "synth_zero-0.0.0.tar.gz",
+  "download_time": "2025-08-13T07:32:43.226531",
+  "package_url": "https://pypi.org/project/synth-zero/"
+}
