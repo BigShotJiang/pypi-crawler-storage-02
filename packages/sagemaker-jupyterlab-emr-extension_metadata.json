@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-jupyterlab-emr-extension",
+  "version": "0.4.1",
+  "summary": "SageMaker JupyterLab EMR extension",
+  "author": "Amazon",
+  "license": "Amazon Software License",
+  "home_page": "https://aws.amazon.com/sagemaker/",
+  "download_filename": "sagemaker_jupyterlab_emr_extension-0.4.1.tar.gz",
+  "download_time": "2025-08-13T21:45:07.881705",
+  "package_url": "https://pypi.org/project/sagemaker-jupyterlab-emr-extension/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-multi-modal-llms-nvidia",
+  "version": "0.5.1",
+  "summary": "llama-index multi_modal nvidia integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_multi_modal_llms_nvidia-0.5.1.tar.gz",
+  "download_time": "2025-08-13T21:45:33.224057",
+  "package_url": "https://pypi.org/project/llama-index-multi-modal-llms-nvidia/"
+}

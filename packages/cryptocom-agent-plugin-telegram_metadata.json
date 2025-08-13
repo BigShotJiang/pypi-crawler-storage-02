@@ -1,0 +1,11 @@
+{
+  "name": "cryptocom-agent-plugin-telegram",
+  "version": "0.1.0",
+  "summary": "Telegram plugin for Crypto.com Agent Client",
+  "author": "Ric Arcifa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptocom_agent_plugin_telegram-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-13T21:45:21.484322",
+  "package_url": "https://pypi.org/project/cryptocom-agent-plugin-telegram/"
+}

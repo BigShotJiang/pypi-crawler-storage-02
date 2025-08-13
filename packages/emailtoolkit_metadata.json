@@ -1,11 +1,11 @@
 {
   "name": "emailtoolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "RFC-aware email parsing, normalization, extraction, and DNS health checks with env-config and a phonenumbers-like API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "emailtoolkit-0.1.1.tar.gz",
-  "download_time": "2025-08-13T20:58:48.087708",
+  "download_filename": "emailtoolkit-0.1.2.tar.gz",
+  "download_time": "2025-08-13T21:45:28.890272",
   "package_url": "https://pypi.org/project/emailtoolkit/"
 }

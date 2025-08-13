@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-lambda-sns",
-  "version": "2.90.4",
+  "version": "2.91.0",
   "summary": "CDK constructs for defining an interaction between an AWS Lambda function and an Amazon SNS topic.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_lambda_sns-2.90.4.tar.gz",
-  "download_time": "2025-08-05T21:45:08.918116",
+  "download_filename": "aws_solutions_constructs_aws_lambda_sns-2.91.0.tar.gz",
+  "download_time": "2025-08-13T21:45:47.923131",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-lambda-sns/"
 }

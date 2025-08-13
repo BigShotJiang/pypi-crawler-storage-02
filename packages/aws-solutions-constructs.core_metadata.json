@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.core",
-  "version": "2.90.4",
+  "version": "2.91.0",
   "summary": "Core CDK Construct for patterns library",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_core-2.90.4.tar.gz",
-  "download_time": "2025-08-05T21:44:58.496506",
+  "download_filename": "aws_solutions_constructs_core-2.91.0.tar.gz",
+  "download_time": "2025-08-13T21:45:36.357896",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "earth2-api-wrapper",
-  "version": "0.1.0",
-  "summary": "Unofficial Earth2 API wrapper with CLI (Python). Read-only operations.",
+  "version": "0.2.0",
+  "summary": "Unofficial Earth2 API wrapper with CLI (Python). Includes comprehensive safeguards to protect Earth2's bandwidth.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "earth2_api_wrapper-0.1.0.tar.gz",
-  "download_time": "2025-08-13T18:36:44.416912",
+  "download_filename": "earth2_api_wrapper-0.2.0.tar.gz",
+  "download_time": "2025-08-13T21:45:16.778770",
   "package_url": "https://pypi.org/project/earth2-api-wrapper/"
 }

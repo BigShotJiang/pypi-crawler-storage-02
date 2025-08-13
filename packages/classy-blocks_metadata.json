@@ -1,11 +1,11 @@
 {
   "name": "classy-blocks",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "Python classes for easier creation of openFoam's blockMesh dictionaries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classy_blocks-1.9.1.tar.gz",
-  "download_time": "2025-08-09T09:44:13.124592",
+  "download_filename": "classy_blocks-1.9.2.tar.gz",
+  "download_time": "2025-08-13T21:45:13.631986",
   "package_url": "https://pypi.org/project/classy-blocks/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "torii-boards",
+  "version": "0.8.1",
+  "summary": "Supplementary FPGA Board Files for Torii",
+  "author": "Torii Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torii_boards-0.8.1.tar.gz",
+  "download_time": "2025-08-13T21:45:32.183000",
+  "package_url": "https://pypi.org/project/torii-boards/"
+}

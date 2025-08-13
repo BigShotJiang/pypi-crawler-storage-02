@@ -1,0 +1,11 @@
+{
+  "name": "omega-match",
+  "version": "0.2.1",
+  "summary": "High-performance multi-string matcher with native C backend",
+  "author": "Davin Shearer",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/scholarsmate/omega-match",
+  "download_filename": "omega_match-0.2.1-py3-none-any.whl",
+  "download_time": "2025-08-13T21:45:11.551098",
+  "package_url": "https://pypi.org/project/omega-match/"
+}
