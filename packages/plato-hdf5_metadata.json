@@ -1,11 +1,11 @@
 {
   "name": "plato-hdf5",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "HDF5 Persistence sub-class for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "plato_hdf5-0.13.0.tar.gz",
-  "download_time": "2025-08-12T15:39:21.034397",
+  "download_filename": "plato_hdf5-0.13.1.tar.gz",
+  "download_time": "2025-08-13T14:01:21.133417",
   "package_url": "https://pypi.org/project/plato-hdf5/"
 }

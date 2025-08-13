@@ -1,0 +1,11 @@
+{
+  "name": "omero-web",
+  "version": "5.29.2",
+  "summary": "OMERO.web",
+  "author": "The Open Microscopy Team",
+  "license": "GPLv2+",
+  "home_page": "https://github.com/ome/omero-web/",
+  "download_filename": "omero_web-5.29.2.tar.gz",
+  "download_time": "2025-08-13T14:01:06.079315",
+  "package_url": "https://pypi.org/project/omero-web/"
+}

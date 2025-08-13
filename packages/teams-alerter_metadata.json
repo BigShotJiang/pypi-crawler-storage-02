@@ -1,11 +1,11 @@
 {
   "name": "teams-alerter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Module pour envoyer des alertes Teams via Pub/Sub",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teams_alerter-0.1.4.tar.gz",
-  "download_time": "2025-08-13T09:04:17.210154",
+  "download_filename": "teams_alerter-0.1.5.tar.gz",
+  "download_time": "2025-08-13T14:00:43.980713",
   "package_url": "https://pypi.org/project/teams-alerter/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "youtrack-lap",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A very limited client library for accessing YouTrack REST API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youtrack_lap-0.1.0.tar.gz",
-  "download_time": "2025-08-06T13:00:02.644107",
+  "download_filename": "youtrack_lap-1.0.0.tar.gz",
+  "download_time": "2025-08-13T14:00:59.341470",
   "package_url": "https://pypi.org/project/youtrack-lap/"
 }

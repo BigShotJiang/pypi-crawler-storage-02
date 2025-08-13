@@ -1,0 +1,11 @@
+{
+  "name": "pgse",
+  "version": "0.8.3",
+  "summary": "Progressive Genome Segment Enhancement (PGSE)",
+  "author": "Yinzheng Zhong",
+  "license": null,
+  "home_page": "https://github.com/yinzheng-zhong/pgse",
+  "download_filename": "pgse-0.8.3-py3-none-any.whl",
+  "download_time": "2025-08-13T14:00:40.742048",
+  "package_url": "https://pypi.org/project/pgse/"
+}
