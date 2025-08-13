@@ -1,11 +1,11 @@
 {
   "name": "lms-ubitraq",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "LMS的全迹解算引擎对接驱动",
   "author": "MrYuGoui",
   "license": "MIT",
   "home_page": "https://github.com/mryugoui/django_plugin_ubitraq",
-  "download_filename": "lms_ubitraq-0.1.0.tar.gz",
-  "download_time": "2025-08-12T09:01:41.300117",
+  "download_filename": "lms_ubitraq-0.3.0.tar.gz",
+  "download_time": "2025-08-13T03:25:53.968507",
   "package_url": "https://pypi.org/project/lms-ubitraq/"
 }

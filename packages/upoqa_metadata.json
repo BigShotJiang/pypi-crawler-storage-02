@@ -1,0 +1,11 @@
+{
+  "name": "upoqa",
+  "version": "1.0.1",
+  "summary": "A model-based derivative-free optimizer for unconstrained partially-separable problems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upoqa-1.0.1.tar.gz",
+  "download_time": "2025-08-13T03:25:46.597077",
+  "package_url": "https://pypi.org/project/upoqa/"
+}

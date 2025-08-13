@@ -1,0 +1,11 @@
+{
+  "name": "bookup-fuse",
+  "version": "0.1.8",
+  "summary": "Mount Bookup .bdb (SQLite) files as a FUSE filesystem exposing Markdown pages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bookup_fuse-0.1.8.tar.gz",
+  "download_time": "2025-08-13T03:25:58.169000",
+  "package_url": "https://pypi.org/project/bookup-fuse/"
+}

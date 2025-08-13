@@ -1,11 +1,11 @@
 {
   "name": "siem-hkm-ai-smartcore",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "lanzco's team",
   "author": "lanzco's team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "siem_hkm_ai_smartcore-0.1.0.tar.gz",
-  "download_time": "2025-08-12T09:56:37.265810",
+  "download_filename": "siem_hkm_ai_smartcore-0.1.1.tar.gz",
+  "download_time": "2025-08-13T03:25:27.696330",
   "package_url": "https://pypi.org/project/siem-hkm-ai-smartcore/"
 }

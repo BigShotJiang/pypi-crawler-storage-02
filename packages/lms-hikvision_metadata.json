@@ -1,11 +1,11 @@
 {
   "name": "lms-hikvision",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "LMS的海康安防平台对接驱动",
   "author": "MrYuGoui",
   "license": "MIT",
   "home_page": "https://github.com/mryugoui/django_plugin_hikvision",
-  "download_filename": "lms_hikvision-0.3.0.tar.gz",
-  "download_time": "2025-08-13T01:58:13.732653",
+  "download_filename": "lms_hikvision-0.4.0.tar.gz",
+  "download_time": "2025-08-13T03:25:55.560620",
   "package_url": "https://pypi.org/project/lms-hikvision/"
 }

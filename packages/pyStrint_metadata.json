@@ -1,0 +1,11 @@
+{
+  "name": "pyStrint",
+  "version": "0.0.29",
+  "summary": "Deciphering more accurate cell-cell interactions by modeling cells and their interactions",
+  "author": "Jingwan WANG",
+  "license": "MIT",
+  "home_page": "https://github.com/deepomicslab/StrInt",
+  "download_filename": "pystrint-0.0.29.tar.gz",
+  "download_time": "2025-08-13T03:25:50.764939",
+  "package_url": "https://pypi.org/project/pyStrint/"
+}
