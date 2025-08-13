@@ -1,0 +1,11 @@
+{
+  "name": "gradio-tokenizertextbox",
+  "version": "0.0.3",
+  "summary": "Textbox tokenizer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradio_tokenizertextbox-0.0.3.tar.gz",
+  "download_time": "2025-08-13T19:26:06.442084",
+  "package_url": "https://pypi.org/project/gradio-tokenizertextbox/"
+}

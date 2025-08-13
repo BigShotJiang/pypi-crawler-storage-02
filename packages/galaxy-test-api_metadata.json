@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-test-api",
+  "version": "25.0.2",
+  "summary": "Galaxy API tests",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_test_api-25.0.2.tar.gz",
+  "download_time": "2025-08-13T19:26:17.809629",
+  "package_url": "https://pypi.org/project/galaxy-test-api/"
+}

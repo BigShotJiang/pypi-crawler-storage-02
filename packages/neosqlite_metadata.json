@@ -1,11 +1,11 @@
 {
   "name": "neosqlite",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A wrapper for sqlite3 to have schemaless, document-store features",
   "author": "Chaiwat Suttipongsakul",
   "license": "MIT",
   "home_page": "https://sr.ht/~cwt/neosqlite",
-  "download_filename": "neosqlite-0.3.1.tar.gz",
-  "download_time": "2025-08-13T18:36:31.609659",
+  "download_filename": "neosqlite-0.3.2.tar.gz",
+  "download_time": "2025-08-13T19:26:05.913461",
   "package_url": "https://pypi.org/project/neosqlite/"
 }

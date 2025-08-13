@@ -1,0 +1,11 @@
+{
+  "name": "nx-hif",
+  "version": "0.0.8",
+  "summary": "HIF for NetworkX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nx_hif-0.0.8.tar.gz",
+  "download_time": "2025-08-13T19:25:31.734264",
+  "package_url": "https://pypi.org/project/nx-hif/"
+}

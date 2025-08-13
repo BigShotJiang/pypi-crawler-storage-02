@@ -1,11 +1,11 @@
 {
   "name": "pymathutils",
-  "version": "0.1.20",
+  "version": "0.1.22",
   "summary": "Fast mathematical utilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymathutils-0.1.20.tar.gz",
-  "download_time": "2025-08-13T19:01:23.843803",
+  "download_filename": "pymathutils-0.1.22.tar.gz",
+  "download_time": "2025-08-13T19:25:59.710065",
   "package_url": "https://pypi.org/project/pymathutils/"
 }

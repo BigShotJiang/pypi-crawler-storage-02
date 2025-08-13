@@ -1,11 +1,11 @@
 {
   "name": "lotl",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "lotl is a data science library",
   "author": "Invizabel",
   "license": null,
   "home_page": null,
-  "download_filename": "lotl-0.0.7.tar.gz",
-  "download_time": "2025-08-13T17:22:29.651951",
+  "download_filename": "lotl-0.0.9.tar.gz",
+  "download_time": "2025-08-13T19:25:42.217452",
   "package_url": "https://pypi.org/project/lotl/"
 }

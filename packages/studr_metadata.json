@@ -1,11 +1,11 @@
 {
   "name": "studr",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "im gonna add a description later",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "studr-0.1.0.tar.gz",
-  "download_time": "2025-08-04T16:34:27.498241",
+  "download_filename": "studr-0.3.0.tar.gz",
+  "download_time": "2025-08-13T19:26:09.027273",
   "package_url": "https://pypi.org/project/studr/"
 }

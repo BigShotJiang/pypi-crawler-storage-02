@@ -1,11 +1,11 @@
 {
   "name": "gammarers.aws-budgets-notification",
-  "version": "1.2.63",
+  "version": "1.2.64",
   "summary": "AWS Budgets Notification",
   "author": "yicr<yicr@users.noreply.github.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/gammarers/aws-budgets-notification.git",
-  "download_filename": "gammarers_aws_budgets_notification-1.2.63.tar.gz",
-  "download_time": "2025-08-06T19:33:13.292757",
+  "download_filename": "gammarers_aws_budgets_notification-1.2.64.tar.gz",
+  "download_time": "2025-08-13T19:25:51.098192",
   "package_url": "https://pypi.org/project/gammarers.aws-budgets-notification/"
 }

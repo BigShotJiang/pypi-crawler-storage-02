@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-selenium",
+  "version": "25.0.2",
+  "summary": "Galaxy Selenium interaction framework",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_selenium-25.0.2.tar.gz",
+  "download_time": "2025-08-13T19:26:20.896881",
+  "package_url": "https://pypi.org/project/galaxy-selenium/"
+}

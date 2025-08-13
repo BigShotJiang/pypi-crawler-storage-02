@@ -1,11 +1,11 @@
 {
   "name": "connpy",
-  "version": "4.1.4",
+  "version": "4.2",
   "summary": "Connpy is a SSH/Telnet connection manager and automation module",
   "author": "Federico Luzzi",
   "license": "Custom Software License",
   "home_page": "https://github.com/fluzzi/connpy",
-  "download_filename": "connpy-4.1.4.tar.gz",
-  "download_time": "2025-08-04T14:46:43.281606",
+  "download_filename": "connpy-4.2.tar.gz",
+  "download_time": "2025-08-13T19:26:07.998446",
   "package_url": "https://pypi.org/project/connpy/"
 }

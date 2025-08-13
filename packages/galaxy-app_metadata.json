@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-app",
+  "version": "25.0.2",
+  "summary": "Galaxy application (backend)",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_app-25.0.2.tar.gz",
+  "download_time": "2025-08-13T19:26:16.265912",
+  "package_url": "https://pypi.org/project/galaxy-app/"
+}
