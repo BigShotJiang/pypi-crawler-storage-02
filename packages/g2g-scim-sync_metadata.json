@@ -1,0 +1,11 @@
+{
+  "name": "g2g-scim-sync",
+  "version": "1.0.0",
+  "summary": "Google Workspace to GitHub Enterprise SCIM synchronization tool",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "g2g_scim_sync-1.0.0.tar.gz",
+  "download_time": "2025-08-13T19:55:51.694141",
+  "package_url": "https://pypi.org/project/g2g-scim-sync/"
+}

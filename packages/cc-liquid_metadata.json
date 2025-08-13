@@ -1,11 +1,11 @@
 {
   "name": "cc-liquid",
-  "version": "0.1.1a1",
+  "version": "0.1.2a2",
   "summary": "cc-liquid - open source reference implementation for a simple, metamodel-based Hyperliquid portfolio rebalancer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cc_liquid-0.1.1a1.tar.gz",
-  "download_time": "2025-08-13T17:44:03.404837",
+  "download_filename": "cc_liquid-0.1.2a2.tar.gz",
+  "download_time": "2025-08-13T19:55:59.577019",
   "package_url": "https://pypi.org/project/cc-liquid/"
 }

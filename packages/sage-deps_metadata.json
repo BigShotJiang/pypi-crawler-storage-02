@@ -1,11 +1,11 @@
 {
   "name": "sage-deps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Sage Deps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sage_deps-0.1.1.tar.gz",
-  "download_time": "2025-08-09T19:40:58.441230",
+  "download_filename": "sage_deps-0.1.2.tar.gz",
+  "download_time": "2025-08-13T19:56:02.169667",
   "package_url": "https://pypi.org/project/sage-deps/"
 }

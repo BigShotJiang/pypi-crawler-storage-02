@@ -1,0 +1,11 @@
+{
+  "name": "rtree",
+  "version": "1.4.1",
+  "summary": "R-Tree spatial index for Python GIS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtree-1.4.1.tar.gz",
+  "download_time": "2025-08-13T19:56:26.804483",
+  "package_url": "https://pypi.org/project/rtree/"
+}

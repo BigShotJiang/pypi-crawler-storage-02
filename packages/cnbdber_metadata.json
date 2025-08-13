@@ -1,0 +1,11 @@
+{
+  "name": "cnbdber",
+  "version": "0.2.0",
+  "summary": "CNBDBer: Universal DB runner for SQL-like commands across SQLite/MySQL/PostgreSQL/MongoDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnbdber-0.2.0.tar.gz",
+  "download_time": "2025-08-13T19:56:01.650712",
+  "package_url": "https://pypi.org/project/cnbdber/"
+}

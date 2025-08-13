@@ -1,11 +1,11 @@
 {
   "name": "xraylabtool",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Material Property Calculations for X-ray Interactions - A Python package for calculating X-ray optical properties of materials",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xraylabtool-0.1.1.tar.gz",
-  "download_time": "2025-08-13T14:53:21.272548",
+  "download_filename": "xraylabtool-0.1.2.tar.gz",
+  "download_time": "2025-08-13T19:56:18.925366",
   "package_url": "https://pypi.org/project/xraylabtool/"
 }

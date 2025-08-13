@@ -1,0 +1,11 @@
+{
+  "name": "colorstreak",
+  "version": "1.0.0",
+  "summary": "Terminal color formatting for Python, with logging capabilities",
+  "author": "Fernando Leon Franco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colorstreak-1.0.0.tar.gz",
+  "download_time": "2025-08-13T19:55:54.875099",
+  "package_url": "https://pypi.org/project/colorstreak/"
+}

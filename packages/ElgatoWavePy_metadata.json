@@ -1,0 +1,11 @@
+{
+  "name": "ElgatoWavePy",
+  "version": "0.1.5",
+  "summary": "Control Elgato Wave Link (2.0.6+) volumes/outputs via WebSocket.",
+  "author": "SteepyTheFrenchMaker",
+  "license": "MIT",
+  "home_page": "https://github.com/Ste3py/ElgatoWavePy",
+  "download_filename": "elgatowavepy-0.1.5.tar.gz",
+  "download_time": "2025-08-13T19:55:59.056795",
+  "package_url": "https://pypi.org/project/ElgatoWavePy/"
+}

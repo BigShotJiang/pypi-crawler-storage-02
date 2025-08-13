@@ -1,11 +1,11 @@
 {
   "name": "datareg",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Data regularization layers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datareg-0.1.0.tar.gz",
-  "download_time": "2025-08-13T19:01:41.689594",
+  "download_filename": "datareg-0.3.0.tar.gz",
+  "download_time": "2025-08-13T19:56:00.615578",
   "package_url": "https://pypi.org/project/datareg/"
 }

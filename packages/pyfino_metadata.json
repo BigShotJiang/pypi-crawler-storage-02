@@ -1,11 +1,11 @@
 {
   "name": "pyfino",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Proof-of-Concept: Secure File Sharing via IPFS + Nostr DMs",
   "author": "arnispen",
   "license": null,
   "home_page": null,
-  "download_filename": "pyfino-0.2.0.tar.gz",
-  "download_time": "2025-08-11T20:46:23.707169",
+  "download_filename": "pyfino-0.2.1.tar.gz",
+  "download_time": "2025-08-13T19:56:07.881424",
   "package_url": "https://pypi.org/project/pyfino/"
 }

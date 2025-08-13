@@ -1,0 +1,11 @@
+{
+  "name": "hilinkapi",
+  "version": "0.1.0",
+  "summary": "Modern Python API for Huawei HiLink modems",
+  "author": "HiLink API Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hilinkapi",
+  "download_filename": "hilinkapi-0.1.0.tar.gz",
+  "download_time": "2025-08-13T19:56:19.445758",
+  "package_url": "https://pypi.org/project/hilinkapi/"
+}
