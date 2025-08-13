@@ -1,11 +1,11 @@
 {
   "name": "geak-eval",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An evaluation framework for Triton kernels",
   "author": "Vinay Joshi",
   "license": null,
   "home_page": null,
-  "download_filename": "geak_eval-0.1.1.tar.gz",
-  "download_time": "2025-08-12T09:01:53.647287",
+  "download_filename": "geak_eval-0.1.2.tar.gz",
+  "download_time": "2025-08-13T07:48:46.815345",
   "package_url": "https://pypi.org/project/geak-eval/"
 }

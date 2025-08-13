@@ -1,0 +1,11 @@
+{
+  "name": "stm32cubeprog",
+  "version": "0.1.0",
+  "summary": "Python wrapper + CLI for STM32CubeProgrammer",
+  "author": "raj_cks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stm32cubeprog-0.1.0.tar.gz",
+  "download_time": "2025-08-13T07:48:42.196293",
+  "package_url": "https://pypi.org/project/stm32cubeprog/"
+}

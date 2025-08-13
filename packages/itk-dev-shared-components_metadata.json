@@ -1,11 +1,11 @@
 {
   "name": "itk-dev-shared-components",
-  "version": "2.12.1",
+  "version": "2.13.0",
   "summary": "Shared components to use in RPA projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "itk_dev_shared_components-2.12.1.tar.gz",
-  "download_time": "2025-08-07T07:49:24.751302",
+  "download_filename": "itk_dev_shared_components-2.13.0.tar.gz",
+  "download_time": "2025-08-13T07:48:41.684416",
   "package_url": "https://pypi.org/project/itk-dev-shared-components/"
 }

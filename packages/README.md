@@ -1,18 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-13T07:33:12.594228
+- **Download Time**: 2025-08-13T07:49:24.043381
 - **Total Packages**: 81
-- **Total Size**: 24.31 MB
+- **Total Size**: 12.72 MB
 
 ## Packages List
+- phiona
+- molingtools
+- itk-dev-shared-components
+- stm32cubeprog
+- astraflux
+- logfire-api
+- logfire
+- vyomcloudbridge
+- ComicGUISpider
+- android-mobile-mcp
+- dea-tools
+- aicosmos-client
+- geak-eval
+- Geode-Conversion
+- tea-bond
+- agentbeats
+- docling-serve
+- miniswhid
+- claude-chat-extractor
+- bd-jojo-mcp
+- pyiron-atomistics
+- adk-agui-py-middleware
+- pytractions
+- molcas-suite
+- tinybird-toolset
+- Geoarchpy
+- resilient-result
+- agentfactory
+- sample-loggers
+- kxy-framework
+- iqm-data-definitions
+- beswarm
+- talentro-definitions
+- aient
+- matrice
 - subject-researcher-mcp
 - cxgparser
 - legit-api-client
 - polygeohasher
 - opsramp-analytics-utils
 - odoo-addon-mis-builder
-- sample-loggers
 - truss-transfer
 - aclib.builtins
 - synthnn
@@ -23,7 +57,6 @@
 - lims2-sdk
 - premai
 - bruce-li-tc
-- molcas-suite
 - shancx
 - oarepo-runtime
 - marimushka
@@ -37,7 +70,6 @@
 - TSMasterAPI
 - sqlmesh
 - slafdb
-- bd-jojo-mcp
 - pulumi-oci
 - alibabacloud-xtee20210910
 - pully
@@ -55,35 +87,3 @@
 - tenetan
 - mdeq
 - lottery-tool
-- mpi4pytools
-- tf-models-nightly
-- comfy-pack
-- fediverse-pasture
-- nonebot-plugin-who-is-spy
-- lesscode-flask
-- xblocks-contrib
-- pulumi-vault
-- emerge
-- jinpy-utils
-- matrice
-- tiffdata
-- zerobuffer-ipc
-- AutoStats
-- t-record-lib
-- apify-client
-- py-move-analyer
-- circuit-synth
-- lazynwb
-- pyobas
-- albumentations-mcp
-- zhousf-lib
-- ascend-cli
-- clic-inference-extensions
-- cognite-kuiper
-- pulumi-wavefront
-- yunhu_usdk
-- superlinked-server
-- geo-explorer
-- cohere
-- ErisPulse-YunhuAdapter
-- ses-conda
