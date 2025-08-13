@@ -1,11 +1,11 @@
 {
   "name": "kotadb-client",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python client for KotaDB - PostgreSQL-level ease of use for document database",
   "author": "KotaDB Team",
   "license": "MIT",
   "home_page": "https://github.com/jayminwest/kota-db",
-  "download_filename": "kotadb_client-0.2.0.tar.gz",
-  "download_time": "2025-08-12T22:24:36.556710",
+  "download_filename": "kotadb_client-0.2.1.tar.gz",
+  "download_time": "2025-08-13T20:58:50.334973",
   "package_url": "https://pypi.org/project/kotadb-client/"
 }

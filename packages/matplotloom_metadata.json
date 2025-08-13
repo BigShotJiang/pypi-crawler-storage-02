@@ -1,0 +1,11 @@
+{
+  "name": "matplotloom",
+  "version": "0.9.0",
+  "summary": "Weave your frames into matplotlib animations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matplotloom-0.9.0.tar.gz",
+  "download_time": "2025-08-13T20:59:18.585862",
+  "package_url": "https://pypi.org/project/matplotloom/"
+}

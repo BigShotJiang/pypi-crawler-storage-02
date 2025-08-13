@@ -1,0 +1,11 @@
+{
+  "name": "pyinitor",
+  "version": "0.1.0",
+  "summary": "CLI script for initiating default python app project",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyinitor-0.1.0.tar.gz",
+  "download_time": "2025-08-13T20:58:55.368111",
+  "package_url": "https://pypi.org/project/pyinitor/"
+}
