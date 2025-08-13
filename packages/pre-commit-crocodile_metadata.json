@@ -1,11 +1,11 @@
 {
   "name": "pre-commit-crocodile",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "summary": "Git hooks intended for developers using pre-commit",
   "author": "Adrian DC",
   "license": "Apache License 2.0",
   "home_page": "https://gitlab.com/RadianDevCore/tools/pre-commit-crocodile",
-  "download_filename": "pre_commit_crocodile-6.2.0.tar.gz",
-  "download_time": "2025-08-11T17:02:30.949044",
+  "download_filename": "pre_commit_crocodile-6.2.1.tar.gz",
+  "download_time": "2025-08-13T11:45:45.408101",
   "package_url": "https://pypi.org/project/pre-commit-crocodile/"
 }

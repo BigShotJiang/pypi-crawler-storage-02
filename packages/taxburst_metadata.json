@@ -1,0 +1,11 @@
+{
+  "name": "taxburst",
+  "version": "0.3.1",
+  "summary": "sunburst plots for taxonomy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taxburst-0.3.1.tar.gz",
+  "download_time": "2025-08-13T11:45:24.535919",
+  "package_url": "https://pypi.org/project/taxburst/"
+}

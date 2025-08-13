@@ -1,0 +1,11 @@
+{
+  "name": "gplotter",
+  "version": "0.1.0",
+  "summary": "CLI-based GNUPlot script generator",
+  "author": "Kishan Tamboli",
+  "license": null,
+  "home_page": "https://github.com/KishantLab/gplotter.git",
+  "download_filename": "gplotter-0.1.0.tar.gz",
+  "download_time": "2025-08-13T11:45:49.657783",
+  "package_url": "https://pypi.org/project/gplotter/"
+}

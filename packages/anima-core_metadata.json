@@ -1,11 +1,11 @@
 {
   "name": "anima-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anima_core-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-08-13T08:36:03.905699",
+  "download_filename": "anima_core-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-13T11:45:35.827494",
   "package_url": "https://pypi.org/project/anima-core/"
 }

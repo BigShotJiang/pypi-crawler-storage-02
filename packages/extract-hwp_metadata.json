@@ -1,0 +1,11 @@
+{
+  "name": "extract-hwp",
+  "version": "0.1.0",
+  "summary": "Python library for extracting text from Korean HWP files (HWP 5.0 and HWPX formats)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "extract_hwp-0.1.0.tar.gz",
+  "download_time": "2025-08-13T11:45:22.240265",
+  "package_url": "https://pypi.org/project/extract-hwp/"
+}

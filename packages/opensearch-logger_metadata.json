@@ -1,0 +1,11 @@
+{
+  "name": "opensearch-logger",
+  "version": "1.3.1",
+  "summary": "OpenSearch logging handler",
+  "author": null,
+  "license": "Copyright 2021-2025 Vagiz Duseev\n        \n        Forked from https://github.com/IMInterne/python-elasticsearch-ecs-logger\n        \n        Copyright 2020 InnovMetric Software\n        \n        Forked from https://github.com/cmanaha/python-elasticsearch-logger\n        \n        Copyright 2016 Carlos Manzanedo Rueda\n        \n        Licensed under the Apache License, Version 2.0 (the \"License\");\n        you may not use this file except in compliance with the License.\n        You may obtain a copy of the License at\n        \n            http://www.apache.org/licenses/LICENSE-2.0\n        \n        Unless required by applicable law or agreed to in writing, software\n        distributed under the License is distributed on an \"AS IS\" BASIS,\n        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n        See the License for the specific language governing permissions and\n        limitations under the License.",
+  "home_page": null,
+  "download_filename": "opensearch_logger-1.3.1.tar.gz",
+  "download_time": "2025-08-13T11:45:40.697534",
+  "package_url": "https://pypi.org/project/opensearch-logger/"
+}

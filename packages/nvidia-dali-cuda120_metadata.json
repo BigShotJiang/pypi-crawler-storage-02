@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-dali-cuda120",
+  "version": "1.51.2",
+  "summary": "NVIDIA DALI  for CUDA 12.0. Git SHA: 81b43417a7c0321aa9dc27e197410a16183c00d6",
+  "author": "NVIDIA Corporation",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/NVIDIA/dali",
+  "download_filename": "nvidia_dali_cuda120-1.51.2.tar.gz",
+  "download_time": "2025-08-13T11:45:23.958076",
+  "package_url": "https://pypi.org/project/nvidia-dali-cuda120/"
+}
