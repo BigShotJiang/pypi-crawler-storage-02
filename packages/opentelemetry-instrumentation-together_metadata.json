@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-together",
-  "version": "0.45.0",
+  "version": "0.45.1",
   "summary": "OpenTelemetry Together AI instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_together-0.45.0.tar.gz",
-  "download_time": "2025-08-12T16:33:36.716618",
+  "download_filename": "opentelemetry_instrumentation_together-0.45.1.tar.gz",
+  "download_time": "2025-08-13T17:56:02.959922",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-together/"
 }

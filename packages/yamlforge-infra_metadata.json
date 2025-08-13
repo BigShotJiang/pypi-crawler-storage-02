@@ -1,11 +1,11 @@
 {
   "name": "yamlforge-infra",
-  "version": "1.0.0b3",
+  "version": "1.0.0b4",
   "summary": "Multi-Cloud Infrastructure as Code and PaaS Management Suite (BETA - Feature Complete)",
   "author": "Patrick T. Rutledge III",
   "license": null,
   "home_page": null,
-  "download_filename": "yamlforge_infra-1.0.0b3.tar.gz",
-  "download_time": "2025-08-13T14:53:41.159899",
+  "download_filename": "yamlforge_infra-1.0.0b4.tar.gz",
+  "download_time": "2025-08-13T17:56:22.275779",
   "package_url": "https://pypi.org/project/yamlforge-infra/"
 }

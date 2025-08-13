@@ -1,0 +1,11 @@
+{
+  "name": "inkognito",
+  "version": "0.1.0",
+  "summary": "Privacy-first document processing FastMCP server with PII anonymization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inkognito-0.1.0.tar.gz",
+  "download_time": "2025-08-13T17:56:26.776139",
+  "package_url": "https://pypi.org/project/inkognito/"
+}

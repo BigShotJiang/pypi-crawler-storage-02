@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-pinecone",
-  "version": "0.45.0",
+  "version": "0.45.1",
   "summary": "OpenTelemetry Pinecone instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_pinecone-0.45.0.tar.gz",
-  "download_time": "2025-08-12T16:33:39.285078",
+  "download_filename": "opentelemetry_instrumentation_pinecone-0.45.1.tar.gz",
+  "download_time": "2025-08-13T17:56:05.169172",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-pinecone/"
 }
