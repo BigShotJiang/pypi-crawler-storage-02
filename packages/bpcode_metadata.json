@@ -1,11 +1,11 @@
 {
   "name": "bpcode",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "auto backup your code",
   "author": "zhuoyue",
   "license": null,
   "home_page": "https://github.com/avegetableman/bpcode",
-  "download_filename": "bpcode-0.2.0.tar.gz",
-  "download_time": "2025-08-13T03:25:38.692519",
+  "download_filename": "bpcode-0.3.0.tar.gz",
+  "download_time": "2025-08-13T06:38:54.106860",
   "package_url": "https://pypi.org/project/bpcode/"
 }

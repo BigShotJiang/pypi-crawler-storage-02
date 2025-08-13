@@ -1,0 +1,11 @@
+{
+  "name": "flake8-tergeo",
+  "version": "25.8.13.0",
+  "summary": "flake8 plugin which keeps your code clean and tidy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_tergeo-25.8.13.0.tar.gz",
+  "download_time": "2025-08-13T06:39:20.653920",
+  "package_url": "https://pypi.org/project/flake8-tergeo/"
+}

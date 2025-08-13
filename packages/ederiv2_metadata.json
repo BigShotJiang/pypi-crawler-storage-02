@@ -1,0 +1,11 @@
+{
+  "name": "ederiv2",
+  "version": "0.1.1",
+  "summary": "A molecular graph generation and analysis toolkit using Graph Neural Networks",
+  "author": "eDeriv2 Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/eDeriv2",
+  "download_filename": "ederiv2-0.1.1.tar.gz",
+  "download_time": "2025-08-13T06:39:08.375632",
+  "package_url": "https://pypi.org/project/ederiv2/"
+}

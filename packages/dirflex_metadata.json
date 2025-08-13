@@ -1,11 +1,11 @@
 {
   "name": "dirflex",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Flexible bidirectional directory tree parser & generator",
   "author": "muhammadjalaludin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dirflex-0.1.4.tar.gz",
-  "download_time": "2025-08-13T05:49:38.827072",
+  "download_filename": "dirflex-0.1.6.tar.gz",
+  "download_time": "2025-08-13T06:38:54.636439",
   "package_url": "https://pypi.org/project/dirflex/"
 }

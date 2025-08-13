@@ -1,0 +1,11 @@
+{
+  "name": "vamphost",
+  "version": "1.3.2",
+  "summary": "Use Vamp plugins for audio feature analysis.",
+  "author": "Chris Cannam, George Fazekas",
+  "license": "MIT",
+  "home_page": "https://code.soundsoftware.ac.uk/projects/vampy-host",
+  "download_filename": "vamphost-1.3.2-cp310-cp310-win32.whl",
+  "download_time": "2025-08-13T06:38:56.744579",
+  "package_url": "https://pypi.org/project/vamphost/"
+}

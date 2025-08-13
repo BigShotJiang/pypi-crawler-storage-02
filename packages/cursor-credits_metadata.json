@@ -1,0 +1,11 @@
+{
+  "name": "cursor-credits",
+  "version": "0.2.0",
+  "summary": "A clean, command-line tool to check your Cursor account usage credits",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cursor_credits-0.2.0.tar.gz",
+  "download_time": "2025-08-13T06:38:47.303908",
+  "package_url": "https://pypi.org/project/cursor-credits/"
+}

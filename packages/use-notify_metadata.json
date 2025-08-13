@@ -1,0 +1,11 @@
+{
+  "name": "use-notify",
+  "version": "0.3.45",
+  "summary": "一个简单可扩展的异步消息通知库",
+  "author": "miclon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "use_notify-0.3.45.tar.gz",
+  "download_time": "2025-08-13T06:38:59.920968",
+  "package_url": "https://pypi.org/project/use-notify/"
+}
