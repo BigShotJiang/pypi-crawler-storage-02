@@ -1,11 +1,11 @@
 {
   "name": "neosmartblue.py",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python library for controlling Neo Smart Blinds via BlueLink Bluetooth connection",
   "author": "ikifar2012",
   "license": null,
   "home_page": null,
-  "download_filename": "neosmartblue_py-0.1.2.tar.gz",
-  "download_time": "2025-08-14T21:01:20.132471",
+  "download_filename": "neosmartblue_py-0.1.3.tar.gz",
+  "download_time": "2025-08-14T21:29:22.232614",
   "package_url": "https://pypi.org/project/neosmartblue.py/"
 }

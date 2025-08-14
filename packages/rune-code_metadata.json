@@ -1,0 +1,11 @@
+{
+  "name": "rune-code",
+  "version": "0.16.0",
+  "summary": "A terminal first, opinionated AI coding agent written in Python. Works with almost any model via Pydantic-AI.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rune_code-0.16.0.tar.gz",
+  "download_time": "2025-08-14T21:29:24.266994",
+  "package_url": "https://pypi.org/project/rune-code/"
+}

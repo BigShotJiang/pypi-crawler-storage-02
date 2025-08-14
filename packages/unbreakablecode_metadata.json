@@ -1,11 +1,11 @@
 {
   "name": "unbreakablecode",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Your code can never crash again - Powered by 3.3M Stack Overflow solutions",
   "author": "UnbreakableCode Developer",
   "license": "MIT",
   "home_page": "https://fixitapi.dev",
-  "download_filename": "unbreakablecode-2.0.0.tar.gz",
-  "download_time": "2025-08-14T18:39:49.353671",
+  "download_filename": "unbreakablecode-2.0.1.tar.gz",
+  "download_time": "2025-08-14T21:29:19.038496",
   "package_url": "https://pypi.org/project/unbreakablecode/"
 }

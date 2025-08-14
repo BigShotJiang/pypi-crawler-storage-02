@@ -1,11 +1,11 @@
 {
   "name": "griffe",
-  "version": "1.11.1",
+  "version": "1.12.1",
   "summary": "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "griffe-1.11.1.tar.gz",
-  "download_time": "2025-08-11T11:56:16.721213",
+  "download_filename": "griffe-1.12.1.tar.gz",
+  "download_time": "2025-08-14T21:29:23.630391",
   "package_url": "https://pypi.org/project/griffe/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gen-ibans",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Generate valid German IBANs using Bundesbank data and PRNG",
   "author": "Sebastian Wallat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gen_ibans-2.1.0.tar.gz",
-  "download_time": "2025-08-14T18:00:36.720671",
+  "download_filename": "gen_ibans-2.1.1.tar.gz",
+  "download_time": "2025-08-14T21:29:38.472761",
   "package_url": "https://pypi.org/project/gen-ibans/"
 }

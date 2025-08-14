@@ -1,11 +1,11 @@
 {
   "name": "kaiserlift",
-  "version": "0.1.25",
+  "version": "0.1.27",
   "summary": "Data-driven progressive overload",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaiserlift-0.1.25.tar.gz",
-  "download_time": "2025-08-14T19:56:02.978055",
+  "download_filename": "kaiserlift-0.1.27.tar.gz",
+  "download_time": "2025-08-14T21:29:39.107583",
   "package_url": "https://pypi.org/project/kaiserlift/"
 }

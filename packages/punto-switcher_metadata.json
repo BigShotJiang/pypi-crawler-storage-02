@@ -1,11 +1,11 @@
 {
   "name": "punto-switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Keyboard layout autocorrector for Linux/X11",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "punto_switcher-1.0.0.tar.gz",
-  "download_time": "2025-08-14T21:01:36.525357",
+  "download_filename": "punto_switcher-1.0.1.tar.gz",
+  "download_time": "2025-08-14T21:29:17.762162",
   "package_url": "https://pypi.org/project/punto-switcher/"
 }
