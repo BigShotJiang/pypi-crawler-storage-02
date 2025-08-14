@@ -1,0 +1,11 @@
+{
+  "name": "async-cache-updater",
+  "version": "1.0.0",
+  "summary": "Caches the output of functions with time-based buckets",
+  "author": "RevPoint Media",
+  "license": "MIT license",
+  "home_page": "https://github.com/revpoint/async-cache-updater",
+  "download_filename": "async_cache_updater-1.0.0.tar.gz",
+  "download_time": "2025-08-14T05:03:38.369338",
+  "package_url": "https://pypi.org/project/async-cache-updater/"
+}

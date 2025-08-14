@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T04:49:17.175521
-- **Total Packages**: 86
-- **Total Size**: 36.13 MB
+- **Download Time**: 2025-08-14T05:04:10.712248
+- **Total Packages**: 85
+- **Total Size**: 6.83 MB
 
 ## Packages List
-- autogemini
+- nvidia-nat-mem0ai
+- swe-ai-agent
+- nvidia-nat-test
+- nvidia-nat-s3
+- spring-py-core
+- nvidia-nat-llama-index
+- clio-manage-api-client
+- nvidia-nat-mysql
+- GameSentenceMiner
+- precisiondoc
+- nvidia-nat-weave
+- nvidia-nat-langchain
 - fwdi
+- nvidia-nat
+- nvidia-nat-agno
+- nvidia-nat-opentelemetry
+- nvidia-nat-semantic-kernel
+- mlx-openai-server
+- nvidia-nat-phoenix
+- Appium-Python-Client
+- pipen-poplog
+- model-checker
+- koatl
+- sparams
+- async-cache-updater
+- nominal-api-protos
+- centricube-langchain
+- nominal-api
+- lytools
+- aa-esi-status
+- sataid
+- chalkpy
+- orionis
+- autogemini
 - fluidize
 - unstructured
 - hashcli
@@ -59,36 +91,3 @@
 - keras-nlp-nightly
 - fluidize-python
 - keras-hub-nightly
-- snowflake-connector-python-nightly
-- vibecore
-- weatherlinkv2
-- orionis
-- hades-tod
-- cirq-ionq
-- cirq-core
-- cirq
-- cirq-google
-- cirq-aqt
-- cirq-pasqal
-- cirq-web
-- truss-transfer
-- pydorm
-- aa-discord-announcements
-- kandc
-- demeter-tod
-- libpyfoscamcgi
-- scholarimpact
-- astraflux
-- otlmow-model
-- videosdk-plugins-turn-detector
-- videosdk-plugins-speechify
-- videosdk-plugins-smallestai
-- videosdk-plugins-sip
-- videosdk-plugins-simli
-- videosdk-plugins-silero
-- videosdk-plugins-sarvamai
-- videosdk-plugins-rnnoise
-- azure-quantum
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- swe-ai-agent
