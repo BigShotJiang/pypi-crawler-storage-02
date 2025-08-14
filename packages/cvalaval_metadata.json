@@ -1,11 +1,11 @@
 {
   "name": "cvalaval",
-  "version": "0.9",
+  "version": "1.0",
   "summary": "Fast math computations and helpers",
   "author": "Airwolftomato",
   "license": null,
   "home_page": null,
-  "download_filename": "cvalaval-0.9.tar.gz",
-  "download_time": "2025-08-13T23:25:37.402363",
+  "download_filename": "cvalaval-1.0.tar.gz",
+  "download_time": "2025-08-14T21:45:57.352154",
   "package_url": "https://pypi.org/project/cvalaval/"
 }

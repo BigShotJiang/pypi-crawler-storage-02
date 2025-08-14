@@ -1,11 +1,11 @@
 {
   "name": "streamlit-rtr-components",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Streamlit components: Org Chart e Hierarchical Grid",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_rtr_components-1.0.3.tar.gz",
-  "download_time": "2025-08-14T06:41:48.529505",
+  "download_filename": "streamlit_rtr_components-1.0.5.tar.gz",
+  "download_time": "2025-08-14T21:46:00.984722",
   "package_url": "https://pypi.org/project/streamlit-rtr-components/"
 }

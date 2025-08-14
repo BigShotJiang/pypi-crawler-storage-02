@@ -1,0 +1,11 @@
+{
+  "name": "pycampbellcloud",
+  "version": "0.9.0",
+  "summary": "A package for interfacing with Campbell Cloud API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycampbellcloud-0.9.0.tar.gz",
+  "download_time": "2025-08-14T21:45:39.664286",
+  "package_url": "https://pypi.org/project/pycampbellcloud/"
+}

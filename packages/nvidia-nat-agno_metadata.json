@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-agno",
-  "version": "1.2.0rc7",
+  "version": "1.3a0",
   "summary": "Subpackage for Agno integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_agno-1.2.0rc7-py3-none-any.whl",
-  "download_time": "2025-08-14T20:49:41.673715",
+  "download_filename": "nvidia_nat_agno-1.3a0-py3-none-any.whl",
+  "download_time": "2025-08-14T21:46:21.816773",
   "package_url": "https://pypi.org/project/nvidia-nat-agno/"
 }

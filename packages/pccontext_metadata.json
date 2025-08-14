@@ -1,11 +1,11 @@
 {
   "name": "pccontext",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Chain Contexts for PyCardano library",
   "author": "Hareem Adderley",
   "license": "MIT",
   "home_page": "https://github.com/Python-Cardano/pycardano",
-  "download_filename": "pccontext-0.5.3.tar.gz",
-  "download_time": "2025-08-10T05:05:36.392369",
+  "download_filename": "pccontext-0.5.4.tar.gz",
+  "download_time": "2025-08-14T21:45:54.777337",
   "package_url": "https://pypi.org/project/pccontext/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xacrodoc",
+  "version": "1.2.0",
+  "summary": "Compile xacro files to URDF or MJCF from Python or the command line (no ROS required).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xacrodoc-1.2.0-py3-none-any.whl",
+  "download_time": "2025-08-14T21:45:43.290461",
+  "package_url": "https://pypi.org/project/xacrodoc/"
+}

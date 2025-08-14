@@ -1,0 +1,11 @@
+{
+  "name": "rad-dino",
+  "version": "0.1.0",
+  "summary": "Vision encoder for chest X-rays.",
+  "author": "Microsoft Health Futures",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rad_dino-0.1.0.tar.gz",
+  "download_time": "2025-08-14T21:45:39.151529",
+  "package_url": "https://pypi.org/project/rad-dino/"
+}
