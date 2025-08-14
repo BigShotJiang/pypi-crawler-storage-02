@@ -1,0 +1,11 @@
+{
+  "name": "langchain-scraperapi",
+  "version": "0.1.2",
+  "summary": "An integration package connecting ScraperAPI and LangChain",
+  "author": "scraperapi",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_scraperapi-0.1.2.tar.gz",
+  "download_time": "2025-08-14T16:28:16.862932",
+  "package_url": "https://pypi.org/project/langchain-scraperapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tabm",
+  "version": "0.0.3",
+  "summary": "TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling (ICLR 2025).",
+  "author": "Yury Gorishniy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tabm-0.0.3.tar.gz",
+  "download_time": "2025-08-14T16:28:15.708851",
+  "package_url": "https://pypi.org/project/tabm/"
+}

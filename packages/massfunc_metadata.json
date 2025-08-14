@@ -1,0 +1,11 @@
+{
+  "name": "massfunc",
+  "version": "0.2.0",
+  "summary": "A Python package for cosmological mass function calculations",
+  "author": "SOYONAOC",
+  "license": "MIT",
+  "home_page": "https://github.com/SOYONAOC/MassFunction",
+  "download_filename": "massfunc-0.2.0.tar.gz",
+  "download_time": "2025-08-14T16:28:32.089437",
+  "package_url": "https://pypi.org/project/massfunc/"
+}

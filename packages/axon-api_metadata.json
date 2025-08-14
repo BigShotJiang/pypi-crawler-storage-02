@@ -1,11 +1,11 @@
 {
   "name": "axon-api",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Zero-dependency WSGI framework with request batching and multipart streaming",
   "author": "Shane Bellone",
   "license": "MIT",
   "home_page": "https://github.com/shanebellone/axon-api",
-  "download_filename": "axon_api-0.1.6.tar.gz",
-  "download_time": "2025-08-14T15:29:31.883630",
+  "download_filename": "axon_api-0.1.7.tar.gz",
+  "download_time": "2025-08-14T16:28:28.572907",
   "package_url": "https://pypi.org/project/axon-api/"
 }

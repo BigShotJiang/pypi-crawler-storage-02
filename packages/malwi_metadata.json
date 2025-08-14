@@ -1,11 +1,11 @@
 {
   "name": "malwi",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "malwi - AI Python Malware Scanner",
   "author": "Marvin Schirrmacher",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/schirrmacher/malwi",
-  "download_filename": "malwi-0.0.20.tar.gz",
-  "download_time": "2025-08-14T09:58:15.789806",
+  "download_filename": "malwi-0.0.21.tar.gz",
+  "download_time": "2025-08-14T16:27:59.730989",
   "package_url": "https://pypi.org/project/malwi/"
 }

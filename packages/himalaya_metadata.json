@@ -1,0 +1,11 @@
+{
+  "name": "himalaya",
+  "version": "0.4.8",
+  "summary": "Multiple-target machine learning",
+  "author": null,
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/gallantlab/himalaya",
+  "download_filename": "himalaya-0.4.8.tar.gz",
+  "download_time": "2025-08-14T16:28:18.025496",
+  "package_url": "https://pypi.org/project/himalaya/"
+}

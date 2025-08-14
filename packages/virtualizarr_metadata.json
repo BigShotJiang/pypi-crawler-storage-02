@@ -1,11 +1,11 @@
 {
   "name": "virtualizarr",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Create virtual Zarr stores from archival data using xarray API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virtualizarr-2.1.0.tar.gz",
-  "download_time": "2025-08-14T14:52:46.427496",
+  "download_filename": "virtualizarr-2.1.1.tar.gz",
+  "download_time": "2025-08-14T16:28:17.451334",
   "package_url": "https://pypi.org/project/virtualizarr/"
 }

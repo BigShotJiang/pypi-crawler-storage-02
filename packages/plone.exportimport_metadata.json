@@ -1,0 +1,11 @@
+{
+  "name": "plone.exportimport",
+  "version": "1.2.0",
+  "summary": "Plone content export / import support",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://plone.org",
+  "download_filename": "plone_exportimport-1.2.0.tar.gz",
+  "download_time": "2025-08-14T16:28:06.215842",
+  "package_url": "https://pypi.org/project/plone.exportimport/"
+}

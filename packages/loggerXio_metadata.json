@@ -1,0 +1,11 @@
+{
+  "name": "loggerXio",
+  "version": "1.0.0",
+  "summary": "Telegram-Powered Python Logger - Send Logs & print() Output Straight to Your Chat in Real Time!",
+  "author": "Arise",
+  "license": "MIT",
+  "home_page": "https://github.com/wxxoxo/loggerXio",
+  "download_filename": "loggerxio-1.0.0.tar.gz",
+  "download_time": "2025-08-14T16:28:24.423838",
+  "package_url": "https://pypi.org/project/loggerXio/"
+}
