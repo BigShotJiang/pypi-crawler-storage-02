@@ -1,11 +1,11 @@
 {
   "name": "rename-clean",
-  "version": "1.0",
-  "summary": "Utility to replace undesirable characters with underscores in Linux file names",
+  "version": "1.1",
+  "summary": "Utility to replace undesirable characters in Linux file names",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rename_clean-1.0.tar.gz",
-  "download_time": "2025-08-14T05:35:21.835447",
+  "download_filename": "rename_clean-1.1.tar.gz",
+  "download_time": "2025-08-14T06:42:00.939829",
   "package_url": "https://pypi.org/project/rename-clean/"
 }

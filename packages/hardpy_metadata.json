@@ -1,0 +1,11 @@
+{
+  "name": "hardpy",
+  "version": "0.14.0",
+  "summary": "HardPy library for device testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hardpy-0.14.0.tar.gz",
+  "download_time": "2025-08-14T06:41:51.295512",
+  "package_url": "https://pypi.org/project/hardpy/"
+}

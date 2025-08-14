@@ -1,0 +1,11 @@
+{
+  "name": "pycony",
+  "version": "0.1.3",
+  "summary": "A cute Python utility to open an interactive console with stack inspection.",
+  "author": "Dr. Rashed Z. Bhatti",
+  "license": "MIT",
+  "home_page": "https://github.com/rzbhatti/pyCony.git",
+  "download_filename": "pycony-0.1.3.tar.gz",
+  "download_time": "2025-08-14T06:41:41.524446",
+  "package_url": "https://pypi.org/project/pycony/"
+}

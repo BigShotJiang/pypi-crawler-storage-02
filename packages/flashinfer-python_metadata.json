@@ -1,11 +1,11 @@
 {
   "name": "flashinfer-python",
-  "version": "0.2.11.post2",
+  "version": "0.2.11.post3",
   "summary": "FlashInfer: Kernel Library for LLM Serving",
   "author": "FlashInfer team",
   "license": null,
   "home_page": null,
-  "download_filename": "flashinfer_python-0.2.11.post2.tar.gz",
-  "download_time": "2025-08-13T19:25:43.792080",
+  "download_filename": "flashinfer_python-0.2.11.post3.tar.gz",
+  "download_time": "2025-08-14T06:41:39.455443",
   "package_url": "https://pypi.org/project/flashinfer-python/"
 }

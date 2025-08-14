@@ -1,11 +1,11 @@
 {
   "name": "oke-mcp-server",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Minimal MCP server for managing Oracle OKE & Kubernetes, optimized for LLMs.",
   "author": "Ron Sevet",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oke_mcp_server-0.1.2.tar.gz",
-  "download_time": "2025-08-12T13:39:21.115561",
+  "download_filename": "oke_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-08-14T06:41:44.270712",
   "package_url": "https://pypi.org/project/oke-mcp-server/"
 }

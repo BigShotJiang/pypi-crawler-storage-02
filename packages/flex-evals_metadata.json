@@ -1,11 +1,11 @@
 {
   "name": "flex-evals",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "TBD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flex_evals-0.2.3.tar.gz",
-  "download_time": "2025-08-14T03:25:53.346482",
+  "download_filename": "flex_evals-0.2.4.tar.gz",
+  "download_time": "2025-08-14T06:41:45.915429",
   "package_url": "https://pypi.org/project/flex-evals/"
 }
