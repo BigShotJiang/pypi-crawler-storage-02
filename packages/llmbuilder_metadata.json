@@ -1,11 +1,11 @@
 {
   "name": "llmbuilder",
-  "version": "0.4",
+  "version": "0.4.4",
   "summary": "A comprehensive toolkit for building, training, and deploying language models",
   "author": "Qub△se",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Qubasehq/llmbuilder-package",
-  "download_filename": "llmbuilder-0.4.tar.gz",
-  "download_time": "2025-08-14T18:39:41.419921",
+  "download_filename": "llmbuilder-0.4.4.tar.gz",
+  "download_time": "2025-08-14T19:27:36.296363",
   "package_url": "https://pypi.org/project/llmbuilder/"
 }

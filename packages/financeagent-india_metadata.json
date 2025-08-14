@@ -1,0 +1,11 @@
+{
+  "name": "financeagent-india",
+  "version": "0.2.1",
+  "summary": "Lightweight India NSE stock quotes (MoneyControl) - pruned & optimized.",
+  "author": "FinanceAgent Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "financeagent_india-0.2.1.tar.gz",
+  "download_time": "2025-08-14T19:28:00.040032",
+  "package_url": "https://pypi.org/project/financeagent-india/"
+}
