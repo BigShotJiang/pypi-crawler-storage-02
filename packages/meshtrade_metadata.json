@@ -1,11 +1,11 @@
 {
   "name": "meshtrade",
-  "version": "0.0.14",
+  "version": "1.0.0",
   "summary": "Integration SDK for Mesh API Services",
   "author": null,
   "license": "LicenseRef-My-Custom-License",
   "home_page": null,
-  "download_filename": "meshtrade-0.0.14.tar.gz",
-  "download_time": "2025-08-14T12:54:19.743762",
+  "download_filename": "meshtrade-1.0.0.tar.gz",
+  "download_time": "2025-08-14T13:47:35.400749",
   "package_url": "https://pypi.org/project/meshtrade/"
 }

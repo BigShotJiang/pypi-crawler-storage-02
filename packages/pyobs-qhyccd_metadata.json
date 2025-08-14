@@ -1,0 +1,11 @@
+{
+  "name": "pyobs-qhyccd",
+  "version": "1.5.0",
+  "summary": "pyobs module for QHYCCD cameras",
+  "author": "Tim-Oliver Husser",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyobs_qhyccd-1.5.0.tar.gz",
+  "download_time": "2025-08-14T13:47:51.939530",
+  "package_url": "https://pypi.org/project/pyobs-qhyccd/"
+}

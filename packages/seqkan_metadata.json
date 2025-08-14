@@ -1,0 +1,11 @@
+{
+  "name": "seqkan",
+  "version": "0.8.1",
+  "summary": "seqKAN, a KAN architecture for sequence processing.",
+  "author": "Tatiana Boura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seqkan-0.8.1.tar.gz",
+  "download_time": "2025-08-14T13:47:47.802241",
+  "package_url": "https://pypi.org/project/seqkan/"
+}

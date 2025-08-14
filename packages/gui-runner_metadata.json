@@ -1,0 +1,11 @@
+{
+  "name": "gui-runner",
+  "version": "0.1.1",
+  "summary": "Configurable GUI runner for Python/Node.js scripts",
+  "author": "985ch",
+  "license": null,
+  "home_page": "https://github.com/985ch/gui-runner",
+  "download_filename": "gui_runner-0.1.1.tar.gz",
+  "download_time": "2025-08-14T13:47:54.832213",
+  "package_url": "https://pypi.org/project/gui-runner/"
+}

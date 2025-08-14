@@ -1,11 +1,11 @@
 {
   "name": "petal-app-manager",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "summary": "A FastAPI interface for loading, managing and running Droneleaf Petal applications",
   "author": null,
   "license": "LICENSE.md",
   "home_page": null,
-  "download_filename": "petal_app_manager-0.1.27.tar.gz",
-  "download_time": "2025-08-11T21:44:14.867839",
+  "download_filename": "petal_app_manager-0.1.28.tar.gz",
+  "download_time": "2025-08-14T13:48:08.209000",
   "package_url": "https://pypi.org/project/petal-app-manager/"
 }

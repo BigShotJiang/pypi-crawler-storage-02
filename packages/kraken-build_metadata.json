@@ -1,11 +1,11 @@
 {
   "name": "kraken-build",
-  "version": "0.48.1",
+  "version": "0.48.2",
   "summary": "Kraken is an extensible build orchestration system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kraken_build-0.48.1.tar.gz",
-  "download_time": "2025-08-11T10:33:09.047588",
+  "download_filename": "kraken_build-0.48.2.tar.gz",
+  "download_time": "2025-08-14T13:47:56.072489",
   "package_url": "https://pypi.org/project/kraken-build/"
 }
