@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T11:46:11.251713
-- **Total Packages**: 85
-- **Total Size**: 16.83 MB
+- **Download Time**: 2025-08-14T11:57:52.453095
+- **Total Packages**: 83
+- **Total Size**: 6.29 MB
 
 ## Packages List
+- mcp-novelaigen
+- DiffCraft
+- ida-hcli
+- azol
+- wink-sdk-user-settings
+- wink-sdk-travel-agent
+- wink-sdk-reference
+- wink-sdk-ping
+- wink-sdk-notification
+- uipath
+- wink-sdk-lookup
+- wink-sdk-inventory
+- wink-sdk-extranet-property-register
+- wink-sdk-extranet-property
+- wink-sdk-extranet-monetize
+- wink-sdk-extranet-facilities
+- wink-sdk-extranet-experiences
+- wink-sdk-extranet-distribution
+- wink-sdk-extranet-booking
+- wink-sdk-engine-client
+- wink-sdk-channel-manager
+- wink-sdk-booking
+- wink-sdk-analytics
+- wink-sdk-affiliate-winklinks
 - wink-sdk-affiliate-sales-channel
 - wink-sdk-affiliate-inventory
 - mcp-open-data-hk
@@ -32,11 +56,9 @@
 - civilpy
 - typeddict-validator
 - chipfoundry-cli
-- ida-hcli
 - bluer-algo
 - pyPhasesRecordloaderPhysionet
 - pyheadtracker
-- mcp-novelaigen
 - jqi
 - disentanglement-error
 - HowdenParser
@@ -55,7 +77,6 @@
 - bot-vision-suite
 - trex-admin
 - lionagi
-- azol
 - udata-hydra
 - ybox
 - django-trusted-devices
@@ -68,26 +89,3 @@
 - spanda-rag-toolkit
 - python-ai-sdk
 - sonyk-sdk
-- semeio
-- openalgo
-- docutranslate
-- lkj
-- glance-store
-- pWebServer
-- nhlang
-- dpm-toolkit
-- pylitex
-- fabricatio-plot
-- fabricatio
-- fabricatio-capabilities
-- fabricatio-improve
-- fabricatio-core
-- osu-cleaner-cli-mod
-- fabricatio-typst
-- fabricatio-tool
-- fabricatio-team
-- fabricatio-rule
-- fabricatio-anki
-- fabricatio-translate
-- fabricatio-judge
-- fabricatio-diff

@@ -1,11 +1,11 @@
 {
   "name": "mcp-novelaigen",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A NovelAI image generation tool as an MCP server",
   "author": "Kilo Code",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_novelaigen-0.2.4.tar.gz",
-  "download_time": "2025-08-14T11:45:42.251146",
+  "download_filename": "mcp_novelaigen-0.2.5.tar.gz",
+  "download_time": "2025-08-14T11:57:04.719856",
   "package_url": "https://pypi.org/project/mcp-novelaigen/"
 }
