@@ -1,11 +1,11 @@
 {
   "name": "aws-agentcore-a2a-proxy",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A2A server for AWS Bedrock AgentCore agents",
   "author": "Dave Kerr",
   "license": null,
   "home_page": null,
-  "download_filename": "aws_agentcore_a2a_proxy-0.1.5.tar.gz",
-  "download_time": "2025-08-09T06:35:35.583828",
+  "download_filename": "aws_agentcore_a2a_proxy-0.1.7.tar.gz",
+  "download_time": "2025-08-14T10:30:12.776078",
   "package_url": "https://pypi.org/project/aws-agentcore-a2a-proxy/"
 }

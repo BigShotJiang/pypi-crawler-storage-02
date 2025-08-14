@@ -1,0 +1,11 @@
+{
+  "name": "TUI-pygame",
+  "version": "0.1.1",
+  "summary": "A library for implementing something similar to Pygame in the command line.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tui_pygame-0.1.1.tar.gz",
+  "download_time": "2025-08-14T10:30:22.038277",
+  "package_url": "https://pypi.org/project/TUI-pygame/"
+}

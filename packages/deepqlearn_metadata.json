@@ -1,11 +1,11 @@
 {
   "name": "deepqlearn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple Deep Q-Network implementation in PyTorch",
-  "author": "Your Name",
+  "author": "Prathamesh Jadhav",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepqlearn-0.1.0.tar.gz",
-  "download_time": "2025-08-14T09:36:19.937703",
+  "download_filename": "deepqlearn-0.1.1.tar.gz",
+  "download_time": "2025-08-14T10:30:20.333010",
   "package_url": "https://pypi.org/project/deepqlearn/"
 }

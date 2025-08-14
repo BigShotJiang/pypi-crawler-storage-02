@@ -1,11 +1,11 @@
 {
   "name": "crowd-vision",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An advanced library for crowd detection, tracking, and analysis in videos.",
   "author": "Shobhit Shah",
   "license": null,
   "home_page": "https://github.com/yourusername/crowd_vision",
-  "download_filename": "crowd_vision-0.1.1.tar.gz",
-  "download_time": "2025-08-14T09:58:37.301884",
+  "download_filename": "crowd_vision-0.1.2.tar.gz",
+  "download_time": "2025-08-14T10:30:17.449954",
   "package_url": "https://pypi.org/project/crowd-vision/"
 }

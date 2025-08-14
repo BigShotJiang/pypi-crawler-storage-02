@@ -1,0 +1,11 @@
+{
+  "name": "nichexpert",
+  "version": "0.0.1",
+  "summary": "A tool to identify niche for spatial transcriptomics data.",
+  "author": "Jiyuan Yang",
+  "license": "MIT",
+  "home_page": "https://github.com/YANG-ERA/NicheXpert",
+  "download_filename": "nichexpert-0.0.1.tar.gz",
+  "download_time": "2025-08-14T10:30:21.472747",
+  "package_url": "https://pypi.org/project/nichexpert/"
+}

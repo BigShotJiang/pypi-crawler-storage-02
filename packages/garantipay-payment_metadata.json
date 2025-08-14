@@ -1,0 +1,11 @@
+{
+  "name": "garantipay-payment",
+  "version": "2.0.0",
+  "summary": "A library to provide payment gateway for GarantiPay 2.0",
+  "author": "Akinon",
+  "license": null,
+  "home_page": "https://bitbucket.org/akinonteam/garantipay-payment",
+  "download_filename": "garantipay_payment-2.0.0.tar.gz",
+  "download_time": "2025-08-14T10:30:10.459371",
+  "package_url": "https://pypi.org/project/garantipay-payment/"
+}

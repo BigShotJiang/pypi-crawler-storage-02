@@ -1,11 +1,11 @@
 {
   "name": "gamspy-xpress",
-  "version": "50.3.0",
+  "version": "50.4.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gamspy_xpress-50.3.0-py3-none-macosx_12_0_x86_64.whl",
-  "download_time": "2025-08-04T09:03:20.390291",
+  "download_filename": "gamspy_xpress-50.4.0-py3-none-macosx_12_0_x86_64.whl",
+  "download_time": "2025-08-14T10:30:34.784646",
   "package_url": "https://pypi.org/project/gamspy-xpress/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ATmulti-file-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A flexible file handler supporting text, JSON, YAML, CSV, XML, dill, and binary formats.",
   "author": "Avi Twil",
   "license": null,
   "home_page": "https://github.com/avitwil/ATmulti_file_handler",
-  "download_filename": "atmulti_file_handler-1.0.3.tar.gz",
-  "download_time": "2025-08-14T09:58:06.397093",
+  "download_filename": "atmulti_file_handler-1.0.4.tar.gz",
+  "download_time": "2025-08-14T10:30:23.750845",
   "package_url": "https://pypi.org/project/ATmulti-file-handler/"
 }

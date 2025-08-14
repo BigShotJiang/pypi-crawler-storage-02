@@ -1,11 +1,11 @@
 {
   "name": "sagemaker-core",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "summary": "An python package for sagemaker core functionalities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sagemaker_core-1.0.51.tar.gz",
-  "download_time": "2025-08-13T10:52:01.632609",
+  "download_filename": "sagemaker_core-1.0.52.tar.gz",
+  "download_time": "2025-08-14T10:30:02.231759",
   "package_url": "https://pypi.org/project/sagemaker-core/"
 }
