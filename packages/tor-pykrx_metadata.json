@@ -1,0 +1,11 @@
+{
+  "name": "tor-pykrx",
+  "version": "0.0.5",
+  "summary": "tor-pykrx is a Python package for accessing the KRX (Korea Exchange) stock market data through the Tor network.",
+  "author": "minjun ju",
+  "license": "SEE LICENSE FILE",
+  "home_page": null,
+  "download_filename": "tor_pykrx-0.0.5.tar.gz",
+  "download_time": "2025-08-14T04:48:49.182952",
+  "package_url": "https://pypi.org/project/tor-pykrx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "niteco.agno-agent-tool",
+  "version": "0.1.1",
+  "summary": "A service that manages and executes agno agents with OPAL SDK integration",
+  "author": "Niteco",
+  "license": null,
+  "home_page": "https://github.com/niteco/agno-agent-tool",
+  "download_filename": "niteco_agno_agent_tool-0.1.1.tar.gz",
+  "download_time": "2025-08-14T04:48:42.414554",
+  "package_url": "https://pypi.org/project/niteco.agno-agent-tool/"
+}

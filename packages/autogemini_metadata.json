@@ -1,0 +1,11 @@
+{
+  "name": "autogemini",
+  "version": "0.1.5.post1",
+  "summary": "AutoGemini - 流式Gemini API处理系统",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autogemini-0.1.5.post1.tar.gz",
+  "download_time": "2025-08-14T04:48:29.813085",
+  "package_url": "https://pypi.org/project/autogemini/"
+}
