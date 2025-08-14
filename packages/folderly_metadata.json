@@ -1,11 +1,11 @@
 {
   "name": "folderly",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Smart Desktop File Management with AI Integration",
   "author": "Folderly Team",
   "license": null,
   "home_page": null,
-  "download_filename": "folderly-1.0.2.tar.gz",
-  "download_time": "2025-08-14T16:28:10.542886",
+  "download_filename": "folderly-1.0.3.tar.gz",
+  "download_time": "2025-08-14T16:34:30.976064",
   "package_url": "https://pypi.org/project/folderly/"
 }

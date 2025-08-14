@@ -1,11 +1,11 @@
 {
   "name": "kensho-kfinance",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "Python CLI for kFinance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kensho_kfinance-3.2.1.tar.gz",
-  "download_time": "2025-08-13T21:24:54.303957",
+  "download_filename": "kensho_kfinance-3.2.2.tar.gz",
+  "download_time": "2025-08-14T16:34:26.264050",
   "package_url": "https://pypi.org/project/kensho-kfinance/"
 }

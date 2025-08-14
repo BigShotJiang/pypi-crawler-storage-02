@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T16:28:39.867093
-- **Total Packages**: 85
-- **Total Size**: 47.43 MB
+- **Download Time**: 2025-08-14T16:35:05.048555
+- **Total Packages**: 83
+- **Total Size**: 8.15 MB
 
 ## Packages List
+- rtflite
+- actionstreamer
+- lnhistoryclient
+- vacancycalculator
+- tradernet-sdk
+- synth-crunch
+- context-reference-store
+- policyengine-uk
+- svix
+- glean-mcp
+- kensho-kfinance
+- PLD-subsampling
+- pulumi-digitalocean
+- fontParts
+- axon-api
+- in-dbt-spark
+- dbrownell-placeholder
+- pulumi-xyz
+- zzl-mcp-demo
+- folderly
+- ida-hcli
+- kannolo
 - darkfield-cli
 - fdq
 - fonttools
@@ -37,15 +59,12 @@
 - truss
 - plone.exportimport
 - cybrid-api-bank-python
-- pulumi-digitalocean
 - cybrid-api-organization-python
 - fxp-jax
 - cybrid-api-id-python
-- folderly
 - iqm-station-control-client
 - osc-github-devops
 - django-cfg
-- ida-hcli
 - claude-code-tools
 - lightning-sdk
 - new-python-project
@@ -66,28 +85,7 @@
 - psi-toml
 - xglove
 - loggerXio
-- context-reference-store
 - audiolab
 - arq-base-python
 - tonal
 - aotpy
-- ruff
-- axon-api
-- calkit-python
-- marshmallow-recipe
-- jao-py
-- plone.rest
-- petrus
-- massfunc
-- cuda-cccl
-- b10-tcache
-- actionstreamer
-- foldifyai
-- bash2gitlab
-- reywechat
-- amazon-braket-algorithm-library
-- lkj
-- nucliadb-admin-assets
-- sdmetrics
-- securefilecrypt
-- amazon-braket-build-tools
