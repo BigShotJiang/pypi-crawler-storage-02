@@ -1,0 +1,11 @@
+{
+  "name": "treesitter-chunker",
+  "version": "1.0.5",
+  "summary": "Semantic code chunker using Tree-sitter for intelligent code analysis",
+  "author": "Consiliency",
+  "license": "MIT",
+  "home_page": "https://github.com/Consiliency/treesitter-chunker",
+  "download_filename": "treesitter_chunker-1.0.5-py3-none-any.whl",
+  "download_time": "2025-08-14T23:44:49.684937",
+  "package_url": "https://pypi.org/project/treesitter-chunker/"
+}

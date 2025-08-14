@@ -1,0 +1,11 @@
+{
+  "name": "matroid",
+  "version": "1.4.5",
+  "summary": "Matroid API Python Library",
+  "author": "Matroid",
+  "license": null,
+  "home_page": "https://github.com/matroid/matroid-python",
+  "download_filename": "matroid-1.4.5.tar.gz",
+  "download_time": "2025-08-14T23:44:53.327802",
+  "package_url": "https://pypi.org/project/matroid/"
+}

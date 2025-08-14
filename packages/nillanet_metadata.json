@@ -1,11 +1,11 @@
 {
   "name": "nillanet",
-  "version": "0.1.9",
+  "version": "1.0.0",
   "summary": "linear neural net",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nillanet-0.1.9.tar.gz",
-  "download_time": "2025-08-11T19:56:53.296423",
+  "download_filename": "nillanet-1.0.0.tar.gz",
+  "download_time": "2025-08-14T23:44:58.481026",
   "package_url": "https://pypi.org/project/nillanet/"
 }

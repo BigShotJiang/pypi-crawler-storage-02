@@ -1,0 +1,11 @@
+{
+  "name": "mppsolar",
+  "version": "0.16.56",
+  "summary": "Package to communicate with Solar inverters and BMSs",
+  "author": "John Blance",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mppsolar-0.16.56-py3-none-any.whl",
+  "download_time": "2025-08-14T23:44:56.933677",
+  "package_url": "https://pypi.org/project/mppsolar/"
+}

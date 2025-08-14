@@ -1,0 +1,11 @@
+{
+  "name": "alignment-memory",
+  "version": "0.1.29",
+  "summary": "Alignment Memory: minimal timeline store + CLI for aligned conversations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alignment_memory-0.1.29.tar.gz",
+  "download_time": "2025-08-14T23:44:51.229936",
+  "package_url": "https://pypi.org/project/alignment-memory/"
+}

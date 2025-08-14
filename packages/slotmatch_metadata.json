@@ -1,0 +1,11 @@
+{
+  "name": "slotmatch",
+  "version": "0.1.0",
+  "summary": "Extract structured key-value pairs from unstructured LLM output using regex, fuzzy matching, and schema validation.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://huggingface.co/GenAIDevTOProd",
+  "download_filename": "slotmatch-0.1.0.tar.gz",
+  "download_time": "2025-08-14T23:44:59.506341",
+  "package_url": "https://pypi.org/project/slotmatch/"
+}
