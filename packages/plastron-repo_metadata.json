@@ -1,0 +1,11 @@
+{
+  "name": "plastron-repo",
+  "version": "4.5.1",
+  "summary": "High-level classes and functions for interacting with a Fedora repository",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plastron_repo-4.5.1.tar.gz",
+  "download_time": "2025-08-14T17:47:41.846154",
+  "package_url": "https://pypi.org/project/plastron-repo/"
+}

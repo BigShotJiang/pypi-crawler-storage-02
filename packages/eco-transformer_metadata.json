@@ -1,11 +1,11 @@
 {
   "name": "eco-transformer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Optimize LLM outputs and track emissions",
   "author": "Vijayalakshmi",
   "license": "MIT",
   "home_page": "https://github.com/viji123450/eco_transformer",
-  "download_filename": "eco_transformer-0.1.4.tar.gz",
-  "download_time": "2025-08-14T17:28:22.138411",
+  "download_filename": "eco_transformer-0.1.5.tar.gz",
+  "download_time": "2025-08-14T17:47:48.563960",
   "package_url": "https://pypi.org/project/eco-transformer/"
 }

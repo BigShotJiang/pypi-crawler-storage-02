@@ -1,11 +1,11 @@
 {
   "name": "agentine",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "agentine is a lightweight Python library that enables quick and easy creation of model-agnostic AI agents.",
   "author": "Vincent de Neuf",
   "license": "MIT",
   "home_page": "https://github.com/vincentdeneuf/agentine",
-  "download_filename": "agentine-0.1.6.tar.gz",
-  "download_time": "2025-08-13T08:35:28.349496",
+  "download_filename": "agentine-0.1.7.tar.gz",
+  "download_time": "2025-08-14T17:47:31.781707",
   "package_url": "https://pypi.org/project/agentine/"
 }

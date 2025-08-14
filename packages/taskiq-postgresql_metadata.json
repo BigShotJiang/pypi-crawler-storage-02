@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-postgresql",
+  "version": "0.1.2",
+  "summary": "PostgreSQL integration for taskiq",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskiq_postgresql-0.1.2.tar.gz",
+  "download_time": "2025-08-14T17:47:42.364181",
+  "package_url": "https://pypi.org/project/taskiq-postgresql/"
+}

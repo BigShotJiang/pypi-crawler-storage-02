@@ -1,0 +1,11 @@
+{
+  "name": "Padmapper",
+  "version": "1.0.0",
+  "summary": "Add gamepad support to Linux games that only support keyboard and/or mouse",
+  "author": "Mathieu Abati",
+  "license": "LGPL",
+  "home_page": "https://github.com/VersusBox/padmapper",
+  "download_filename": "padmapper-1.0.0.tar.gz",
+  "download_time": "2025-08-14T17:47:35.372846",
+  "package_url": "https://pypi.org/project/Padmapper/"
+}

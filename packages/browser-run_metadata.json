@@ -1,0 +1,11 @@
+{
+  "name": "browser-run",
+  "version": "0.3.0",
+  "summary": "Run browser tasks and add SSH keys",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/browser_run",
+  "download_filename": "browser_run-0.3.0.tar.gz",
+  "download_time": "2025-08-14T17:47:49.074677",
+  "package_url": "https://pypi.org/project/browser-run/"
+}
