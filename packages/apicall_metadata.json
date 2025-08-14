@@ -1,0 +1,11 @@
+{
+  "name": "apicall",
+  "version": "0.2.1",
+  "summary": "User-friendly RESTful API & JSON-RPC Client",
+  "author": "The Python Packaging Authority",
+  "license": null,
+  "home_page": "https://github.com/yuuki0xff/apicall",
+  "download_filename": "apicall-0.2.1.tar.gz",
+  "download_time": "2025-08-14T17:28:18.985718",
+  "package_url": "https://pypi.org/project/apicall/"
+}

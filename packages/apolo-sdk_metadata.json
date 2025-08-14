@@ -1,11 +1,11 @@
 {
   "name": "apolo-sdk",
-  "version": "25.8.0",
+  "version": "25.8.1",
   "summary": "Apolo SDK",
   "author": "Apolo Team",
   "license": "Apache 2",
   "home_page": "https://github.com/neuro-inc/platform-client-python",
-  "download_filename": "apolo_sdk-25.8.0.tar.gz",
-  "download_time": "2025-08-08T09:59:19.721319",
+  "download_filename": "apolo_sdk-25.8.1.tar.gz",
+  "download_time": "2025-08-14T17:28:37.860935",
   "package_url": "https://pypi.org/project/apolo-sdk/"
 }

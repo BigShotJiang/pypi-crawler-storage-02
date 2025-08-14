@@ -1,11 +1,11 @@
 {
   "name": "polars",
-  "version": "1.32.2",
+  "version": "1.32.3",
   "summary": "Blazingly fast DataFrame library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars-1.32.2.tar.gz",
-  "download_time": "2025-08-07T10:58:39.224954",
+  "download_filename": "polars-1.32.3.tar.gz",
+  "download_time": "2025-08-14T17:28:16.308093",
   "package_url": "https://pypi.org/project/polars/"
 }
