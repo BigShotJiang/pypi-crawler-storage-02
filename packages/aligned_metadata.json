@@ -1,11 +1,11 @@
 {
   "name": "aligned",
-  "version": "0.0.126",
+  "version": "0.0.127",
   "summary": "A data management and lineage tool for ML applications.",
   "author": "Mats E. Mollestad",
   "license": "FSL-1.1-ALv2",
   "home_page": "https://github.com/MatsMoll/aligned",
-  "download_filename": "aligned-0.0.126.tar.gz",
-  "download_time": "2025-08-13T09:57:35.771529",
+  "download_filename": "aligned-0.0.127.tar.gz",
+  "download_time": "2025-08-14T09:58:35.672034",
   "package_url": "https://pypi.org/project/aligned/"
 }

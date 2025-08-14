@@ -1,0 +1,11 @@
+{
+  "name": "greenideas",
+  "version": "0.2.0",
+  "summary": "A package to generate grammatically valid but semantically nonsensical English sentences.",
+  "author": "Chris Hengler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greenideas-0.2.0.tar.gz",
+  "download_time": "2025-08-14T09:58:25.145797",
+  "package_url": "https://pypi.org/project/greenideas/"
+}

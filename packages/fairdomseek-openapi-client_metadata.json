@@ -1,0 +1,11 @@
+{
+  "name": "fairdomseek-openapi-client",
+  "version": "1.0.0",
+  "summary": "JSON API to FAIRDOM SEEK",
+  "author": "SEEK support",
+  "license": "The 3-Clause BSD License",
+  "home_page": null,
+  "download_filename": "fairdomseek_openapi_client-1.0.0.tar.gz",
+  "download_time": "2025-08-14T09:58:11.616324",
+  "package_url": "https://pypi.org/project/fairdomseek-openapi-client/"
+}

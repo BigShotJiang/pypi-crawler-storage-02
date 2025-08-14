@@ -1,0 +1,11 @@
+{
+  "name": "easy-rl-env",
+  "version": "0.1.0",
+  "summary": "Easily create custom RL environments for Gymnasium",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/easy-rl-env",
+  "download_filename": "easy_rl_env-0.1.0.tar.gz",
+  "download_time": "2025-08-14T09:58:32.022633",
+  "package_url": "https://pypi.org/project/easy-rl-env/"
+}

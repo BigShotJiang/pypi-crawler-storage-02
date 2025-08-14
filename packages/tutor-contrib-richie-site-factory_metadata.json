@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-richie-site-factory",
+  "version": "18.2.0",
+  "summary": "Richie site factory plugin for Tutor",
+  "author": "FCCN",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/fccn/tutor-contrib-richie-site-factory",
+  "download_filename": "tutor_contrib_richie_site_factory-18.2.0.tar.gz",
+  "download_time": "2025-08-14T09:58:14.751431",
+  "package_url": "https://pypi.org/project/tutor-contrib-richie-site-factory/"
+}
