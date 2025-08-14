@@ -1,0 +1,11 @@
+{
+  "name": "twitch-bot-plus",
+  "version": "1.1.0",
+  "summary": "A modular Twitch chat bot framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twitch_bot_plus-1.1.0.tar.gz",
+  "download_time": "2025-08-14T23:28:27.242374",
+  "package_url": "https://pypi.org/project/twitch-bot-plus/"
+}

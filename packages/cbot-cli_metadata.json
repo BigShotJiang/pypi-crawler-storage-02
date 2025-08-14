@@ -1,11 +1,11 @@
 {
   "name": "cbot-cli",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A local-first CLI helper for productivity and automation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cbot_cli-0.2.1.tar.gz",
-  "download_time": "2025-08-14T22:26:43.659395",
+  "download_filename": "cbot_cli-0.2.2.tar.gz",
+  "download_time": "2025-08-14T23:28:19.856487",
   "package_url": "https://pypi.org/project/cbot-cli/"
 }
