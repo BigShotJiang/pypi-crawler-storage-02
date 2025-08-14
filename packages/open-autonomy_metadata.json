@@ -1,11 +1,11 @@
 {
   "name": "open-autonomy",
-  "version": "0.20.2",
+  "version": "0.21.0",
   "summary": "A framework for the creation of autonomous agent services.",
   "author": "Valory AG",
   "license": "Apache-2.0",
   "home_page": "https://github.com/valory-xyz/open-autonomy.git",
-  "download_filename": "open_autonomy-0.20.2.tar.gz",
-  "download_time": "2025-08-13T19:56:21.546251",
+  "download_filename": "open_autonomy-0.21.0.tar.gz",
+  "download_time": "2025-08-14T18:39:33.299248",
   "package_url": "https://pypi.org/project/open-autonomy/"
 }

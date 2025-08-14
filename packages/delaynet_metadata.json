@@ -1,11 +1,11 @@
 {
   "name": "delaynet",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Delay Propagation in Transportation Networks",
   "author": "Carlson Büth, Massimiliano Zanin",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "delaynet-0.3.0.tar.gz",
-  "download_time": "2025-08-13T17:21:58.154361",
+  "download_filename": "delaynet-0.3.2.tar.gz",
+  "download_time": "2025-08-14T18:39:50.640447",
   "package_url": "https://pypi.org/project/delaynet/"
 }

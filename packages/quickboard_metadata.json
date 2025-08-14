@@ -1,0 +1,11 @@
+{
+  "name": "quickboard",
+  "version": "0.4.1",
+  "summary": "\"A simple Python package for creating quick, modular dashboards.\"",
+  "author": "Ricky Magner",
+  "license": null,
+  "home_page": "https://github.com/rickymagner/quickboard",
+  "download_filename": "quickboard-0.4.1.tar.gz",
+  "download_time": "2025-08-14T18:39:02.873341",
+  "package_url": "https://pypi.org/project/quickboard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "djangorestframework-stubs",
+  "version": "3.16.2",
+  "summary": "PEP-484 stubs for django-rest-framework",
+  "author": "Maksim Kurnikov",
+  "license": "MIT",
+  "home_page": "https://github.com/typeddjango/djangorestframework-stubs",
+  "download_filename": "djangorestframework_stubs-3.16.2.tar.gz",
+  "download_time": "2025-08-14T18:39:56.132386",
+  "package_url": "https://pypi.org/project/djangorestframework-stubs/"
+}

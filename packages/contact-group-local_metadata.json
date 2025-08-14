@@ -1,11 +1,11 @@
 {
   "name": "contact-group-local",
-  "version": "0.0.71",
+  "version": "0.0.72",
   "summary": "PyPI Package for Circles contact-group-local Python",
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/contact-group-local-python-package",
-  "download_filename": "contact_group_local-0.0.71.tar.gz",
-  "download_time": "2025-08-14T17:01:08.247311",
+  "download_filename": "contact_group_local-0.0.72.tar.gz",
+  "download_time": "2025-08-14T18:39:30.043410",
   "package_url": "https://pypi.org/project/contact-group-local/"
 }

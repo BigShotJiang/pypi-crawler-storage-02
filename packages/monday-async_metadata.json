@@ -1,0 +1,11 @@
+{
+  "name": "monday-async",
+  "version": "1.8.3",
+  "summary": "An asynchronous Python client library for monday.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "monday_async-1.8.3.tar.gz",
+  "download_time": "2025-08-14T18:39:37.216900",
+  "package_url": "https://pypi.org/project/monday-async/"
+}

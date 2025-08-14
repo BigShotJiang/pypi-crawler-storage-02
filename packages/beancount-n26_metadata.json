@@ -1,0 +1,11 @@
+{
+  "name": "beancount-n26",
+  "version": "1.5.0",
+  "summary": "Beancount Importer for N26 CSV exports",
+  "author": "Siddhant Goel",
+  "license": "MIT",
+  "home_page": "https://github.com/siddhantgoel/beancount-n26",
+  "download_filename": "beancount_n26-1.5.0.tar.gz",
+  "download_time": "2025-08-14T18:38:59.058842",
+  "package_url": "https://pypi.org/project/beancount-n26/"
+}

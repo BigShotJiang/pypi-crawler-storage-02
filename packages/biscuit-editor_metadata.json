@@ -1,0 +1,11 @@
+{
+  "name": "biscuit-editor",
+  "version": "3.3.0",
+  "summary": "A lightweight, fast, and extensible code editor with a growing community",
+  "author": "Billy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biscuit_editor-3.3.0.tar.gz",
+  "download_time": "2025-08-14T18:39:10.168050",
+  "package_url": "https://pypi.org/project/biscuit-editor/"
+}
