@@ -1,11 +1,11 @@
 {
   "name": "codemie-sdk-python",
-  "version": "0.1.106",
+  "version": "0.1.107",
   "summary": "CodeMie SDK for Python",
   "author": "Vadym Vlasenko",
   "license": null,
   "home_page": null,
-  "download_filename": "codemie_sdk_python-0.1.106.tar.gz",
-  "download_time": "2025-08-13T10:30:24.703582",
+  "download_filename": "codemie_sdk_python-0.1.107.tar.gz",
+  "download_time": "2025-08-14T09:03:24.530869",
   "package_url": "https://pypi.org/project/codemie-sdk-python/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "huaweicloudsdkocr",
-  "version": "3.1.161",
+  "version": "3.1.162",
   "summary": "OCR",
   "author": "HuaweiCloud SDK",
   "license": "Apache LICENSE 2.0",
   "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
-  "download_filename": "huaweicloudsdkocr-3.1.161-py3-none-any.whl",
-  "download_time": "2025-08-07T08:35:48.777799",
+  "download_filename": "huaweicloudsdkocr-3.1.162-py3-none-any.whl",
+  "download_time": "2025-08-14T09:03:52.659154",
   "package_url": "https://pypi.org/project/huaweicloudsdkocr/"
 }

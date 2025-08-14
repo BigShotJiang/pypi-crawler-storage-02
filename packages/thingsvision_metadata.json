@@ -1,11 +1,11 @@
 {
   "name": "thingsvision",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "summary": "Extracting image features from state-of-the-art neural networks for Computer Vision made easy",
   "author": "Lukas Muttenthaler",
   "license": "MIT License",
   "home_page": "https://github.com/ViCCo-Group/thingsvision",
-  "download_filename": "thingsvision-2.7.2.tar.gz",
-  "download_time": "2025-08-06T17:02:44.707051",
+  "download_filename": "thingsvision-2.7.3.tar.gz",
+  "download_time": "2025-08-14T09:03:20.745212",
   "package_url": "https://pypi.org/project/thingsvision/"
 }

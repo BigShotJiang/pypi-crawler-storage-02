@@ -1,0 +1,11 @@
+{
+  "name": "antkit",
+  "version": "0.0.1",
+  "summary": "A Python package for intelligent information bagging system",
+  "author": "lqxnjk",
+  "license": "MIT",
+  "home_page": "https://github.com/lqxnjk/antkit",
+  "download_filename": "antkit-0.0.1.tar.gz",
+  "download_time": "2025-08-14T09:03:25.056656",
+  "package_url": "https://pypi.org/project/antkit/"
+}

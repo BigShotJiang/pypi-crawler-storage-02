@@ -1,0 +1,11 @@
+{
+  "name": "nnoir-onnx",
+  "version": "1.6.0",
+  "summary": "ONNX to NNOIR Converter",
+  "author": "Idein Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/Idein/nnoir/tree/master/nnoir-onnx",
+  "download_filename": "nnoir_onnx-1.6.0.tar.gz",
+  "download_time": "2025-08-14T09:03:15.360911",
+  "package_url": "https://pypi.org/project/nnoir-onnx/"
+}

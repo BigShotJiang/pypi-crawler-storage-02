@@ -1,11 +1,11 @@
 {
   "name": "huaweicloudsdksis",
-  "version": "3.1.161",
+  "version": "3.1.162",
   "summary": "SIS",
   "author": "HuaweiCloud SDK",
   "license": "Apache LICENSE 2.0",
   "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
-  "download_filename": "huaweicloudsdksis-3.1.161-py3-none-any.whl",
-  "download_time": "2025-08-07T08:35:35.378857",
+  "download_filename": "huaweicloudsdksis-3.1.162-py3-none-any.whl",
+  "download_time": "2025-08-14T09:03:39.109499",
   "package_url": "https://pypi.org/project/huaweicloudsdksis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "textutils-plus",
+  "version": "0.1.0",
+  "summary": "A small library for counting words and reversing text.",
+  "author": null,
+  "license": " ---  ### **`LICENSE`** (Example MIT License) ```text MIT License Copyright (c) 2025 Your Name  Permission is hereby granted, free of charge, to any person obtaining a copy... ",
+  "home_page": null,
+  "download_filename": "textutils-plus-0.1.0.tar.gz",
+  "download_time": "2025-08-14T09:03:21.821511",
+  "package_url": "https://pypi.org/project/textutils-plus/"
+}
