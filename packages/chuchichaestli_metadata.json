@@ -1,11 +1,11 @@
 {
   "name": "chuchichaestli",
-  "version": "0.2.11",
+  "version": "0.2.14",
   "summary": "Where you find all the state-of-the-art cooking utensils (salt, pepper, gradient descent... the usual).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuchichaestli-0.2.11.tar.gz",
-  "download_time": "2025-08-05T11:27:21.546978",
+  "download_filename": "chuchichaestli-0.2.14.tar.gz",
+  "download_time": "2025-08-14T08:00:35.826891",
   "package_url": "https://pypi.org/project/chuchichaestli/"
 }

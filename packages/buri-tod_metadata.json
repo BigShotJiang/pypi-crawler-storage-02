@@ -1,11 +1,11 @@
 {
   "name": "buri-tod",
-  "version": "3.0",
+  "version": "4.0",
   "summary": "B.U.R.I (Basic Universal Remote Interface) is a powerful, stateful, and user-friendly Python-based client for interacting with PHP webshells. Designed for penetration testers and security professionals, B.U.R.I demonstrates the impact of file upload vulnerabilities and provides a rich command-line interface for managing remote servers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buri_tod-3.0.tar.gz",
-  "download_time": "2025-08-14T03:25:57.479552",
+  "download_filename": "buri_tod-4.0.tar.gz",
+  "download_time": "2025-08-14T08:00:34.163688",
   "package_url": "https://pypi.org/project/buri-tod/"
 }

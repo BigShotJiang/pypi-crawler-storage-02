@@ -1,13 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T07:49:24.683675
+- **Download Time**: 2025-08-14T08:01:18.088760
 - **Total Packages**: 88
-- **Total Size**: 14.14 MB
+- **Total Size**: 10.39 MB
 
 ## Packages List
-- stocks-earnings-dates
+- xync-client
+- xstate-statemachine
+- py3comtrade
 - myxagent
+- boitrann
+- finance-ops-scripts
+- dequantor
+- kakao-analyzer
+- pycti
+- buri-tod
+- gwenflow
+- fastsio
+- chuchichaestli
+- superu
+- heaven-tree-repl
+- python-matter-server
+- media-agent-mcp
+- odoo-addon-account-move-auto-post-ref
+- supadata
+- finbourne-horizon-sdk
+- specphp-scanner
+- academia-mcp
+- lark-util
+- ark-sdk-python
+- openalgo
+- cdk-gitlab-runner
+- lace-client
+- cdktf-gitlab-runner
+- SpaHDmap
+- fair-mango
+- nr-oaipmh-harvesters
+- titifel-pypi
+- apis-core-rdf
+- fngradio
+- stocks-earnings-dates
 - HydrogenLib-Config
 - localstack-core
 - gemf-map
@@ -28,9 +61,7 @@
 - pulumi-gcp
 - HowdenParser
 - pygenfsm
-- HydrogenLib-Hyconfig
 - hass-nabucasa
-- titifel-pypi
 - feldera
 - cfpack
 - ubiops-cli
@@ -51,7 +82,6 @@
 - legit-api-client
 - neuro-config-client
 - idf-ci
-- heaven-tree-repl
 - itsolve
 - cubicweb-fresh
 - torch-legendre
@@ -64,33 +94,3 @@
 - reywechat
 - pip-list
 - matchbox-db
-- fediverse-pasture
-- mcp-feet-master
-- uat-breeze-connect
-- unboil-sqlalchemy-mixins
-- tulca
-- exasol-toolbox
-- pyscfadlib
-- pyqqq
-- moresso
-- another-sd-client
-- mergify-cli
-- pydoclint
-- scrape-cli
-- odoo-addon-mail-tracking
-- lark-util
-- local-agent-toolkit
-- acryl-datahub-actions
-- acryl-datahub-gx-plugin
-- encodapy
-- py-agent-tools
-- acryl-datahub-dagster-plugin
-- hulin-mcp-server
-- iris-tod
-- mastui
-- prefect-datahub
-- db-analytics-tools
-- acryl-datahub-airflow-plugin
-- acryl-datahub
-- iflow-mcp_windows-mcp
-- nucliadb-admin-assets

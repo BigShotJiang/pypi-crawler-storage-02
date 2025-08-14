@@ -1,11 +1,11 @@
 {
   "name": "nr-oaipmh-harvesters",
-  "version": "1.0.67",
+  "version": "1.0.68",
   "summary": "OAIPMH harvesters for National repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nr_oaipmh_harvesters-1.0.67.tar.gz",
-  "download_time": "2025-08-13T11:23:41.828483",
+  "download_filename": "nr_oaipmh_harvesters-1.0.68.tar.gz",
+  "download_time": "2025-08-14T08:00:46.253853",
   "package_url": "https://pypi.org/project/nr-oaipmh-harvesters/"
 }
