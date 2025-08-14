@@ -1,0 +1,11 @@
+{
+  "name": "cosin_helpers",
+  "version": "0.1.3",
+  "summary": "Helpers for CMS tools that can be ran on lxplus",
+  "author": "Nico Toikka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosin_helpers-0.1.3.tar.gz",
+  "download_time": "2025-08-14T09:36:03.837405",
+  "package_url": "https://pypi.org/project/cosin_helpers/"
+}

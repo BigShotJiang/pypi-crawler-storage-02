@@ -1,11 +1,11 @@
 {
   "name": "cognite-power-ops",
-  "version": "0.114.2",
+  "version": "1.0.0",
   "summary": "SDK for power markets operations on Cognite Data Fusion",
   "author": "Cognite",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "cognite_power_ops-0.114.2.tar.gz",
-  "download_time": "2025-08-13T14:53:44.305980",
+  "download_filename": "cognite_power_ops-1.0.0.tar.gz",
+  "download_time": "2025-08-14T09:36:10.869361",
   "package_url": "https://pypi.org/project/cognite-power-ops/"
 }

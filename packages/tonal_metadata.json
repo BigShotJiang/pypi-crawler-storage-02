@@ -1,11 +1,11 @@
 {
   "name": "tonal",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Tools for music analysis and generation",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": "https://github.com/thorwhalen/tonal",
-  "download_filename": "tonal-0.0.9.tar.gz",
-  "download_time": "2025-08-13T17:56:27.852039",
+  "download_filename": "tonal-0.0.10.tar.gz",
+  "download_time": "2025-08-14T09:36:06.086936",
   "package_url": "https://pypi.org/project/tonal/"
 }

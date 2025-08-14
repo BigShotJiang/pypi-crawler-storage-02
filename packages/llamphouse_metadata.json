@@ -1,0 +1,11 @@
+{
+  "name": "llamphouse",
+  "version": "0.0.8",
+  "summary": "LLAMPHouse OpenAI Assistant Server",
+  "author": "llamp.ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llamphouse-0.0.8.tar.gz",
+  "download_time": "2025-08-14T09:36:40.001913",
+  "package_url": "https://pypi.org/project/llamphouse/"
+}

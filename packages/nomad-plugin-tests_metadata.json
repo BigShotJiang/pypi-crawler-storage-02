@@ -1,0 +1,11 @@
+{
+  "name": "nomad-plugin-tests",
+  "version": "0.2.3",
+  "summary": "Run NOMAD plugin tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_plugin_tests-0.2.3.tar.gz",
+  "download_time": "2025-08-14T09:36:04.443711",
+  "package_url": "https://pypi.org/project/nomad-plugin-tests/"
+}

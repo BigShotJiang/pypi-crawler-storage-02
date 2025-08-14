@@ -1,0 +1,11 @@
+{
+  "name": "mcp-run-python-code",
+  "version": "0.0.2",
+  "summary": "mcp-run-python-code: MCP server for running Python code, installing packages, and executing Python files.",
+  "author": "XuMing",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/shibing624/mcp-run-python-code",
+  "download_filename": "mcp_run_python_code-0.0.2.tar.gz",
+  "download_time": "2025-08-14T09:36:18.816385",
+  "package_url": "https://pypi.org/project/mcp-run-python-code/"
+}

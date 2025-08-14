@@ -1,0 +1,11 @@
+{
+  "name": "PythonForWindows",
+  "version": "1.0.4",
+  "summary": "A codebase aimed to make interaction with Windows and native execution easier",
+  "author": "Hakril",
+  "license": "BSD",
+  "home_page": "https://github.com/hakril/PythonForWindows",
+  "download_filename": "pythonforwindows-1.0.4.tar.gz",
+  "download_time": "2025-08-14T09:36:34.881841",
+  "package_url": "https://pypi.org/project/PythonForWindows/"
+}

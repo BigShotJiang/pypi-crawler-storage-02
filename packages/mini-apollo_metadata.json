@@ -1,11 +1,11 @@
 {
   "name": "mini-apollo",
-  "version": "0.1.1",
-  "summary": "A lightweight Apollo Config SDK for Python.",
+  "version": "0.1.2",
+  "summary": "A lightweight Python SDK for Apollo Config.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mini_apollo-0.1.1.tar.gz",
-  "download_time": "2025-08-14T07:33:27.020979",
+  "download_filename": "mini_apollo-0.1.2.tar.gz",
+  "download_time": "2025-08-14T09:36:26.806370",
   "package_url": "https://pypi.org/project/mini-apollo/"
 }
