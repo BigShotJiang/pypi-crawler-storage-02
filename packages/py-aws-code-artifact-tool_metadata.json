@@ -1,11 +1,11 @@
 {
   "name": "py-aws-code-artifact-tool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI tool for building and deploying Python projects to AWS CodeArtifact",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_aws_code_artifact_tool-0.1.0.tar.gz",
-  "download_time": "2025-08-14T22:49:20.505074",
+  "download_filename": "py_aws_code_artifact_tool-0.1.1.tar.gz",
+  "download_time": "2025-08-14T22:59:57.805284",
   "package_url": "https://pypi.org/project/py-aws-code-artifact-tool/"
 }
