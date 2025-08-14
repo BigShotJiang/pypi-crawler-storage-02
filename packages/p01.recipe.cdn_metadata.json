@@ -1,11 +1,11 @@
 {
   "name": "p01.recipe.cdn",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Content delivery network Concept supporting resource offload",
   "author": "Roger Ineichen and the Zope Community",
   "license": "ZPL 2.1",
   "home_page": "http://pypi.python.org/pypi/p01.recipe.cdn",
-  "download_filename": "p01.recipe.cdn-1.1.4.tar.gz",
-  "download_time": "2025-08-14T23:44:50.198594",
+  "download_filename": "p01.recipe.cdn-1.1.5.tar.gz",
+  "download_time": "2025-08-14T23:56:46.852561",
   "package_url": "https://pypi.org/project/p01.recipe.cdn/"
 }
