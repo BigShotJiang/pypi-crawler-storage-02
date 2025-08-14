@@ -1,0 +1,11 @@
+{
+  "name": "goutool",
+  "version": "0.1.1",
+  "summary": "🐶 Python工具类库 更加快速的开发项目 便捷优雅的使用类库",
+  "author": "wl4837",
+  "license": null,
+  "home_page": "https://gitee.com/wl4837/goutool",
+  "download_filename": "goutool-0.1.1.tar.gz",
+  "download_time": "2025-08-14T03:26:32.621038",
+  "package_url": "https://pypi.org/project/goutool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-outbound-static",
+  "version": "18.0.1.0.1.1",
+  "summary": "Allows you to configure the from header for a mail server.",
+  "author": "braintec AG, LasLabs, Adhoc SA, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_outbound_static-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-14T03:26:13.290376",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-outbound-static/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "swe-ai-agent",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Headless Agentic IDE with reasoning mode and in built Browser",
   "author": "SWE Agent Team",
   "license": "MIT",
   "home_page": "https://github.com/sweagent/swe-agent",
-  "download_filename": "swe_ai_agent-2.0.4.tar.gz",
-  "download_time": "2025-08-13T20:46:57.928826",
+  "download_filename": "swe_ai_agent-2.0.5.tar.gz",
+  "download_time": "2025-08-14T03:25:56.428884",
   "package_url": "https://pypi.org/project/swe-ai-agent/"
 }

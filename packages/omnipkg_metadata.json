@@ -1,11 +1,11 @@
 {
   "name": "omnipkg",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "The Intelligent Python Dependency Resolver",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "omnipkg-1.0.10.tar.gz",
-  "download_time": "2025-08-12T04:46:03.632092",
+  "download_filename": "omnipkg-1.0.11.tar.gz",
+  "download_time": "2025-08-14T03:26:12.757107",
   "package_url": "https://pypi.org/project/omnipkg/"
 }

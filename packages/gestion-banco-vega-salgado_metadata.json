@@ -1,0 +1,11 @@
+{
+  "name": "gestion-banco-vega-salgado",
+  "version": "1.0.0",
+  "summary": "Sistema bancario con POO en Python",
+  "author": "Alfonso Fernando Vega Salgado",
+  "license": null,
+  "home_page": "https://github.com/usuario/gestion_banco_vega_salgado",
+  "download_filename": "gestion_banco_vega_salgado-1.0.0.tar.gz",
+  "download_time": "2025-08-14T03:25:58.526431",
+  "package_url": "https://pypi.org/project/gestion-banco-vega-salgado/"
+}

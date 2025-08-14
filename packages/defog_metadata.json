@@ -1,11 +1,11 @@
 {
   "name": "defog",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Defog is a Python library that helps you generate data queries from natural language questions.",
   "author": "Full Stack Data Pte. Ltd.",
   "license": "MIT",
   "home_page": "https://github.com/defog-ai/defog-python",
-  "download_filename": "defog-1.2.8.tar.gz",
-  "download_time": "2025-08-07T21:26:04.968238",
+  "download_filename": "defog-1.2.9.tar.gz",
+  "download_time": "2025-08-14T03:26:07.513973",
   "package_url": "https://pypi.org/project/defog/"
 }

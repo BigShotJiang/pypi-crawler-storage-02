@@ -1,0 +1,11 @@
+{
+  "name": "pripy",
+  "version": "0.1.8",
+  "summary": "Phase Retrieval algorithms in Python",
+  "author": "Jesse Cranney",
+  "license": null,
+  "home_page": "https://github.com/jcranney/pripy.git",
+  "download_filename": "pripy-0.1.8.tar.gz",
+  "download_time": "2025-08-14T03:26:37.025541",
+  "package_url": "https://pypi.org/project/pripy/"
+}

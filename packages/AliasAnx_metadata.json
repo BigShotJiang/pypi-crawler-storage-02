@@ -1,11 +1,11 @@
 {
   "name": "AliasAnx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Geração de arquivos ANX (Alias) em Python",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aliasanx-0.1.0.tar.gz",
-  "download_time": "2025-08-12T01:55:39.865971",
+  "download_filename": "aliasanx-0.1.2.tar.gz",
+  "download_time": "2025-08-14T03:26:38.069934",
   "package_url": "https://pypi.org/project/AliasAnx/"
 }

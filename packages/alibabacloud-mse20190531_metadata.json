@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-mse20190531",
-  "version": "6.20.1",
+  "version": "6.21.0",
   "summary": "Alibaba Cloud Microservice Engine (20190531) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_mse20190531-6.20.1.tar.gz",
-  "download_time": "2025-08-13T17:21:57.632987",
+  "download_filename": "alibabacloud_mse20190531-6.21.0.tar.gz",
+  "download_time": "2025-08-14T03:26:08.588356",
   "package_url": "https://pypi.org/project/alibabacloud-mse20190531/"
 }
