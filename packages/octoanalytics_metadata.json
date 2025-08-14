@@ -1,11 +1,11 @@
 {
   "name": "octoanalytics",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "Quantitative analysis for power markets",
   "author": "Jean Bertin, Thomas Maaza",
   "license": null,
   "home_page": null,
-  "download_filename": "octoanalytics-0.3.3.tar.gz",
-  "download_time": "2025-08-11T11:56:22.969853",
+  "download_filename": "octoanalytics-0.3.6.tar.gz",
+  "download_time": "2025-08-14T14:02:31.749260",
   "package_url": "https://pypi.org/project/octoanalytics/"
 }

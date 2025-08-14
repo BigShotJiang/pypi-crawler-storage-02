@@ -1,11 +1,11 @@
 {
   "name": "tagny-mcp-server",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "summary": "An MCP server with web search, URL text fetching, and more tools to enhance locally served LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tagny_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-08-14T08:39:24.141555",
+  "download_filename": "tagny_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-08-14T14:02:32.327419",
   "package_url": "https://pypi.org/project/tagny-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-driver-adapters",
+  "version": "2.3.1",
+  "summary": "Adapter classes to use sensirion_i2c_driver package",
+  "author": "Rolf Laich",
+  "license": "BSD 3-Clause License",
+  "home_page": "http://developers.sensirion.com",
+  "download_filename": "sensirion-driver-adapters-2.3.1.tar.gz",
+  "download_time": "2025-08-14T14:02:21.306985",
+  "package_url": "https://pypi.org/project/sensirion-driver-adapters/"
+}

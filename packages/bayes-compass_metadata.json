@@ -1,0 +1,11 @@
+{
+  "name": "bayes-compass",
+  "version": "1.0.1",
+  "summary": "COMPASS: A Python package for bayesian model comparison in a simulation based setting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bayes_compass-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-14T14:02:20.138687",
+  "package_url": "https://pypi.org/project/bayes-compass/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "miservice-fork",
+  "version": "2.9.0",
+  "summary": "XiaoMi Cloud Service fork from https://github.com/Yonsm/MiService",
+  "author": "Yonsm, yihong0618",
+  "license": "MIT",
+  "home_page": "https://github.com/yihong0618/MiService",
+  "download_filename": "miservice_fork-2.9.0.tar.gz",
+  "download_time": "2025-08-14T14:02:34.723545",
+  "package_url": "https://pypi.org/project/miservice-fork/"
+}
