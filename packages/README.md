@@ -1,67 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T20:31:00.621539
-- **Total Packages**: 81
-- **Total Size**: 35.19 MB
+- **Download Time**: 2025-08-14T20:50:03.130790
+- **Total Packages**: 92
+- **Total Size**: 3.8 MB
 
 ## Packages List
-- dyff-schema
-- graph-games-proto
-- t-nextgen
-- xla-cuda12-pjrt
-- cognee
-- mobilizr-python
-- ida-domain
-- amd-debug-tools
-- libadalina-core
-- ida-hcli
-- ambiegen
-- claude-pyrojects
-- sqlmesh
-- c2cgeoportal-admin
-- snowflake-connector-python
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- eam-report-helper
-- which-bsm
-- monday-client
-- askp-cli
-- datasette-demo-dbs
-- methodosintscan
-- langchain-moorcheh
-- pulp-container
-- pulp-container-client
-- flexwurx-event-hub-python
-- pulumi-provider-boilerplate
-- microalpha
-- academia-mcp
-- lusid-sdk
-- llama-index-packs-resume-screener
-- llama-index-llms-ollama
-- bookio-fetchfox
-- inchpym
-- cucu
-- llmbuilder
-- tree-types
-- MMRPackage821
-- sage-agent-internal
-- bedrock-protocol
-- trimesh
-- truss-transfer
-- openai-model-registry
-- wipac-dev-tools
 - verity-import
+- bookio-fetchfox
 - pulp-ostree-client
 - pulp-ostree
 - InSpice
 - cdhdashboard
 - juriscraper
+- eam-report-helper
 - chainlit
 - klotho-cac
 - sage-agent
 - sapiopycommons
 - modelity
+- inchpym
+- sqlmesh
 - truss
 - dycw-utilities
 - fast-agent-mcp
@@ -75,6 +34,7 @@
 - nvidia-nat-crewai
 - gdvc
 - nvidia-nat-redis
+- academia-mcp
 - cloneholio
 - nvidia-nat-zep-cloud
 - ngpt
@@ -87,3 +47,54 @@
 - notofonttools
 - nvidia-nat-test
 - nvidia-nat-s3
+- sage-agent-internal
+- nvidia-nat-llama-index
+- numerai-tools
+- nvidia-nat-mysql
+- memu-py
+- cognee
+- rumdl
+- nvidia-nat-weave
+- nvidia-nat-langchain
+- nvidia-nat
+- agentsystems-sdk
+- nvidia-nat-agno
+- nvidia-nat-ragaai
+- shephex
+- nvidia-nat-opentelemetry
+- parcllabs
+- cps-impress
+- nvidia-nat-semantic-kernel
+- zenable-mcp
+- nvidia-nat-phoenix
+- openhands-ai
+- pbipandas
+- bear-utils
+- bedrock-protocol-nbt
+- pbi-core
+- flexwurx-event-hub-python
+- discord-py-help-lib
+- mccole
+- grafap
+- plua
+- docviz-python
+- pympebm
+- tau-community-detection
+- ai-context-compressor
+- catchery
+- pyvalidly
+- nbodykit
+- glgrpa
+- kaiserlift
+- ha-synthetic-sensors
+- askp-cli
+- pulp-cli-ostree
+- pulp-glue-ostree
+- moose-cli
+- aioboto3
+- bedrock-protocol-binarystream
+- dismew
+- pulumi-cloudflare
+- NEMO-reports
+- there-access
+- uv
