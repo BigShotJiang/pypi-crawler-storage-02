@@ -1,0 +1,11 @@
+{
+  "name": "underdata",
+  "version": "0.2.0",
+  "summary": "Scraping data package for www.understat.com",
+  "author": "Osvaldo Trujillo",
+  "license": "MIT",
+  "home_page": "https://github.com/osvaldomx/UnderData",
+  "download_filename": "underdata-0.2.0.tar.gz",
+  "download_time": "2025-08-14T07:48:41.719095",
+  "package_url": "https://pypi.org/project/underdata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-intranet",
+  "version": "2.14.2",
+  "summary": "an intranet built on the CubicWeb framework",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "http://cubicweb.org/project/cubicweb-intranet",
+  "download_filename": "cubicweb_intranet-2.14.2.tar.gz",
+  "download_time": "2025-08-14T07:48:43.312332",
+  "package_url": "https://pypi.org/project/cubicweb-intranet/"
+}
