@@ -1,11 +1,11 @@
 {
   "name": "cisco-hashgen",
-  "version": "1.2.5",
-  "summary": "Generate and verify Cisco-compatible PBKDF2 password hashes (ASA & IOS/IOS-XE)",
+  "version": "2.0.1",
+  "summary": "Generate and verify Cisco-compatible password hashes for Cisco ASA & IOS/IOS-XE.",
   "author": "Gilbert Mendoza",
   "license": null,
   "home_page": null,
-  "download_filename": "cisco_hashgen-1.2.5.tar.gz",
-  "download_time": "2025-08-09T11:20:54.741041",
+  "download_filename": "cisco_hashgen-2.0.1.tar.gz",
+  "download_time": "2025-08-14T05:35:25.998752",
   "package_url": "https://pypi.org/project/cisco-hashgen/"
 }

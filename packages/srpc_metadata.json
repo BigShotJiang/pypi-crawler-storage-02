@@ -1,11 +1,11 @@
 {
   "name": "srpc",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "summary": "description",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "srpc-4.6.0-cp312-abi3-macosx_10_13_universal2.whl",
-  "download_time": "2025-08-14T03:26:34.781079",
+  "download_filename": "srpc-4.6.1-cp312-abi3-macosx_10_13_universal2.whl",
+  "download_time": "2025-08-14T05:35:37.574286",
   "package_url": "https://pypi.org/project/srpc/"
 }

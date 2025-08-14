@@ -1,11 +1,11 @@
 {
   "name": "centricube-langchain",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "centricube langchain modules",
   "author": "CICIT",
   "license": "Apache 2.0",
   "home_page": "https://github.com/cicit/centricube",
-  "download_filename": "centricube_langchain-1.2.6.tar.gz",
-  "download_time": "2025-08-14T05:03:39.400839",
+  "download_filename": "centricube_langchain-1.2.7.tar.gz",
+  "download_time": "2025-08-14T05:35:31.300929",
   "package_url": "https://pypi.org/project/centricube-langchain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-redis",
-  "version": "1.2.0rc5",
-  "summary": "Subpackage for Redis memory integration in AIQtoolkit",
+  "version": "1.2.0rc6",
+  "summary": "Subpackage for Redis integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_redis-1.2.0rc5-py3-none-any.whl",
-  "download_time": "2025-08-08T16:34:47.423795",
+  "download_filename": "nvidia_nat_redis-1.2.0rc6-py3-none-any.whl",
+  "download_time": "2025-08-14T05:35:40.707113",
   "package_url": "https://pypi.org/project/nvidia-nat-redis/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "media-agent-mcp",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "A Model Context Protocol server for media processing with AI tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "media_agent_mcp-2.1.4.tar.gz",
-  "download_time": "2025-08-13T21:24:38.704598",
+  "download_filename": "media_agent_mcp-2.1.5.tar.gz",
+  "download_time": "2025-08-14T05:35:21.317383",
   "package_url": "https://pypi.org/project/media-agent-mcp/"
 }
