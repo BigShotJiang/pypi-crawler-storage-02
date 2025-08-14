@@ -1,11 +1,11 @@
 {
   "name": "nfl-data-loader",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A Python interface for various NFL data sources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nfl_data_loader-0.0.4.tar.gz",
-  "download_time": "2025-08-14T18:39:00.353044",
+  "download_filename": "nfl_data_loader-0.0.6.tar.gz",
+  "download_time": "2025-08-14T21:01:19.076731",
   "package_url": "https://pypi.org/project/nfl-data-loader/"
 }

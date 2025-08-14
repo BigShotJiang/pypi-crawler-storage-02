@@ -1,11 +1,11 @@
 {
   "name": "microalpha",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Python library for analyzing ultra-high-frequency tick data and discovering micro-alpha trading signals.",
   "author": "Amaya Joshi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microalpha-0.2.1.tar.gz",
-  "download_time": "2025-08-14T20:30:32.191590",
+  "download_filename": "microalpha-0.2.2.tar.gz",
+  "download_time": "2025-08-14T21:01:39.135407",
   "package_url": "https://pypi.org/project/microalpha/"
 }

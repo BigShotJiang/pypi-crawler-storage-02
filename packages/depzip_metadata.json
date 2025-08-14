@@ -1,0 +1,11 @@
+{
+  "name": "depzip",
+  "version": "1.0",
+  "summary": "A small library for zipping Python application dependencies",
+  "author": "Pavel Demin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "depzip-1.0.tar.gz",
+  "download_time": "2025-08-14T21:00:59.767676",
+  "package_url": "https://pypi.org/project/depzip/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-tsf",
-  "version": "3.0.1442",
+  "version": "3.0.1444",
   "summary": "Tencent Cloud Tsf SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-tsf-3.0.1442.tar.gz",
-  "download_time": "2025-08-10T20:57:52.238572",
+  "download_filename": "tencentcloud-sdk-python-tsf-3.0.1444.tar.gz",
+  "download_time": "2025-08-14T21:01:08.308711",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tsf/"
 }

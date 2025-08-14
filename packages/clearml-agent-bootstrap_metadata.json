@@ -1,0 +1,11 @@
+{
+  "name": "clearml-agent-bootstrap",
+  "version": "0.0.0",
+  "summary": "A data-only package with clearml-agent bootstrap tools and executables",
+  "author": "clearml",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/clearml/clearml-agent-bootstrap",
+  "download_filename": "clearml_agent_bootstrap-0.0.0-py3-none-any.whl",
+  "download_time": "2025-08-14T21:01:28.111850",
+  "package_url": "https://pypi.org/project/clearml-agent-bootstrap/"
+}
