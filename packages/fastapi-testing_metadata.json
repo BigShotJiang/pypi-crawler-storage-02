@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-testing",
+  "version": "0.3.2",
+  "summary": "A lightweight, async-first testing framework for FastAPI applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_testing-0.3.2.tar.gz",
+  "download_time": "2025-08-14T14:32:20.123494",
+  "package_url": "https://pypi.org/project/fastapi-testing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "govuk-frontend-jinja",
+  "version": "3.7.0",
+  "summary": "GOV.UK Frontend Jinja Macros",
+  "author": "Matt Shaw",
+  "license": null,
+  "home_page": "https://github.com/LandRegistry/govuk-frontend-jinja",
+  "download_filename": "govuk_frontend_jinja-3.7.0.tar.gz",
+  "download_time": "2025-08-14T14:31:38.487548",
+  "package_url": "https://pypi.org/project/govuk-frontend-jinja/"
+}
