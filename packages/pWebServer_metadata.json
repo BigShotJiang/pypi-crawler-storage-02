@@ -1,11 +1,11 @@
 {
   "name": "pWebServer",
-  "version": "25.4a2",
+  "version": "25.8a4",
   "summary": "Small, asynchronous web server for use with Raspberry Pi Pico W boards and similar",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pwebserver-25.4a2.tar.gz",
-  "download_time": "2025-08-14T10:29:55.797967",
+  "download_filename": "pwebserver-25.8a4.tar.gz",
+  "download_time": "2025-08-14T11:24:00.182672",
   "package_url": "https://pypi.org/project/pWebServer/"
 }

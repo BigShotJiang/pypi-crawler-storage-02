@@ -1,11 +1,11 @@
 {
   "name": "appserver-sdk-python-ai",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "SDK Python para serviços de IA da AppServer",
   "author": "AppServer Team",
   "license": "MIT",
   "home_page": "https://appserver.com.br",
-  "download_filename": "appserver_sdk_python_ai-0.0.17.tar.gz",
-  "download_time": "2025-08-13T21:45:25.196526",
+  "download_filename": "appserver_sdk_python_ai-0.0.18.tar.gz",
+  "download_time": "2025-08-14T11:23:52.420935",
   "package_url": "https://pypi.org/project/appserver-sdk-python-ai/"
 }

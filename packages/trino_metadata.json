@@ -1,0 +1,11 @@
+{
+  "name": "trino",
+  "version": "0.336.0",
+  "summary": "Client for the Trino distributed SQL Engine",
+  "author": "Trino Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/trinodb/trino-python-client",
+  "download_filename": "trino-0.336.0.tar.gz",
+  "download_time": "2025-08-14T11:24:21.595083",
+  "package_url": "https://pypi.org/project/trino/"
+}

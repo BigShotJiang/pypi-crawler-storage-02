@@ -1,0 +1,11 @@
+{
+  "name": "zecmf",
+  "version": "0.1.13",
+  "summary": "A framework for building microservices in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zecmf-0.1.13.tar.gz",
+  "download_time": "2025-08-14T11:24:12.576367",
+  "package_url": "https://pypi.org/project/zecmf/"
+}

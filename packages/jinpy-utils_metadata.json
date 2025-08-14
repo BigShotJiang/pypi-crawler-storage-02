@@ -1,11 +1,11 @@
 {
   "name": "jinpy-utils",
-  "version": "0.1.0a1",
+  "version": "0.1.0a2",
   "summary": "jinpy-utils is a collection of minimal, type-safe Python utilities for Caching, Logging, Settings, and ORM. It follows modern Python practices (PEP 8, mypy, Ruff) and maintains high test coverage.",
   "author": "Jinto A G",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jinpy_utils-0.1.0a1.tar.gz",
-  "download_time": "2025-08-14T10:29:53.944888",
+  "download_filename": "jinpy_utils-0.1.0a2.tar.gz",
+  "download_time": "2025-08-14T11:23:53.446487",
   "package_url": "https://pypi.org/project/jinpy-utils/"
 }

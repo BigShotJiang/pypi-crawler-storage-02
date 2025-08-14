@@ -1,11 +1,11 @@
 {
   "name": "fabricatio-anki",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "An extension of fabricatio, which brings up the capability of creating fully explainned anki deck package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabricatio_anki-0.2.4-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-08-08T23:43:54.488761",
+  "download_filename": "fabricatio_anki-0.2.5-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-14T11:24:07.454519",
   "package_url": "https://pypi.org/project/fabricatio-anki/"
 }

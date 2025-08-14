@@ -1,11 +1,11 @@
 {
   "name": "myrlkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tiny, teaching-focused reinforcement learning kit (Q-learning, SARSA, Bandits) with toy environments.",
-  "author": null,
+  "author": "Nihar Lohar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "myrlkit-0.1.1.tar.gz",
-  "download_time": "2025-08-14T10:53:31.276290",
+  "download_filename": "myrlkit-0.1.2.tar.gz",
+  "download_time": "2025-08-14T11:24:13.087478",
   "package_url": "https://pypi.org/project/myrlkit/"
 }

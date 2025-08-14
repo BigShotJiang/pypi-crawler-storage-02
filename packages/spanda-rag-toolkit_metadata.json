@@ -1,11 +1,11 @@
 {
   "name": "spanda-rag-toolkit",
-  "version": "0.1.3",
-  "summary": "A modular toolkit for decomposed question answering, rank chunks extracted and call llm with ranked chunks in RAG pipelines.",
+  "version": "0.1.6",
+  "summary": "A modular toolkit for decomposed question answering, rank chunks , summaring these chunks for a final answer using LLM's in RAG pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spanda_rag_toolkit-0.1.3.tar.gz",
-  "download_time": "2025-08-14T05:35:14.972931",
+  "download_filename": "spanda_rag_toolkit-0.1.6.tar.gz",
+  "download_time": "2025-08-14T11:23:55.551804",
   "package_url": "https://pypi.org/project/spanda-rag-toolkit/"
 }
