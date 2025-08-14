@@ -1,0 +1,11 @@
+{
+  "name": "rocketchat-API",
+  "version": "1.35.2",
+  "summary": "Python API wrapper for Rocket.Chat",
+  "author": "Jorge Alberto Díaz Orozco",
+  "license": "MIT",
+  "home_page": "https://github.com/jadolg/rocketchat_API",
+  "download_filename": "rocketchat_api-1.35.2.tar.gz",
+  "download_time": "2025-08-14T12:54:47.262769",
+  "package_url": "https://pypi.org/project/rocketchat-API/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ObservabilityAPI",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "ObservabilityAPI",
   "author": "Max Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "observabilityapi-1.0.5.tar.gz",
-  "download_time": "2025-08-14T11:24:30.354501",
+  "download_filename": "observabilityapi-1.0.6.tar.gz",
+  "download_time": "2025-08-14T12:54:28.071012",
   "package_url": "https://pypi.org/project/ObservabilityAPI/"
 }

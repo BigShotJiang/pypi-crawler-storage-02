@@ -1,0 +1,11 @@
+{
+  "name": "plua",
+  "version": "1.2.1",
+  "summary": "Python project using Lupa to run Lua scripts with async timer functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plua-1.2.1.tar.gz",
+  "download_time": "2025-08-14T12:54:40.593881",
+  "package_url": "https://pypi.org/project/plua/"
+}

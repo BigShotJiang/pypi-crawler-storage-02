@@ -1,11 +1,11 @@
 {
   "name": "insight-proto",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "summary": "Insight Python Protobuf",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insight_proto-0.0.38.tar.gz",
-  "download_time": "2025-08-12T10:29:06.897873",
+  "download_filename": "insight_proto-0.0.39.tar.gz",
+  "download_time": "2025-08-14T12:54:16.096136",
   "package_url": "https://pypi.org/project/insight-proto/"
 }

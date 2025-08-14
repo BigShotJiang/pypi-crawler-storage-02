@@ -1,11 +1,11 @@
 {
   "name": "abc-exp-toolkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "This is a library for summarizing the results of ab tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abc_exp_toolkit-0.0.1.tar.gz",
-  "download_time": "2025-08-14T09:03:17.488505",
+  "download_filename": "abc_exp_toolkit-0.0.2.tar.gz",
+  "download_time": "2025-08-14T12:54:29.103923",
   "package_url": "https://pypi.org/project/abc-exp-toolkit/"
 }

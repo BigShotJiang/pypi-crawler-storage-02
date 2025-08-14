@@ -1,0 +1,11 @@
+{
+  "name": "gramps-bench",
+  "version": "1.0.1",
+  "summary": "Performance benchmarking tools for Gramps genealogy software",
+  "author": "Gramps Development Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/dsblank/gramps-bench",
+  "download_filename": "gramps_bench-1.0.1.tar.gz",
+  "download_time": "2025-08-14T12:54:27.560121",
+  "package_url": "https://pypi.org/project/gramps-bench/"
+}

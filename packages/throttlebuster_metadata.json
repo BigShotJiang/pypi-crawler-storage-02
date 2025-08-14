@@ -1,11 +1,11 @@
 {
   "name": "throttlebuster",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Accelerate file downloads by overcoming common throttling restrictions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "throttlebuster-0.1.1.tar.gz",
-  "download_time": "2025-08-13T21:24:59.013073",
+  "download_filename": "throttlebuster-0.1.2.tar.gz",
+  "download_time": "2025-08-14T12:54:19.231928",
   "package_url": "https://pypi.org/project/throttlebuster/"
 }

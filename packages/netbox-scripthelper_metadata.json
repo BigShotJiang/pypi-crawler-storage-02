@@ -1,0 +1,11 @@
+{
+  "name": "netbox-scripthelper",
+  "version": "0.5.0",
+  "summary": "Collections of utilities for Netbox custom scripts.",
+  "author": "Andrey Shalashov",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/k1nky/netbox-scripthelper-plugin",
+  "download_filename": "netbox_scripthelper-0.5.0.tar.gz",
+  "download_time": "2025-08-14T12:54:22.820818",
+  "package_url": "https://pypi.org/project/netbox-scripthelper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polypacket",
+  "version": "1.1.31",
+  "summary": "A tool for building protocol services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polypacket-1.1.31.tar.gz",
+  "download_time": "2025-08-14T12:54:22.309058",
+  "package_url": "https://pypi.org/project/polypacket/"
+}
