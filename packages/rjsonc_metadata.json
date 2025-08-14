@@ -1,0 +1,11 @@
+{
+  "name": "rjsonc",
+  "version": "0.1.2",
+  "summary": "Load JSON with comments. Fast.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rjsonc-0.1.2.tar.gz",
+  "download_time": "2025-08-14T07:03:35.599097",
+  "package_url": "https://pypi.org/project/rjsonc/"
+}

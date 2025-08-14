@@ -1,0 +1,11 @@
+{
+  "name": "gempyp",
+  "version": "2.1.0",
+  "summary": "An ecosystem of libraries useful for software development",
+  "author": "Gemini Solutions-QA",
+  "license": "MIT",
+  "home_page": "https://gempyp.gemecosystem.com",
+  "download_filename": "gempyp-2.1.0.tar.gz",
+  "download_time": "2025-08-14T07:03:45.016551",
+  "package_url": "https://pypi.org/project/gempyp/"
+}

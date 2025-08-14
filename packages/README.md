@@ -1,16 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T06:42:02.607364
-- **Total Packages**: 84
-- **Total Size**: 37.4 MB
+- **Download Time**: 2025-08-14T07:04:05.654745
+- **Total Packages**: 83
+- **Total Size**: 30.92 MB
 
 ## Packages List
-- termprint
+- model-checker
+- unboil-sqlalchemy-mixins
+- lightning-sdk
+- mapFolding
+- odoo-addon-base-external-api
+- apify-client
+- movoid-robotframework-selenium
+- victron-mqtt
+- LoopStructural
 - media-agent-mcp
+- dvlogger
+- taos-ws-py
+- stocks-earnings-dates
+- matrice
+- pulumi-xyz
+- synapse-sdk
+- ezphot
+- pulumi-vsphere
+- web-scraper-client
+- langchainkit
+- ckanext-essopendata-theme
+- pulumi-tls
+- libdata
+- agentdiff-coordination
+- rcabench-platform
+- pulumi-venafi
+- accfg
+- lazy-mysql
+- computer-split-screen-windows-mcp
+- pulumi-awsx
+- rjsonc
+- upplib
+- dash-pydantic-form
+- dash-pydantic-utils
+- reykit
+- import-a
+- antchain-ak-6f8b0e7502ec49d28cd8ad0e5807bbf9
+- legit-api-client
+- omnicon-genericddsengine-py
+- ansys-api-geometry
+- mytot
+- openfund-maker
+- openfund-taker
+- nvidia-cudnn-frontend
+- deepecon
+- loopstructuralvisualisation
+- gempyp
+- fimserve
+- physiocore
+- maleo-cds
+- veadk-python
+- pulumi-provider-boilerplate
+- termprint
 - edetek-words
 - itsolve
-- computer-split-screen-windows-mcp
 - graph-id-core
 - copy-ai-mcp
 - pyapi-service-kit
@@ -27,7 +77,6 @@
 - code-loader
 - dycw-utilities
 - mcp-agent
-- legit-api-client
 - pulumi-okta
 - centricube-langchain
 - arbok-driver
@@ -40,53 +89,3 @@
 - odoo-addon-sale-order-line-tag
 - llama-index-spanner
 - essopendata-theme
-- wu-xian-shi-xun-mylib
-- mcp-chat
-- pydantic-resolve
-- HowdenParser
-- ai-edge-litert-nightly
-- bohr-agent-sdk
-- gseda
-- isar
-- omnara
-- fastapi-exts
-- flashinfer-python
-- sphinx-pdj-theme
-- pyqasm
-- lindorm-memobase
-- pycony
-- unboil-sqlalchemy-types
-- dvlogger
-- kodosumi
-- oke-mcp-server
-- cendat
-- horseracepredictor
-- flex-evals
-- ezphot
-- pyaniparser
-- mytot
-- streamlit-rtr-components
-- ara-cli
-- deblend-sofia-detections
-- pyg-nightly
-- vkforge
-- hardpy
-- delayed-rm
-- gooddata-api-client
-- pulumi-kafka
-- gooddata-pipelines
-- gooddata-pandas
-- gooddata-flight-server
-- gooddata-dbt
-- gooddata-fdw
-- gooddata-flexconnect
-- gooddata-sdk
-- fashionstar-uart-sdk
-- increase
-- napari
-- pulumi-http
-- instagram-cli
-- simplug
-- rename-clean
-- newton-clips
-- hh-api
