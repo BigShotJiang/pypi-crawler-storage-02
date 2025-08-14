@@ -1,0 +1,11 @@
+{
+  "name": "windadjustment",
+  "version": "1.0.0",
+  "summary": "A Python package for statistical wind speed adjustment using meteorological data",
+  "author": "Danilo Ceano",
+  "license": null,
+  "home_page": "https://github.com/yourusername/windadjustment",
+  "download_filename": "windadjustment-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-14T21:57:41.820892",
+  "package_url": "https://pypi.org/project/windadjustment/"
+}

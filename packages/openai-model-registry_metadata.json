@@ -1,11 +1,11 @@
 {
   "name": "openai-model-registry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Registry for OpenAI models with capability and parameter validation",
   "author": "Yaniv Golan",
   "license": null,
   "home_page": null,
-  "download_filename": "openai_model_registry-1.0.1.tar.gz",
-  "download_time": "2025-08-14T20:30:40.635527",
+  "download_filename": "openai_model_registry-1.0.2.tar.gz",
+  "download_time": "2025-08-14T21:57:44.425875",
   "package_url": "https://pypi.org/project/openai-model-registry/"
 }
