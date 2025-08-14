@@ -1,11 +1,11 @@
 {
   "name": "aimport",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "A minimal library for smart Python imports with automatic path resolution",
   "author": "aimport contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "aimport-2.0.0.tar.gz",
-  "download_time": "2025-08-14T16:27:58.437284",
+  "download_filename": "aimport-2.1.0.tar.gz",
+  "download_time": "2025-08-14T17:01:03.973631",
   "package_url": "https://pypi.org/project/aimport/"
 }

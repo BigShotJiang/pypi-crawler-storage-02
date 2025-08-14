@@ -1,0 +1,11 @@
+{
+  "name": "infinitecampusapi",
+  "version": "0.1.1",
+  "summary": "A Python Wrapper for use with the Infinite Campus API",
+  "author": "Alex Snyder",
+  "license": "GNUGPLv3",
+  "home_page": null,
+  "download_filename": "infinitecampusapi-0.1.1.tar.gz",
+  "download_time": "2025-08-14T17:00:41.827385",
+  "package_url": "https://pypi.org/project/infinitecampusapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "botblend",
+  "version": "0.0.1",
+  "summary": "Librería de utilerías para automatizaciones RPA con Microsoft Graph y otras herramientas.",
+  "author": "Raul Sanz",
+  "license": null,
+  "home_page": "https://github.com/raulsanvaz/botblend",
+  "download_filename": "botblend-0.0.1.tar.gz",
+  "download_time": "2025-08-14T17:01:14.017991",
+  "package_url": "https://pypi.org/project/botblend/"
+}

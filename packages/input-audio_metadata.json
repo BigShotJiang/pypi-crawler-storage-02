@@ -1,0 +1,11 @@
+{
+  "name": "input-audio",
+  "version": "0.2.0",
+  "summary": "Python input audio.",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/input_audio",
+  "download_filename": "input_audio-0.2.0.tar.gz",
+  "download_time": "2025-08-14T17:00:59.784560",
+  "package_url": "https://pypi.org/project/input-audio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openap",
+  "version": "2.4",
+  "summary": "Open Aircraft Performance Model (OpenAP) in Python",
+  "author": null,
+  "license": "GNU LGPL v3",
+  "home_page": null,
+  "download_filename": "openap-2.4.tar.gz",
+  "download_time": "2025-08-14T17:00:54.018104",
+  "package_url": "https://pypi.org/project/openap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlip",
+  "version": "0.1.3",
+  "summary": "Machine Learning Interatomic Potentials in JAX",
+  "author": "InstaDeep",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "mlip-0.1.3.tar.gz",
+  "download_time": "2025-08-14T17:00:39.748327",
+  "package_url": "https://pypi.org/project/mlip/"
+}
