@@ -1,0 +1,11 @@
+{
+  "name": "claude-pyrojects",
+  "version": "0.2.1",
+  "summary": "A tool for uploading and managing projects in Claude.ai",
+  "author": "Huseyin Cevik",
+  "license": null,
+  "home_page": "https://github.com/hcevikdotpy/claude-pyrojects",
+  "download_filename": "claude-pyrojects-0.2.1.tar.gz",
+  "download_time": "2025-08-14T20:30:22.712154",
+  "package_url": "https://pypi.org/project/claude-pyrojects/"
+}

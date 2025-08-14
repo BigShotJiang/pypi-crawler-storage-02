@@ -1,0 +1,11 @@
+{
+  "name": "notofonttools",
+  "version": "0.3.2",
+  "summary": "Noto font tools",
+  "author": "Noto Authors",
+  "license": "Apache",
+  "home_page": "https://github.com/googlefonts/nototools",
+  "download_filename": "notofonttools-0.3.2.tar.gz",
+  "download_time": "2025-08-14T20:30:59.077153",
+  "package_url": "https://pypi.org/project/notofonttools/"
+}

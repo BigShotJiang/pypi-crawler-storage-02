@@ -1,0 +1,11 @@
+{
+  "name": "tree-types",
+  "version": "0.2.1",
+  "summary": "A Class that computes the types of elements in a Object",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tree_types-0.2.1.tar.gz",
+  "download_time": "2025-08-14T20:30:36.959912",
+  "package_url": "https://pypi.org/project/tree-types/"
+}

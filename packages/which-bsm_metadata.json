@@ -1,0 +1,11 @@
+{
+  "name": "which-bsm",
+  "version": "0.1.1",
+  "summary": "A factory for creating boto session managers with environment-aware AWS authentication across local, CI/CD, and cloud runtimes.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "which_bsm-0.1.1.tar.gz",
+  "download_time": "2025-08-14T20:30:26.961010",
+  "package_url": "https://pypi.org/project/which-bsm/"
+}

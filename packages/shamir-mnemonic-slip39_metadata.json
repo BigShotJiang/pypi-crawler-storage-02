@@ -1,0 +1,11 @@
+{
+  "name": "shamir-mnemonic-slip39",
+  "version": "0.4.2",
+  "summary": "SLIP-39 Shamir Mnemonics",
+  "author": "Trezor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shamir_mnemonic_slip39-0.4.2.tar.gz",
+  "download_time": "2025-08-14T20:30:52.232743",
+  "package_url": "https://pypi.org/project/shamir-mnemonic-slip39/"
+}

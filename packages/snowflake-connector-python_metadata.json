@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-connector-python",
+  "version": "3.17.1",
+  "summary": "Snowflake Connector for Python",
+  "author": "Snowflake, Inc",
+  "license": "Apache-2.0",
+  "home_page": "https://www.snowflake.com/",
+  "download_filename": "snowflake_connector_python-3.17.1.tar.gz",
+  "download_time": "2025-08-14T20:30:24.840356",
+  "package_url": "https://pypi.org/project/snowflake-connector-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "InSpice",
+  "version": "1.6.4.1",
+  "summary": "Python interface to Ngspice and Xyce circuit simulators (forked from InSpice)",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "inspice-1.6.4.1.tar.gz",
+  "download_time": "2025-08-14T20:30:43.254103",
+  "package_url": "https://pypi.org/project/InSpice/"
+}

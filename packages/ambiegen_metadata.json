@@ -1,0 +1,11 @@
+{
+  "name": "ambiegen",
+  "version": "0.0.1",
+  "summary": "AmbieGen is a flexible and modular framework for automated scenario-based testing of autonomous robotic systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ambiegen-0.0.1.tar.gz",
+  "download_time": "2025-08-14T20:30:22.191821",
+  "package_url": "https://pypi.org/project/ambiegen/"
+}
