@@ -1,45 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T10:30:42.744354
-- **Total Packages**: 88
-- **Total Size**: 93.96 MB
+- **Download Time**: 2025-08-14T10:53:38.782110
+- **Total Packages**: 86
+- **Total Size**: 4.65 MB
 
 ## Packages List
-- uniconv
-- olas-operate-middleware
-- sibr-module
-- pollutants-annotations
-- sqlmesh
-- cockup
-- dvrctl
-- jinpy-utils
-- panic
-- tileflow
-- pWebServer
-- cyipopt
-- prowler-cloud
-- prowler
-- leap-model-parser
-- abs-auth-rbac-core
-- power-grid-model
-- pydeepsee
-- zylib-test
-- openstacksdk
-- hapless
-- sagemaker-core
-- aco-tsp
-- geotessera
-- cfl-common
 - codeforlife-portal
 - habana-pyhlml
 - habana-media-loader
 - code-loader
 - talentro-commons
 - gjqh-DataFetch
+- pydeepsee
 - colorwsap
 - tnnt-templates
 - eason-mcp-test
+- sibr-module
 - fificore
 - garantipay-payment
 - faststream
@@ -48,6 +25,7 @@
 - aws-agentcore-a2a-proxy
 - moosez
 - clash-tools
+- cyipopt
 - muko
 - st-checkbox-tree
 - agent-types
@@ -68,6 +46,7 @@
 - ObservabilityAPI
 - nova
 - snappi
+- leap-model-parser
 - CRYSTALClear
 - gamspy-dicopt
 - gamspy-reshop
@@ -94,3 +73,22 @@
 - gamspy-pathnlp
 - gamspy-knitro
 - gamspy-examiner2
+- lmitf
+- mcp-server-bailian-image
+- kamae
+- tiny-model-profiler
+- jupyter-ai-agents
+- gamsapi
+- django-admin-two-factorv2
+- myrlkit
+- tonal
+- leakysim
+- pyheadtracker
+- fdc-shared-kernel
+- ory-client
+- rapidllm
+- rubox
+- libreflow.extensions.runner.tvpaint-playblast
+- django-location-api
+- spacy-matching
+- autocoder-nano

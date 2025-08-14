@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-two-factorv2",
+  "version": "0.1.2",
+  "summary": "Fork of Django Admin Two Factor Authentication",
+  "author": "whatislove118",
+  "license": "MIT License",
+  "home_page": "https://github.com/whatislove118/django-admin-two-factor-auth",
+  "download_filename": "django_admin_two_factorv2-0.1.2.tar.gz",
+  "download_time": "2025-08-14T10:53:30.700475",
+  "package_url": "https://pypi.org/project/django-admin-two-factorv2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rubox",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A powerful library designed for building bots on the Rubika platform.",
   "author": "mohammadali",
   "license": null,
   "home_page": "https://github.com/BELECTRON13/rubox",
-  "download_filename": "rubox-0.0.1.tar.gz",
-  "download_time": "2025-08-13T18:36:36.897305",
+  "download_filename": "rubox-0.1.0.tar.gz",
+  "download_time": "2025-08-14T10:53:35.673824",
   "package_url": "https://pypi.org/project/rubox/"
 }

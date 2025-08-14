@@ -1,0 +1,11 @@
+{
+  "name": "leakysim",
+  "version": "0.4.0",
+  "summary": "An implementation of Google's Pauli+ simulator.",
+  "author": "Yiming Zhang",
+  "license": null,
+  "home_page": "https://github.com/inmzhang/leaky",
+  "download_filename": "leakysim-0.4.0.tar.gz",
+  "download_time": "2025-08-14T10:53:32.482950",
+  "package_url": "https://pypi.org/project/leakysim/"
+}
