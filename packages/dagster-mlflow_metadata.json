@@ -1,11 +1,11 @@
 {
   "name": "dagster-mlflow",
-  "version": "0.27.5",
+  "version": "0.27.6",
   "summary": "Package for mlflow Dagster framework components.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-mlflow",
-  "download_filename": "dagster_mlflow-0.27.5.tar.gz",
-  "download_time": "2025-08-07T21:57:12.124283",
+  "download_filename": "dagster_mlflow-0.27.6.tar.gz",
+  "download_time": "2025-08-14T22:26:45.578453",
   "package_url": "https://pypi.org/project/dagster-mlflow/"
 }

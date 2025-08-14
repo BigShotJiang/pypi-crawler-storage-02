@@ -1,11 +1,11 @@
 {
   "name": "dagster-shared",
-  "version": "1.11.5",
+  "version": "1.11.6",
   "summary": "Shared code between dagster and dagster-dg-core.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-shared",
-  "download_filename": "dagster_shared-1.11.5.tar.gz",
-  "download_time": "2025-08-07T21:56:56.896387",
+  "download_filename": "dagster_shared-1.11.6.tar.gz",
+  "download_time": "2025-08-14T22:26:51.275716",
   "package_url": "https://pypi.org/project/dagster-shared/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dagster-cloud",
-  "version": "1.11.5",
+  "version": "1.11.6",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dagster_cloud-1.11.5.tar.gz",
-  "download_time": "2025-08-07T22:27:30.661646",
+  "download_filename": "dagster_cloud-1.11.6.tar.gz",
+  "download_time": "2025-08-14T22:26:34.048130",
   "package_url": "https://pypi.org/project/dagster-cloud/"
 }

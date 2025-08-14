@@ -1,0 +1,11 @@
+{
+  "name": "fractale",
+  "version": "0.0.12",
+  "summary": "Jobspec specification and translation layer for cluster work",
+  "author": "Vanessa Sochat",
+  "license": "LICENSE",
+  "home_page": "https://github.com/compspec/fractale",
+  "download_filename": "fractale-0.0.12.tar.gz",
+  "download_time": "2025-08-14T22:26:49.361568",
+  "package_url": "https://pypi.org/project/fractale/"
+}

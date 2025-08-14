@@ -1,11 +1,11 @@
 {
   "name": "dagster-mysql",
-  "version": "0.27.5",
+  "version": "0.27.6",
   "summary": "A Dagster integration for MySQL",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-mysql",
-  "download_filename": "dagster_mysql-0.27.5.tar.gz",
-  "download_time": "2025-08-07T21:57:29.962146",
+  "download_filename": "dagster_mysql-0.27.6.tar.gz",
+  "download_time": "2025-08-14T22:26:53.194361",
   "package_url": "https://pypi.org/project/dagster-mysql/"
 }
