@@ -1,11 +1,11 @@
 {
   "name": "ezphot",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Easy and flexible photometry toolkit in Python, from preprocessing to analysis, for various telescopes.",
   "author": "Hyeonho Choi",
   "license": null,
   "home_page": null,
-  "download_filename": "ezphot-0.2.1.tar.gz",
-  "download_time": "2025-08-14T07:03:28.338196",
+  "download_filename": "ezphot-0.2.2.tar.gz",
+  "download_time": "2025-08-14T07:33:32.642486",
   "package_url": "https://pypi.org/project/ezphot/"
 }

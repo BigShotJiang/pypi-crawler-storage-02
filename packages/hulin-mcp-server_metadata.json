@@ -1,0 +1,11 @@
+{
+  "name": "hulin-mcp-server",
+  "version": "1.1.0",
+  "summary": "this is my test function,add two number and return result",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hulin_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-08-14T07:33:21.394553",
+  "package_url": "https://pypi.org/project/hulin-mcp-server/"
+}

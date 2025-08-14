@@ -1,11 +1,11 @@
 {
   "name": "pygenfsm",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A minimal, clean, typed and async-native FSM (Finite State Machine) implementation inspired by Erlang's gen_fsm",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygenfsm-0.1.0.tar.gz",
-  "download_time": "2025-08-14T06:41:19.946046",
+  "download_filename": "pygenfsm-1.0.0.tar.gz",
+  "download_time": "2025-08-14T07:33:40.525641",
   "package_url": "https://pypi.org/project/pygenfsm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lda-segmenter",
+  "version": "0.1.1",
+  "summary": "基于LDA主题模型的文档分段工具",
+  "author": "imuzhangy",
+  "license": null,
+  "home_page": "https://github.com/your_username/lda_segmenter",
+  "download_filename": "lda_segmenter-0.1.1.tar.gz",
+  "download_time": "2025-08-14T07:33:38.288550",
+  "package_url": "https://pypi.org/project/lda-segmenter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydoclint",
+  "version": "0.6.8",
+  "summary": "A Python docstring linter that checks arguments, returns, yields, and raises sections",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/jsh9/pydoclint",
+  "download_filename": "pydoclint-0.6.8.tar.gz",
+  "download_time": "2025-08-14T07:33:13.900197",
+  "package_url": "https://pypi.org/project/pydoclint/"
+}

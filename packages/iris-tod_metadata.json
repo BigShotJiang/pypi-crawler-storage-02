@@ -1,0 +1,11 @@
+{
+  "name": "iris-tod",
+  "version": "2.0",
+  "summary": "A powerful Python-based security tool that analyzes HTTP security headers for websites and automatically generates clickjacking payloads when vulnerabilities are detected.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iris_tod-2.0.tar.gz",
+  "download_time": "2025-08-14T07:33:21.971012",
+  "package_url": "https://pypi.org/project/iris-tod/"
+}

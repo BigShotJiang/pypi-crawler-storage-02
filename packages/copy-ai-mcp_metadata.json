@@ -1,11 +1,11 @@
 {
   "name": "copy-ai-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A MCP server for Copy.ai.",
   "author": "yanrujing",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copy_ai_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-14T06:41:16.189239",
+  "download_filename": "copy_ai_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-14T07:33:46.158849",
   "package_url": "https://pypi.org/project/copy-ai-mcp/"
 }

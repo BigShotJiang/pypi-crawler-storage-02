@@ -1,11 +1,11 @@
 {
   "name": "pyswot",
-  "version": "0.3.4",
+  "version": "0.4.1",
   "summary": "Python wrapper for JetBrains/swot",
   "author": "James Meakin",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyswot-0.3.4.tar.gz",
-  "download_time": "2025-08-08T08:35:55.616196",
+  "download_filename": "pyswot-0.4.1.tar.gz",
+  "download_time": "2025-08-14T07:33:30.345261",
   "package_url": "https://pypi.org/project/pyswot/"
 }

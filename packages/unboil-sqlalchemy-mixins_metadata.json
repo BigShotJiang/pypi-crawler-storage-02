@@ -1,11 +1,11 @@
 {
   "name": "unboil-sqlalchemy-mixins",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A library providing reusable mixins for SQLAlchemy models.",
   "author": "eyueldk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unboil_sqlalchemy_mixins-0.1.4.tar.gz",
-  "download_time": "2025-08-14T07:03:19.933863",
+  "download_filename": "unboil_sqlalchemy_mixins-0.1.6.tar.gz",
+  "download_time": "2025-08-14T07:33:09.862225",
   "package_url": "https://pypi.org/project/unboil-sqlalchemy-mixins/"
 }
