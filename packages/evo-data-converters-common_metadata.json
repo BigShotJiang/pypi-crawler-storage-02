@@ -1,11 +1,11 @@
 {
   "name": "evo-data-converters-common",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python framework for building data converters between common geoscience data formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evo_data_converters_common-0.2.0.tar.gz",
-  "download_time": "2025-08-07T21:45:26.346948",
+  "download_filename": "evo_data_converters_common-0.2.1.tar.gz",
+  "download_time": "2025-08-14T22:49:22.667610",
   "package_url": "https://pypi.org/project/evo-data-converters-common/"
 }

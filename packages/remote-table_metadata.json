@@ -1,0 +1,11 @@
+{
+  "name": "remote-table",
+  "version": "0.1.0",
+  "summary": "A Python port of the remote_table Ruby gem. Reads tabular data from local and remote sources.",
+  "author": "Derek Willis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remote_table-0.1.0.tar.gz",
+  "download_time": "2025-08-14T22:49:05.420954",
+  "package_url": "https://pypi.org/project/remote-table/"
+}

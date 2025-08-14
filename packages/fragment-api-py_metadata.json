@@ -1,0 +1,11 @@
+{
+  "name": "fragment-api-py",
+  "version": "1.0.2",
+  "summary": "Python client for Fragment API (fragment.com)",
+  "author": "S1qwy",
+  "license": null,
+  "home_page": "https://github.com/S1qwy/fragment-api-py",
+  "download_filename": "fragment_api_py-1.0.2.tar.gz",
+  "download_time": "2025-08-14T22:49:15.108192",
+  "package_url": "https://pypi.org/project/fragment-api-py/"
+}

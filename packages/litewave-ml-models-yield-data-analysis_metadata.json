@@ -1,0 +1,11 @@
+{
+  "name": "litewave-ml-models-yield-data-analysis",
+  "version": "0.0.10",
+  "summary": "Multivariate analytics pipeline for pharmaceutical manufacturing yield optimization",
+  "author": "LitewaveAI",
+  "license": "MIT",
+  "home_page": "https://github.com/aiorch/litewave-ml-models/tree/main/yield_data_analysis",
+  "download_filename": "litewave_ml_models_yield_data_analysis-0.0.10.tar.gz",
+  "download_time": "2025-08-14T22:48:47.577927",
+  "package_url": "https://pypi.org/project/litewave-ml-models-yield-data-analysis/"
+}

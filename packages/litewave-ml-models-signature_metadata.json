@@ -1,0 +1,11 @@
+{
+  "name": "litewave-ml-models-signature",
+  "version": "0.0.10",
+  "summary": "A package for signature verification and classification.",
+  "author": "LitewaveAI",
+  "license": "MIT",
+  "home_page": "https://github.com/aiorch/litewave-ml-models/tree/main/signature",
+  "download_filename": "litewave_ml_models_signature-0.0.10.tar.gz",
+  "download_time": "2025-08-14T22:48:48.224935",
+  "package_url": "https://pypi.org/project/litewave-ml-models-signature/"
+}

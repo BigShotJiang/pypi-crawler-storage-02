@@ -1,11 +1,11 @@
 {
   "name": "helicone_helpers",
-  "version": "1.0.6",
+  "version": "1.2.0",
   "summary": "A Python wrapper for some of Helicone's common functionalities",
   "author": "Helicone, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://www.helicone.ai",
-  "download_filename": "helicone_helpers-1.0.6.tar.gz",
-  "download_time": "2025-08-06T22:49:58.259102",
+  "download_filename": "helicone_helpers-1.2.0.tar.gz",
+  "download_time": "2025-08-14T22:48:41.662585",
   "package_url": "https://pypi.org/project/helicone_helpers/"
 }

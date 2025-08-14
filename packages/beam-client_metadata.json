@@ -1,11 +1,11 @@
 {
   "name": "beam-client",
-  "version": "0.2.175",
+  "version": "0.2.176",
   "summary": null,
   "author": "beam.cloud",
   "license": null,
   "home_page": null,
-  "download_filename": "beam_client-0.2.175.tar.gz",
-  "download_time": "2025-08-05T14:29:01.877162",
+  "download_filename": "beam_client-0.2.176.tar.gz",
+  "download_time": "2025-08-14T22:49:23.250531",
   "package_url": "https://pypi.org/project/beam-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wipac-rest-tools",
+  "version": "1.11.1",
+  "summary": "REST tools in python - common code for client and server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wipac_rest_tools-1.11.1.tar.gz",
+  "download_time": "2025-08-14T22:48:58.367915",
+  "package_url": "https://pypi.org/project/wipac-rest-tools/"
+}
