@@ -1,0 +1,11 @@
+{
+  "name": "bordado",
+  "version": "0.4.0",
+  "summary": "Create, manipulate, and split geographic coordinates",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bordado-0.4.0.tar.gz",
+  "download_time": "2025-08-14T11:45:27.416651",
+  "package_url": "https://pypi.org/project/bordado/"
+}

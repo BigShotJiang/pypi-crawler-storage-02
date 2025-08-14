@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderPhysionet",
+  "version": "0.1.6",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyPhasesRecordloaderPhysionet-0.1.6.tar.gz",
+  "download_time": "2025-08-14T11:45:41.211153",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderPhysionet/"
+}

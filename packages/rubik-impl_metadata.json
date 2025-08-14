@@ -1,11 +1,11 @@
 {
   "name": "rubik-impl",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "Implementation of Rubik's cube moves",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rubik_impl-0.3.tar.gz",
-  "download_time": "2025-08-11T19:56:47.050248",
+  "download_filename": "rubik_impl-0.4.tar.gz",
+  "download_time": "2025-08-14T11:45:44.901996",
   "package_url": "https://pypi.org/project/rubik-impl/"
 }

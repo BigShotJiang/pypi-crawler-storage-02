@@ -1,11 +1,11 @@
 {
   "name": "nav-online-szamla",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "NAV Online Számla",
   "author": "Gergo Emmert",
   "license": null,
   "home_page": "https://github.com/FXL-Lab/nav-online-szamla",
-  "download_filename": "nav_online_szamla-0.0.7.tar.gz",
-  "download_time": "2025-08-07T15:30:38.165766",
+  "download_filename": "nav_online_szamla-0.0.9.tar.gz",
+  "download_time": "2025-08-14T11:45:32.174525",
   "package_url": "https://pypi.org/project/nav-online-szamla/"
 }

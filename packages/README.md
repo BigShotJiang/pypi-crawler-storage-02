@@ -1,21 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-14T11:24:39.043811
-- **Total Packages**: 88
-- **Total Size**: 54.73 MB
+- **Download Time**: 2025-08-14T11:46:11.251713
+- **Total Packages**: 85
+- **Total Size**: 16.83 MB
 
 ## Packages List
-- jahn-teller-dynamics
+- wink-sdk-affiliate-sales-channel
+- wink-sdk-affiliate-inventory
+- mcp-open-data-hk
+- bizydraft
+- bordado
+- moneyball
+- connector-for-bb
+- wink-sdk-affiliate-browse
+- wink-sdk-affiliate
+- sportsball
+- wowool-portal
+- appodus-utils
+- omnimodkit
+- nav-online-szamla
+- trip-pay-payment
+- redactyl
+- olas-operate-middleware
+- earthkit-workflows-anemoi
+- in-dbt-spark
+- mangopaysdk
+- the37lab-ampa-sdk
+- langextract
+- latinum-wallet-mcp
+- civilpy
+- typeddict-validator
+- chipfoundry-cli
+- ida-hcli
+- bluer-algo
+- pyPhasesRecordloaderPhysionet
+- pyheadtracker
+- mcp-novelaigen
+- jqi
 - disentanglement-error
-- appserver-sdk-python-ai
+- HowdenParser
+- scirpy
+- rubik-impl
+- localstack-core
 - jusfltuls
+- oxylabs-ai-studio
+- nezuki
+- rustgression
+- torchx-nightly
+- napari-skimage
+- acacia-s2s-toolkit
+- fracnetics
+- veadk-python
+- bot-vision-suite
+- trex-admin
+- lionagi
+- azol
+- udata-hydra
+- ybox
+- django-trusted-devices
+- jahn-teller-dynamics
+- appserver-sdk-python-ai
 - jinpy-utils
 - muko
 - shengyighu-mcp
 - lhs-global-service-django
 - spanda-rag-toolkit
-- mcp-novelaigen
 - python-ai-sdk
 - sonyk-sdk
 - semeio
@@ -41,56 +91,3 @@
 - fabricatio-translate
 - fabricatio-judge
 - fabricatio-diff
-- fabricatio-actions
-- cognite-sdk
-- mama
-- yield-analysis-sdk
-- zecmf
-- myrlkit
-- tb-nightly
-- configaroo
-- gtpyhop
-- ovault
-- bot-vision-suite
-- bluer-options
-- spacy-matching
-- talkpipe
-- docker-prune
-- docktor-py
-- wisent-guard
-- tower
-- datashifts
-- trino
-- nichexpert
-- switchbot-actions
-- linkdapi
-- gllm-core-binary
-- bblocks-datacommons-tools
-- soroush-sorting-algos
-- cognite-neat
-- alita-sdk
-- harmony-midi-token
-- libentry
-- rcplus_alloy_common
-- topogmesh
-- acacia-s2s-toolkit
-- bluer-objects
-- adb-enhanced
-- studr
-- ObservabilityAPI
-- apolo-app-types
-- qwq-tag
-- viadot2
-- Scikit-longitudinal
-- cog2tiles
-- sibr-module
-- uniconv
-- djpay
-- django-trusted-devices
-- git-analytics
-- itsolve
-- wink-sdk-user-settings
-- wink-sdk-travel-agent
-- wink-sdk-reference
-- wink-sdk-ping
-- wink-sdk-notification

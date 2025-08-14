@@ -1,11 +1,11 @@
 {
   "name": "HowdenParser",
-  "version": "0.1.5",
+  "version": "0.1.11",
   "summary": "A simple configuration manager with Pydantic and JSON export.",
   "author": "JesperThoftIllemannJ",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/config",
-  "download_filename": "howdenparser-0.1.5.tar.gz",
-  "download_time": "2025-08-14T07:48:48.085647",
+  "download_filename": "howdenparser-0.1.11.tar.gz",
+  "download_time": "2025-08-14T11:45:43.819892",
   "package_url": "https://pypi.org/project/HowdenParser/"
 }
