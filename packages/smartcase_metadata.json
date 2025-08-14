@@ -1,0 +1,11 @@
+{
+  "name": "smartcase",
+  "version": "0.1.0",
+  "summary": "A smart text cleaner that preserves important capitalization using NER",
+  "author": "Nivetha G",
+  "license": null,
+  "home_page": "https://github.com/Nivetha9april/smartcase.git",
+  "download_filename": "smartcase-0.1.0.tar.gz",
+  "download_time": "2025-08-14T18:00:30.316864",
+  "package_url": "https://pypi.org/project/smartcase/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "peg-this",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "summary": "A powerful, intuitive command-line video editor suite, built on FFmpeg.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peg_this-3.0.1.tar.gz",
-  "download_time": "2025-08-14T15:30:02.322553",
+  "download_filename": "peg_this-3.0.4.tar.gz",
+  "download_time": "2025-08-14T18:00:32.763818",
   "package_url": "https://pypi.org/project/peg-this/"
 }

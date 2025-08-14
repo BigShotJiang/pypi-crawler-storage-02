@@ -1,11 +1,11 @@
 {
   "name": "lark-util",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Lark API utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lark_util-0.1.21.tar.gz",
-  "download_time": "2025-08-14T15:29:22.328112",
+  "download_filename": "lark_util-0.1.22.tar.gz",
+  "download_time": "2025-08-14T18:00:42.449138",
   "package_url": "https://pypi.org/project/lark-util/"
 }
