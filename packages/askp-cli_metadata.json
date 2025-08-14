@@ -1,11 +1,11 @@
 {
   "name": "askp-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A command-line interface for Perplexity AI",
   "author": "Your Name",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/yourusername/askp",
-  "download_filename": "askp_cli-1.0.0.tar.gz",
-  "download_time": "2025-08-14T19:27:35.712545",
+  "download_filename": "askp_cli-1.0.1.tar.gz",
+  "download_time": "2025-08-14T19:56:04.020631",
   "package_url": "https://pypi.org/project/askp-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mosaic-gpu-cuda12",
+  "version": "0.0.1rc0",
+  "summary": "An empty wheel for MOSAIC GPU CUDA12 reservation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mosaic_gpu_cuda12-0.0.1rc0-py3-none-any.whl",
+  "download_time": "2025-08-14T19:56:16.753980",
+  "package_url": "https://pypi.org/project/mosaic-gpu-cuda12/"
+}

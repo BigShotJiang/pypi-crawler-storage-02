@@ -1,0 +1,11 @@
+{
+  "name": "nbodykit",
+  "version": "0.3.16",
+  "summary": "Analysis kit for large-scale structure datasets, the massively parallel way",
+  "author": "Yu Feng, Nick Hand, et al",
+  "license": "GPL3",
+  "home_page": "http://github.com/bccp/nbodykit",
+  "download_filename": "nbodykit-0.3.16.tar.gz",
+  "download_time": "2025-08-14T19:56:01.416420",
+  "package_url": "https://pypi.org/project/nbodykit/"
+}

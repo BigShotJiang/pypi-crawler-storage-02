@@ -1,11 +1,11 @@
 {
   "name": "rotary-spatial-embeddings",
-  "version": "2025.8.14.1915",
+  "version": "2025.8.14.1943",
   "summary": "PyTorch implementation of Rotary Spatial Embeddings",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "rotary_spatial_embeddings-2025.8.14.1915.tar.gz",
-  "download_time": "2025-08-14T19:27:44.428539",
+  "download_filename": "rotary_spatial_embeddings-2025.8.14.1943.tar.gz",
+  "download_time": "2025-08-14T19:56:10.982612",
   "package_url": "https://pypi.org/project/rotary-spatial-embeddings/"
 }
