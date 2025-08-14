@@ -1,11 +1,11 @@
 {
   "name": "postman-collection-exporter",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "Export Postman collections via CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "postman_collection_exporter-0.0.6.tar.gz",
-  "download_time": "2025-08-04T10:53:41.406863",
+  "download_filename": "postman_collection_exporter-0.0.9.tar.gz",
+  "download_time": "2025-08-14T08:39:14.751818",
   "package_url": "https://pypi.org/project/postman-collection-exporter/"
 }

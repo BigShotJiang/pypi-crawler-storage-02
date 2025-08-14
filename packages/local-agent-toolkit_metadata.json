@@ -1,11 +1,11 @@
 {
   "name": "local-agent-toolkit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A sophisticated AI agent toolkit supporting multiple AI providers with tool calling capabilities.",
   "author": "TechnicalHeist",
   "license": "MIT",
   "home_page": "https://technicalheist.com",
-  "download_filename": "local_agent_toolkit-0.1.0.tar.gz",
-  "download_time": "2025-08-14T07:33:16.795833",
+  "download_filename": "local_agent_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-08-14T08:39:38.739275",
   "package_url": "https://pypi.org/project/local-agent-toolkit/"
 }

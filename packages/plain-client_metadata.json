@@ -1,0 +1,11 @@
+{
+  "name": "plain-client",
+  "version": "0.0.3",
+  "summary": "A Python client for Plain GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plain_client-0.0.3.tar.gz",
+  "download_time": "2025-08-14T08:39:25.717643",
+  "package_url": "https://pypi.org/project/plain-client/"
+}

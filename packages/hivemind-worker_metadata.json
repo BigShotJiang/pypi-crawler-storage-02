@@ -1,11 +1,11 @@
 {
   "name": "hivemind-worker",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "A hivemind worker_node",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hivemind_worker-0.0.5.tar.gz",
-  "download_time": "2025-08-06T05:33:56.850295",
+  "download_filename": "hivemind_worker-0.0.7.tar.gz",
+  "download_time": "2025-08-14T08:39:36.183422",
   "package_url": "https://pypi.org/project/hivemind-worker/"
 }

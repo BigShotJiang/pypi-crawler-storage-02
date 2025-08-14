@@ -1,11 +1,11 @@
 {
   "name": "json-yaml-schema-converter",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Convert JSON API responses to YAML schema",
   "author": "Revan More",
   "license": null,
   "home_page": "https://github.com/revan-more/json_yaml_schema_converter",
-  "download_filename": "json_yaml_schema_converter-0.4.0.tar.gz",
-  "download_time": "2025-08-14T07:33:43.407528",
+  "download_filename": "json_yaml_schema_converter-0.6.0.tar.gz",
+  "download_time": "2025-08-14T08:39:46.494612",
   "package_url": "https://pypi.org/project/json-yaml-schema-converter/"
 }

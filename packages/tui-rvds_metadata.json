@@ -1,0 +1,11 @@
+{
+  "name": "tui-rvds",
+  "version": "2025.8.14",
+  "summary": "everything you need for our jupyter notebooks",
+  "author": "Eric Tröbs",
+  "license": null,
+  "home_page": "https://dbgit.prakinf.tu-ilmenau.de/lectures/ringvorlesung-data-science",
+  "download_filename": "tui_rvds-2025.8.14.tar.gz",
+  "download_time": "2025-08-14T08:39:44.449983",
+  "package_url": "https://pypi.org/project/tui-rvds/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kakao-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Comprehensive analysis tool for KakaoTalk chat exports",
   "author": "Claude Code User",
   "license": "MIT",
   "home_page": "https://github.com/xistoh162108/kakaotalk_analyzer",
-  "download_filename": "kakao_analyzer-1.0.0.tar.gz",
-  "download_time": "2025-08-14T08:00:33.007403",
+  "download_filename": "kakao_analyzer-1.0.1.tar.gz",
+  "download_time": "2025-08-14T08:39:43.395653",
   "package_url": "https://pypi.org/project/kakao-analyzer/"
 }
