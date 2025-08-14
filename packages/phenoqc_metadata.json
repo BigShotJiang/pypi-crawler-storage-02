@@ -1,0 +1,11 @@
+{
+  "name": "phenoqc",
+  "version": "1.2.0",
+  "summary": "Phenotypic Data Quality Control Toolkit for Genomic Data Infrastructure (GDI)",
+  "author": "Jorge Miguel Ferreira da Silva",
+  "license": null,
+  "home_page": "https://github.com/jorgeMFS/PhenoQC",
+  "download_filename": "phenoqc-1.2.0.tar.gz",
+  "download_time": "2025-08-14T14:53:16.957314",
+  "package_url": "https://pypi.org/project/phenoqc/"
+}

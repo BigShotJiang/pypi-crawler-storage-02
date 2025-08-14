@@ -1,0 +1,11 @@
+{
+  "name": "kickscore",
+  "version": "0.2.0",
+  "summary": "A dynamic skill rating system.",
+  "author": "Lucas Maystre",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kickscore-0.2.0.tar.gz",
+  "download_time": "2025-08-14T14:53:09.118656",
+  "package_url": "https://pypi.org/project/kickscore/"
+}

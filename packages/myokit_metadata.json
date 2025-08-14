@@ -1,0 +1,11 @@
+{
+  "name": "myokit",
+  "version": "1.38.0",
+  "summary": "A modeling and simulation tool for cardiac cellular electrophysiology",
+  "author": "Michael Clerx",
+  "license": "BSD 3-clause license",
+  "home_page": "http://myokit.org",
+  "download_filename": "myokit-1.38.0.tar.gz",
+  "download_time": "2025-08-14T14:53:12.819866",
+  "package_url": "https://pypi.org/project/myokit/"
+}

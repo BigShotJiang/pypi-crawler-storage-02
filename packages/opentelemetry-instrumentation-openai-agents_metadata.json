@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-openai-agents",
-  "version": "0.45.1",
+  "version": "0.45.3",
   "summary": "OpenTelemetry OpenAI Agents instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_openai_agents-0.45.1-py3-none-any.whl",
-  "download_time": "2025-08-13T17:56:05.697873",
+  "download_filename": "opentelemetry_instrumentation_openai_agents-0.45.3.tar.gz",
+  "download_time": "2025-08-14T14:52:54.180078",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-openai-agents/"
 }

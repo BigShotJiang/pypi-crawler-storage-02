@@ -1,0 +1,11 @@
+{
+  "name": "ormysql",
+  "version": "0.1.1",
+  "summary": "MySQL ORM",
+  "author": "Vsevolod Krasovskyi",
+  "license": "MIT",
+  "home_page": "https://github.com/VsevolodKrasovskyi/mysql-orm-lite",
+  "download_filename": "ormysql-0.1.1.tar.gz",
+  "download_time": "2025-08-14T14:52:44.882607",
+  "package_url": "https://pypi.org/project/ormysql/"
+}
