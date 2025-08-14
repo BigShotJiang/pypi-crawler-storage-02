@@ -1,11 +1,11 @@
 {
   "name": "peg-this",
-  "version": "3.0.0",
-  "summary": "A powerful tool for converting, manipulating, and inspecting media files using FFmpeg.",
+  "version": "3.0.1",
+  "summary": "A powerful, intuitive command-line video editor suite, built on FFmpeg.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peg_this-3.0.0.tar.gz",
-  "download_time": "2025-08-14T09:03:09.856524",
+  "download_filename": "peg_this-3.0.1.tar.gz",
+  "download_time": "2025-08-14T15:30:02.322553",
   "package_url": "https://pypi.org/project/peg-this/"
 }

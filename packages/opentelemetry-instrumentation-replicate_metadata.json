@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-replicate",
-  "version": "0.45.3",
+  "version": "0.45.4",
   "summary": "OpenTelemetry Replicate instrumentation",
   "author": "Kartik Prajapati",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_replicate-0.45.3.tar.gz",
-  "download_time": "2025-08-14T14:52:52.637838",
+  "download_filename": "opentelemetry_instrumentation_replicate-0.45.4.tar.gz",
+  "download_time": "2025-08-14T15:29:38.268546",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-replicate/"
 }

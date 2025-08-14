@@ -1,0 +1,11 @@
+{
+  "name": "burp-frame",
+  "version": "1.0.0",
+  "summary": "A unified Android penetration testing framework with certificate installation, proxy configuration, Frida instrumentation, and universal bypasses.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "burp_frame-1.0.0.tar.gz",
+  "download_time": "2025-08-14T15:29:19.282454",
+  "package_url": "https://pypi.org/project/burp-frame/"
+}

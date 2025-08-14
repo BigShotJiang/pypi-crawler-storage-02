@@ -1,11 +1,11 @@
 {
   "name": "ib-data-sdk",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Interactive Brokers Data SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ib_data_sdk-0.1.6.tar.gz",
-  "download_time": "2025-08-14T14:52:45.396648",
+  "download_filename": "ib_data_sdk-0.1.8.tar.gz",
+  "download_time": "2025-08-14T15:30:07.836765",
   "package_url": "https://pypi.org/project/ib-data-sdk/"
 }

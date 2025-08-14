@@ -1,0 +1,11 @@
+{
+  "name": "mano-datahub-mcp",
+  "version": "0.0.3",
+  "summary": "A Model Context Protocol (MCP) server for DataHub",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mano_datahub_mcp-0.0.3.tar.gz",
+  "download_time": "2025-08-14T15:30:13.301681",
+  "package_url": "https://pypi.org/project/mano-datahub-mcp/"
+}

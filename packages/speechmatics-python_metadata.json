@@ -1,0 +1,11 @@
+{
+  "name": "speechmatics-python",
+  "version": "5.0.0",
+  "summary": "Python library and CLI for Speechmatics",
+  "author": "Speechmatics",
+  "license": "MIT",
+  "home_page": "https://github.com/speechmatics/speechmatics-python/",
+  "download_filename": "speechmatics_python-5.0.0.tar.gz",
+  "download_time": "2025-08-14T15:29:59.484765",
+  "package_url": "https://pypi.org/project/speechmatics-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "embetter",
+  "version": "0.8.0",
+  "summary": "Just a bunch of useful embeddings to get started quickly.",
+  "author": "Vincent D. Warmerdam",
+  "license": null,
+  "home_page": "https://koaning.github.io/embetter/",
+  "download_filename": "embetter-0.8.0.tar.gz",
+  "download_time": "2025-08-14T15:30:01.750728",
+  "package_url": "https://pypi.org/project/embetter/"
+}

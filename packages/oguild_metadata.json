@@ -1,0 +1,11 @@
+{
+  "name": "oguild",
+  "version": "0.1.1",
+  "summary": "OGuild utilities — reusable logging and helpers for Python projects",
+  "author": "Hordunlarmy",
+  "license": "MIT",
+  "home_page": "https://github.com/OGuild/guildpack",
+  "download_filename": "oguild-0.1.1.tar.gz",
+  "download_time": "2025-08-14T15:29:30.162769",
+  "package_url": "https://pypi.org/project/oguild/"
+}
