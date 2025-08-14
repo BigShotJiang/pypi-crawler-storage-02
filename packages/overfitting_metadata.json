@@ -1,11 +1,11 @@
 {
   "name": "overfitting",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Robust Futures CryptoCurrency Backtesting Library.",
   "author": "Dohyun Kim",
   "license": "MIT",
   "home_page": "https://github.com/dohyunkjuly/overfitting",
-  "download_filename": "overfitting-0.1.1.tar.gz",
-  "download_time": "2025-08-12T05:01:52.719262",
+  "download_filename": "overfitting-0.1.2.tar.gz",
+  "download_time": "2025-08-14T04:08:24.120089",
   "package_url": "https://pypi.org/project/overfitting/"
 }

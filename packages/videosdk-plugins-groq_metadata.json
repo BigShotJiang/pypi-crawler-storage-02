@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-groq",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "summary": "VideoSDK Agent Framework plugin for Groq TTS services",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_groq-0.0.23.tar.gz",
-  "download_time": "2025-08-12T13:59:48.609128",
+  "download_filename": "videosdk_plugins_groq-0.0.24.tar.gz",
+  "download_time": "2025-08-14T04:08:14.818791",
   "package_url": "https://pypi.org/project/videosdk-plugins-groq/"
 }

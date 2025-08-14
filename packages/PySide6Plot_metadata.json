@@ -1,0 +1,11 @@
+{
+  "name": "PySide6Plot",
+  "version": "0.0.3",
+  "summary": "Scientific/Financial plot utilities with PySide6+pyqtgraph.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyside6plot-0.0.3.tar.gz",
+  "download_time": "2025-08-14T04:08:47.893482",
+  "package_url": "https://pypi.org/project/PySide6Plot/"
+}

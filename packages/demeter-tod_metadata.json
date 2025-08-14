@@ -1,0 +1,11 @@
+{
+  "name": "demeter-tod",
+  "version": "2.0",
+  "summary": "A simple but powerful Flask application for receiving, logging, and monitoring webhooks. Built for developers who need to debug and test webhook integrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "demeter_tod-2.0.tar.gz",
+  "download_time": "2025-08-14T04:08:11.241864",
+  "package_url": "https://pypi.org/project/demeter-tod/"
+}

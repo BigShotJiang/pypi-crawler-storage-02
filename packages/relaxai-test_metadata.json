@@ -1,11 +1,11 @@
 {
   "name": "relaxai-test",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "The official Python library for the relaxai API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "relaxai_test-0.7.0.tar.gz",
-  "download_time": "2025-08-13T12:53:28.536038",
+  "download_filename": "relaxai_test-0.8.0.tar.gz",
+  "download_time": "2025-08-14T04:08:27.251992",
   "package_url": "https://pypi.org/project/relaxai-test/"
 }
