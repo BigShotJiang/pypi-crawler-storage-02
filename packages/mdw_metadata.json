@@ -1,0 +1,11 @@
+{
+  "name": "mdw",
+  "version": "1.1.1.4.2025.8.14.9.15",
+  "summary": "High Energy Photon Source Big Data Pipe Network",
+  "author": "zhangchenglong",
+  "license": "Mozilla Public License 2.0",
+  "home_page": null,
+  "download_filename": "mdw-1.1.1.4.2025.8.14.9.15-cp36-cp36m-manylinux1_x86_64.whl",
+  "download_time": "2025-08-14T01:58:48.196898",
+  "package_url": "https://pypi.org/project/mdw/"
+}

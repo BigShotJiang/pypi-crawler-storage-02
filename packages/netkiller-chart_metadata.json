@@ -1,11 +1,11 @@
 {
   "name": "netkiller-chart",
-  "version": "0.2.0",
-  "summary": "Netkiller Chart",
+  "version": "0.2.1",
+  "summary": "Netkiller Chart(Mindmap,Gantt,Xmind)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netkiller_chart-0.2.0.tar.gz",
-  "download_time": "2025-08-12T07:32:04.012734",
+  "download_filename": "netkiller_chart-0.2.1.tar.gz",
+  "download_time": "2025-08-14T01:59:09.024159",
   "package_url": "https://pypi.org/project/netkiller-chart/"
 }

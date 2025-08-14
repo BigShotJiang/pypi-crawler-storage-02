@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-captools",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_captools",
+  "download_filename": "bytedance_captools-0.0.1.tar.gz",
+  "download_time": "2025-08-14T01:58:57.855736",
+  "package_url": "https://pypi.org/project/bytedance-captools/"
+}

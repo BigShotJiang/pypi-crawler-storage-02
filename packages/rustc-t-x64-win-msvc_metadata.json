@@ -1,0 +1,11 @@
+{
+  "name": "rustc-t-x64-win-msvc",
+  "version": "1.91.0.post8",
+  "summary": "Segment rustc-dev.target.x86_64-pc-windows-msvc part p8",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustc_t_x64_win_msvc-1.91.0.post8-py3-none-any.whl",
+  "download_time": "2025-08-14T01:58:55.080067",
+  "package_url": "https://pypi.org/project/rustc-t-x64-win-msvc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphite-math",
+  "version": "0.1.10",
+  "summary": "Math OCR that generates LaTeX from handwritten math",
+  "author": "Arjun Palakkal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphite_math-0.1.10.tar.gz",
+  "download_time": "2025-08-14T01:59:04.968871",
+  "package_url": "https://pypi.org/project/graphite-math/"
+}
