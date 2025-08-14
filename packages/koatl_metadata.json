@@ -1,11 +1,11 @@
 {
   "name": "koatl",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "koatl-0.1.35.tar.gz",
-  "download_time": "2025-08-14T05:03:37.342943",
+  "download_filename": "koatl-0.1.36.tar.gz",
+  "download_time": "2025-08-14T05:57:07.834846",
   "package_url": "https://pypi.org/project/koatl/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "niteco.opal-rest-tool",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "OPAL REST Tool Service - Automatically generates tools from OpenAPI 3.x specifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niteco_opal_rest_tool-0.1.1.tar.gz",
-  "download_time": "2025-08-13T17:44:14.736275",
+  "download_filename": "niteco_opal_rest_tool-0.1.3.tar.gz",
+  "download_time": "2025-08-14T05:57:09.383830",
   "package_url": "https://pypi.org/project/niteco.opal-rest-tool/"
 }
