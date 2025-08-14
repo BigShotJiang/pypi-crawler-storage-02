@@ -1,0 +1,11 @@
+{
+  "name": "helicone-async",
+  "version": "1.1.1",
+  "summary": "A Python wrapper for logging llm traces directly to Helicone, by passing the proxy, with OpenLLMetry.",
+  "author": "Helicone, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "helicone_async-1.1.1.tar.gz",
+  "download_time": "2025-08-14T19:03:25.921254",
+  "package_url": "https://pypi.org/project/helicone-async/"
+}

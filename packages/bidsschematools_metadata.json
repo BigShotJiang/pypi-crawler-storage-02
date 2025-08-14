@@ -1,11 +1,11 @@
 {
   "name": "bidsschematools",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Python tools for working with the BIDS schema.",
   "author": "bids-standard developers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bidsschematools-1.0.13.tar.gz",
-  "download_time": "2025-08-07T20:57:34.757545",
+  "download_filename": "bidsschematools-1.0.14.tar.gz",
+  "download_time": "2025-08-14T19:03:55.930316",
   "package_url": "https://pypi.org/project/bidsschematools/"
 }

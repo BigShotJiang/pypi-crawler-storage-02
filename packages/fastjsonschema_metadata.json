@@ -1,0 +1,11 @@
+{
+  "name": "fastjsonschema",
+  "version": "2.21.2",
+  "summary": "Fastest Python implementation of JSON schema",
+  "author": "Michal Horejsek",
+  "license": "BSD",
+  "home_page": "https://github.com/horejsek/python-fastjsonschema",
+  "download_filename": "fastjsonschema-2.21.2.tar.gz",
+  "download_time": "2025-08-14T19:03:38.383619",
+  "package_url": "https://pypi.org/project/fastjsonschema/"
+}

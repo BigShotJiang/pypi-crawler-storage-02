@@ -1,0 +1,11 @@
+{
+  "name": "otlp-psqlpy",
+  "version": "0.2.0",
+  "summary": null,
+  "author": "chandr-andr (Kiselev Aleksandr)",
+  "license": "LICENSE",
+  "home_page": "https://github.com/psqlpy-python",
+  "download_filename": "otlp_psqlpy-0.2.0.tar.gz",
+  "download_time": "2025-08-14T19:04:01.088673",
+  "package_url": "https://pypi.org/project/otlp-psqlpy/"
+}

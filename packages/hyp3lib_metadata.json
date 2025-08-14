@@ -1,0 +1,11 @@
+{
+  "name": "hyp3lib",
+  "version": "4.0.1",
+  "summary": "Common library for HyP3 plugins",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "hyp3lib-4.0.1.tar.gz",
+  "download_time": "2025-08-14T19:03:44.479651",
+  "package_url": "https://pypi.org/project/hyp3lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sentry-forked-djangorestframework-stubs",
+  "version": "3.16.2.post1",
+  "summary": "PEP-484 stubs for django-rest-framework",
+  "author": "Maksim Kurnikov",
+  "license": "MIT",
+  "home_page": "https://github.com/typeddjango/djangorestframework-stubs",
+  "download_filename": "sentry_forked_djangorestframework_stubs-3.16.2.post1.tar.gz",
+  "download_time": "2025-08-14T19:03:50.782941",
+  "package_url": "https://pypi.org/project/sentry-forked-djangorestframework-stubs/"
+}

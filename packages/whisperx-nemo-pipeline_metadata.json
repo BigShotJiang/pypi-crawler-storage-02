@@ -1,0 +1,11 @@
+{
+  "name": "whisperx-nemo-pipeline",
+  "version": "1.0.0",
+  "summary": "Production-ready transcription and diarization pipeline with parallel processing",
+  "author": "Paul Borie",
+  "license": null,
+  "home_page": "https://github.com/PaulBorie/whisperx-nemo-parallel",
+  "download_filename": "whisperx_nemo_pipeline-1.0.0.tar.gz",
+  "download_time": "2025-08-14T19:03:23.528250",
+  "package_url": "https://pypi.org/project/whisperx-nemo-pipeline/"
+}

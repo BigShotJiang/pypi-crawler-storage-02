@@ -1,0 +1,11 @@
+{
+  "name": "weiser-ai",
+  "version": "0.2.2",
+  "summary": "Enterprise-grade data quality framework with YAML configuration, LLM-friendly design, and advanced statistical validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weiser_ai-0.2.2.tar.gz",
+  "download_time": "2025-08-14T19:03:47.567345",
+  "package_url": "https://pypi.org/project/weiser-ai/"
+}

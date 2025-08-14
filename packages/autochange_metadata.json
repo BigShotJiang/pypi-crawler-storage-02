@@ -1,0 +1,11 @@
+{
+  "name": "autochange",
+  "version": "0.1.0",
+  "summary": "Lightweight semantic version + changelog manager",
+  "author": "MJ Anglin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autochange-0.1.0.tar.gz",
+  "download_time": "2025-08-14T19:04:00.066698",
+  "package_url": "https://pypi.org/project/autochange/"
+}
