@@ -1,0 +1,11 @@
+{
+  "name": "pyfaidx",
+  "version": "0.8.2",
+  "summary": "pyfaidx: efficient pythonic random access to fasta subsequences",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyfaidx-0.8.2.tar.gz",
+  "download_time": "2025-08-15T04:09:37.464657",
+  "package_url": "https://pypi.org/project/pyfaidx/"
+}

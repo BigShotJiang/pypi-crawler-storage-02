@@ -1,0 +1,11 @@
+{
+  "name": "micropie",
+  "version": "0.20",
+  "summary": "An ultra micro ASGI web framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "micropie-0.20.tar.gz",
+  "download_time": "2025-08-15T04:09:12.154550",
+  "package_url": "https://pypi.org/project/micropie/"
+}

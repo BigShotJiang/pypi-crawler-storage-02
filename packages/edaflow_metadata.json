@@ -1,11 +1,11 @@
 {
   "name": "edaflow",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "A Python package for exploratory data analysis workflows with universal dark mode compatibility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edaflow-0.15.0.tar.gz",
-  "download_time": "2025-08-13T08:35:44.821347",
+  "download_filename": "edaflow-0.15.1.tar.gz",
+  "download_time": "2025-08-15T04:09:33.859994",
   "package_url": "https://pypi.org/project/edaflow/"
 }

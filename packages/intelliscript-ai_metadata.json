@@ -1,0 +1,11 @@
+{
+  "name": "intelliscript-ai",
+  "version": "2.1.0",
+  "summary": "World's first AI CLI tool with Google LangExtract integration for command generation and data analysis",
+  "author": "IntelliScript Team",
+  "license": null,
+  "home_page": "https://github.com/hongping-zh/intelliscript",
+  "download_filename": "intelliscript_ai-2.1.0.tar.gz",
+  "download_time": "2025-08-15T04:09:34.377702",
+  "package_url": "https://pypi.org/project/intelliscript-ai/"
+}

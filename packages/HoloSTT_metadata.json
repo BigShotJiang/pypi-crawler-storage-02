@@ -1,11 +1,11 @@
 {
   "name": "HoloSTT",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Modern Speech Recognition with both active and ambient listening and keyboard",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "holostt-0.1.3.tar.gz",
-  "download_time": "2025-08-15T03:27:54.269475",
+  "download_filename": "holostt-0.1.5.tar.gz",
+  "download_time": "2025-08-15T04:09:13.179312",
   "package_url": "https://pypi.org/project/HoloSTT/"
 }

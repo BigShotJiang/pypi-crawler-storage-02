@@ -1,11 +1,11 @@
 {
   "name": "idtap",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Python client library for IDTAP - Interactive Digital Transcription and Analysis Platform for Hindustani music",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "idtap-0.1.8.tar.gz",
-  "download_time": "2025-08-12T22:25:08.700126",
+  "download_filename": "idtap-0.1.10.tar.gz",
+  "download_time": "2025-08-15T04:09:21.983428",
   "package_url": "https://pypi.org/project/idtap/"
 }

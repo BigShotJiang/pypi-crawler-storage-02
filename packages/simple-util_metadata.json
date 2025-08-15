@@ -1,0 +1,11 @@
+{
+  "name": "simple-util",
+  "version": "0.3.23",
+  "summary": "封装了一些日常用的函数",
+  "author": "Johnliu",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/simple-util/",
+  "download_filename": "simple_util-0.3.23.tar.gz",
+  "download_time": "2025-08-15T04:09:18.909253",
+  "package_url": "https://pypi.org/project/simple-util/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "file-conversor",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Universal file conversor for multimedia files (audio, video, pdf, docs, etc)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "file_conversor-0.3.3.tar.gz",
-  "download_time": "2025-08-14T18:39:20.159849",
+  "download_filename": "file_conversor-0.3.4.tar.gz",
+  "download_time": "2025-08-15T04:09:24.559852",
   "package_url": "https://pypi.org/project/file-conversor/"
 }
