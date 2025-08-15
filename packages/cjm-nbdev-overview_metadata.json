@@ -1,11 +1,11 @@
 {
   "name": "cjm-nbdev-overview",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Automated documentation and visualization tools for nbdev projects.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-nbdev-overview",
-  "download_filename": "cjm_nbdev_overview-0.0.14.tar.gz",
-  "download_time": "2025-08-13T22:47:00.211272",
+  "download_filename": "cjm_nbdev_overview-0.0.15.tar.gz",
+  "download_time": "2025-08-15T03:28:25.057414",
   "package_url": "https://pypi.org/project/cjm-nbdev-overview/"
 }

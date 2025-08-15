@@ -1,0 +1,11 @@
+{
+  "name": "FLAML",
+  "version": "2.3.6",
+  "summary": "A fast library for automated machine learning and tuning",
+  "author": "Microsoft Corporation",
+  "license": null,
+  "home_page": "https://github.com/microsoft/FLAML",
+  "download_filename": "FLAML-2.3.6.tar.gz",
+  "download_time": "2025-08-15T03:28:33.374359",
+  "package_url": "https://pypi.org/project/FLAML/"
+}

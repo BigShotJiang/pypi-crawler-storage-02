@@ -1,11 +1,11 @@
 {
   "name": "truenas-mcp-server",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "Production-ready MCP server for TrueNAS Core - Control your NAS through natural language",
   "author": "Vinnie Espo",
   "license": "MIT",
   "home_page": "https://github.com/vespo92/TrueNasCoreMCP",
-  "download_filename": "truenas_mcp_server-3.0.0.tar.gz",
-  "download_time": "2025-08-14T04:08:34.518926",
+  "download_filename": "truenas_mcp_server-3.0.2.tar.gz",
+  "download_time": "2025-08-15T03:28:31.815112",
   "package_url": "https://pypi.org/project/truenas-mcp-server/"
 }

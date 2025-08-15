@@ -1,0 +1,11 @@
+{
+  "name": "philote-mdo",
+  "version": "0.7.0",
+  "summary": "Python bindings that implement the Philote-MDO standard.",
+  "author": "Christopher Lupp",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "philote_mdo-0.7.0.tar.gz",
+  "download_time": "2025-08-15T03:28:22.439662",
+  "package_url": "https://pypi.org/project/philote-mdo/"
+}

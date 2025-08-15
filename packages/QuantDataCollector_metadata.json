@@ -1,0 +1,11 @@
+{
+  "name": "QuantDataCollector",
+  "version": "2.0.13",
+  "summary": "为量化项目提供稳定且统一的数据接口",
+  "author": "TX",
+  "license": "MIT",
+  "home_page": "https://github.com/QuantitativeInvestment/QuantDataCollector",
+  "download_filename": "quantdatacollector-2.0.13.tar.gz",
+  "download_time": "2025-08-15T03:27:52.188482",
+  "package_url": "https://pypi.org/project/QuantDataCollector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libquery",
+  "version": "0.1.2",
+  "summary": "A Python package for querying digital libraries and archives",
+  "author": "Yu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libquery-0.1.2.tar.gz",
+  "download_time": "2025-08-15T03:27:55.845113",
+  "package_url": "https://pypi.org/project/libquery/"
+}

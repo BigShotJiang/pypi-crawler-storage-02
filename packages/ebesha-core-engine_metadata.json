@@ -1,11 +1,11 @@
 {
   "name": "ebesha-core-engine",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Modular core engine for Python microservices",
   "author": null,
   "license": "LMD",
   "home_page": null,
-  "download_filename": "ebesha_core_engine-0.1.2.tar.gz",
-  "download_time": "2025-08-07T07:29:44.202817",
+  "download_filename": "ebesha_core_engine-0.1.3.tar.gz",
+  "download_time": "2025-08-15T03:28:35.975703",
   "package_url": "https://pypi.org/project/ebesha-core-engine/"
 }

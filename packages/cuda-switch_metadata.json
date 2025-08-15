@@ -1,0 +1,11 @@
+{
+  "name": "cuda-switch",
+  "version": "1.0.0",
+  "summary": "A tool for managing multiple CUDA versions on macOS",
+  "author": "Jason Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/cuda-switch",
+  "download_filename": "cuda_switch-1.0.0.tar.gz",
+  "download_time": "2025-08-15T03:28:23.490317",
+  "package_url": "https://pypi.org/project/cuda-switch/"
+}

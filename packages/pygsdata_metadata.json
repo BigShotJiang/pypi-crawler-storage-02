@@ -1,11 +1,11 @@
 {
   "name": "pygsdata",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Python interface for 21cm Global Signal Data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygsdata-0.2.2.tar.gz",
-  "download_time": "2025-08-13T19:56:03.208701",
+  "download_filename": "pygsdata-0.2.3.tar.gz",
+  "download_time": "2025-08-15T03:28:32.852009",
   "package_url": "https://pypi.org/project/pygsdata/"
 }
