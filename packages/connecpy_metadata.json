@@ -1,11 +1,11 @@
 {
   "name": "connecpy",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Code generator, server library and client library for the Connect Protocol",
   "author": "Connecpy authors",
   "license": null,
   "home_page": null,
-  "download_filename": "connecpy-2.1.0.tar.gz",
-  "download_time": "2025-08-15T03:28:18.280501",
+  "download_filename": "connecpy-2.2.0.tar.gz",
+  "download_time": "2025-08-15T04:48:36.779322",
   "package_url": "https://pypi.org/project/connecpy/"
 }

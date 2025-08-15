@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-orchestrator",
+  "version": "0.1.7",
+  "summary": "AgentMesh - Multi-Agent Orchestration Platform",
+  "author": "Development Team",
+  "license": null,
+  "home_page": "https://github.com/akhilthomas236/agentmesh",
+  "download_filename": "agentmesh_orchestrator-0.1.7.tar.gz",
+  "download_time": "2025-08-15T04:48:38.328319",
+  "package_url": "https://pypi.org/project/agentmesh-orchestrator/"
+}

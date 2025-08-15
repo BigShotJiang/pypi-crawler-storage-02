@@ -1,0 +1,11 @@
+{
+  "name": "rlupat.toyrobot",
+  "version": "0.2.3",
+  "summary": "ToyRobot Example Implementation",
+  "author": "Richard Lupat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlupat_toyrobot-0.2.3.tar.gz",
+  "download_time": "2025-08-15T04:48:47.124936",
+  "package_url": "https://pypi.org/project/rlupat.toyrobot/"
+}

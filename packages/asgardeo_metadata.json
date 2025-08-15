@@ -1,0 +1,11 @@
+{
+  "name": "asgardeo",
+  "version": "0.2.0",
+  "summary": "Python SDK for Asgardeo",
+  "author": "Thilina Senarath",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asgardeo-0.2.0.tar.gz",
+  "download_time": "2025-08-15T04:48:51.316689",
+  "package_url": "https://pypi.org/project/asgardeo/"
+}
