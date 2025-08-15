@@ -1,11 +1,11 @@
 {
   "name": "hypothesis",
-  "version": "6.138.0",
+  "version": "6.138.1",
   "summary": "A library for property-based testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypothesis-6.138.0.tar.gz",
-  "download_time": "2025-08-13T01:57:57.998983",
+  "download_filename": "hypothesis-6.138.1.tar.gz",
+  "download_time": "2025-08-15T05:35:58.727508",
   "package_url": "https://pypi.org/project/hypothesis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edmine",
+  "version": "1.0.0",
+  "summary": "A library of algorithms for reproducing Knowledge Tracing, Cognitive Diagnosis, Exercise Recommendation and Learning Path Recommendation models.",
+  "author": "ZhijieXiong",
+  "license": "MIT",
+  "home_page": "https://zhijiexiong.github.io/sub-page/pyedmine/document/site/index.html",
+  "download_filename": "edmine-1.0.0.tar.gz",
+  "download_time": "2025-08-15T05:36:00.892990",
+  "package_url": "https://pypi.org/project/edmine/"
+}

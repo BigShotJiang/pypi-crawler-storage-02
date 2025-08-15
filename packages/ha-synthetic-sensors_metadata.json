@@ -1,11 +1,11 @@
 {
   "name": "ha-synthetic-sensors",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "summary": "A Home Assistant package for creating synthetic sensors from YAML configuration with mathematical formulas",
   "author": "Bill Flood",
   "license": null,
   "home_page": null,
-  "download_filename": "ha_synthetic_sensors-1.1.10.tar.gz",
-  "download_time": "2025-08-15T04:09:29.191594",
+  "download_filename": "ha_synthetic_sensors-1.1.11.tar.gz",
+  "download_time": "2025-08-15T05:35:32.128810",
   "package_url": "https://pypi.org/project/ha-synthetic-sensors/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bonaparte",
+  "version": "1.0.0",
+  "summary": "Library to control Napoleon eFIRE enabled fireplaces",
+  "author": "Felix Kaechele",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bonaparte-1.0.0.tar.gz",
+  "download_time": "2025-08-15T05:36:01.964145",
+  "package_url": "https://pypi.org/project/bonaparte/"
+}

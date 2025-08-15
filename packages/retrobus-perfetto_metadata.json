@@ -1,0 +1,11 @@
+{
+  "name": "retrobus-perfetto",
+  "version": "0.1.0",
+  "summary": "A minimal Perfetto trace generation library for retrocomputer emulators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retrobus_perfetto-0.1.0.tar.gz",
+  "download_time": "2025-08-15T05:35:23.926112",
+  "package_url": "https://pypi.org/project/retrobus-perfetto/"
+}

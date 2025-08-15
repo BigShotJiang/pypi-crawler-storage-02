@@ -1,0 +1,11 @@
+{
+  "name": "montycat",
+  "version": "0.1.43",
+  "summary": "A Python client for MontyCat, NoSQL store utilizing Data Mesh architecture.",
+  "author": "MontyGovernance",
+  "license": null,
+  "home_page": null,
+  "download_filename": "montycat-0.1.43.tar.gz",
+  "download_time": "2025-08-15T05:35:58.176187",
+  "package_url": "https://pypi.org/project/montycat/"
+}

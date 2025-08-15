@@ -1,11 +1,11 @@
 {
   "name": "cucll-learn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "One-shot data exploration & cleaning toolkit",
   "author": "Penuel John, CUCLL",
   "license": "MIT",
   "home_page": "https://github.com/johnpenuel03/cucll-learn",
-  "download_filename": "cucll_learn-0.1.0.tar.gz",
-  "download_time": "2025-08-14T19:03:27.093609",
+  "download_filename": "cucll_learn-0.1.1.tar.gz",
+  "download_time": "2025-08-15T05:35:26.630346",
   "package_url": "https://pypi.org/project/cucll-learn/"
 }
