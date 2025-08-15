@@ -1,0 +1,11 @@
+{
+  "name": "probkit",
+  "version": "0.1.1.dev1",
+  "summary": "Toolkit for modifying probabilities and shaping curves.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "probkit-0.1.1.dev1.tar.gz",
+  "download_time": "2025-08-15T01:59:44.097113",
+  "package_url": "https://pypi.org/project/probkit/"
+}

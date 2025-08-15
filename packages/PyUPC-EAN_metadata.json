@@ -1,0 +1,11 @@
+{
+  "name": "PyUPC-EAN",
+  "version": "2.20.10",
+  "summary": "A barcode library/module for python.",
+  "author": "Kazuki Przyborowski",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/GameMaker2k/PyUPC-EAN",
+  "download_filename": "pyupc_ean-2.20.10.tar.gz",
+  "download_time": "2025-08-15T02:00:25.342142",
+  "package_url": "https://pypi.org/project/PyUPC-EAN/"
+}

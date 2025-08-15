@@ -1,11 +1,11 @@
 {
   "name": "zdocker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "It is the build system of linux",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "zdocker-1.0.4.tar.gz",
-  "download_time": "2025-08-13T01:57:55.866812",
+  "download_filename": "zdocker-1.0.5.tar.gz",
+  "download_time": "2025-08-15T02:00:03.101604",
   "package_url": "https://pypi.org/project/zdocker/"
 }

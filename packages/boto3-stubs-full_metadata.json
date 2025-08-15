@@ -1,11 +1,11 @@
 {
   "name": "boto3-stubs-full",
-  "version": "1.40.9",
-  "summary": "All-in-one type annotations for boto3 1.40.9 generated with mypy-boto3-builder 8.11.0",
+  "version": "1.40.10",
+  "summary": "All-in-one type annotations for boto3 1.40.10 generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "boto3_stubs_full-1.40.9.tar.gz",
-  "download_time": "2025-08-14T01:59:08.463572",
+  "download_filename": "boto3_stubs_full-1.40.10.tar.gz",
+  "download_time": "2025-08-15T02:00:29.752927",
   "package_url": "https://pypi.org/project/boto3-stubs-full/"
 }

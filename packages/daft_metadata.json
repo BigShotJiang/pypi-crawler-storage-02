@@ -1,11 +1,11 @@
 {
   "name": "daft",
-  "version": "0.5.18",
+  "version": "0.5.19",
   "summary": "Distributed Dataframes for Multimodal Data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daft-0.5.18.tar.gz",
-  "download_time": "2025-08-08T10:34:28.542258",
+  "download_filename": "daft-0.5.19.tar.gz",
+  "download_time": "2025-08-15T02:00:01.458802",
   "package_url": "https://pypi.org/project/daft/"
 }

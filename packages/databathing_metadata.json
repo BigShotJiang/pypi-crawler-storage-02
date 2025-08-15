@@ -1,11 +1,11 @@
 {
   "name": "databathing",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Convert SQL queries to PySpark DataFrame operations",
-  "author": "Jiazhen Zhu",
+  "author": "Jiazhen Zhu, Sanhe Hu",
   "license": "MIT",
   "home_page": "https://github.com/jason-jz-zhu/databathing",
-  "download_filename": "databathing-0.3.2.tar.gz",
-  "download_time": "2025-08-09T20:45:27.653210",
+  "download_filename": "databathing-0.4.0.tar.gz",
+  "download_time": "2025-08-15T02:00:22.055764",
   "package_url": "https://pypi.org/project/databathing/"
 }

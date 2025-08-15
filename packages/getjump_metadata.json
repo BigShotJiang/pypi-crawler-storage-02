@@ -1,0 +1,11 @@
+{
+  "name": "getjump",
+  "version": "2.8.0",
+  "summary": "Get and save images from jump web viewer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "getjump-2.8.0.tar.gz",
+  "download_time": "2025-08-15T01:59:42.418387",
+  "package_url": "https://pypi.org/project/getjump/"
+}

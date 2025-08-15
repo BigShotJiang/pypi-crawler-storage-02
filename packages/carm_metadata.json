@@ -1,11 +1,11 @@
 {
   "name": "carm",
-  "version": "0.0.20250812",
+  "version": "0.0.20250815",
   "summary": "Python interface for cvte arm.",
-  "author": "Yong Zhao",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carm-0.0.20250812.tar.gz",
-  "download_time": "2025-08-12T01:55:25.804469",
+  "download_filename": "carm-0.0.20250815.tar.gz",
+  "download_time": "2025-08-15T01:59:57.275358",
   "package_url": "https://pypi.org/project/carm/"
 }
